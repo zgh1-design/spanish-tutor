@@ -1,0 +1,461 @@
+/* ─────────────────────────────────────────────────────────────────
+   Spanish Word Tutor — styles
+   Mobile-first, no framework. Designed to feel native on iOS Safari
+   and look good on a desktop browser. CSS variables make it easy to
+   tweak colors in one place.
+   ───────────────────────────────────────────────────────────────── */
+
+:root {
+  --bg:        #FDFAF5;
+  --header:    #1B4332;
+  --accent:    #C62828;
+  --text:      #1A1A1A;
+  --subtext:   #777;
+  --card:      #FFF;
+  --border:    #E0D5C5;
+  --again:     #E53935;
+  --hard:      #FB8C00;
+  --good:      #2E7D32;
+  --easy:      #1565C0;
+  --shadow:    0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.45;
+  /* Account for iOS safe areas (notch, home indicator) */
+  padding-top:    env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+button { font-family: inherit; font-size: inherit; cursor: pointer; }
+input  { font-family: inherit; font-size: inherit; }
+
+/* ── Screen container — only one shown at a time ───────────────── */
+.screen {
+  max-width: 640px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Banner header (Home, Session Complete) ────────────────────── */
+.banner {
+  background: var(--header);
+  color: white;
+  padding: 28px 20px 22px;
+  text-align: center;
+}
+.banner h1 { margin: 0 0 4px; font-size: 26px; font-weight: 700; }
+.banner p  { margin: 0; font-size: 13px; color: #A8D5BA; }
+.banner-success { background: var(--good); }
+.banner-success h1 { font-size: 26px; }
+
+/* ── Top bar (Study, Browse) ───────────────────────────────────── */
+.topbar {
+  background: var(--header);
+  color: white;
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.topbar-btn {
+  background: transparent;
+  border: 0;
+  color: white;
+  font-size: 14px;
+  padding: 6px 4px;
+}
+.topbar-title  { font-size: 14px; font-weight: 600; }
+.topbar-spacer { width: 60px; } /* keeps title centered */
+
+/* ── Progress bar ──────────────────────────────────────────────── */
+.progress-bar {
+  height: 5px;
+  background: var(--border);
+  overflow: hidden;
+}
+.progress-bar > div {
+  height: 100%;
+  background: var(--good);
+  width: 0;
+  transition: width 200ms ease;
+}
+
+/* ── Stats row (Home) ──────────────────────────────────────────── */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  padding: 18px 16px 6px;
+}
+.stat-box {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 6px 12px;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+.stat-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--header);
+  margin-bottom: 2px;
+}
+.stat-label { font-size: 11px; color: var(--subtext); }
+
+.breakdown {
+  text-align: center;
+  font-size: 12px;
+  color: var(--subtext);
+  padding: 0 16px;
+  margin: 4px 0 0;
+  line-height: 1.5;
+}
+
+/* ── Action buttons (Home) ─────────────────────────────────────── */
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+}
+
+.btn {
+  border: 0;
+  border-radius: 10px;
+  padding: 14px 18px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: filter 100ms ease, transform 80ms ease;
+  text-align: center;
+  color: white;
+}
+.btn:active   { transform: scale(0.98); filter: brightness(0.92); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.btn-primary   { background: var(--header); }
+.btn-accent    { background: var(--accent); }
+.btn-good      { background: var(--good); }
+.btn-secondary { background: var(--subtext); }
+.btn-ghost {
+  background: transparent;
+  color: var(--header);
+  border: 1px solid var(--header);
+  font-weight: 500;
+}
+.btn-narrow { padding: 10px 16px; font-size: 14px; }
+
+.empty-msg {
+  text-align: center;
+  color: var(--good);
+  font-size: 13px;
+  margin: 8px 0;
+  padding: 0 8px;
+  line-height: 1.5;
+}
+.empty-msg.warn { color: var(--accent); }
+
+.hint-text {
+  text-align: center;
+  font-size: 11px;
+  color: var(--subtext);
+  margin: 2px 0 0;
+}
+
+.tip {
+  background: #EFF8F1;
+  color: var(--header);
+  font-size: 13px;
+  padding: 12px 16px;
+  margin: 8px 16px;
+  border-radius: 10px;
+  line-height: 1.5;
+}
+
+.footer {
+  text-align: center;
+  font-size: 11px;
+  color: var(--subtext);
+  padding: 12px;
+  margin: 0;
+}
+
+/* ── Card (Study screen) ───────────────────────────────────────── */
+.card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px 24px;
+  align-items: center;
+}
+
+.card-category {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin: 6px 0 8px;
+}
+
+.card-image-wrap { width: 100%; max-width: 380px; }
+.card-image {
+  width: 100%;
+  aspect-ratio: 380 / 220;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 110px;
+  line-height: 1;
+  cursor: pointer;
+  background-size: cover;
+  background-position: center;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.card-image.revealed { cursor: default; }
+
+.link-btn {
+  background: transparent;
+  border: 0;
+  color: var(--subtext);
+  font-size: 12px;
+  text-decoration: underline;
+  margin: 4px 0 6px;
+  padding: 6px;
+}
+
+.answer-area {
+  text-align: center;
+  width: 100%;
+  min-height: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 4px;
+}
+.spanish-word {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--header);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 40px;
+}
+.spanish-word > span { cursor: pointer; }
+.spanish-word.revealed > span:hover { opacity: 0.8; }
+
+.speak-btn {
+  background: transparent;
+  border: 0;
+  font-size: 22px;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+.speak-btn:active { background: rgba(0,0,0,0.08); }
+.speak-btn.speaking { animation: pulse 700ms ease-in-out infinite; }
+@keyframes pulse {
+  0%,100% { transform: scale(1);   }
+  50%     { transform: scale(1.15); }
+}
+
+.english-translation {
+  font-size: 16px;
+  color: var(--subtext);
+  margin-top: 4px;
+  font-style: italic;
+}
+.english-translation.revealed {
+  font-style: normal;
+  color: var(--text);
+  font-size: 18px;
+}
+
+/* ── Card controls ─────────────────────────────────────────────── */
+.card-controls {
+  width: 100%;
+  max-width: 480px;
+  margin-top: 12px;
+}
+#btn-reveal {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+#btn-reveal[hidden] { display: none; }
+
+.rating-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+}
+
+.rating-btn {
+  border: 0;
+  border-radius: 10px;
+  padding: 12px 4px;
+  font-size: 13px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.1;
+  transition: filter 100ms ease, transform 80ms ease;
+}
+.rating-btn span {
+  font-size: 11px;
+  font-weight: 500;
+  opacity: 0.92;
+  margin-top: 2px;
+}
+.rating-btn:active { transform: scale(0.97); filter: brightness(0.85); }
+.rating-again { background: var(--again); }
+.rating-hard  { background: var(--hard);  }
+.rating-good  { background: var(--good);  }
+.rating-easy  { background: var(--easy);  }
+
+.seen-hint {
+  text-align: center;
+  font-size: 11px;
+  color: var(--subtext);
+  margin-top: 8px;
+}
+
+/* ── Done screen ───────────────────────────────────────────────── */
+.done-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 20px;
+  gap: 8px;
+}
+.done-pct   { font-size: 72px; font-weight: 700; color: var(--header); margin: 16px 0 4px; }
+.done-tally { font-size: 14px; margin: 0; }
+.done-msg   { font-size: 16px; color: var(--accent); margin: 12px 0; }
+.done-total { font-size: 12px; color: var(--subtext); margin: 0 0 24px; }
+
+/* ── Browse / vocabulary list ──────────────────────────────────── */
+.search-row { padding: 10px 16px; }
+.search-row input {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  background: white;
+}
+.vocab-list { padding: 0 8px 24px; }
+.vocab-cat-header {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 10px 8px 4px 8px;
+  margin-top: 6px;
+  border-radius: 6px;
+}
+.vocab-row {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin: 4px 0;
+  padding: 8px 12px;
+  display: grid;
+  grid-template-columns: 32px minmax(120px, 1fr) 2fr;
+  align-items: center;
+  gap: 10px;
+}
+.vocab-status  { font-size: 14px; }
+.vocab-spanish { font-weight: 700; color: var(--header); }
+.vocab-english { color: var(--text); font-size: 14px; }
+
+/* ── Modal (customize image) ───────────────────────────────────── */
+.modal-backdrop {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 100;
+  padding: 16px;
+}
+.modal-backdrop[hidden] { display: none !important; }
+
+.modal {
+  background: var(--bg);
+  border-radius: 16px;
+  padding: 22px 22px 18px;
+  width: 100%;
+  max-width: 480px;
+  max-height: 90vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+}
+.modal-eyebrow {
+  text-align: center;
+  font-size: 12px;
+  color: var(--subtext);
+  margin: 0;
+}
+.modal h2 {
+  text-align: center;
+  font-size: 24px;
+  margin: 4px 0 0;
+  color: var(--header);
+}
+.modal-sub {
+  text-align: center;
+  color: var(--subtext);
+  font-size: 12px;
+  margin: 0 0 12px;
+}
+.modal .btn { margin-top: 4px; }
+
+.divider {
+  text-align: center;
+  color: var(--subtext);
+  font-size: 12px;
+  margin: 14px 0 4px;
+}
+
+.emoji-picker-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.emoji-picker-row label { font-size: 13px; }
+.emoji-picker-row input {
+  width: 64px;
+  font-size: 22px;
+  text-align: center;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 4px;
+  background: white;
+}
+
+.modal-bottom {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
+}
+.modal-bottom .btn { flex: 1; }

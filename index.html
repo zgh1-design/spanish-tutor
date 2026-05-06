@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1B4332">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Spanish Tutor">
+  <link rel="apple-touch-icon" href="icon.png">
+  <title>Spanish Word Tutor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCREEN: HOME
+     Stats, action buttons, today's queue breakdown.
+─────────────────────────────────────────────────────────────────────────── -->
+<section id="screen-home" class="screen">
+  <header class="banner">
+    <h1>🇲🇽 Spanish Word Tutor</h1>
+    <p>Mexican Spanish · Spaced Repetition · Tap to Hear</p>
+  </header>
+
+  <div class="stats">
+    <div class="stat-box">
+      <div class="stat-value" id="stat-total">—</div>
+      <div class="stat-label">Total Words</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-value" id="stat-learned">—</div>
+      <div class="stat-label">Words Learned</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-value" id="stat-due">—</div>
+      <div class="stat-label">Due Today</div>
+    </div>
+  </div>
+
+  <p class="breakdown" id="breakdown"></p>
+
+  <div class="actions">
+    <button id="btn-study"      class="btn btn-primary"  hidden></button>
+    <p     id="msg-empty"       class="empty-msg"        hidden></p>
+    <button id="btn-practice"   class="btn btn-accent"   hidden></button>
+    <p     id="msg-practice-wait" class="hint-text"      hidden></p>
+    <button id="btn-review-all" class="btn btn-secondary">🔁 Review All Words</button>
+    <button id="btn-browse"     class="btn btn-ghost">📚 Browse Vocabulary</button>
+    <button id="btn-export"     class="btn btn-ghost">⇣ Export Progress</button>
+    <button id="btn-import"     class="btn btn-ghost">⇡ Import Progress</button>
+    <input  id="file-import" type="file" accept=".json" hidden>
+  </div>
+
+  <p class="tip" id="tip"></p>
+
+  <p class="footer">Overall progress: <span id="overall-progress">—</span></p>
+</section>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCREEN: STUDY (the flashcard)
+─────────────────────────────────────────────────────────────────────────── -->
+<section id="screen-study" class="screen" hidden>
+  <header class="topbar">
+    <button class="topbar-btn" id="study-back">← Home</button>
+    <span class="topbar-title" id="study-progress">Card 1 of 1</span>
+    <span class="topbar-spacer"></span>
+  </header>
+
+  <div class="progress-bar"><div id="progress-bar-fill"></div></div>
+
+  <div class="card">
+    <div class="card-category" id="card-category"></div>
+
+    <!-- The visual: either an emoji or your custom image. Tap to reveal. -->
+    <div class="card-image-wrap">
+      <div class="card-image" id="card-image" role="button" aria-label="Reveal answer"></div>
+    </div>
+
+    <button class="link-btn" id="btn-customize">✏️ Customize image</button>
+
+    <!-- Hidden until reveal: the Spanish word and English translation. -->
+    <div class="answer-area" id="answer-area">
+      <div class="spanish-word" id="spanish-word">
+        <span id="spanish-text"></span>
+        <button class="speak-btn" id="speak-btn" hidden aria-label="Pronounce">🔊</button>
+      </div>
+      <div class="english-translation" id="english-translation">
+        (tap the image, or press Reveal Answer below)
+      </div>
+    </div>
+
+    <div class="card-controls">
+      <button class="btn btn-primary btn-narrow" id="btn-reveal">Reveal Answer</button>
+
+      <div class="rating-row">
+        <button class="rating-btn rating-again" data-rating="1">Again<span>(forgot)</span></button>
+        <button class="rating-btn rating-hard"  data-rating="2">Hard<span>(struggled)</span></button>
+        <button class="rating-btn rating-good"  data-rating="3">Good<span>(got it!)</span></button>
+        <button class="rating-btn rating-easy"  data-rating="4">Easy<span>(instantly)</span></button>
+      </div>
+    </div>
+
+    <p class="seen-hint" id="seen-hint"></p>
+  </div>
+</section>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCREEN: SESSION COMPLETE
+─────────────────────────────────────────────────────────────────────────── -->
+<section id="screen-done" class="screen" hidden>
+  <header class="banner banner-success"><h1>🎉 Session Complete!</h1></header>
+  <div class="done-body">
+    <div class="done-pct" id="done-pct">—</div>
+    <p class="done-tally" id="done-tally"></p>
+    <p class="done-msg" id="done-msg"></p>
+    <p class="done-total" id="done-total"></p>
+    <button class="btn btn-primary" id="btn-study-again">Study Again</button>
+    <button class="btn btn-ghost"   id="btn-go-home">Go Home</button>
+  </div>
+</section>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCREEN: VOCABULARY BROWSER
+─────────────────────────────────────────────────────────────────────────── -->
+<section id="screen-browse" class="screen" hidden>
+  <header class="topbar">
+    <button class="topbar-btn" id="browse-back">← Back</button>
+    <span class="topbar-title">📚 All Vocabulary</span>
+    <span class="topbar-spacer"></span>
+  </header>
+  <div class="search-row">
+    <input type="text" id="search-input" placeholder="Search Spanish or English…">
+  </div>
+  <div class="vocab-list" id="vocab-list"></div>
+</section>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     MODAL: CUSTOMIZE IMAGE
+─────────────────────────────────────────────────────────────────────────── -->
+<div class="modal-backdrop" id="customize-modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="customize-title">
+    <p class="modal-eyebrow">Customize image for</p>
+    <h2 id="customize-title"></h2>
+    <p class="modal-sub" id="customize-english"></p>
+
+    <button class="btn btn-primary" id="btn-pick-file">📷 Choose an Image from Your Computer</button>
+    <p class="hint-text">JPG, PNG, GIF, BMP, or WebP</p>
+
+    <button class="btn btn-accent" id="btn-paste-image">📋 Paste Image from Clipboard</button>
+    <p class="hint-text">Right-click any image in your browser → Copy Image, then click here (or press ⌘V / Ctrl+V)</p>
+
+    <p class="divider">— or —</p>
+
+    <div class="emoji-picker-row">
+      <label for="emoji-input">Emoji:</label>
+      <input type="text" id="emoji-input" maxlength="6">
+      <button class="btn btn-good btn-narrow" id="btn-set-emoji">Use This Emoji</button>
+    </div>
+    <p class="hint-text">Tip: press ⌃⌘Space (Mac) to open the system emoji picker</p>
+
+    <div class="modal-bottom">
+      <button class="btn btn-secondary" id="btn-reset-custom">↺ Reset to Default</button>
+      <button class="btn btn-ghost" id="btn-cancel-custom">Cancel</button>
+    </div>
+
+    <input type="file" id="file-image" accept="image/*" hidden>
+  </div>
+</div>
+
+
+<!-- Hidden canvas used to resize uploaded/pasted images before storing them. -->
+<canvas id="resize-canvas" width="380" height="220" hidden></canvas>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCRIPTS
+─────────────────────────────────────────────────────────────────────────── -->
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
