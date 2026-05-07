@@ -61,6 +61,8 @@ function loadProgress()       { return loadJSON(STORAGE_KEYS.progress, {}); }
 function saveProgress(p)      { saveJSON(STORAGE_KEYS.progress, p); }
 function loadCustomizations() { return loadJSON(STORAGE_KEYS.customizations, {}); }
 function saveCustomizations(c){ saveJSON(STORAGE_KEYS.customizations, c); }
+function loadSettings()       { return loadJSON(STORAGE_KEYS.settings, {}); }
+function saveSettings(s)      { saveJSON(STORAGE_KEYS.settings, s); }
 
 
 function defaultCardState() {
@@ -250,31 +252,60 @@ function getEmojiForWord(english, category) {
 
 let cachedVoice = null;
 
-/** Pick the best available Mexican Spanish voice, preferring male. */
+// Names that are male Spanish voices on Apple/Google/Microsoft platforms.
+// The picker prefers these when no explicit user choice has been saved.
+const MALE_VOICE_NAMES = [
+  'juan', 'jorge', 'enrique', 'andrés', 'andres', 'carlos', 'pablo',
+  'eddy', 'eddie', 'diego', 'fernando', 'roberto'
+];
+
+function isMaleVoice(voice) {
+  const n = voice.name.toLowerCase();
+  return MALE_VOICE_NAMES.some(m => n.includes(m));
+}
+
+/** Pick a Spanish voice. Honors user's saved choice; otherwise prefers
+    male Mexican, then male anywhere, then female Mexican, then any Spanish. */
 function pickVoice() {
   if (cachedVoice) return cachedVoice;
   if (!('speechSynthesis' in window)) return null;
   const voices = speechSynthesis.getVoices();
   if (!voices.length) return null;
 
-  // Names that tend to be male Mexican voices on Apple/Google/Microsoft
-  const malePreferred = ['juan', 'jorge', 'enrique', 'andrés', 'andres', 'carlos', 'pablo'];
+  // 0. Saved user preference takes priority
+  const savedURI = (state.settings || {}).voiceURI;
+  if (savedURI) {
+    const v = voices.find(x => x.voiceURI === savedURI);
+    if (v) { cachedVoice = v; return v; }
+  }
 
-  // 1st choice: es-MX, male-ish
-  let v = voices.find(x =>
-    x.lang === 'es-MX' && malePreferred.some(n => x.name.toLowerCase().includes(n))
-  );
-  // 2nd: any es-MX
+  // 1. Male, es-MX
+  let v = voices.find(x => x.lang === 'es-MX' && isMaleVoice(x));
+  // 2. Male, any es-*
+  if (!v) v = voices.find(x => x.lang.startsWith('es') && isMaleVoice(x));
+  // 3. Any es-MX (likely Paulina, female)
   if (!v) v = voices.find(x => x.lang === 'es-MX');
-  // 3rd: any es-* with a male name
-  if (!v) v = voices.find(x =>
-    x.lang.startsWith('es') && malePreferred.some(n => x.name.toLowerCase().includes(n))
-  );
-  // 4th: any es-* voice at all
+  // 4. Any es-* voice at all
   if (!v) v = voices.find(x => x.lang.startsWith('es'));
 
   cachedVoice = v;
   return v;
+}
+
+/** Return a list of available Spanish voices, sorted: es-MX first,
+    then by male-first within each language. Used by the picker UI. */
+function listSpanishVoices() {
+  if (!('speechSynthesis' in window)) return [];
+  const voices = speechSynthesis.getVoices().filter(v => v.lang.startsWith('es'));
+  const langOrder = lang => (lang === 'es-MX' ? 0 : (lang.startsWith('es-4') ? 1 : 2));
+  return voices.sort((a, b) => {
+    const la = langOrder(a.lang), lb = langOrder(b.lang);
+    if (la !== lb) return la - lb;
+    if (a.lang !== b.lang) return a.lang.localeCompare(b.lang);
+    const ma = isMaleVoice(a) ? 0 : 1, mb = isMaleVoice(b) ? 0 : 1;
+    if (ma !== mb) return ma - mb;
+    return a.name.localeCompare(b.name);
+  });
 }
 
 /** Speak a Spanish word out loud. Optional callback fires when speech ends. */
@@ -302,12 +333,13 @@ if ('speechSynthesis' in window) {
 // ═══════════════════════════════════════════════════════════════════════════
 
 const state = {
-  progress: loadProgress(),
+  progress:       loadProgress(),
   customizations: loadCustomizations(),
-  sessionCards: [],
-  currentIndex: 0,
+  settings:       loadSettings(),    // user prefs (voice, etc.)
+  sessionCards:   [],
+  currentIndex:   0,
   sessionCorrect: 0,
-  practiceMode: false,
+  practiceMode:   false,
   answerRevealed: false,
   customizingWordIdx: null,
 };
@@ -722,6 +754,74 @@ function resetCustomization() {
 }
 
 
+// ─── VOICE SETTINGS ───────────────────────────────────────────────────────
+
+const VOICE_SAMPLE = 'Hola, ¿cómo estás? Me llamo Juan.';
+
+function openVoiceSettings() {
+  renderVoiceList();
+  $('voice-modal').hidden = false;
+}
+function closeVoiceSettings() {
+  speechSynthesis.cancel();
+  $('voice-modal').hidden = true;
+}
+
+function renderVoiceList() {
+  const list = $('voice-list');
+  list.innerHTML = '';
+  const voices = listSpanishVoices();
+
+  if (!voices.length) {
+    list.innerHTML = `<p class="hint-text">No Spanish voices were detected on this device.<br>
+      See the install instructions below.</p>`;
+    return;
+  }
+
+  const savedURI = (state.settings || {}).voiceURI;
+  voices.forEach(v => {
+    const row = document.createElement('button');
+    row.className = 'voice-row';
+    row.type = 'button';
+    const isMale = isMaleVoice(v);
+    const checked = (savedURI ? v.voiceURI === savedURI
+                              : v === pickVoice());
+    row.innerHTML = `
+      <span class="voice-check">${checked ? '✓' : ''}</span>
+      <span class="voice-name">${escapeHtml(v.name)}</span>
+      <span class="voice-lang">${v.lang}</span>
+      <span class="voice-tag ${isMale ? 'tag-male' : 'tag-female'}">
+        ${isMale ? '♂ male' : '♀ female'}
+      </span>
+    `;
+    row.addEventListener('click', () => selectAndPreview(v));
+    list.appendChild(row);
+  });
+}
+
+function selectAndPreview(voice) {
+  state.settings.voiceURI = voice.voiceURI;
+  saveSettings(state.settings);
+  cachedVoice = voice;
+  // Re-render so the checkmark moves
+  renderVoiceList();
+  // Speak the sample using THIS voice (don't go through pickVoice cache races)
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(VOICE_SAMPLE);
+  u.lang = voice.lang;
+  u.voice = voice;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => (
+    { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]
+  ));
+}
+
+
 // ─── EXPORT / IMPORT (cross-device sync) ──────────────────────────────────
 
 function exportProgress() {
@@ -779,8 +879,9 @@ function bind() {
   $('btn-browse').addEventListener('click', () => {
     renderVocab(''); $('search-input').value = ''; showScreen('browse');
   });
-  $('btn-export').addEventListener('click', exportProgress);
-  $('btn-import').addEventListener('click', () => $('file-import').click());
+  $('btn-voice'  ).addEventListener('click', openVoiceSettings);
+  $('btn-export' ).addEventListener('click', exportProgress);
+  $('btn-import' ).addEventListener('click', () => $('file-import').click());
   $('file-import').addEventListener('change', e => {
     const f = e.target.files[0];
     if (f) importProgress(f);
@@ -841,9 +942,17 @@ function bind() {
     }
   });
 
-  // ESC closes the modal
+  // Voice settings modal
+  $('btn-close-voice').addEventListener('click', closeVoiceSettings);
+  $('voice-modal').addEventListener('click', e => {
+    if (e.target === e.currentTarget) closeVoiceSettings();
+  });
+
+  // ESC closes any open modal
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && !$('customize-modal').hidden) closeCustomize();
+    if (e.key !== 'Escape') return;
+    if (!$('customize-modal').hidden) closeCustomize();
+    else if (!$('voice-modal').hidden) closeVoiceSettings();
   });
 }
 

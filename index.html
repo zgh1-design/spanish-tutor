@@ -47,6 +47,7 @@
     <p     id="msg-practice-wait" class="hint-text"      hidden></p>
     <button id="btn-review-all" class="btn btn-secondary">🔁 Review All Words</button>
     <button id="btn-browse"     class="btn btn-ghost">📚 Browse Vocabulary</button>
+    <button id="btn-voice"      class="btn btn-ghost">🔊 Voice Settings</button>
     <button id="btn-export"     class="btn btn-ghost">⇣ Export Progress</button>
     <button id="btn-import"     class="btn btn-ghost">⇡ Import Progress</button>
     <input  id="file-import" type="file" accept=".json" hidden>
@@ -169,6 +170,43 @@
     </div>
 
     <input type="file" id="file-image" accept="image/*" hidden>
+  </div>
+</div>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     MODAL: VOICE SETTINGS
+─────────────────────────────────────────────────────────────────────────── -->
+<div class="modal-backdrop" id="voice-modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="voice-title">
+    <h2 id="voice-title">🔊 Choose Voice</h2>
+    <p class="modal-sub">Tap a voice to select it and hear a sample.</p>
+
+    <div class="voice-list" id="voice-list"></div>
+
+    <details class="voice-help">
+      <summary>Don't see a male Mexican voice? Install one (free, takes ~1 min)</summary>
+      <div class="voice-help-body">
+        <p><strong>iPhone / iPad:</strong></p>
+        <ol>
+          <li>Settings → Accessibility → Spoken Content → <strong>Voices</strong></li>
+          <li>Tap <strong>Spanish</strong> → <strong>Spanish (Mexico)</strong></li>
+          <li>Tap a male voice (e.g. <em>Jorge</em>) and download it</li>
+          <li>Come back here and pull down to refresh the page — the voice will appear above</li>
+        </ol>
+        <p><strong>Mac:</strong></p>
+        <ol>
+          <li>System Settings → Accessibility → Spoken Content</li>
+          <li>Click <strong>System Voice</strong> → <strong>Manage Voices…</strong></li>
+          <li>Find <strong>Spanish (Mexico)</strong>, download a male voice (e.g. <em>Jorge</em>)</li>
+          <li>Reload this page — it'll appear in the list above</li>
+        </ol>
+      </div>
+    </details>
+
+    <div class="modal-bottom">
+      <button class="btn btn-ghost" id="btn-close-voice">Done</button>
+    </div>
   </div>
 </div>
 
