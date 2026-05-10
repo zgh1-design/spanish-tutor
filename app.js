@@ -370,6 +370,7 @@ const state = {
   currentIndex:   0,
   sessionCorrect: 0,
   practiceMode:   false,
+  previewMode:    false,    // true during "Review All" — never saves progress
   answerRevealed: false,
   customizingWordIdx: null,
 };
@@ -470,13 +471,25 @@ function renderHome() {
 
 // ─── STUDY (FLASHCARD) ────────────────────────────────────────────────────
 
-function startSession()       { state.sessionCards = getDueCards(state.progress);
-                                state.practiceMode = false; beginSession(); }
-function startPracticeToday() { state.sessionCards = shuffle(getTodayCards(state.progress));
-                                state.practiceMode = true;  beginSession(); }
-function startReviewAll()     { state.sessionCards = shuffle(VOCABULARY.map((w, i) =>
-                                  ({ idx: i, word: w, state: getCardState(state.progress, i) })));
-                                state.practiceMode = false; beginSession(); }
+function startSession() {
+  state.sessionCards = getDueCards(state.progress);
+  state.practiceMode = false;
+  state.previewMode  = false;
+  beginSession();
+}
+function startPracticeToday() {
+  state.sessionCards = shuffle(getTodayCards(state.progress));
+  state.practiceMode = true;
+  state.previewMode  = false;
+  beginSession();
+}
+function startReviewAll() {
+  state.sessionCards = shuffle(VOCABULARY.map((w, i) =>
+    ({ idx: i, word: w, state: getCardState(state.progress, i) })));
+  state.practiceMode = false;
+  state.previewMode  = true;   // doesn't save anything — pure flip-through
+  beginSession();
+}
 
 function beginSession() {
   state.currentIndex = 0;
@@ -644,6 +657,19 @@ function rateCard(rating) {
   const t = today();
   const nowIso = new Date().toISOString();
   const firstSeen = cardState.first_seen || t;
+
+  // PREVIEW MODE: pure flip-through. Don't touch progress or schedule.
+  // Only re-queue failed cards so you can verify them again in the same pass.
+  if (state.previewMode) {
+    if (rating >= 3) state.sessionCorrect++;
+    if (rating === 1) {
+      const lag = 3 + Math.floor(Math.random() * 4);
+      state.sessionCards.splice(state.currentIndex + 1 + lag, 0, card);
+    }
+    state.currentIndex++;
+    renderCard();
+    return;
+  }
 
   let newState;
   if (state.practiceMode) {
@@ -1011,7 +1037,8 @@ function bind() {
   $('btn-study'      ).addEventListener('click', () => startSession());
   $('btn-practice'   ).addEventListener('click', () => startPracticeToday());
   $('btn-review-all' ).addEventListener('click', () => {
-    if (confirm(`Review all ${VOCABULARY.length} words? This is just for fun — your real schedule isn't affected unless you fail a word.`)) {
+    if (confirm(`Browse all ${VOCABULARY.length} words? This is preview-only — ` +
+                `nothing you do here will change your study schedule.`)) {
       startReviewAll();
     }
   });
