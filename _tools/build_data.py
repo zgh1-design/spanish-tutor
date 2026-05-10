@@ -37,6 +37,10 @@ CAT_COLORS = {
     "objects":    "#F5F0E8", "music":      "#D1C4E9",
     "arts":       "#E1BEE7", "sports":     "#FFE0B2",
     "science":    "#B3E5FC", "animals":    "#E8F5E9",
+    "geography":  "#DCEDC8", "politics":   "#CFD8DC",
+    "religion":   "#F8BBD0", "business":   "#E0F2F1",
+    "kitchen":    "#FFF3E0", "tools":      "#F5F0E8",
+    "philosophy": "#F3F0E8",
 }
 
 # Fallback emoji per category (used only as last-resort, image is primary now)
@@ -54,6 +58,9 @@ CATEGORY_EMOJI = {
     "agriculture": "🌾", "wine": "🍇",
     "objects": "📦", "music": "🎵", "arts": "🎨",
     "sports": "⚽", "science": "🔬", "animals": "🐾",
+    "geography": "🗺️", "politics": "🏛️",
+    "religion": "🛐", "business": "💼",
+    "kitchen": "🍳", "tools": "🔧", "philosophy": "💭",
 }
 
 

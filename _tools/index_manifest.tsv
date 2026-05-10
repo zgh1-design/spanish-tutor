@@ -1815,3 +1815,1244 @@
 1814	regla
 1815	pegamento
 1816	caja fuerte
+1817	mapa
+1818	globo
+1819	continente
+1820	océano
+1821	isla
+1822	península
+1823	costa
+1824	bahía
+1825	desierto
+1826	selva
+1827	valle
+1828	colina
+1829	volcán
+1830	cueva
+1831	cascada
+1832	glaciar
+1833	arrecife
+1834	frontera
+1835	región
+1836	provincia
+1837	estado
+1838	capital
+1839	norte (geo)
+1840	ecuador
+1841	polo
+1842	hemisferio
+1843	latitud
+1844	longitud
+1845	altitud
+1846	clima (geo)
+1847	zona
+1848	territorio
+1849	población
+1850	ciudadano
+1851	habitante
+1852	nacionalidad
+1853	nacional
+1854	internacional
+1855	mundial
+1856	España
+1857	Argentina
+1858	Colombia
+1859	Perú
+1860	Chile
+1861	Cuba
+1862	Brasil
+1863	Francia
+1864	Italia
+1865	Alemania
+1866	Inglaterra
+1867	China
+1868	Japón
+1869	Canadá
+1870	gobierno
+1871	política
+1872	democracia
+1873	república
+1874	monarquía
+1875	dictadura
+1876	congreso
+1877	parlamento
+1878	senado
+1879	senador
+1880	diputado
+1881	alcalde
+1882	gobernador
+1883	ministro
+1884	embajador
+1885	embajada
+1886	partido
+1887	elección
+1888	votar
+1889	voto
+1890	candidato
+1891	campaña
+1892	urna
+1893	constitución
+1894	ley (política)
+1895	derecho
+1896	libertad (política)
+1897	protesta
+1898	manifestación
+1899	huelga
+1900	sindicato
+1901	impuesto (política)
+1902	presupuesto
+1903	bandera
+1904	himno
+1905	patria
+1906	pueblo (gente)
+1907	nación
+1908	paz (política)
+1909	guerra (política)
+1910	ejército
+1911	marina
+1912	fuerza aérea
+1913	soldado (mil.)
+1914	arma
+1915	pistola
+1916	bomba
+1917	seguridad
+1918	espía
+1919	traidor (política)
+1920	empresa
+1921	compañía
+1922	negocio
+1923	mercado (econ)
+1924	economía
+1925	economista (biz)
+1926	inflación
+1927	deflación
+1928	recesión
+1929	crisis (econ)
+1930	crecimiento
+1931	pérdida
+1932	ganancia
+1933	ingresos
+1934	gastos
+1935	balance
+1936	cuenta (bancaria)
+1937	cheque
+1938	transferencia
+1939	depósito
+1940	retiro
+1941	préstamo
+1942	hipoteca
+1943	interés (bancario)
+1944	inversión
+1945	inversor
+1946	acción (bolsa)
+1947	bono
+1948	bolsa (econ)
+1949	divisa
+1950	dólar
+1951	euro
+1952	peso (moneda)
+1953	moneda
+1954	billete
+1955	caja (registradora)
+1956	factura
+1957	contrato
+1958	acuerdo (biz)
+1959	socio
+1960	accionista
+1961	cliente
+1962	proveedor
+1963	competidor
+1964	competencia (biz)
+1965	estrategia
+1966	plan (biz)
+1967	meta
+1968	riesgo (biz)
+1969	éxito
+1970	fracaso
+1971	ventas
+1972	mercadeo
+1973	publicidad
+1974	anuncio
+1975	marca
+1976	producto
+1977	servicio (biz)
+1978	calidad (biz)
+1979	proyecto (biz)
+1980	informe
+1981	estadística
+1982	dato
+1983	base de datos
+1984	nómina
+1985	jubilación
+1986	pensión
+1987	seguro (biz)
+1988	póliza
+1989	fundación
+1990	caridad
+1991	donación
+1992	dios
+1993	diosa
+1994	fe
+1995	religión (rel)
+1996	alma (rel)
+1997	espíritu
+1998	santo
+1999	santa
+2000	ángel
+2001	demonio
+2002	cielo (rel)
+2003	infierno
+2004	paraíso
+2005	pecado
+2006	virtud (rel)
+2007	oración
+2008	bendición
+2009	milagro
+2010	templo
+2011	catedral
+2012	mezquita
+2013	sinagoga
+2014	monasterio
+2015	convento
+2016	altar
+2017	cruz
+2018	biblia
+2019	corán
+2020	torá
+2021	sacerdote
+2022	pastor
+2023	monje
+2024	monja
+2025	rabino
+2026	imán
+2027	budismo
+2028	cristianismo
+2029	judaísmo
+2030	islam
+2031	hinduismo
+2032	filosofía
+2033	filósofo
+2034	lógica
+2035	ética
+2036	moral
+2037	existencia
+2038	realidad (fil)
+2039	consciencia (fil)
+2040	sentido (fil)
+2041	sabiduría
+2042	conocimiento
+2043	ignorancia
+2044	duda (fil)
+2045	meditación
+2046	templanza
+2047	humanismo
+2048	plato
+2049	tazón
+2050	taza
+2051	vaso
+2052	copa (vaso)
+2053	jarra
+2054	botella (cocina)
+2055	sartén
+2056	olla
+2057	cuchillo
+2058	tenedor
+2059	cuchara
+2060	cucharita
+2061	espátula
+2062	cucharón
+2063	batidora
+2064	licuadora
+2065	procesador
+2066	microondas
+2067	horno
+2068	estufa
+2069	nevera
+2070	congelador
+2071	lavavajillas
+2072	lavadora
+2073	secadora
+2074	plancha (cocina)
+2075	aspiradora
+2076	escoba
+2077	fregadero
+2078	grifo
+2079	esponja
+2080	trapo
+2081	bolsa (cocina)
+2082	tapa
+2083	bandeja
+2084	servilleta
+2085	mantel
+2086	delantal
+2087	caja (cocina)
+2088	frasco
+2089	lata
+2090	envase
+2091	sopera
+2092	tetera
+2093	cafetera
+2094	abrelatas
+2095	tabla de cortar
+2096	rallador
+2097	colador
+2098	pelador
+2099	embudo
+2100	balanza
+2101	taza medidora
+2102	recetario
+2103	herramienta
+2104	llave inglesa
+2105	alicates
+2106	destornillador (herr)
+2107	taladro
+2108	sierra
+2109	lima
+2110	cinta métrica
+2111	nivel
+2112	escalera
+2113	escalón
+2114	andamios
+2115	cemento
+2116	concreto
+2117	ladrillo
+2118	madera
+2119	metal
+2120	acero
+2121	hierro
+2122	cobre
+2123	aluminio
+2124	plástico
+2125	caucho
+2126	vidrio (mat)
+2127	pintura (mat)
+2128	barniz
+2129	pegamento (herr)
+2130	soldadura
+2131	soldar
+2132	lijar
+2133	pulir
+2134	medir (herr)
+2135	nivelar
+2136	reparar (herr)
+2137	maíz (alim)
+2138	espárragos
+2139	alcachofa
+2140	maní
+2141	nuez
+2142	almendra
+2143	pistacho
+2144	avellana
+2145	semilla (alim)
+2146	girasol
+2147	aceituna
+2148	anchoa
+2149	sardina
+2150	caldo
+2151	consomé
+2152	puré
+2153	estofado
+2154	asado
+2155	frito
+2156	hervido
+2157	crudo
+2158	cocido
+2159	congelado
+2160	caliente (alim)
+2161	frío (alim)
+2162	pasta
+2163	espagueti
+2164	macarrón
+2165	lasaña
+2166	pizza
+2167	hamburguesa
+2168	hot dog
+2169	sopa de pollo
+2170	pan dulce
+2171	galleta
+2172	pastel
+2173	bizcocho
+2174	donut
+2175	pretzel
+2176	panqueque
+2177	waffle
+2178	tostada
+2179	yogur (alim)
+2180	batido
+2181	smoothie
+2182	té
+2183	café (alim)
+2184	espresso
+2185	cappuccino
+2186	latte
+2187	agua mineral
+2188	refresco
+2189	coctel
+2190	margarita
+2191	mojito
+2192	tequila
+2193	ron
+2194	whisky
+2195	ginebra
+2196	vodka
+2197	abrazar
+2198	abrigar
+2199	aburrir
+2200	acariciar
+2201	acercar
+2202	aclarar
+2203	acomodar
+2204	acumular
+2205	adaptar
+2206	adelantar
+2207	adivinar
+2208	admirar
+2209	adoptar
+2210	adornar
+2211	advertir
+2212	afectar
+2213	afeitar
+2214	afirmar
+2215	agitar
+2216	agotar
+2217	agradar
+2218	agregar
+2219	aguardar
+2220	ahogar
+2221	aislar
+2222	alabar
+2223	alargar
+2224	albergar
+2225	alegar
+2226	alentar
+2227	alimentar (verbo)
+2228	alistarse
+2229	aliviar
+2230	almacenar
+2231	alterar
+2232	alucinar
+2233	amanecer
+2234	amansar
+2235	amargar
+2236	amasar
+2237	amueblar
+2238	analizar
+2239	anclar
+2240	anhelar
+2241	aniquilar
+2242	anochecer
+2243	ansiar
+2244	aparcar
+2245	apetecer
+2246	aplastar
+2247	aplaudir
+2248	apostar
+2249	apreciar
+2250	apresurar
+2251	apretar
+2252	aprehender
+2253	aprovecharse
+2254	arder
+2255	argumentar
+2256	arrancar
+2257	arrastrar
+2258	arrepentirse
+2259	arrestar
+2260	arriesgar
+2261	arrojar
+2262	arrugar
+2263	asaltar
+2264	asar
+2265	ascender
+2266	asociar
+2267	asomar
+2268	aspirar
+2269	atajar
+2270	atar
+2271	aterrizar
+2272	atornillar
+2273	atrapar
+2274	atreverse
+2275	aullar
+2276	bostezar
+2277	caber
+2278	caducar
+2279	calcar
+2280	castigar
+2281	catar
+2282	causar (verbo)
+2283	cavar
+2284	ceder
+2285	censurar
+2286	chillar
+2287	chuparse
+2288	circular
+2289	citar
+2290	cobijar
+2291	colaborar (verbo)
+2292	comprometerse
+2293	comunicarse
+2294	concebir
+2295	concluir
+2296	conformar
+2297	conmover
+2298	consolidar
+2299	constatar
+2300	consumar
+2301	consumir
+2302	contagiar
+2303	contaminar (verbo)
+2304	contar (relato)
+2305	controlar (verbo)
+2306	convivir
+2307	coordinar
+2308	coquetear
+2309	corromper
+2310	criticar
+2311	crucificar
+2312	crujir
+2313	cuajar
+2314	cubrirse
+2315	cuestionar
+2316	culpar
+2317	dar a luz
+2318	debutar
+2319	declamar
+2320	declarar
+2321	decorar
+2322	deducir
+2323	definir (verbo)
+2324	delegar
+2325	deletrear
+2326	demoler
+2327	depositar (verbo)
+2328	desafiar (verbo)
+2329	desbordar
+2330	descalzar
+2331	descansar (verbo)
+2332	descargar
+2333	descifrar
+2334	descomponer
+2335	desconectar
+2336	descubrir (verbo)
+2337	descuidar
+2338	desembolsar
+2339	desempleo
+2340	desenvolver
+2341	desesperar
+2342	desfilar
+2343	deshojar
+2344	deslizar
+2345	deslumbrar
+2346	desmayar
+2347	despachar
+2348	desperdiciar
+2349	desplazar
+2350	destapar
+2351	devorar
+2352	dibujar (verbo)
+2353	digerir
+2354	disculparse
+2355	disecar
+2356	disipar
+2357	distorsionar
+2358	divisar
+2359	doblegar
+2360	domesticar
+2361	dominar
+2362	dotar
+2363	edificar
+2364	embarcarse
+2365	embellecer
+2366	embriagarse
+2367	emerger
+2368	emigrar
+2369	emocionarse
+2370	empacar
+2371	empaquetar
+2372	empatar
+2373	empeorar
+2374	empinar
+2375	emplear
+2376	emprender
+2377	empujar
+2378	enaltecer
+2379	encadenar
+2380	encajar
+2381	encarcelar
+2382	encarnar
+2383	encestar
+2384	enchufar
+2385	encolar
+2386	enderezar
+2387	endeudarse
+2388	endurecer
+2389	enfadarse
+2390	enfermarse
+2391	enfriar
+2392	enfrentarse
+2393	enganchar
+2394	enloquecer
+2395	enmascarar
+2396	enredar
+2397	ensanchar
+2398	enseñar (verbo)
+2399	entablar
+2400	entregar
+2401	envenenar
+2402	envestir
+2403	equipar
+2404	erigir
+2405	escarchar
+2406	esclarecer
+2407	esconderse
+2408	escudriñar
+2409	esmerarse
+2410	esparcir
+2411	especular
+2412	estampar
+2413	estancar
+2414	estimar
+2415	estremecer
+2416	evacuar
+2417	evaporar
+2418	evolucionar
+2419	exagerar
+2420	exiliar
+2421	expirar
+2422	explotar
+2423	expulsar
+2424	extinguir
+2425	extraviar
+2426	fabricar (verbo)
+2427	facturar
+2428	faltar (verbo)
+2429	fastidiar
+2430	favorecer
+2431	fechar
+2432	festejar (verbo)
+2433	filtrar
+2434	financiar
+2435	fingir (verbo)
+2436	fluctuar
+2437	fomentar
+2438	forrar
+2439	forzar
+2440	fotografiar
+2441	frenar
+2442	frotar
+2443	frustrar
+2444	ácido (adj)
+2445	agotador
+2446	amargo (adj)
+2447	amplísimo
+2448	anticipado
+2449	arriesgado
+2450	asombroso
+2451	atroz
+2452	austero
+2453	auténtico
+2454	benéfico
+2455	benévolo
+2456	bienvenido (adj)
+2457	brusco
+2458	bullicioso
+2459	cálido
+2460	chico
+2461	confuso
+2462	congelado (adj)
+2463	conjunto (adj)
+2464	contiguo
+2465	contundente
+2466	cordial
+2467	crucial
+2468	culto
+2469	cumplido
+2470	curado
+2471	curado (adj)
+2472	dañino
+2473	debilitado
+2474	definitivo
+2475	deliberado
+2476	delirante
+2477	desafortunado
+2478	desagradable
+2479	desanimado
+2480	descontento
+2481	descuidado
+2482	desierto (adj)
+2483	desigual
+2484	desnudo (adj)
+2485	destinado
+2486	devoto
+2487	digno
+2488	discreto
+2489	disponible
+2490	distinto
+2491	diverso
+2492	divertido (adj)
+2493	dominante
+2494	dorado (adj)
+2495	dramático
+2496	duradero
+2497	efectivo (adj)
+2498	eficiente
+2499	eléctrico
+2500	elemental
+2501	elevado
+2502	embarazoso
+2503	emocional
+2504	empapado
+2505	enérgico
+2506	enfocado
+2507	enriquecido
+2508	enterrado
+2509	entrenado
+2510	envidiable
+2511	espantoso
+2512	espiritual
+2513	espléndido
+2514	espontáneo
+2515	esquivo
+2516	esencial
+2517	estatal
+2518	estricto
+2519	estruendoso
+2520	evidente
+2521	exitoso
+2522	experto
+2523	explícito
+2524	explotador
+2525	extraordinario
+2526	extremo
+2527	fabuloso
+2528	fantástico
+2529	fatal
+2530	favorable
+2531	favorito
+2532	fenomenal
+2533	feroz
+2534	fervoroso
+2535	festivo
+2536	ficticio
+2537	fiero
+2538	físico
+2539	flexible
+2540	flojo
+2541	formal
+2542	forzoso
+2543	fragmentario
+2544	francés
+2545	fresco (adj)
+2546	fundamental
+2547	futuro (adj)
+2548	geográfico
+2549	gigantesco
+2550	global
+2551	gracioso
+2552	gradual
+2553	gráfico
+2554	gratis
+2555	grandioso
+2556	griego
+2557	habitual
+2558	helado (adj)
+2559	heroico
+2560	hispano
+2561	histórico
+2562	honrado
+2563	hostil
+2564	humano
+2565	idéntico
+2566	ideal
+2567	ilegal
+2568	ilegible
+2569	ilimitado
+2570	ilógico
+2571	imaginario
+2572	imitador
+2573	impaciente
+2574	impecable
+2575	impenetrable
+2576	imperdible
+2577	imperial
+2578	impertinente
+2579	implícito
+2580	impreciso
+2581	impresionante
+2582	impropio
+2583	impuesto (adj)
+2584	inaccesible
+2585	inadecuado
+2586	inaudito
+2587	incapaz
+2588	incierto
+2589	incluido
+2590	inconsciente
+2591	independiente
+2592	industrial
+2593	inestable
+2594	inexplicable
+2595	infame
+2596	infantil
+2597	infinito
+2598	informal
+2599	inicial
+2600	injusto
+2601	inmaduro
+2602	inmediato
+2603	inmenso
+2604	inmóvil
+2605	inocente
+2606	inolvidable
+2607	inquieto
+2608	intachable
+2609	intenso (adj)
+2610	interesante
+2611	intermedio
+2612	interno (adj)
+2613	intrépido
+2614	íntimo
+2615	inusual
+2616	inválido
+2617	invisible
+2618	irresistible
+2619	judicial
+2620	junto
+2621	absoluto
+2622	abuso
+2623	acceso
+2624	adolescencia
+2625	adulto
+2626	afán
+2627	agresión
+2628	alarma
+2629	albor
+2630	alianza
+2631	altura
+2632	amargura
+2633	ambigüedad
+2634	amistad
+2635	amistoso
+2636	amplitud
+2637	análisis
+2638	anhelo
+2639	antecedente
+2640	ansiedad
+2641	antagonismo
+2642	antología
+2643	aparición
+2644	aplauso
+2645	aprecio
+2646	aprendizaje
+2647	aprobación
+2648	argumentación
+2649	argumento
+2650	armonía
+2651	arrepentimiento
+2652	arrogancia
+2653	asco
+2654	asesoramiento
+2655	aspiración
+2656	asunto (abstr)
+2657	ataque
+2658	audacia
+2659	augurio
+2660	austeridad
+2661	autenticidad
+2662	autoridad
+2663	autonomía
+2664	autoestima
+2665	aventura
+2666	banalidad
+2667	barrera
+2668	base
+2669	belleza (abstr)
+2670	bienestar
+2671	bonanza
+2672	caos
+2673	caridad (abstr)
+2674	cariño
+2675	celo
+2676	censura
+2677	claridad
+2678	clave
+2679	coherencia
+2680	colapso
+2681	combate (abstr)
+2682	comodidad
+2683	compasión
+2684	compromiso
+2685	comunicación
+2686	comunidad
+2687	concentración
+2688	conclusión
+2689	condición
+2690	confidencia
+2691	conformidad
+2692	conmoción
+2693	consagración
+2694	consenso
+2695	consideración
+2696	consuelo
+2697	contemplación
+2698	contradicción
+2699	controversia
+2700	cooperación
+2701	coraza
+2702	costumbre
+2703	creencia
+2704	crecimiento (abstr)
+2705	criterio (abstr)
+2706	crítica
+2707	cualidad
+2708	curiosidad (abstr)
+2709	debilidad
+2710	decadencia
+2711	dedicatoria
+2712	deducción
+2713	defensa
+2714	definición
+2715	delicadeza
+2716	delincuencia
+2717	delirio
+2718	demanda
+2719	depresión
+2720	derecho (abstr)
+2721	desafío
+2722	desastre
+2723	descanso
+2724	desempeño
+2725	desenlace
+2726	deseo
+2727	desesperación
+2728	desgracia
+2729	destrucción
+2730	determinación
+2731	devoción
+2732	diagnóstico
+2733	diálogo
+2734	discriminación
+2735	discurso
+2736	disgusto
+2737	disposición
+2738	distinción
+2739	diversidad
+2740	doble
+2741	docena
+2742	dolor (abstr)
+2743	dominio
+2744	donación (abstr)
+2745	duda
+2746	duelo
+2747	dulzura
+2748	edad (abstr)
+2749	educación
+2750	egoísmo
+2751	elegancia
+2752	elemento
+2753	elocuencia
+2754	embajada (abstr)
+2755	emergencia (abstr)
+2756	enseñanza
+2757	entendimiento
+2758	entrega
+2759	entusiasmo (abstr)
+2760	equilibrio
+2761	equivalencia
+2762	esperanza (abstr)
+2763	estabilidad
+2764	estímulo
+2765	estrategia (abstr)
+2766	estructura
+2767	estudio
+2768	evolución
+2769	excepción
+2770	exclusividad
+2771	expectativa
+2772	explicación
+2773	expresión
+2774	facilidad
+2775	facultad
+2776	fascinación
+2777	felicidad
+2778	fenómeno
+2779	fiesta
+2780	finalidad
+2781	firma
+2782	fragancia
+2783	frescura
+2784	frustración
+2785	funcionamiento
+2786	fundamento
+2787	gala
+2788	generación
+2789	generosidad
+2790	gentileza
+2791	gigante
+2792	gloria
+2793	gracia
+2794	grado
+2795	gravedad (abstr)
+2796	grupo
+2797	habilidad
+2798	hábito
+2799	hazaña
+2800	herencia
+2801	heroísmo
+2802	honestidad
+2803	hostilidad
+2804	humildad
+2805	humor
+2806	idealismo
+2807	identidad
+2808	ideología
+2809	ilusión
+2810	imagen
+2811	imaginación
+2812	impaciencia
+2813	imperio
+2814	imprecisión
+2815	impulso
+2816	inactividad
+2817	incertidumbre
+2818	inclinación
+2819	inconsistencia
+2820	inconveniente
+2821	independencia (abstr)
+2822	indicación
+2823	indiferencia
+2824	individualidad
+2825	indulgencia
+2826	inferioridad
+2827	inflación (abstr)
+2828	influencia
+2829	información
+2830	infraestructura
+2831	ingenuidad
+2832	inocencia
+2833	inseguridad
+2834	insistencia
+2835	inspiración
+2836	instalación
+2837	institución
+2838	instrucción
+2839	intercambio
+2840	interpretación
+2841	intervención
+2842	intriga
+2843	invasión
+2844	invención
+2845	inversión (abstr)
+2846	investigación
+2847	invitación
+2848	abrigo
+2849	chaqueta
+2850	chaleco
+2851	traje
+2852	corbata
+2853	falda
+2854	blusa
+2855	calcetín
+2856	media
+2857	sandalia
+2858	bota
+2859	tenis (zapato)
+2860	chancleta
+2861	gorra
+2862	bufanda
+2863	guante
+2864	impermeable
+2865	pijama
+2866	bata
+2867	traje de baño
+2868	lencería
+2869	botón (ropa)
+2870	cremallera
+2871	bolsillo
+2872	cuello (ropa)
+2873	manga
+2874	puño (ropa)
+2875	estampado
+2876	tela
+2877	lana
+2878	seda
+2879	algodón
+2880	cuero
+2881	lino
+2882	planta
+2883	rosa (flor)
+2884	tulipán
+2885	girasol (flor)
+2886	margarita (flor)
+2887	lirio
+2888	orquídea
+2889	clavel
+2890	amapola
+2891	lavanda
+2892	girando
+2893	pétalo
+2894	espina
+2895	polen
+2896	semilla (planta)
+2897	bulbo
+2898	roble (árbol)
+2899	pino
+2900	abeto
+2901	palma
+2902	sauce
+2903	cactus
+2904	bambú
+2905	helecho
+2906	musgo
+2907	alga
+2908	vid (planta)
+2909	enredadera
+2910	insecto
+2911	libélula
+2912	luciérnaga
+2913	grillo
+2914	saltamontes
+2915	abejorro
+2916	avispa
+2917	catarina
+2918	mariquita
+2919	pulga
+2920	piojo
+2921	garrapata
+2922	lombriz
+2923	caracol (animal)
+2924	babosa
+2925	medusa
+2926	estrella de mar
+2927	cangrejo
+2928	langosta (animal)
+2929	caballito de mar
+2930	pulpo (animal)
+2931	calamar (animal)
+2932	enero
+2933	febrero
+2934	marzo
+2935	abril
+2936	mayo
+2937	junio
+2938	julio
+2939	agosto
+2940	septiembre
+2941	octubre
+2942	noviembre
+2943	diciembre
+2944	primavera
+2945	verano
+2946	otoño
+2947	invierno
+2948	amanecer (sustantivo)
+2949	anochecer (sustantivo)
+2950	mediodía
+2951	medianoche
+2952	madrugada
+2953	víspera
+2954	aniversario
+2955	cumpleaños
+2956	fecha
+2957	calendario
+2958	agenda
+2959	década
+2960	siglo
+2961	milenio
+2962	era
+2963	edad antigua
+2964	edad media
+2965	pasado
+2966	presente
+2967	futuro (tiempo)
+2968	once (núm)
+2969	doce
+2970	trece
+2971	catorce
+2972	quince
+2973	dieciséis
+2974	diecisiete
+2975	dieciocho
+2976	diecinueve
+2977	treinta
+2978	cuarenta
+2979	sesenta
+2980	setenta
+2981	ochenta
+2982	noventa
+2983	primer
+2984	último (núm)
+2985	par
+2986	impar
+2987	lila
+2988	coral
+2989	marrón
+2990	beige (color)
+2991	plateado
+2992	bronce
+2993	carmesí
+2994	esmeralda
+2995	zafiro
+2996	fucsia
+2997	turquesa
+2998	aguamarina
+2999	caqui
+3000	oliva
+3001	añil
+3002	transparente
+3003	claro (color)
+3004	oscuro (color)
+3005	pálido
+3006	brillante (color)
+3007	aunque
+3008	mientras
+3009	según
+3010	acerca de
+3011	sin embargo
+3012	por lo tanto
+3013	además
+3014	así que
+3015	a pesar de
+3016	incluso
+3017	tampoco
+3018	entonces
+3019	luego
+3020	enfrente
+3021	detrás
+3022	encima
+3023	debajo
+3024	dentro
+3025	fuera
+3026	al lado
+3027	asiento
+3028	banca
+3029	sofá
+3030	sillón
+3031	escritorio
+3032	estantería
+3033	cajón
+3034	alfombra
+3035	cortina
+3036	lámpara
+3037	bombilla
+3038	enchufe
+3039	interruptor
+3040	cable
+3041	batería (eléctrica)
+3042	pila
+3043	control remoto
+3044	televisión
+3045	radio
+3046	altavoz
+3047	audífono
+3048	pantalla
+3049	teclado
+3050	ratón (computadora)
+3051	impresora
+3052	escáner
+3053	cargador
+3054	tableta
+3055	portátil
+3056	cámara
+3057	videocámara
