@@ -308,7 +308,8 @@ function listSpanishVoices() {
   });
 }
 
-/** Speak a Spanish word out loud. Optional callback fires when speech ends. */
+/** Speak text via the device's TTS (Web Speech API). Used as a fallback
+    when no pre-recorded MP3 exists, or by the voice-settings preview. */
 function speak(text, opts = {}) {
   if (!('speechSynthesis' in window)) return;
   speechSynthesis.cancel();   // stop any in-progress utterance
@@ -320,6 +321,35 @@ function speak(text, opts = {}) {
   if (opts.onstart) u.onstart = opts.onstart;
   if (opts.onend)   u.onend   = opts.onend;
   speechSynthesis.speak(u);
+}
+
+// One shared Audio element is reused — keeps memory low and lets us stop
+// a previous clip cleanly when the user taps quickly.
+let _wordAudio = null;
+
+/** Play the pre-recorded Jorge (es-MX neural) audio for a word. Falls back
+    to the device voice if the MP3 is missing, blocked, or the user has
+    disabled embedded audio in settings. */
+function speakWord(wordIdx, spanishText) {
+  // Stop anything currently playing
+  if (_wordAudio) { try { _wordAudio.pause(); } catch (_) {} }
+  speechSynthesis && speechSynthesis.cancel();
+
+  // Respect a user override: settings.useEmbedded === false → device voice
+  if (state.settings && state.settings.useEmbedded === false) {
+    return speak(spanishText);
+  }
+
+  const src = `audio/${wordIdx}.mp3`;
+  const audio = new Audio(src);
+  _wordAudio = audio;
+  audio.preload = 'auto';
+  // If the file isn't there (404) or playback fails, fall back gracefully.
+  audio.onerror = () => speak(spanishText);
+  const playPromise = audio.play();
+  if (playPromise && typeof playPromise.catch === 'function') {
+    playPromise.catch(() => speak(spanishText));
+  }
 }
 
 // Voices load asynchronously on some browsers; refresh our cached choice when ready.
@@ -525,7 +555,7 @@ function revealAnswer() {
   $('card-image').classList.add('revealed');
 
   // Auto-pronounce on reveal — comment out next line to disable
-  speak(spanish);
+  speakWord(card.idx, spanish);
 }
 
 function rateCard(rating) {
@@ -770,22 +800,51 @@ function closeVoiceSettings() {
 function renderVoiceList() {
   const list = $('voice-list');
   list.innerHTML = '';
-  const voices = listSpanishVoices();
 
+  // ── EMBEDDED voice row (Jorge, the pre-recorded MP3 audio)
+  const useEmbedded = state.settings.useEmbedded !== false;  // default on
+  const jorge = document.createElement('button');
+  jorge.className = 'voice-row voice-embedded' + (useEmbedded ? ' active' : '');
+  jorge.type = 'button';
+  jorge.innerHTML = `
+    <span class="voice-check">${useEmbedded ? '✓' : ''}</span>
+    <span class="voice-name">Jorge (embedded)</span>
+    <span class="voice-lang">es-MX</span>
+    <span class="voice-tag tag-male">♂ male</span>
+  `;
+  jorge.addEventListener('click', () => {
+    state.settings.useEmbedded = true;
+    saveSettings(state.settings);
+    renderVoiceList();
+    // Preview by playing any one MP3 (use index 0 = "hola")
+    const audio = new Audio('audio/0.mp3');
+    audio.play().catch(()=>{});
+  });
+  list.appendChild(jorge);
+
+  const divider = document.createElement('p');
+  divider.className = 'divider voice-divider';
+  divider.textContent = '— or use a device voice instead —';
+  list.appendChild(divider);
+
+  // ── DEVICE voices (Web Speech API)
+  const voices = listSpanishVoices();
   if (!voices.length) {
-    list.innerHTML = `<p class="hint-text">No Spanish voices were detected on this device.<br>
-      See the install instructions below.</p>`;
+    const note = document.createElement('p');
+    note.className = 'hint-text';
+    note.textContent = 'No Spanish device voices detected. See install help below.';
+    list.appendChild(note);
     return;
   }
 
-  const savedURI = (state.settings || {}).voiceURI;
+  const savedURI = state.settings.voiceURI;
   voices.forEach(v => {
     const row = document.createElement('button');
     row.className = 'voice-row';
     row.type = 'button';
     const isMale = isMaleVoice(v);
-    const checked = (savedURI ? v.voiceURI === savedURI
-                              : v === pickVoice());
+    const checked = !useEmbedded && (savedURI ? v.voiceURI === savedURI
+                                              : v === pickVoice());
     row.innerHTML = `
       <span class="voice-check">${checked ? '✓' : ''}</span>
       <span class="voice-name">${escapeHtml(v.name)}</span>
@@ -800,7 +859,8 @@ function renderVoiceList() {
 }
 
 function selectAndPreview(voice) {
-  state.settings.voiceURI = voice.voiceURI;
+  state.settings.voiceURI    = voice.voiceURI;
+  state.settings.useEmbedded = false;   // user wants device voice now
   saveSettings(state.settings);
   cachedVoice = voice;
   // Re-render so the checkmark moves
@@ -896,14 +956,14 @@ function bind() {
   });
   $('spanish-word').addEventListener('click', () => {
     if (state.answerRevealed) {
-      const sp = state.sessionCards[state.currentIndex].word[0];
-      speak(sp);
+      const c = state.sessionCards[state.currentIndex];
+      speakWord(c.idx, c.word[0]);
     }
   });
   $('speak-btn').addEventListener('click', e => {
     e.stopPropagation();
-    const sp = state.sessionCards[state.currentIndex].word[0];
-    speak(sp);
+    const c = state.sessionCards[state.currentIndex];
+    speakWord(c.idx, c.word[0]);
   });
   document.querySelectorAll('.rating-btn').forEach(btn => {
     btn.addEventListener('click', () => rateCard(parseInt(btn.dataset.rating, 10)));

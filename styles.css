@@ -510,6 +510,13 @@ input  { font-family: inherit; font-size: inherit; }
 .tag-male   { background: #E3F2FD; color: #0D47A1; }
 .tag-female { background: #FCE4EC; color: #880E4F; }
 
+.voice-embedded {
+  border-color: #2E7D32;
+  background: #F1F8F2;
+}
+.voice-embedded.active { border-width: 2px; }
+.voice-divider { margin: 8px 4px; }
+
 .voice-help {
   background: #F7F2EA;
   border: 1px solid var(--border);
