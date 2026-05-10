@@ -112,6 +112,31 @@ def write_data_js(vocab, out_path):
         f.write(';\n')
 
 
+def write_index_manifest(vocab):
+    """Save a tiny CSV mapping idx → spanish word. Used to detect order changes
+    between builds, so we never leave audio/{idx}.mp3 mismatched with vocabulary[idx]
+    again. Compare with previous to catch reordering."""
+    path = os.path.join(ROOT, '_tools', 'index_manifest.tsv')
+    prev = {}
+    if os.path.exists(path):
+        for line in open(path, encoding='utf-8'):
+            i, sp = line.rstrip('\n').split('\t', 1)
+            prev[int(i)] = sp
+    with open(path, 'w', encoding='utf-8') as f:
+        for i, e in enumerate(vocab):
+            f.write(f'{i}\t{e[0]}\n')
+    if prev:
+        moved = [(i, prev[i], vocab[i][0]) for i in prev
+                 if i < len(vocab) and prev[i] != vocab[i][0]]
+        if moved:
+            print(f'⚠️  {len(moved)} entries changed at fixed indices —')
+            print(f'   audio/images at those indices may now be stale.')
+            print(f'   Run:  python3 _tools/generate_audio.py --regen-all')
+            print(f'   And:  PIXABAY_KEY=... python3 _tools/fetch_images.py')
+            for i, old, new in moved[:5]:
+                print(f'   #{i}: {old!r} → {new!r}')
+
+
 if __name__ == '__main__':
     # Import the word list from a sibling Python file
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -128,4 +153,5 @@ if __name__ == '__main__':
 
     out = os.path.join(ROOT, 'data.js')
     write_data_js(VOCABULARY, out)
+    write_index_manifest(VOCABULARY)
     print(f'✅ wrote {out} with {len(VOCABULARY)} entries')
