@@ -486,6 +486,97 @@ function beginSession() {
   renderCard();
 }
 
+/**
+ * Render the visual for a flashcard. Priority order:
+ *   1. User customization (custom uploaded image or emoji) — always wins
+ *   2. Declared visual strategy in the vocabulary entry
+ *      - "photo"   → fetch images/{idx}.jpg, fallback to category emoji
+ *      - "digit"   → render the search field as a big number
+ *      - "swatch"  → render search field as a CSS color block
+ *      - "text"    → render the English word as styled text
+ *      - "grammar" → render English word + usage example
+ *   3. No strategy → category emoji (legacy 4-field entries)
+ */
+function renderVisual(wordIdx, english, category, imgTerm, strategy, usage, catBg) {
+  const img = $('card-image');
+  // Reset
+  img.classList.remove('revealed');
+  img.style.background = catBg;
+  img.style.backgroundImage = '';
+  img.style.color = '';
+  img.style.fontSize = '';
+  img.style.lineHeight = '';
+  img.innerHTML = '';
+
+  // 1. User customization wins
+  const custom = state.customizations[String(wordIdx)];
+  if (custom && custom.type === 'image' && custom.dataUrl) {
+    img.style.backgroundImage = `url("${custom.dataUrl}")`;
+    return;
+  }
+  if (custom && custom.type === 'emoji' && custom.emoji) {
+    img.textContent = custom.emoji;
+    return;
+  }
+
+  // 2. Declared strategy
+  switch (strategy) {
+    case 'photo':
+      // Lazy-load the image; if it 404s, fall back to category emoji.
+      // Using a probe <img> avoids flashes/empty space if no file exists.
+      const probe = new Image();
+      probe.onload = () => {
+        img.style.backgroundImage = `url("images/${wordIdx}.jpg")`;
+      };
+      probe.onerror = () => {
+        img.textContent = (CATEGORY_EMOJI[category] || '📚');
+      };
+      probe.src = `images/${wordIdx}.jpg`;
+      return;
+
+    case 'digit':
+      img.style.fontSize = '120px';
+      img.style.color = '#1B4332';
+      img.textContent = imgTerm || '?';
+      return;
+
+    case 'swatch':
+      // imgTerm holds a hex color like "#E53935"
+      img.style.background = imgTerm || '#CCCCCC';
+      return;
+
+    case 'text': {
+      // Show the English word, big and centered, on the category-colored card
+      const span = document.createElement('div');
+      span.className = 'visual-text';
+      span.textContent = english.toUpperCase();
+      img.appendChild(span);
+      return;
+    }
+
+    case 'grammar': {
+      const wrap = document.createElement('div');
+      wrap.className = 'visual-grammar';
+      const head = document.createElement('div');
+      head.className = 'visual-grammar-word';
+      head.textContent = english;
+      wrap.appendChild(head);
+      if (usage) {
+        const eg = document.createElement('div');
+        eg.className = 'visual-grammar-eg';
+        eg.textContent = `"${usage}"`;
+        wrap.appendChild(eg);
+      }
+      img.appendChild(wrap);
+      return;
+    }
+
+    default:
+      // Legacy: no strategy set, fall back to emoji
+      img.textContent = getEmojiForWord(english, category);
+  }
+}
+
 function renderCard() {
   if (state.currentIndex >= state.sessionCards.length) {
     renderDone();
@@ -494,7 +585,7 @@ function renderCard() {
   }
   state.answerRevealed = false;
   const card = state.sessionCards[state.currentIndex];
-  const [spanish, english, category, _imgTerm] = card.word;
+  const [spanish, english, category, imgTerm, strategy, usage] = card.word;
 
   // Header / progress
   $('study-progress').textContent =
@@ -508,20 +599,8 @@ function renderCard() {
   catEl.textContent = category.toUpperCase();
   catEl.style.background = catBg;
 
-  // Visual: custom image, custom emoji, or smart default emoji
-  const img = $('card-image');
-  img.classList.remove('revealed');
-  img.style.background = catBg;
-  img.style.backgroundImage = '';
-  img.textContent = '';
-  const custom = state.customizations[String(card.idx)];
-  if (custom && custom.type === 'image' && custom.dataUrl) {
-    img.style.backgroundImage = `url("${custom.dataUrl}")`;
-  } else if (custom && custom.type === 'emoji' && custom.emoji) {
-    img.textContent = custom.emoji;
-  } else {
-    img.textContent = getEmojiForWord(english, category);
-  }
+  // Visual: priority is (1) user customization, (2) declared strategy.
+  renderVisual(card.idx, english, category, imgTerm, strategy, usage, catBg);
 
   // Reset answer area
   $('spanish-text').textContent = '';
