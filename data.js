@@ -6249,6 +6249,6495 @@ const VOCABULARY = [
     "wine",
     "",
     "text"
+  ],
+  [
+    "acabar",
+    "to finish / end up",
+    "verbs",
+    "finish line tape",
+    "photo"
+  ],
+  [
+    "acordarse",
+    "to remember",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "agarrar",
+    "to grab / catch",
+    "verbs",
+    "catching ball",
+    "photo"
+  ],
+  [
+    "ahorrar",
+    "to save (money)",
+    "verbs",
+    "piggy bank coins",
+    "photo"
+  ],
+  [
+    "alegrar",
+    "to make happy",
+    "verbs",
+    "cheering happy",
+    "photo"
+  ],
+  [
+    "alimentar",
+    "to feed",
+    "verbs",
+    "feeding bottle baby",
+    "photo"
+  ],
+  [
+    "animar",
+    "to encourage",
+    "verbs",
+    "cheering crowd",
+    "photo"
+  ],
+  [
+    "apoyar",
+    "to support",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "aprobar",
+    "to approve / pass",
+    "verbs",
+    "approved stamp green",
+    "photo"
+  ],
+  [
+    "arreglar",
+    "to fix / arrange",
+    "verbs",
+    "fixing repair tools",
+    "photo"
+  ],
+  [
+    "asistir",
+    "to attend",
+    "verbs",
+    "audience attending",
+    "photo"
+  ],
+  [
+    "asustar",
+    "to scare",
+    "verbs",
+    "scared screaming",
+    "photo"
+  ],
+  [
+    "atravesar",
+    "to cross / go through",
+    "verbs",
+    "crossing bridge",
+    "photo"
+  ],
+  [
+    "avisar",
+    "to notify / warn",
+    "verbs",
+    "alert notification phone",
+    "photo"
+  ],
+  [
+    "bailar",
+    "to dance",
+    "verbs",
+    "dancing couple",
+    "photo"
+  ],
+  [
+    "bañarse",
+    "to bathe oneself",
+    "verbs",
+    "bathtub relaxing",
+    "photo"
+  ],
+  [
+    "bastar",
+    "to be enough",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "batir",
+    "to beat / whisk",
+    "verbs",
+    "whisking eggs",
+    "photo"
+  ],
+  [
+    "bendecir",
+    "to bless",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "brillar",
+    "to shine",
+    "verbs",
+    "sun shining bright",
+    "photo"
+  ],
+  [
+    "calcular",
+    "to calculate",
+    "verbs",
+    "calculator math",
+    "photo"
+  ],
+  [
+    "capturar",
+    "to capture",
+    "verbs",
+    "camera capturing photo",
+    "photo"
+  ],
+  [
+    "charlar",
+    "to chat",
+    "verbs",
+    "chatting friends cafe",
+    "photo"
+  ],
+  [
+    "clasificar",
+    "to classify",
+    "verbs",
+    "sorting categories",
+    "photo"
+  ],
+  [
+    "colaborar",
+    "to collaborate",
+    "verbs",
+    "team collaboration",
+    "photo"
+  ],
+  [
+    "combinar",
+    "to combine",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "compartir",
+    "to share",
+    "verbs",
+    "sharing food friends",
+    "photo"
+  ],
+  [
+    "completar",
+    "to complete",
+    "verbs",
+    "checklist complete",
+    "photo"
+  ],
+  [
+    "comprobar",
+    "to verify / check",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "conducir",
+    "to drive / lead",
+    "verbs",
+    "driving car",
+    "photo"
+  ],
+  [
+    "confesar",
+    "to confess",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "consagrar",
+    "to consecrate / dedicate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "conservar",
+    "to preserve / keep",
+    "verbs",
+    "preserve jar canning",
+    "photo"
+  ],
+  [
+    "consistir",
+    "to consist of",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "consultar",
+    "to consult",
+    "verbs",
+    "consultation meeting",
+    "photo"
+  ],
+  [
+    "contaminar",
+    "to pollute",
+    "verbs",
+    "pollution smoke factory",
+    "photo"
+  ],
+  [
+    "contemplar",
+    "to contemplate",
+    "verbs",
+    "contemplating view",
+    "photo"
+  ],
+  [
+    "continuar",
+    "to continue",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "contradecir",
+    "to contradict",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "contribuir",
+    "to contribute",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "convencer",
+    "to convince",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "conversar",
+    "to converse",
+    "verbs",
+    "conversation friends",
+    "photo"
+  ],
+  [
+    "copiar",
+    "to copy",
+    "verbs",
+    "photocopy machine",
+    "photo"
+  ],
+  [
+    "costar",
+    "to cost",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "cubrir",
+    "to cover",
+    "verbs",
+    "covering blanket",
+    "photo"
+  ],
+  [
+    "dañar",
+    "to damage",
+    "verbs",
+    "broken cracked",
+    "photo"
+  ],
+  [
+    "debatir",
+    "to debate",
+    "verbs",
+    "debate podium",
+    "photo"
+  ],
+  [
+    "dedicar",
+    "to dedicate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "definir",
+    "to define",
+    "verbs",
+    "dictionary definition",
+    "photo"
+  ],
+  [
+    "denunciar",
+    "to denounce / report",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "depositar",
+    "to deposit",
+    "verbs",
+    "bank atm deposit",
+    "photo"
+  ],
+  [
+    "derramar",
+    "to spill",
+    "verbs",
+    "spilled coffee",
+    "photo"
+  ],
+  [
+    "derrotar",
+    "to defeat",
+    "verbs",
+    "trophy victory",
+    "photo"
+  ],
+  [
+    "desafiar",
+    "to challenge",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "desconocer",
+    "to not know",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "descender",
+    "to descend",
+    "verbs",
+    "stairs going down",
+    "photo"
+  ],
+  [
+    "desempeñar",
+    "to perform / carry out",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "despegar",
+    "to take off (plane)",
+    "verbs",
+    "airplane takeoff",
+    "photo"
+  ],
+  [
+    "destacar",
+    "to stand out",
+    "verbs",
+    "spotlight star",
+    "photo"
+  ],
+  [
+    "dictar",
+    "to dictate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "diferenciar",
+    "to differentiate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "diseñar",
+    "to design",
+    "verbs",
+    "designer sketching",
+    "photo"
+  ],
+  [
+    "disolver",
+    "to dissolve",
+    "verbs",
+    "dissolving sugar water",
+    "photo"
+  ],
+  [
+    "disparar",
+    "to shoot / fire",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "disponer",
+    "to arrange / dispose",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "distinguir",
+    "to distinguish",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "distribuir",
+    "to distribute",
+    "verbs",
+    "delivery boxes",
+    "photo"
+  ],
+  [
+    "donar",
+    "to donate",
+    "verbs",
+    "donation box charity",
+    "photo"
+  ],
+  [
+    "eliminar",
+    "to eliminate / remove",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "emitir",
+    "to emit / broadcast",
+    "verbs",
+    "radio broadcast tower",
+    "photo"
+  ],
+  [
+    "emocionar",
+    "to move (emotionally)",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "enamorarse",
+    "to fall in love",
+    "verbs",
+    "couple in love",
+    "photo"
+  ],
+  [
+    "encargar",
+    "to order / charge with",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "encerrar",
+    "to lock up",
+    "verbs",
+    "locked cage",
+    "photo"
+  ],
+  [
+    "enfocar",
+    "to focus",
+    "verbs",
+    "camera lens focus",
+    "photo"
+  ],
+  [
+    "enfrentar",
+    "to confront / face",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "engañar",
+    "to deceive",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "enriquecer",
+    "to enrich",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "ensuciar",
+    "to dirty",
+    "verbs",
+    "muddy dirty hands",
+    "photo"
+  ],
+  [
+    "enterrar",
+    "to bury",
+    "verbs",
+    "grave cemetery",
+    "photo"
+  ],
+  [
+    "escalar",
+    "to climb",
+    "verbs",
+    "mountain climber",
+    "photo"
+  ],
+  [
+    "escoger",
+    "to choose",
+    "verbs",
+    "choosing options",
+    "photo"
+  ],
+  [
+    "esculpir",
+    "to sculpt",
+    "verbs",
+    "sculptor clay",
+    "photo"
+  ],
+  [
+    "estimular",
+    "to stimulate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "evaluar",
+    "to evaluate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "examinar",
+    "to examine",
+    "verbs",
+    "examining microscope",
+    "photo"
+  ],
+  [
+    "exclamar",
+    "to exclaim",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "exhibir",
+    "to exhibit",
+    "verbs",
+    "museum exhibit display",
+    "photo"
+  ],
+  [
+    "exigir",
+    "to demand",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "expandir",
+    "to expand",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "exponer",
+    "to expose / display",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "extender",
+    "to extend",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "extraer",
+    "to extract",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "fascinar",
+    "to fascinate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "festejar",
+    "to celebrate",
+    "verbs",
+    "party celebration",
+    "photo"
+  ],
+  [
+    "fingir",
+    "to pretend / fake",
+    "verbs",
+    "mask theater",
+    "photo"
+  ],
+  [
+    "florecer",
+    "to bloom",
+    "verbs",
+    "flowers blooming spring",
+    "photo"
+  ],
+  [
+    "fluir",
+    "to flow",
+    "verbs",
+    "river flowing water",
+    "photo"
+  ],
+  [
+    "formular",
+    "to formulate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "fracasar",
+    "to fail",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "fundar",
+    "to found / establish",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "garantizar",
+    "to guarantee",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "generar",
+    "to generate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "gozar",
+    "to enjoy",
+    "verbs",
+    "enjoying summer beach",
+    "photo"
+  ],
+  [
+    "hervir",
+    "to boil",
+    "verbs",
+    "boiling water pot",
+    "photo"
+  ],
+  [
+    "identificar",
+    "to identify",
+    "verbs",
+    "id badge fingerprint",
+    "photo"
+  ],
+  [
+    "ilustrar",
+    "to illustrate",
+    "verbs",
+    "illustrator drawing",
+    "photo"
+  ],
+  [
+    "imitar",
+    "to imitate",
+    "verbs",
+    "mirror reflection",
+    "photo"
+  ],
+  [
+    "impedir",
+    "to prevent",
+    "verbs",
+    "stop hand",
+    "photo"
+  ],
+  [
+    "implementar",
+    "to implement",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "imponer",
+    "to impose",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "impulsar",
+    "to drive / boost",
+    "verbs",
+    "rocket launch",
+    "photo"
+  ],
+  [
+    "indicar",
+    "to indicate",
+    "verbs",
+    "arrow pointing",
+    "photo"
+  ],
+  [
+    "infectar",
+    "to infect",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "inflar",
+    "to inflate",
+    "verbs",
+    "balloon inflating",
+    "photo"
+  ],
+  [
+    "influir",
+    "to influence",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "ingresar",
+    "to enter / deposit",
+    "verbs",
+    "entrance entering",
+    "photo"
+  ],
+  [
+    "iniciar",
+    "to start / initiate",
+    "verbs",
+    "start button rocket",
+    "photo"
+  ],
+  [
+    "innovar",
+    "to innovate",
+    "verbs",
+    "lightbulb innovation",
+    "photo"
+  ],
+  [
+    "inscribir",
+    "to register / enroll",
+    "verbs",
+    "registration form",
+    "photo"
+  ],
+  [
+    "inspirar",
+    "to inspire",
+    "verbs",
+    "inspiration lightbulb",
+    "photo"
+  ],
+  [
+    "instalar",
+    "to install",
+    "verbs",
+    "installing software computer",
+    "photo"
+  ],
+  [
+    "intercambiar",
+    "to exchange",
+    "verbs",
+    "exchange swap",
+    "photo"
+  ],
+  [
+    "interpretar",
+    "to interpret",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "intervenir",
+    "to intervene",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "introducir",
+    "to introduce / insert",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "invertir",
+    "to invest",
+    "verbs",
+    "investment chart growth",
+    "photo"
+  ],
+  [
+    "investigar",
+    "to investigate / research",
+    "verbs",
+    "detective magnifying",
+    "photo"
+  ],
+  [
+    "jurar",
+    "to swear / vow",
+    "verbs",
+    "swearing oath hand",
+    "photo"
+  ],
+  [
+    "juzgar",
+    "to judge",
+    "verbs",
+    "judge gavel court",
+    "photo"
+  ],
+  [
+    "lanzar",
+    "to throw / launch",
+    "verbs",
+    "throwing pitcher",
+    "photo"
+  ],
+  [
+    "liberar",
+    "to release / free",
+    "verbs",
+    "bird flying free",
+    "photo"
+  ],
+  [
+    "mantener",
+    "to maintain",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "marcar",
+    "to mark / dial",
+    "verbs",
+    "marker highlighter",
+    "photo"
+  ],
+  [
+    "marchar",
+    "to march / leave",
+    "verbs",
+    "marching parade",
+    "photo"
+  ],
+  [
+    "medir",
+    "to measure",
+    "verbs",
+    "tape measure ruler",
+    "photo"
+  ],
+  [
+    "mejorar",
+    "to improve",
+    "verbs",
+    "upward growth chart",
+    "photo"
+  ],
+  [
+    "mencionar",
+    "to mention",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "mojar",
+    "to wet",
+    "verbs",
+    "wet rain umbrella",
+    "photo"
+  ],
+  [
+    "moler",
+    "to grind",
+    "verbs",
+    "grinding coffee beans",
+    "photo"
+  ],
+  [
+    "molestar",
+    "to bother",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "montar",
+    "to ride / mount",
+    "verbs",
+    "horseback riding",
+    "photo"
+  ],
+  [
+    "motivar",
+    "to motivate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "multiplicar",
+    "to multiply",
+    "verbs",
+    "multiplication math",
+    "photo"
+  ],
+  [
+    "nombrar",
+    "to name",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "obedecer",
+    "to obey",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "observar",
+    "to observe",
+    "verbs",
+    "binoculars watching",
+    "photo"
+  ],
+  [
+    "obtener",
+    "to obtain",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "ocupar",
+    "to occupy",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "ofrecer",
+    "to offer",
+    "verbs",
+    "offering gift hands",
+    "photo"
+  ],
+  [
+    "operar",
+    "to operate",
+    "verbs",
+    "surgeon operating room",
+    "photo"
+  ],
+  [
+    "opinar",
+    "to give opinion",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "organizar",
+    "to organize",
+    "verbs",
+    "organized files folders",
+    "photo"
+  ],
+  [
+    "pagar",
+    "to pay",
+    "verbs",
+    "paying credit card",
+    "photo"
+  ],
+  [
+    "palmar",
+    "to clap",
+    "verbs",
+    "applause clapping hands",
+    "photo"
+  ],
+  [
+    "parecerse",
+    "to look alike",
+    "verbs",
+    "twins similar",
+    "photo"
+  ],
+  [
+    "participar",
+    "to participate",
+    "verbs",
+    "participating team",
+    "photo"
+  ],
+  [
+    "pelear",
+    "to fight",
+    "verbs",
+    "fighting boxers",
+    "photo"
+  ],
+  [
+    "pertenecer",
+    "to belong",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "pisar",
+    "to step on",
+    "verbs",
+    "footprint stepping",
+    "photo"
+  ],
+  [
+    "plantear",
+    "to pose / propose",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "poseer",
+    "to possess / own",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "practicar",
+    "to practice",
+    "verbs",
+    "practice musician",
+    "photo"
+  ],
+  [
+    "preferir",
+    "to prefer",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "presentir",
+    "to have a feeling",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "presumir",
+    "to boast",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "prevenir",
+    "to prevent",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "probar",
+    "to try / taste",
+    "verbs",
+    "tasting food chef",
+    "photo"
+  ],
+  [
+    "proceder",
+    "to proceed",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "promover",
+    "to promote",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "proponer",
+    "to propose",
+    "verbs",
+    "proposal ring",
+    "photo"
+  ],
+  [
+    "protestar",
+    "to protest",
+    "verbs",
+    "protest march signs",
+    "photo"
+  ],
+  [
+    "provocar",
+    "to provoke",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "publicar",
+    "to publish",
+    "verbs",
+    "newspaper printed",
+    "photo"
+  ],
+  [
+    "quemar",
+    "to burn",
+    "verbs",
+    "fire flames burning",
+    "photo"
+  ],
+  [
+    "rascar",
+    "to scratch",
+    "verbs",
+    "cat scratching post",
+    "photo"
+  ],
+  [
+    "razonar",
+    "to reason",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "reaccionar",
+    "to react",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "realizar",
+    "to carry out",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "rebajar",
+    "to lower / discount",
+    "verbs",
+    "sale discount tag",
+    "photo"
+  ],
+  [
+    "recibir",
+    "to receive",
+    "verbs",
+    "receiving package gift",
+    "photo"
+  ],
+  [
+    "reclamar",
+    "to complain / claim",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "recomendar",
+    "to recommend",
+    "verbs",
+    "thumbs up review",
+    "photo"
+  ],
+  [
+    "recompensar",
+    "to reward",
+    "verbs",
+    "trophy reward",
+    "photo"
+  ],
+  [
+    "redactar",
+    "to compose / draft",
+    "verbs",
+    "writing essay",
+    "photo"
+  ],
+  [
+    "reducir",
+    "to reduce",
+    "verbs",
+    "downward chart",
+    "photo"
+  ],
+  [
+    "reemplazar",
+    "to replace",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "referir",
+    "to refer",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "reflexionar",
+    "to reflect",
+    "verbs",
+    "reflection thinking",
+    "photo"
+  ],
+  [
+    "reformar",
+    "to reform",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "regalar",
+    "to give as gift",
+    "verbs",
+    "wrapped gift bow",
+    "photo"
+  ],
+  [
+    "registrar",
+    "to register / record",
+    "verbs",
+    "records files",
+    "photo"
+  ],
+  [
+    "regular",
+    "to regulate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "relajar",
+    "to relax",
+    "verbs",
+    "relaxing spa",
+    "photo"
+  ],
+  [
+    "renunciar",
+    "to resign / give up",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "reparar",
+    "to repair",
+    "verbs",
+    "repairing tools mechanic",
+    "photo"
+  ],
+  [
+    "repartir",
+    "to distribute / share",
+    "verbs",
+    "delivery delivering",
+    "photo"
+  ],
+  [
+    "reportar",
+    "to report",
+    "verbs",
+    "news reporter microphone",
+    "photo"
+  ],
+  [
+    "representar",
+    "to represent",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "reservar",
+    "to reserve / book",
+    "verbs",
+    "reservation booking",
+    "photo"
+  ],
+  [
+    "respetar",
+    "to respect",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "responsabilizar",
+    "to hold responsible",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "resumir",
+    "to summarize",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "retirar",
+    "to withdraw",
+    "verbs",
+    "atm withdraw cash",
+    "photo"
+  ],
+  [
+    "reunir",
+    "to gather",
+    "verbs",
+    "group gathering people",
+    "photo"
+  ],
+  [
+    "revelar",
+    "to reveal",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "reventar",
+    "to burst",
+    "verbs",
+    "balloon popping",
+    "photo"
+  ],
+  [
+    "revisar",
+    "to review / inspect",
+    "verbs",
+    "reviewing documents",
+    "photo"
+  ],
+  [
+    "rezar",
+    "to pray",
+    "verbs",
+    "praying hands",
+    "photo"
+  ],
+  [
+    "rodear",
+    "to surround",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sacar",
+    "to take out",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sacudir",
+    "to shake",
+    "verbs",
+    "earthquake shaking",
+    "photo"
+  ],
+  [
+    "saludar",
+    "to greet",
+    "verbs",
+    "handshake greeting",
+    "photo"
+  ],
+  [
+    "sancionar",
+    "to sanction / penalize",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "satisfacer",
+    "to satisfy",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "seguir",
+    "to follow",
+    "verbs",
+    "follow footsteps",
+    "photo"
+  ],
+  [
+    "seleccionar",
+    "to select",
+    "verbs",
+    "checkmark selection",
+    "photo"
+  ],
+  [
+    "señalar",
+    "to point out",
+    "verbs",
+    "pointing finger arrow",
+    "photo"
+  ],
+  [
+    "separar",
+    "to separate",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sobrevivir",
+    "to survive",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "solicitar",
+    "to request / apply",
+    "verbs",
+    "application form",
+    "photo"
+  ],
+  [
+    "soltar",
+    "to let go",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "someter",
+    "to subject / submit",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "soportar",
+    "to bear / support",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sostener",
+    "to hold up",
+    "verbs",
+    "supporting weight",
+    "photo"
+  ],
+  [
+    "subrayar",
+    "to underline",
+    "verbs",
+    "underlined text",
+    "photo"
+  ],
+  [
+    "sucedernos",
+    "to happen to us",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sugerir",
+    "to suggest",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sumar",
+    "to add up",
+    "verbs",
+    "plus sign math",
+    "photo"
+  ],
+  [
+    "superar",
+    "to overcome",
+    "verbs",
+    "summit success",
+    "photo"
+  ],
+  [
+    "surgir",
+    "to arise",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "sustituir",
+    "to substitute",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "tejer",
+    "to weave / knit",
+    "verbs",
+    "knitting yarn",
+    "photo"
+  ],
+  [
+    "temer",
+    "to fear",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "tender",
+    "to spread / hang",
+    "verbs",
+    "laundry line clothes",
+    "photo"
+  ],
+  [
+    "torcer",
+    "to twist",
+    "verbs",
+    "twisted rope",
+    "photo"
+  ],
+  [
+    "transformar",
+    "to transform",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "transmitir",
+    "to transmit",
+    "verbs",
+    "tv broadcasting",
+    "photo"
+  ],
+  [
+    "transportar",
+    "to transport",
+    "verbs",
+    "truck cargo highway",
+    "photo"
+  ],
+  [
+    "trasladar",
+    "to move / transfer",
+    "verbs",
+    "moving boxes truck",
+    "photo"
+  ],
+  [
+    "tratar",
+    "to try / treat",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "tropezar",
+    "to trip / stumble",
+    "verbs",
+    "tripping fall",
+    "photo"
+  ],
+  [
+    "unir",
+    "to unite",
+    "verbs",
+    "puzzle pieces together",
+    "photo"
+  ],
+  [
+    "utilizar",
+    "to use",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "vaciar",
+    "to empty",
+    "verbs",
+    "empty glass pouring",
+    "photo"
+  ],
+  [
+    "vacunar",
+    "to vaccinate",
+    "verbs",
+    "vaccine injection",
+    "photo"
+  ],
+  [
+    "valorar",
+    "to value",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "variar",
+    "to vary",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "vencer",
+    "to win / overcome",
+    "verbs",
+    "trophy victory",
+    "photo"
+  ],
+  [
+    "verificar",
+    "to verify",
+    "verbs",
+    "",
+    "text"
+  ],
+  [
+    "vestirse",
+    "to get dressed",
+    "verbs",
+    "getting dressed",
+    "photo"
+  ],
+  [
+    "vigilar",
+    "to watch / guard",
+    "verbs",
+    "security guard",
+    "photo"
+  ],
+  [
+    "abierto",
+    "open",
+    "adjectives",
+    "open door",
+    "photo"
+  ],
+  [
+    "alegre",
+    "happy / cheerful",
+    "adjectives",
+    "cheerful smiling",
+    "photo"
+  ],
+  [
+    "amargo",
+    "bitter",
+    "adjectives",
+    "bitter coffee dark",
+    "photo"
+  ],
+  [
+    "amplio",
+    "wide / spacious",
+    "adjectives",
+    "spacious room",
+    "photo"
+  ],
+  [
+    "antiguo",
+    "ancient / old",
+    "adjectives",
+    "ancient ruins",
+    "photo"
+  ],
+  [
+    "avanzado",
+    "advanced",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "aburrido",
+    "boring",
+    "adjectives",
+    "bored yawning",
+    "photo"
+  ],
+  [
+    "actual",
+    "current",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "agradable",
+    "pleasant",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "agresivo",
+    "aggressive",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "amigable",
+    "friendly",
+    "adjectives",
+    "friendly smile",
+    "photo"
+  ],
+  [
+    "antiguo",
+    "old / ancient",
+    "adjectives",
+    "antique vintage",
+    "photo"
+  ],
+  [
+    "ágil",
+    "agile",
+    "adjectives",
+    "gymnast flexible",
+    "photo"
+  ],
+  [
+    "ácido",
+    "sour / acidic",
+    "adjectives",
+    "lemon sour face",
+    "photo"
+  ],
+  [
+    "aspero",
+    "rough / harsh",
+    "adjectives",
+    "rough texture stone",
+    "photo"
+  ],
+  [
+    "azucarado",
+    "sugary",
+    "adjectives",
+    "sugar sweet candy",
+    "photo"
+  ],
+  [
+    "bondadoso",
+    "kind",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "básico",
+    "basic",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "calvo",
+    "bald",
+    "adjectives",
+    "bald man head",
+    "photo"
+  ],
+  [
+    "capaz",
+    "capable",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "ciego",
+    "blind",
+    "adjectives",
+    "blind cane person",
+    "photo"
+  ],
+  [
+    "clásico",
+    "classic",
+    "adjectives",
+    "classic vintage car",
+    "photo"
+  ],
+  [
+    "complicado",
+    "complicated",
+    "adjectives",
+    "tangled complex",
+    "photo"
+  ],
+  [
+    "conocido",
+    "known",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "cortés",
+    "polite",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "cruel",
+    "cruel",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "culpable",
+    "guilty",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "decente",
+    "decent",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "delgado",
+    "thin / slender",
+    "adjectives",
+    "slim person",
+    "photo"
+  ],
+  [
+    "delicioso",
+    "delicious",
+    "adjectives",
+    "gourmet plated food",
+    "photo"
+  ],
+  [
+    "denso",
+    "dense",
+    "adjectives",
+    "dense forest",
+    "photo"
+  ],
+  [
+    "desnudo",
+    "naked",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "dispuesto",
+    "willing / ready",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "dudoso",
+    "doubtful",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "egoísta",
+    "selfish",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "elegante",
+    "elegant",
+    "adjectives",
+    "elegant evening dress",
+    "photo"
+  ],
+  [
+    "entero",
+    "whole / entire",
+    "adjectives",
+    "whole pizza",
+    "photo"
+  ],
+  [
+    "equivocado",
+    "mistaken",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "espacioso",
+    "spacious",
+    "adjectives",
+    "spacious living room",
+    "photo"
+  ],
+  [
+    "estable",
+    "stable",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "extranjero",
+    "foreign",
+    "adjectives",
+    "foreign passport stamps",
+    "photo"
+  ],
+  [
+    "fiel",
+    "faithful",
+    "adjectives",
+    "loyal dog",
+    "photo"
+  ],
+  [
+    "fino",
+    "fine / refined",
+    "adjectives",
+    "fine china dishes",
+    "photo"
+  ],
+  [
+    "frágil",
+    "fragile",
+    "adjectives",
+    "fragile glass",
+    "photo"
+  ],
+  [
+    "franco",
+    "frank / candid",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "fresco",
+    "fresh",
+    "adjectives",
+    "fresh produce vegetables",
+    "photo"
+  ],
+  [
+    "gentil",
+    "gentle / kind",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "genuino",
+    "genuine",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "glorioso",
+    "glorious",
+    "adjectives",
+    "golden glory",
+    "photo"
+  ],
+  [
+    "grato",
+    "pleasant",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "grueso",
+    "thick",
+    "adjectives",
+    "thick book",
+    "photo"
+  ],
+  [
+    "hermoso",
+    "beautiful",
+    "adjectives",
+    "beautiful sunset landscape",
+    "photo"
+  ],
+  [
+    "honesto",
+    "honest",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "hondo",
+    "deep",
+    "adjectives",
+    "deep ocean blue",
+    "photo"
+  ],
+  [
+    "humilde",
+    "humble",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "húmedo",
+    "humid / damp",
+    "adjectives",
+    "humid jungle",
+    "photo"
+  ],
+  [
+    "increíble",
+    "incredible",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "intenso",
+    "intense",
+    "adjectives",
+    "intense fire flame",
+    "photo"
+  ],
+  [
+    "interno",
+    "internal",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "judío",
+    "Jewish",
+    "adjectives",
+    "star david menorah",
+    "photo"
+  ],
+  [
+    "justo",
+    "fair / just",
+    "adjectives",
+    "scales justice balance",
+    "photo"
+  ],
+  [
+    "lejano",
+    "distant / far",
+    "adjectives",
+    "horizon distance",
+    "photo"
+  ],
+  [
+    "leal",
+    "loyal",
+    "adjectives",
+    "loyal dog",
+    "photo"
+  ],
+  [
+    "liso",
+    "smooth / straight",
+    "adjectives",
+    "smooth surface marble",
+    "photo"
+  ],
+  [
+    "liviano",
+    "light (weight)",
+    "adjectives",
+    "feather floating",
+    "photo"
+  ],
+  [
+    "maduro",
+    "ripe / mature",
+    "adjectives",
+    "ripe fruit",
+    "photo"
+  ],
+  [
+    "malvado",
+    "evil",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "manso",
+    "tame / docile",
+    "adjectives",
+    "tame dog calm",
+    "photo"
+  ],
+  [
+    "misterioso",
+    "mysterious",
+    "adjectives",
+    "mystery silhouette",
+    "photo"
+  ],
+  [
+    "modesto",
+    "modest",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "mojado",
+    "wet",
+    "adjectives",
+    "wet rain soaked",
+    "photo"
+  ],
+  [
+    "nostálgico",
+    "nostalgic",
+    "adjectives",
+    "old photos nostalgia",
+    "photo"
+  ],
+  [
+    "odioso",
+    "hateful",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "paciente",
+    "patient",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "peludo",
+    "hairy / furry",
+    "adjectives",
+    "fluffy fur dog",
+    "photo"
+  ],
+  [
+    "pequeñito",
+    "tiny",
+    "adjectives",
+    "tiny baby ant",
+    "photo"
+  ],
+  [
+    "perfecto",
+    "perfect",
+    "adjectives",
+    "perfect score 100",
+    "photo"
+  ],
+  [
+    "pesado",
+    "heavy",
+    "adjectives",
+    "heavy weight barbell",
+    "photo"
+  ],
+  [
+    "picante",
+    "spicy",
+    "adjectives",
+    "spicy chili red",
+    "photo"
+  ],
+  [
+    "plano",
+    "flat",
+    "adjectives",
+    "flat horizon plain",
+    "photo"
+  ],
+  [
+    "pobre",
+    "poor",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "preciso",
+    "precise",
+    "adjectives",
+    "precise measurement",
+    "photo"
+  ],
+  [
+    "primario",
+    "primary",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "probable",
+    "probable",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "profundo",
+    "deep / profound",
+    "adjectives",
+    "deep canyon",
+    "photo"
+  ],
+  [
+    "próspero",
+    "prosperous",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "puro",
+    "pure",
+    "adjectives",
+    "pure clear water",
+    "photo"
+  ],
+  [
+    "realista",
+    "realistic",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "redondo",
+    "round",
+    "adjectives",
+    "round circle ball",
+    "photo"
+  ],
+  [
+    "religioso",
+    "religious",
+    "adjectives",
+    "praying religious",
+    "photo"
+  ],
+  [
+    "repentino",
+    "sudden",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "rígido",
+    "rigid",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "roto",
+    "broken",
+    "adjectives",
+    "broken glass shattered",
+    "photo"
+  ],
+  [
+    "rural",
+    "rural",
+    "adjectives",
+    "rural countryside farm",
+    "photo"
+  ],
+  [
+    "salado",
+    "salty",
+    "adjectives",
+    "salt grains pile",
+    "photo"
+  ],
+  [
+    "semejante",
+    "similar",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "serio",
+    "serious",
+    "adjectives",
+    "serious face stern",
+    "photo"
+  ],
+  [
+    "sexual",
+    "sexual",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "sincero",
+    "sincere",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "soltero",
+    "single (unmarried)",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "sonriente",
+    "smiling",
+    "adjectives",
+    "smiling face happy",
+    "photo"
+  ],
+  [
+    "sordo",
+    "deaf",
+    "adjectives",
+    "sign language deaf",
+    "photo"
+  ],
+  [
+    "suficiente",
+    "enough / sufficient",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "temprano",
+    "early",
+    "adjectives",
+    "early sunrise morning",
+    "photo"
+  ],
+  [
+    "tenso",
+    "tense",
+    "adjectives",
+    "tense stressed",
+    "photo"
+  ],
+  [
+    "tibio",
+    "lukewarm",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "torpe",
+    "clumsy",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "traidor",
+    "traitor / treacherous",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "tranquilo",
+    "quiet / calm",
+    "adjectives",
+    "calm peaceful lake",
+    "photo"
+  ],
+  [
+    "urbano",
+    "urban",
+    "adjectives",
+    "urban city skyline",
+    "photo"
+  ],
+  [
+    "valioso",
+    "valuable",
+    "adjectives",
+    "gold treasure jewels",
+    "photo"
+  ],
+  [
+    "valiente",
+    "brave",
+    "adjectives",
+    "superhero brave",
+    "photo"
+  ],
+  [
+    "variado",
+    "varied",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "veloz",
+    "fast / swift",
+    "adjectives",
+    "fast race car blur",
+    "photo"
+  ],
+  [
+    "vergonzoso",
+    "shameful / shy",
+    "adjectives",
+    "",
+    "text"
+  ],
+  [
+    "vital",
+    "vital",
+    "adjectives",
+    "heartbeat vital",
+    "photo"
+  ],
+  [
+    "vivo",
+    "alive",
+    "adjectives",
+    "alive heartbeat",
+    "photo"
+  ],
+  [
+    "acción",
+    "action",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "actitud",
+    "attitude",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "acuerdo",
+    "agreement",
+    "abstract",
+    "handshake agreement",
+    "photo"
+  ],
+  [
+    "aire",
+    "air",
+    "abstract",
+    "clouds wind air",
+    "photo"
+  ],
+  [
+    "ambiente",
+    "environment / atmosphere",
+    "abstract",
+    "forest atmosphere",
+    "photo"
+  ],
+  [
+    "ambición",
+    "ambition",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "ánimo",
+    "spirit / mood",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "aspecto",
+    "aspect / appearance",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "asunto",
+    "matter / issue",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "atención",
+    "attention",
+    "abstract",
+    "focus attention",
+    "photo"
+  ],
+  [
+    "aumento",
+    "increase",
+    "abstract",
+    "upward arrow chart",
+    "photo"
+  ],
+  [
+    "ayuda",
+    "help",
+    "abstract",
+    "helping hand",
+    "photo"
+  ],
+  [
+    "belleza",
+    "beauty",
+    "abstract",
+    "beautiful landscape",
+    "photo"
+  ],
+  [
+    "bondad",
+    "kindness",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "calidez",
+    "warmth",
+    "abstract",
+    "fireplace warm cozy",
+    "photo"
+  ],
+  [
+    "capacidad",
+    "capacity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "carácter",
+    "character",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "castigo",
+    "punishment",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "categoría",
+    "category",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "centro",
+    "center",
+    "abstract",
+    "center bullseye target",
+    "photo"
+  ],
+  [
+    "certeza",
+    "certainty",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "cierto",
+    "certain",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "civilización",
+    "civilization",
+    "abstract",
+    "ancient ruins civilization",
+    "photo"
+  ],
+  [
+    "coincidencia",
+    "coincidence",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "combate",
+    "combat",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "comparación",
+    "comparison",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "competencia",
+    "competition",
+    "abstract",
+    "race competition",
+    "photo"
+  ],
+  [
+    "conciencia",
+    "consciousness / conscience",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "concepto",
+    "concept",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "confianza",
+    "trust / confidence",
+    "abstract",
+    "handshake trust",
+    "photo"
+  ],
+  [
+    "conflicto",
+    "conflict",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "confusión",
+    "confusion",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "conjunto",
+    "set / group",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "consciencia",
+    "consciousness",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "consecuencia",
+    "consequence",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "constancia",
+    "perseverance",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "contenido",
+    "content",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "contexto",
+    "context",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "coraje",
+    "courage",
+    "abstract",
+    "lion brave roar",
+    "photo"
+  ],
+  [
+    "crisis",
+    "crisis",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "criterio",
+    "criteria",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "culpa",
+    "guilt / fault",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "cultura",
+    "culture",
+    "abstract",
+    "cultural festival people",
+    "photo"
+  ],
+  [
+    "curiosidad",
+    "curiosity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "debate",
+    "debate",
+    "abstract",
+    "debate microphones",
+    "photo"
+  ],
+  [
+    "destino",
+    "destiny / destination",
+    "abstract",
+    "destination compass",
+    "photo"
+  ],
+  [
+    "detalle",
+    "detail",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "diferencia",
+    "difference",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "dignidad",
+    "dignity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "dirección",
+    "direction",
+    "abstract",
+    "compass direction",
+    "photo"
+  ],
+  [
+    "disciplina",
+    "discipline",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "diseño",
+    "design",
+    "abstract",
+    "designer sketch",
+    "photo"
+  ],
+  [
+    "edad",
+    "age",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "efecto",
+    "effect",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "ejemplo",
+    "example",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "empleo",
+    "employment",
+    "abstract",
+    "interview office",
+    "photo"
+  ],
+  [
+    "enfoque",
+    "focus / approach",
+    "abstract",
+    "camera focus",
+    "photo"
+  ],
+  [
+    "ensayo",
+    "essay / rehearsal",
+    "abstract",
+    "writing essay",
+    "photo"
+  ],
+  [
+    "entusiasmo",
+    "enthusiasm",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "envidia",
+    "envy",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "error",
+    "error / mistake",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "escándalo",
+    "scandal",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "espacio",
+    "space",
+    "abstract",
+    "outer space stars",
+    "photo"
+  ],
+  [
+    "estilo",
+    "style",
+    "abstract",
+    "fashion style",
+    "photo"
+  ],
+  [
+    "evento",
+    "event",
+    "abstract",
+    "event crowd festival",
+    "photo"
+  ],
+  [
+    "experiencia",
+    "experience",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "fama",
+    "fame",
+    "abstract",
+    "celebrity spotlight",
+    "photo"
+  ],
+  [
+    "futuro",
+    "future",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "fortuna",
+    "fortune",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "genio",
+    "genius",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "honor",
+    "honor",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "humanidad",
+    "humanity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "impacto",
+    "impact",
+    "abstract",
+    "impact crater",
+    "photo"
+  ],
+  [
+    "importancia",
+    "importance",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "impuesto",
+    "tax",
+    "abstract",
+    "tax forms paperwork",
+    "photo"
+  ],
+  [
+    "independencia",
+    "independence",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "industria",
+    "industry",
+    "abstract",
+    "factory industrial",
+    "photo"
+  ],
+  [
+    "instante",
+    "instant / moment",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "instinto",
+    "instinct",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "inteligencia",
+    "intelligence",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "intención",
+    "intention",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "interés",
+    "interest",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "jornada",
+    "day / journey",
+    "abstract",
+    "road trip journey",
+    "photo"
+  ],
+  [
+    "juicio",
+    "judgment",
+    "abstract",
+    "gavel court",
+    "photo"
+  ],
+  [
+    "justicia",
+    "justice",
+    "abstract",
+    "scales justice",
+    "photo"
+  ],
+  [
+    "juventud",
+    "youth",
+    "abstract",
+    "young people happy",
+    "photo"
+  ],
+  [
+    "lectura",
+    "reading",
+    "abstract",
+    "reading book quiet",
+    "photo"
+  ],
+  [
+    "libertad",
+    "freedom",
+    "abstract",
+    "bird flying free",
+    "photo"
+  ],
+  [
+    "línea",
+    "line",
+    "abstract",
+    "straight line",
+    "photo"
+  ],
+  [
+    "logro",
+    "achievement",
+    "abstract",
+    "trophy success",
+    "photo"
+  ],
+  [
+    "lujo",
+    "luxury",
+    "abstract",
+    "luxury car gold",
+    "photo"
+  ],
+  [
+    "majestuosidad",
+    "majesty",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "medida",
+    "measure / measurement",
+    "abstract",
+    "tape measure",
+    "photo"
+  ],
+  [
+    "memoria",
+    "memory",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "mensaje",
+    "message",
+    "abstract",
+    "email message phone",
+    "photo"
+  ],
+  [
+    "mente",
+    "mind",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "mercancía",
+    "merchandise",
+    "abstract",
+    "store merchandise",
+    "photo"
+  ],
+  [
+    "mirada",
+    "gaze / look",
+    "abstract",
+    "gazing look eyes",
+    "photo"
+  ],
+  [
+    "misión",
+    "mission",
+    "abstract",
+    "rocket mission",
+    "photo"
+  ],
+  [
+    "misterio",
+    "mystery",
+    "abstract",
+    "mystery silhouette fog",
+    "photo"
+  ],
+  [
+    "modelo",
+    "model",
+    "abstract",
+    "fashion model",
+    "photo"
+  ],
+  [
+    "movimiento",
+    "movement",
+    "abstract",
+    "motion blur",
+    "photo"
+  ],
+  [
+    "necesidad",
+    "need / necessity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "noticia",
+    "news",
+    "abstract",
+    "newspaper news",
+    "photo"
+  ],
+  [
+    "objetivo",
+    "objective / goal",
+    "abstract",
+    "target bullseye",
+    "photo"
+  ],
+  [
+    "obligación",
+    "obligation",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "obra",
+    "work / piece",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "oportunidad",
+    "opportunity",
+    "abstract",
+    "door opening light",
+    "photo"
+  ],
+  [
+    "origen",
+    "origin",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "paciencia",
+    "patience",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "pareja",
+    "couple / pair",
+    "abstract",
+    "couple holding hands",
+    "photo"
+  ],
+  [
+    "pena",
+    "sorrow / penalty",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "período",
+    "period / time",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "personalidad",
+    "personality",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "popularidad",
+    "popularity",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "presencia",
+    "presence",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "presión",
+    "pressure",
+    "abstract",
+    "pressure gauge",
+    "photo"
+  ],
+  [
+    "principio",
+    "beginning / principle",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "privilegio",
+    "privilege",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "proceso",
+    "process",
+    "abstract",
+    "process flowchart",
+    "photo"
+  ],
+  [
+    "promesa",
+    "promise",
+    "abstract",
+    "pinky promise",
+    "photo"
+  ],
+  [
+    "propósito",
+    "purpose",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "protección",
+    "protection",
+    "abstract",
+    "umbrella protection",
+    "photo"
+  ],
+  [
+    "realidad",
+    "reality",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "recuerdo",
+    "memory / souvenir",
+    "abstract",
+    "souvenir keepsake",
+    "photo"
+  ],
+  [
+    "referencia",
+    "reference",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "régimen",
+    "regime / regimen",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "relación",
+    "relationship",
+    "abstract",
+    "couple connection",
+    "photo"
+  ],
+  [
+    "relevancia",
+    "relevance",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "religión",
+    "religion",
+    "abstract",
+    "cross church temple",
+    "photo"
+  ],
+  [
+    "rendimiento",
+    "performance / yield",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "respeto",
+    "respect",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "responsabilidad",
+    "responsibility",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "riqueza",
+    "wealth",
+    "abstract",
+    "gold treasure coins",
+    "photo"
+  ],
+  [
+    "riesgo",
+    "risk",
+    "abstract",
+    "tightrope risk",
+    "photo"
+  ],
+  [
+    "ritmo",
+    "rhythm",
+    "abstract",
+    "music notes rhythm",
+    "photo"
+  ],
+  [
+    "secreto",
+    "secret",
+    "abstract",
+    "secret keyhole shh",
+    "photo"
+  ],
+  [
+    "sentido",
+    "sense / meaning",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "servicio",
+    "service",
+    "abstract",
+    "customer service",
+    "photo"
+  ],
+  [
+    "silencio",
+    "silence",
+    "abstract",
+    "finger lips quiet",
+    "photo"
+  ],
+  [
+    "símbolo",
+    "symbol",
+    "abstract",
+    "ancient symbol icon",
+    "photo"
+  ],
+  [
+    "sitio",
+    "place / site",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "soledad",
+    "loneliness",
+    "abstract",
+    "alone solitary",
+    "photo"
+  ],
+  [
+    "sospecha",
+    "suspicion",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "suerte",
+    "luck",
+    "abstract",
+    "four leaf clover",
+    "photo"
+  ],
+  [
+    "tema",
+    "theme / topic",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "teoría",
+    "theory",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "tendencia",
+    "trend",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "trampa",
+    "trap",
+    "abstract",
+    "trap mousetrap",
+    "photo"
+  ],
+  [
+    "valor",
+    "value / courage",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "variedad",
+    "variety",
+    "abstract",
+    "variety colorful options",
+    "photo"
+  ],
+  [
+    "víctima",
+    "victim",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "victoria",
+    "victory",
+    "abstract",
+    "trophy victory winner",
+    "photo"
+  ],
+  [
+    "virtud",
+    "virtue",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "voluntad",
+    "will / willpower",
+    "abstract",
+    "",
+    "text"
+  ],
+  [
+    "voz",
+    "voice",
+    "abstract",
+    "microphone singing",
+    "photo"
+  ],
+  [
+    "abogado",
+    "lawyer",
+    "work",
+    "lawyer suit briefcase",
+    "photo"
+  ],
+  [
+    "actor",
+    "actor",
+    "work",
+    "actor stage performance",
+    "photo"
+  ],
+  [
+    "actriz",
+    "actress",
+    "work",
+    "actress red carpet",
+    "photo"
+  ],
+  [
+    "arquitecto",
+    "architect",
+    "work",
+    "architect blueprint",
+    "photo"
+  ],
+  [
+    "artesano",
+    "craftsman",
+    "work",
+    "craftsman pottery",
+    "photo"
+  ],
+  [
+    "artista",
+    "artist",
+    "work",
+    "artist painting",
+    "photo"
+  ],
+  [
+    "bailarín",
+    "dancer",
+    "work",
+    "ballet dancer",
+    "photo"
+  ],
+  [
+    "barrendero",
+    "street sweeper",
+    "work",
+    "street sweeper",
+    "photo"
+  ],
+  [
+    "bombero",
+    "firefighter",
+    "work",
+    "firefighter truck",
+    "photo"
+  ],
+  [
+    "camarero",
+    "waiter / bartender",
+    "work",
+    "waiter restaurant",
+    "photo"
+  ],
+  [
+    "carnicero",
+    "butcher",
+    "work",
+    "butcher shop",
+    "photo"
+  ],
+  [
+    "carpintero",
+    "carpenter",
+    "work",
+    "carpenter wood saw",
+    "photo"
+  ],
+  [
+    "cartero",
+    "mailman",
+    "work",
+    "mailman delivery",
+    "photo"
+  ],
+  [
+    "cantante",
+    "singer",
+    "work",
+    "singer microphone",
+    "photo"
+  ],
+  [
+    "chef",
+    "chef",
+    "work",
+    "chef kitchen cooking",
+    "photo"
+  ],
+  [
+    "científico",
+    "scientist",
+    "work",
+    "scientist lab beaker",
+    "photo"
+  ],
+  [
+    "cirujano",
+    "surgeon",
+    "work",
+    "surgeon operating",
+    "photo"
+  ],
+  [
+    "cocinero",
+    "cook",
+    "work",
+    "cook chef kitchen",
+    "photo"
+  ],
+  [
+    "comerciante",
+    "merchant",
+    "work",
+    "merchant market stall",
+    "photo"
+  ],
+  [
+    "conductor",
+    "driver",
+    "work",
+    "driver wheel",
+    "photo"
+  ],
+  [
+    "dentista",
+    "dentist",
+    "work",
+    "dentist chair patient",
+    "photo"
+  ],
+  [
+    "dependiente",
+    "clerk",
+    "work",
+    "store clerk",
+    "photo"
+  ],
+  [
+    "deportista",
+    "athlete",
+    "work",
+    "athlete running",
+    "photo"
+  ],
+  [
+    "diseñador",
+    "designer",
+    "work",
+    "designer sketching",
+    "photo"
+  ],
+  [
+    "doctor",
+    "doctor",
+    "work",
+    "doctor stethoscope",
+    "photo"
+  ],
+  [
+    "economista",
+    "economist",
+    "work",
+    "economist charts",
+    "photo"
+  ],
+  [
+    "electricista",
+    "electrician",
+    "work",
+    "electrician wiring",
+    "photo"
+  ],
+  [
+    "enfermero",
+    "nurse (male)",
+    "work",
+    "male nurse smiling",
+    "photo"
+  ],
+  [
+    "escritor",
+    "writer",
+    "work",
+    "writer typewriter",
+    "photo"
+  ],
+  [
+    "estilista",
+    "stylist",
+    "work",
+    "hair stylist salon",
+    "photo"
+  ],
+  [
+    "farmacéutico",
+    "pharmacist",
+    "work",
+    "pharmacist drugstore",
+    "photo"
+  ],
+  [
+    "fotógrafo",
+    "photographer",
+    "work",
+    "photographer camera",
+    "photo"
+  ],
+  [
+    "futbolista",
+    "soccer player",
+    "work",
+    "soccer player kick",
+    "photo"
+  ],
+  [
+    "ganadero",
+    "cattle rancher",
+    "work",
+    "rancher cattle",
+    "photo"
+  ],
+  [
+    "gerente",
+    "manager",
+    "work",
+    "manager office desk",
+    "photo"
+  ],
+  [
+    "hostelero",
+    "hotelier",
+    "work",
+    "hotel manager front desk",
+    "photo"
+  ],
+  [
+    "informático",
+    "IT specialist",
+    "work",
+    "programmer computer",
+    "photo"
+  ],
+  [
+    "ingeniero",
+    "engineer",
+    "work",
+    "engineer hard hat blueprint",
+    "photo"
+  ],
+  [
+    "jardinero",
+    "gardener",
+    "work",
+    "gardener pruning",
+    "photo"
+  ],
+  [
+    "juez",
+    "judge",
+    "work",
+    "judge gavel robe",
+    "photo"
+  ],
+  [
+    "mecánico",
+    "mechanic",
+    "work",
+    "mechanic car repair",
+    "photo"
+  ],
+  [
+    "médico (esp.)",
+    "specialist doctor",
+    "work",
+    "specialist doctor",
+    "photo"
+  ],
+  [
+    "minero",
+    "miner",
+    "work",
+    "miner helmet",
+    "photo"
+  ],
+  [
+    "modelo",
+    "model",
+    "work",
+    "fashion model runway",
+    "photo"
+  ],
+  [
+    "músico",
+    "musician",
+    "work",
+    "musician guitar stage",
+    "photo"
+  ],
+  [
+    "panadero",
+    "baker",
+    "work",
+    "baker bread oven",
+    "photo"
+  ],
+  [
+    "periodista",
+    "journalist",
+    "work",
+    "journalist microphone notepad",
+    "photo"
+  ],
+  [
+    "pescador",
+    "fisherman",
+    "work",
+    "fisherman boat net",
+    "photo"
+  ],
+  [
+    "piloto",
+    "pilot",
+    "work",
+    "pilot airplane cockpit",
+    "photo"
+  ],
+  [
+    "pintor",
+    "painter",
+    "work",
+    "painter brush canvas",
+    "photo"
+  ],
+  [
+    "plomero",
+    "plumber",
+    "work",
+    "plumber pipes wrench",
+    "photo"
+  ],
+  [
+    "político",
+    "politician",
+    "work",
+    "politician podium",
+    "photo"
+  ],
+  [
+    "presidente",
+    "president",
+    "work",
+    "president podium flag",
+    "photo"
+  ],
+  [
+    "profesor",
+    "professor",
+    "work",
+    "professor lecture",
+    "photo"
+  ],
+  [
+    "psicólogo",
+    "psychologist",
+    "work",
+    "therapist couch session",
+    "photo"
+  ],
+  [
+    "recepcionista",
+    "receptionist",
+    "work",
+    "receptionist front desk",
+    "photo"
+  ],
+  [
+    "reportero",
+    "reporter",
+    "work",
+    "reporter news camera",
+    "photo"
+  ],
+  [
+    "sastre",
+    "tailor",
+    "work",
+    "tailor measuring suit",
+    "photo"
+  ],
+  [
+    "secretario",
+    "secretary",
+    "work",
+    "secretary desk papers",
+    "photo"
+  ],
+  [
+    "soldado",
+    "soldier",
+    "work",
+    "soldier uniform",
+    "photo"
+  ],
+  [
+    "taxista",
+    "taxi driver",
+    "work",
+    "taxi driver cab",
+    "photo"
+  ],
+  [
+    "traductor",
+    "translator",
+    "work",
+    "translator headphones",
+    "photo"
+  ],
+  [
+    "vendedor",
+    "seller / salesperson",
+    "work",
+    "salesperson selling",
+    "photo"
+  ],
+  [
+    "veterinario",
+    "veterinarian",
+    "work",
+    "vet examining dog",
+    "photo"
+  ],
+  [
+    "zapatero",
+    "shoemaker",
+    "work",
+    "shoemaker craftsman",
+    "photo"
+  ],
+  [
+    "cerebro",
+    "brain",
+    "body",
+    "human brain anatomy",
+    "photo"
+  ],
+  [
+    "pulmón",
+    "lung",
+    "body",
+    "lungs anatomy diagram",
+    "photo"
+  ],
+  [
+    "hígado",
+    "liver",
+    "body",
+    "liver anatomy",
+    "photo"
+  ],
+  [
+    "riñón",
+    "kidney",
+    "body",
+    "kidney anatomy",
+    "photo"
+  ],
+  [
+    "intestino",
+    "intestine",
+    "body",
+    "intestine anatomy",
+    "photo"
+  ],
+  [
+    "músculo",
+    "muscle",
+    "body",
+    "muscle anatomy bicep",
+    "photo"
+  ],
+  [
+    "hueso",
+    "bone",
+    "body",
+    "bone skeleton",
+    "photo"
+  ],
+  [
+    "piel",
+    "skin",
+    "body",
+    "skin texture closeup",
+    "photo"
+  ],
+  [
+    "sangre",
+    "blood",
+    "body",
+    "blood drops red",
+    "photo"
+  ],
+  [
+    "lengua",
+    "tongue",
+    "body",
+    "tongue taste",
+    "photo"
+  ],
+  [
+    "labio",
+    "lip",
+    "body",
+    "lips closeup",
+    "photo"
+  ],
+  [
+    "mejilla",
+    "cheek",
+    "body",
+    "cheek face",
+    "photo"
+  ],
+  [
+    "frente",
+    "forehead",
+    "body",
+    "forehead face",
+    "photo"
+  ],
+  [
+    "barba",
+    "beard",
+    "body",
+    "beard man",
+    "photo"
+  ],
+  [
+    "bigote",
+    "mustache",
+    "body",
+    "mustache man",
+    "photo"
+  ],
+  [
+    "uña",
+    "fingernail",
+    "body",
+    "fingernails manicure",
+    "photo"
+  ],
+  [
+    "dedo del pie",
+    "toe",
+    "body",
+    "toes barefoot",
+    "photo"
+  ],
+  [
+    "talón",
+    "heel",
+    "body",
+    "heel foot back",
+    "photo"
+  ],
+  [
+    "tobillo",
+    "ankle",
+    "body",
+    "ankle joint",
+    "photo"
+  ],
+  [
+    "muñeca",
+    "wrist",
+    "body",
+    "wrist watch",
+    "photo"
+  ],
+  [
+    "codo",
+    "elbow",
+    "body",
+    "elbow joint",
+    "photo"
+  ],
+  [
+    "cadera",
+    "hip",
+    "body",
+    "hip joint",
+    "photo"
+  ],
+  [
+    "columna",
+    "spine",
+    "body",
+    "spine vertebrae",
+    "photo"
+  ],
+  [
+    "cintura",
+    "waist",
+    "body",
+    "waist measuring tape",
+    "photo"
+  ],
+  [
+    "abdomen",
+    "abdomen",
+    "body",
+    "abdomen abs",
+    "photo"
+  ],
+  [
+    "clínica",
+    "clinic",
+    "health",
+    "clinic medical office",
+    "photo"
+  ],
+  [
+    "consulta",
+    "appointment / consultation",
+    "health",
+    "doctor consultation",
+    "photo"
+  ],
+  [
+    "receta",
+    "prescription",
+    "health",
+    "prescription pad",
+    "photo"
+  ],
+  [
+    "pastilla",
+    "pill",
+    "health",
+    "pills capsules",
+    "photo"
+  ],
+  [
+    "jeringa",
+    "syringe",
+    "health",
+    "syringe needle",
+    "photo"
+  ],
+  [
+    "vacuna",
+    "vaccine",
+    "health",
+    "vaccine vial",
+    "photo"
+  ],
+  [
+    "operación",
+    "operation / surgery",
+    "health",
+    "surgery operating room",
+    "photo"
+  ],
+  [
+    "herida",
+    "wound",
+    "health",
+    "bandage wound",
+    "photo"
+  ],
+  [
+    "cicatriz",
+    "scar",
+    "health",
+    "scar skin",
+    "photo"
+  ],
+  [
+    "infección",
+    "infection",
+    "health",
+    "",
+    "text"
+  ],
+  [
+    "virus",
+    "virus",
+    "health",
+    "virus microscope",
+    "photo"
+  ],
+  [
+    "bacteria",
+    "bacteria",
+    "health",
+    "bacteria petri dish",
+    "photo"
+  ],
+  [
+    "resfriado",
+    "cold (illness)",
+    "health",
+    "cold tissue sneeze",
+    "photo"
+  ],
+  [
+    "tos",
+    "cough",
+    "health",
+    "coughing sick",
+    "photo"
+  ],
+  [
+    "mareo",
+    "dizziness",
+    "health",
+    "dizzy spinning",
+    "photo"
+  ],
+  [
+    "náusea",
+    "nausea",
+    "health",
+    "",
+    "text"
+  ],
+  [
+    "alérgico",
+    "allergic",
+    "health",
+    "allergic reaction sneezing",
+    "photo"
+  ],
+  [
+    "diabetes",
+    "diabetes",
+    "health",
+    "glucose meter test",
+    "photo"
+  ],
+  [
+    "presión",
+    "pressure (medical)",
+    "health",
+    "blood pressure monitor",
+    "photo"
+  ],
+  [
+    "radiografía",
+    "X-ray",
+    "health",
+    "x-ray bones",
+    "photo"
+  ],
+  [
+    "terapia",
+    "therapy",
+    "health",
+    "physical therapy",
+    "photo"
+  ],
+  [
+    "psiquiatra",
+    "psychiatrist",
+    "health",
+    "psychiatrist couch",
+    "photo"
+  ],
+  [
+    "urgencias",
+    "emergency room",
+    "health",
+    "emergency room hospital",
+    "photo"
+  ],
+  [
+    "cordero",
+    "lamb",
+    "food",
+    "lamb meat dish",
+    "photo"
+  ],
+  [
+    "pavo",
+    "turkey",
+    "food",
+    "roasted turkey",
+    "photo"
+  ],
+  [
+    "jamón",
+    "ham",
+    "food",
+    "sliced ham",
+    "photo"
+  ],
+  [
+    "chorizo",
+    "sausage / chorizo",
+    "food",
+    "spanish chorizo",
+    "photo"
+  ],
+  [
+    "tocino",
+    "bacon",
+    "food",
+    "crispy bacon",
+    "photo"
+  ],
+  [
+    "mariscos",
+    "seafood",
+    "food",
+    "seafood platter",
+    "photo"
+  ],
+  [
+    "camarón",
+    "shrimp",
+    "food",
+    "shrimp prawns",
+    "photo"
+  ],
+  [
+    "langosta",
+    "lobster",
+    "food",
+    "lobster red",
+    "photo"
+  ],
+  [
+    "calamar",
+    "squid",
+    "food",
+    "calamari rings",
+    "photo"
+  ],
+  [
+    "pulpo",
+    "octopus",
+    "food",
+    "octopus tentacle",
+    "photo"
+  ],
+  [
+    "mejillón",
+    "mussel",
+    "food",
+    "mussels shells",
+    "photo"
+  ],
+  [
+    "atún",
+    "tuna",
+    "food",
+    "tuna sushi",
+    "photo"
+  ],
+  [
+    "salmón",
+    "salmon",
+    "food",
+    "grilled salmon fillet",
+    "photo"
+  ],
+  [
+    "bacalao",
+    "cod",
+    "food",
+    "cod fish dish",
+    "photo"
+  ],
+  [
+    "pera",
+    "pear",
+    "food",
+    "green pear fruit",
+    "photo"
+  ],
+  [
+    "uva",
+    "grape",
+    "food",
+    "grape cluster",
+    "photo"
+  ],
+  [
+    "cereza",
+    "cherry",
+    "food",
+    "red cherries fresh",
+    "photo"
+  ],
+  [
+    "sandía",
+    "watermelon",
+    "food",
+    "watermelon slice",
+    "photo"
+  ],
+  [
+    "melón",
+    "melon",
+    "food",
+    "cantaloupe melon",
+    "photo"
+  ],
+  [
+    "piña",
+    "pineapple",
+    "food",
+    "pineapple tropical",
+    "photo"
+  ],
+  [
+    "mango",
+    "mango",
+    "food",
+    "mango ripe",
+    "photo"
+  ],
+  [
+    "coco",
+    "coconut",
+    "food",
+    "coconut tropical",
+    "photo"
+  ],
+  [
+    "durazno",
+    "peach",
+    "food",
+    "peach fuzzy",
+    "photo"
+  ],
+  [
+    "limón verde",
+    "lime",
+    "food",
+    "lime green wedge",
+    "photo"
+  ],
+  [
+    "pomelo",
+    "grapefruit",
+    "food",
+    "grapefruit pink",
+    "photo"
+  ],
+  [
+    "zanahoria",
+    "carrot",
+    "food",
+    "orange carrots",
+    "photo"
+  ],
+  [
+    "papa",
+    "potato",
+    "food",
+    "potatoes pile",
+    "photo"
+  ],
+  [
+    "batata",
+    "sweet potato",
+    "food",
+    "sweet potatoes",
+    "photo"
+  ],
+  [
+    "calabaza",
+    "pumpkin / squash",
+    "food",
+    "orange pumpkin",
+    "photo"
+  ],
+  [
+    "pepino",
+    "cucumber",
+    "food",
+    "cucumber green",
+    "photo"
+  ],
+  [
+    "pimiento",
+    "bell pepper",
+    "food",
+    "red yellow peppers",
+    "photo"
+  ],
+  [
+    "espinaca",
+    "spinach",
+    "food",
+    "fresh spinach leaves",
+    "photo"
+  ],
+  [
+    "lechuga",
+    "lettuce",
+    "food",
+    "lettuce head",
+    "photo"
+  ],
+  [
+    "repollo",
+    "cabbage",
+    "food",
+    "cabbage green",
+    "photo"
+  ],
+  [
+    "brócoli",
+    "broccoli",
+    "food",
+    "broccoli green",
+    "photo"
+  ],
+  [
+    "coliflor",
+    "cauliflower",
+    "food",
+    "cauliflower",
+    "photo"
+  ],
+  [
+    "champiñón",
+    "mushroom",
+    "food",
+    "mushrooms",
+    "photo"
+  ],
+  [
+    "arvejas",
+    "peas",
+    "food",
+    "peas pod",
+    "photo"
+  ],
+  [
+    "habichuela",
+    "green bean",
+    "food",
+    "green beans",
+    "photo"
+  ],
+  [
+    "lenteja",
+    "lentil",
+    "food",
+    "lentils dried",
+    "photo"
+  ],
+  [
+    "garbanzo",
+    "chickpea",
+    "food",
+    "chickpeas",
+    "photo"
+  ],
+  [
+    "aceite",
+    "oil",
+    "food",
+    "olive oil bottle",
+    "photo"
+  ],
+  [
+    "vinagre",
+    "vinegar",
+    "food",
+    "vinegar bottle",
+    "photo"
+  ],
+  [
+    "mantequilla",
+    "butter",
+    "food",
+    "butter stick",
+    "photo"
+  ],
+  [
+    "miel",
+    "honey",
+    "food",
+    "honey jar dripping",
+    "photo"
+  ],
+  [
+    "mermelada",
+    "jam / marmalade",
+    "food",
+    "jam jar toast",
+    "photo"
+  ],
+  [
+    "yogur",
+    "yogurt",
+    "food",
+    "yogurt bowl spoon",
+    "photo"
+  ],
+  [
+    "pimienta",
+    "pepper (spice)",
+    "food",
+    "peppercorns",
+    "photo"
+  ],
+  [
+    "canela",
+    "cinnamon",
+    "food",
+    "cinnamon sticks",
+    "photo"
+  ],
+  [
+    "albahaca",
+    "basil",
+    "food",
+    "basil leaves",
+    "photo"
+  ],
+  [
+    "perejil",
+    "parsley",
+    "food",
+    "parsley fresh",
+    "photo"
+  ],
+  [
+    "cilantro",
+    "cilantro",
+    "food",
+    "cilantro fresh",
+    "photo"
+  ],
+  [
+    "orégano",
+    "oregano",
+    "food",
+    "oregano dried",
+    "photo"
+  ],
+  [
+    "deporte",
+    "sport",
+    "sports",
+    "sports equipment collection",
+    "photo"
+  ],
+  [
+    "fútbol",
+    "soccer / football",
+    "sports",
+    "soccer ball field",
+    "photo"
+  ],
+  [
+    "básquetbol",
+    "basketball",
+    "sports",
+    "basketball hoop",
+    "photo"
+  ],
+  [
+    "béisbol",
+    "baseball",
+    "sports",
+    "baseball bat ball",
+    "photo"
+  ],
+  [
+    "voleibol",
+    "volleyball",
+    "sports",
+    "volleyball net beach",
+    "photo"
+  ],
+  [
+    "tenis",
+    "tennis",
+    "sports",
+    "tennis racquet ball",
+    "photo"
+  ],
+  [
+    "golf",
+    "golf",
+    "sports",
+    "golf course green",
+    "photo"
+  ],
+  [
+    "natación",
+    "swimming",
+    "sports",
+    "swimming pool lane",
+    "photo"
+  ],
+  [
+    "ciclismo",
+    "cycling",
+    "sports",
+    "cyclist road",
+    "photo"
+  ],
+  [
+    "atletismo",
+    "track and field",
+    "sports",
+    "track running stadium",
+    "photo"
+  ],
+  [
+    "carrera",
+    "race",
+    "sports",
+    "running race track",
+    "photo"
+  ],
+  [
+    "maratón",
+    "marathon",
+    "sports",
+    "marathon runners",
+    "photo"
+  ],
+  [
+    "boxeo",
+    "boxing",
+    "sports",
+    "boxing gloves ring",
+    "photo"
+  ],
+  [
+    "lucha",
+    "wrestling / fighting",
+    "sports",
+    "wrestling match",
+    "photo"
+  ],
+  [
+    "yoga",
+    "yoga",
+    "sports",
+    "yoga pose mat",
+    "photo"
+  ],
+  [
+    "gimnasio",
+    "gym",
+    "sports",
+    "gym weights equipment",
+    "photo"
+  ],
+  [
+    "entrenamiento",
+    "training",
+    "sports",
+    "training workout",
+    "photo"
+  ],
+  [
+    "entrenador",
+    "coach / trainer",
+    "sports",
+    "coach team huddle",
+    "photo"
+  ],
+  [
+    "equipo",
+    "team / equipment",
+    "sports",
+    "sports team huddle",
+    "photo"
+  ],
+  [
+    "jugador",
+    "player",
+    "sports",
+    "sports player jersey",
+    "photo"
+  ],
+  [
+    "cancha",
+    "court / field",
+    "sports",
+    "sports court empty",
+    "photo"
+  ],
+  [
+    "estadio",
+    "stadium",
+    "sports",
+    "stadium full crowd",
+    "photo"
+  ],
+  [
+    "raqueta",
+    "racquet",
+    "sports",
+    "tennis racquet",
+    "photo"
+  ],
+  [
+    "pelota",
+    "ball",
+    "sports",
+    "sports balls",
+    "photo"
+  ],
+  [
+    "red",
+    "net",
+    "sports",
+    "net volleyball",
+    "photo"
+  ],
+  [
+    "esquí",
+    "skiing",
+    "sports",
+    "skier mountain",
+    "photo"
+  ],
+  [
+    "surf",
+    "surfing",
+    "sports",
+    "surfer wave",
+    "photo"
+  ],
+  [
+    "caza",
+    "hunting",
+    "sports",
+    "hunter forest",
+    "photo"
+  ],
+  [
+    "pesca",
+    "fishing",
+    "sports",
+    "fisherman rod",
+    "photo"
+  ],
+  [
+    "aficionado",
+    "fan / enthusiast",
+    "sports",
+    "fans crowd cheering",
+    "photo"
+  ],
+  [
+    "arte",
+    "art",
+    "arts",
+    "art gallery paintings",
+    "photo"
+  ],
+  [
+    "música",
+    "music",
+    "music",
+    "music notes instruments",
+    "photo"
+  ],
+  [
+    "pintura",
+    "painting",
+    "arts",
+    "oil painting",
+    "photo"
+  ],
+  [
+    "dibujo",
+    "drawing",
+    "arts",
+    "pencil sketch",
+    "photo"
+  ],
+  [
+    "escultura",
+    "sculpture",
+    "arts",
+    "marble sculpture",
+    "photo"
+  ],
+  [
+    "fotografía",
+    "photography",
+    "arts",
+    "camera photographer",
+    "photo"
+  ],
+  [
+    "cine",
+    "movies / cinema",
+    "arts",
+    "cinema theater seats",
+    "photo"
+  ],
+  [
+    "película",
+    "movie / film",
+    "arts",
+    "film reel",
+    "photo"
+  ],
+  [
+    "teatro",
+    "theater",
+    "arts",
+    "theater stage curtains",
+    "photo"
+  ],
+  [
+    "concierto",
+    "concert",
+    "music",
+    "concert crowd stage",
+    "photo"
+  ],
+  [
+    "canción",
+    "song",
+    "music",
+    "music notes singing",
+    "photo"
+  ],
+  [
+    "letra",
+    "lyrics / letter",
+    "music",
+    "sheet music",
+    "photo"
+  ],
+  [
+    "cantar",
+    "to sing",
+    "music",
+    "singing microphone",
+    "photo"
+  ],
+  [
+    "banda",
+    "band",
+    "music",
+    "rock band performing",
+    "photo"
+  ],
+  [
+    "orquesta",
+    "orchestra",
+    "music",
+    "orchestra symphony",
+    "photo"
+  ],
+  [
+    "coro",
+    "choir",
+    "music",
+    "choir singing",
+    "photo"
+  ],
+  [
+    "piano",
+    "piano",
+    "music",
+    "grand piano",
+    "photo"
+  ],
+  [
+    "guitarra",
+    "guitar",
+    "music",
+    "acoustic guitar",
+    "photo"
+  ],
+  [
+    "violín",
+    "violin",
+    "music",
+    "violin classical",
+    "photo"
+  ],
+  [
+    "batería",
+    "drums / battery",
+    "music",
+    "drum set",
+    "photo"
+  ],
+  [
+    "flauta",
+    "flute",
+    "music",
+    "flute instrument",
+    "photo"
+  ],
+  [
+    "trompeta",
+    "trumpet",
+    "music",
+    "trumpet brass",
+    "photo"
+  ],
+  [
+    "saxofón",
+    "saxophone",
+    "music",
+    "saxophone jazz",
+    "photo"
+  ],
+  [
+    "instrumento",
+    "instrument",
+    "music",
+    "musical instruments",
+    "photo"
+  ],
+  [
+    "nota (musical)",
+    "musical note",
+    "music",
+    "music notes staff",
+    "photo"
+  ],
+  [
+    "danza",
+    "dance",
+    "arts",
+    "ballet dancer pose",
+    "photo"
+  ],
+  [
+    "ballet",
+    "ballet",
+    "arts",
+    "ballet dancer toe",
+    "photo"
+  ],
+  [
+    "literatura",
+    "literature",
+    "arts",
+    "books library",
+    "photo"
+  ],
+  [
+    "poesía",
+    "poetry",
+    "arts",
+    "handwritten poem",
+    "photo"
+  ],
+  [
+    "novela",
+    "novel",
+    "arts",
+    "stack of books",
+    "photo"
+  ],
+  [
+    "cuento",
+    "story / tale",
+    "arts",
+    "fairy tale book",
+    "photo"
+  ],
+  [
+    "ciencia",
+    "science",
+    "science",
+    "scientist lab",
+    "photo"
+  ],
+  [
+    "química",
+    "chemistry",
+    "science",
+    "chemistry beakers",
+    "photo"
+  ],
+  [
+    "física",
+    "physics",
+    "science",
+    "physics atoms",
+    "photo"
+  ],
+  [
+    "biología",
+    "biology",
+    "science",
+    "biology dna",
+    "photo"
+  ],
+  [
+    "matemáticas",
+    "math",
+    "science",
+    "math equations chalkboard",
+    "photo"
+  ],
+  [
+    "geometría",
+    "geometry",
+    "science",
+    "geometric shapes",
+    "photo"
+  ],
+  [
+    "álgebra",
+    "algebra",
+    "science",
+    "algebra equations",
+    "photo"
+  ],
+  [
+    "historia",
+    "history",
+    "arts",
+    "ancient history book",
+    "photo"
+  ],
+  [
+    "geografía",
+    "geography",
+    "science",
+    "world map globe",
+    "photo"
+  ],
+  [
+    "astronomía",
+    "astronomy",
+    "science",
+    "telescope stars",
+    "photo"
+  ],
+  [
+    "átomo",
+    "atom",
+    "science",
+    "atom diagram",
+    "photo"
+  ],
+  [
+    "molécula",
+    "molecule",
+    "science",
+    "molecule model",
+    "photo"
+  ],
+  [
+    "célula",
+    "cell",
+    "science",
+    "cell biology microscope",
+    "photo"
+  ],
+  [
+    "energía",
+    "energy",
+    "science",
+    "lightning bolt",
+    "photo"
+  ],
+  [
+    "gravedad",
+    "gravity",
+    "science",
+    "gravity falling apple",
+    "photo"
+  ],
+  [
+    "temperatura",
+    "temperature",
+    "science",
+    "thermometer",
+    "photo"
+  ],
+  [
+    "humedad",
+    "humidity",
+    "science",
+    "humid mist",
+    "photo"
+  ],
+  [
+    "luz",
+    "light",
+    "science",
+    "light bulb glowing",
+    "photo"
+  ],
+  [
+    "sombra",
+    "shadow",
+    "science",
+    "shadow silhouette",
+    "photo"
+  ],
+  [
+    "sonido",
+    "sound",
+    "science",
+    "sound waves",
+    "photo"
+  ],
+  [
+    "onda",
+    "wave",
+    "science",
+    "ocean wave",
+    "photo"
+  ],
+  [
+    "fuerza (física)",
+    "force",
+    "science",
+    "",
+    "text"
+  ],
+  [
+    "velocidad",
+    "speed",
+    "science",
+    "speedometer fast",
+    "photo"
+  ],
+  [
+    "distancia",
+    "distance",
+    "science",
+    "horizon distance road",
+    "photo"
+  ],
+  [
+    "peso",
+    "weight",
+    "science",
+    "scale weighing",
+    "photo"
+  ],
+  [
+    "volumen",
+    "volume",
+    "science",
+    "measuring cup",
+    "photo"
+  ],
+  [
+    "delfín",
+    "dolphin",
+    "animals",
+    "dolphin jumping",
+    "photo"
+  ],
+  [
+    "ballena",
+    "whale",
+    "animals",
+    "whale ocean",
+    "photo"
+  ],
+  [
+    "tiburón",
+    "shark",
+    "animals",
+    "shark teeth",
+    "photo"
+  ],
+  [
+    "foca",
+    "seal",
+    "animals",
+    "seal beach",
+    "photo"
+  ],
+  [
+    "pingüino",
+    "penguin",
+    "animals",
+    "penguin antarctica",
+    "photo"
+  ],
+  [
+    "águila",
+    "eagle",
+    "animals",
+    "eagle flying",
+    "photo"
+  ],
+  [
+    "búho",
+    "owl",
+    "animals",
+    "owl forest",
+    "photo"
+  ],
+  [
+    "loro",
+    "parrot",
+    "animals",
+    "colorful parrot",
+    "photo"
+  ],
+  [
+    "paloma",
+    "pigeon / dove",
+    "animals",
+    "white dove",
+    "photo"
+  ],
+  [
+    "cuervo",
+    "crow / raven",
+    "animals",
+    "raven black bird",
+    "photo"
+  ],
+  [
+    "gallina",
+    "hen",
+    "animals",
+    "hen chicken",
+    "photo"
+  ],
+  [
+    "gallo",
+    "rooster",
+    "animals",
+    "rooster crowing",
+    "photo"
+  ],
+  [
+    "jirafa",
+    "giraffe",
+    "animals",
+    "giraffe tall savanna",
+    "photo"
+  ],
+  [
+    "cebra",
+    "zebra",
+    "animals",
+    "zebra stripes",
+    "photo"
+  ],
+  [
+    "rinoceronte",
+    "rhinoceros",
+    "animals",
+    "rhino africa",
+    "photo"
+  ],
+  [
+    "hipopótamo",
+    "hippopotamus",
+    "animals",
+    "hippo water",
+    "photo"
+  ],
+  [
+    "camello",
+    "camel",
+    "animals",
+    "camel desert",
+    "photo"
+  ],
+  [
+    "canguro",
+    "kangaroo",
+    "animals",
+    "kangaroo australia",
+    "photo"
+  ],
+  [
+    "panda",
+    "panda",
+    "animals",
+    "panda bamboo",
+    "photo"
+  ],
+  [
+    "koala",
+    "koala",
+    "animals",
+    "koala tree",
+    "photo"
+  ],
+  [
+    "mosquito",
+    "mosquito",
+    "animals",
+    "mosquito biting",
+    "photo"
+  ],
+  [
+    "escorpión",
+    "scorpion",
+    "animals",
+    "scorpion desert",
+    "photo"
+  ],
+  [
+    "lagartija",
+    "lizard",
+    "animals",
+    "lizard rock",
+    "photo"
+  ],
+  [
+    "tortuga",
+    "turtle",
+    "animals",
+    "sea turtle",
+    "photo"
+  ],
+  [
+    "rana",
+    "frog",
+    "animals",
+    "frog pond",
+    "photo"
+  ],
+  [
+    "sapo",
+    "toad",
+    "animals",
+    "toad warts",
+    "photo"
+  ],
+  [
+    "caracol",
+    "snail",
+    "animals",
+    "snail shell",
+    "photo"
+  ],
+  [
+    "pulpo",
+    "octopus",
+    "animals",
+    "octopus tentacle",
+    "photo"
+  ],
+  [
+    "surco",
+    "furrow",
+    "agriculture",
+    "plowed field furrows",
+    "photo"
+  ],
+  [
+    "pradera",
+    "meadow",
+    "agriculture",
+    "meadow flowers green",
+    "photo"
+  ],
+  [
+    "rancho",
+    "ranch",
+    "agriculture",
+    "ranch property gate",
+    "photo"
+  ],
+  [
+    "finca",
+    "farm / estate",
+    "agriculture",
+    "farmhouse estate",
+    "photo"
+  ],
+  [
+    "parcela",
+    "plot of land",
+    "agriculture",
+    "farm plots aerial",
+    "photo"
+  ],
+  [
+    "hectárea",
+    "hectare",
+    "agriculture",
+    "",
+    "text"
+  ],
+  [
+    "espantapájaros",
+    "scarecrow",
+    "agriculture",
+    "scarecrow field",
+    "photo"
+  ],
+  [
+    "semillero",
+    "seedbed / nursery",
+    "agriculture",
+    "plant nursery seedlings",
+    "photo"
+  ],
+  [
+    "brote",
+    "sprout",
+    "agriculture",
+    "seedling sprout green",
+    "photo"
+  ],
+  [
+    "maleza",
+    "weeds",
+    "agriculture",
+    "weeds garden",
+    "photo"
+  ],
+  [
+    "fertilizar",
+    "to fertilize",
+    "agriculture",
+    "spreading compost",
+    "photo"
+  ],
+  [
+    "compost",
+    "compost",
+    "agriculture",
+    "compost pile",
+    "photo"
+  ],
+  [
+    "abeja (granja)",
+    "bee (apiary)",
+    "agriculture",
+    "beekeeper hives",
+    "photo"
+  ],
+  [
+    "colmena",
+    "beehive",
+    "agriculture",
+    "beehive bees",
+    "photo"
+  ],
+  [
+    "miel (apiario)",
+    "honey (apiary)",
+    "agriculture",
+    "honeycomb dripping",
+    "photo"
+  ],
+  [
+    "lana",
+    "wool",
+    "agriculture",
+    "wool sheep yarn",
+    "photo"
+  ],
+  [
+    "leche (granja)",
+    "milk (dairy)",
+    "agriculture",
+    "milking cow farm",
+    "photo"
+  ],
+  [
+    "queso (granja)",
+    "cheese (artisanal)",
+    "agriculture",
+    "artisan cheese cellar",
+    "photo"
+  ],
+  [
+    "lechero",
+    "milkman / dairyman",
+    "agriculture",
+    "dairy farmer",
+    "photo"
+  ],
+  [
+    "vaquero",
+    "cowboy",
+    "agriculture",
+    "cowboy hat horse",
+    "photo"
+  ],
+  [
+    "potro",
+    "colt / foal",
+    "agriculture",
+    "baby horse foal",
+    "photo"
+  ],
+  [
+    "ternero",
+    "calf",
+    "agriculture",
+    "baby cow calf",
+    "photo"
+  ],
+  [
+    "cordero (granja)",
+    "lamb (animal)",
+    "agriculture",
+    "baby sheep lamb",
+    "photo"
+  ],
+  [
+    "heno (granja)",
+    "hay",
+    "agriculture",
+    "hay bales wagon",
+    "photo"
+  ],
+  [
+    "silo",
+    "silo",
+    "agriculture",
+    "grain silo farm",
+    "photo"
+  ],
+  [
+    "molino",
+    "mill",
+    "agriculture",
+    "windmill wheat",
+    "photo"
+  ],
+  [
+    "pozo",
+    "well",
+    "agriculture",
+    "stone well water",
+    "photo"
+  ],
+  [
+    "acequia",
+    "irrigation ditch",
+    "agriculture",
+    "irrigation canal",
+    "photo"
+  ],
+  [
+    "canal",
+    "canal / channel",
+    "agriculture",
+    "irrigation canal water",
+    "photo"
+  ],
+  [
+    "sequía",
+    "drought",
+    "agriculture",
+    "drought cracked earth",
+    "photo"
+  ],
+  [
+    "helada",
+    "frost",
+    "agriculture",
+    "frost morning leaves",
+    "photo"
+  ],
+  [
+    "granizo",
+    "hail",
+    "agriculture",
+    "hail damaged crops",
+    "photo"
+  ],
+  [
+    "abonar (campo)",
+    "to fertilize",
+    "agriculture",
+    "spreading manure",
+    "photo"
+  ],
+  [
+    "regadío",
+    "irrigated land",
+    "agriculture",
+    "irrigated field crops",
+    "photo"
+  ],
+  [
+    "secano",
+    "dry farming land",
+    "agriculture",
+    "dry farmland",
+    "photo"
+  ],
+  [
+    "barbecho",
+    "fallow",
+    "agriculture",
+    "fallow field",
+    "photo"
+  ],
+  [
+    "caña",
+    "cane (sugar)",
+    "agriculture",
+    "sugarcane field",
+    "photo"
+  ],
+  [
+    "café (planta)",
+    "coffee plant",
+    "agriculture",
+    "coffee plant beans",
+    "photo"
+  ],
+  [
+    "cacao",
+    "cacao",
+    "agriculture",
+    "cacao pods",
+    "photo"
+  ],
+  [
+    "enólogo",
+    "oenologist / winemaker",
+    "wine",
+    "winemaker tasting",
+    "photo"
+  ],
+  [
+    "enología",
+    "oenology",
+    "wine",
+    "wine education tasting",
+    "photo"
+  ],
+  [
+    "viticultor",
+    "grape grower",
+    "wine",
+    "viticulturist vineyard",
+    "photo"
+  ],
+  [
+    "viticultura",
+    "viticulture",
+    "wine",
+    "vineyard hills rows",
+    "photo"
+  ],
+  [
+    "DO",
+    "designation of origin",
+    "wine",
+    "wine label appellation",
+    "photo"
+  ],
+  [
+    "denominación",
+    "designation",
+    "wine",
+    "official seal label",
+    "photo"
+  ],
+  [
+    "pámpano",
+    "grapevine shoot",
+    "wine",
+    "grapevine new growth",
+    "photo"
+  ],
+  [
+    "sarmiento",
+    "grapevine cane",
+    "wine",
+    "grapevine pruned canes",
+    "photo"
+  ],
+  [
+    "poda",
+    "pruning",
+    "wine",
+    "pruning vines shears",
+    "photo"
+  ],
+  [
+    "podar",
+    "to prune",
+    "wine",
+    "worker pruning vines",
+    "photo"
+  ],
+  [
+    "injerto",
+    "graft",
+    "wine",
+    "grafted vine",
+    "photo"
+  ],
+  [
+    "injertar",
+    "to graft",
+    "wine",
+    "grafting technique",
+    "photo"
+  ],
+  [
+    "maceración",
+    "maceration",
+    "wine",
+    "wine maceration tank",
+    "photo"
+  ],
+  [
+    "macerar",
+    "to macerate",
+    "wine",
+    "grape maceration",
+    "photo"
+  ],
+  [
+    "pisar (uvas)",
+    "to crush grapes",
+    "wine",
+    "crushing grapes feet",
+    "photo"
+  ],
+  [
+    "estrujadora",
+    "crusher",
+    "wine",
+    "grape crusher",
+    "photo"
+  ],
+  [
+    "despalillado",
+    "destemming",
+    "wine",
+    "destemming machine",
+    "photo"
+  ],
+  [
+    "clarificación",
+    "clarification",
+    "wine",
+    "clarifying wine",
+    "photo"
+  ],
+  [
+    "filtración",
+    "filtration",
+    "wine",
+    "wine filtration",
+    "photo"
+  ],
+  [
+    "embotellado",
+    "bottling",
+    "wine",
+    "wine bottling line",
+    "photo"
+  ],
+  [
+    "embotellar",
+    "to bottle",
+    "wine",
+    "filling wine bottles",
+    "photo"
+  ],
+  [
+    "soletear",
+    "to sun-dry (grapes)",
+    "wine",
+    "drying grapes raisins",
+    "photo"
+  ],
+  [
+    "pasificar",
+    "to raisin",
+    "wine",
+    "raisining grapes",
+    "photo"
+  ],
+  [
+    "mistela",
+    "mistela",
+    "wine",
+    "sweet fortified wine",
+    "photo"
+  ],
+  [
+    "fortificar",
+    "to fortify (wine)",
+    "wine",
+    "fortified wine glass",
+    "photo"
+  ],
+  [
+    "jerez",
+    "sherry",
+    "wine",
+    "sherry glass",
+    "photo"
+  ],
+  [
+    "oporto",
+    "port (wine)",
+    "wine",
+    "port wine glass",
+    "photo"
+  ],
+  [
+    "champán",
+    "champagne",
+    "wine",
+    "champagne flutes toast",
+    "photo"
+  ],
+  [
+    "cava",
+    "Spanish sparkling wine",
+    "wine",
+    "cava sparkling",
+    "photo"
+  ],
+  [
+    "vermut",
+    "vermouth",
+    "wine",
+    "vermouth glass herbs",
+    "photo"
+  ],
+  [
+    "sangría",
+    "sangria",
+    "wine",
+    "sangria fruit pitcher",
+    "photo"
+  ],
+  [
+    "mezcla",
+    "blend",
+    "wine",
+    "mixing wines",
+    "photo"
+  ],
+  [
+    "coupage",
+    "wine blending",
+    "wine",
+    "blending wines",
+    "photo"
+  ],
+  [
+    "sedimento",
+    "sediment",
+    "wine",
+    "wine sediment bottle",
+    "photo"
+  ],
+  [
+    "lía",
+    "lees",
+    "wine",
+    "wine aging on lees",
+    "photo"
+  ],
+  [
+    "nariz",
+    "nose (of wine)",
+    "wine",
+    "wine smelling nose",
+    "photo"
+  ],
+  [
+    "paladar",
+    "palate",
+    "wine",
+    "wine tasting mouth",
+    "photo"
+  ],
+  [
+    "retrogusto",
+    "aftertaste",
+    "wine",
+    "",
+    "text"
+  ],
+  [
+    "ataque (vino)",
+    "attack (wine)",
+    "wine",
+    "",
+    "text"
+  ],
+  [
+    "acidez",
+    "acidity",
+    "wine",
+    "",
+    "text"
+  ],
+  [
+    "alcohol",
+    "alcohol",
+    "wine",
+    "alcohol bottle pour",
+    "photo"
+  ],
+  [
+    "graduación",
+    "alcohol content",
+    "wine",
+    "",
+    "text"
+  ],
+  [
+    "vidrio",
+    "glass (material)",
+    "wine",
+    "glass material",
+    "photo"
+  ],
+  [
+    "cristal",
+    "crystal",
+    "wine",
+    "crystal goblet",
+    "photo"
+  ],
+  [
+    "temperatura (vino)",
+    "serving temp",
+    "wine",
+    "wine cooler temperature",
+    "photo"
+  ],
+  [
+    "periódico",
+    "newspaper",
+    "objects",
+    "newspaper folded",
+    "photo"
+  ],
+  [
+    "revista",
+    "magazine",
+    "objects",
+    "magazine cover",
+    "photo"
+  ],
+  [
+    "sobre",
+    "envelope",
+    "objects",
+    "envelope sealed",
+    "photo"
+  ],
+  [
+    "paquete",
+    "package",
+    "objects",
+    "package box delivery",
+    "photo"
+  ],
+  [
+    "caja",
+    "box",
+    "objects",
+    "cardboard box",
+    "photo"
+  ],
+  [
+    "bolsa (compras)",
+    "bag (shopping)",
+    "objects",
+    "shopping bag",
+    "photo"
+  ],
+  [
+    "maleta",
+    "suitcase",
+    "objects",
+    "suitcase travel",
+    "photo"
+  ],
+  [
+    "mochila",
+    "backpack",
+    "objects",
+    "backpack hiking",
+    "photo"
+  ],
+  [
+    "paraguas",
+    "umbrella",
+    "objects",
+    "umbrella rain",
+    "photo"
+  ],
+  [
+    "reloj",
+    "watch / clock",
+    "objects",
+    "wristwatch clock",
+    "photo"
+  ],
+  [
+    "anillo",
+    "ring",
+    "objects",
+    "wedding ring gold",
+    "photo"
+  ],
+  [
+    "collar",
+    "necklace",
+    "objects",
+    "gold necklace",
+    "photo"
+  ],
+  [
+    "arete",
+    "earring",
+    "objects",
+    "earrings pair",
+    "photo"
+  ],
+  [
+    "pulsera",
+    "bracelet",
+    "objects",
+    "silver bracelet",
+    "photo"
+  ],
+  [
+    "lentes",
+    "glasses",
+    "objects",
+    "eyeglasses pair",
+    "photo"
+  ],
+  [
+    "espejo",
+    "mirror",
+    "objects",
+    "mirror reflection",
+    "photo"
+  ],
+  [
+    "pelota",
+    "ball",
+    "objects",
+    "colorful balls",
+    "photo"
+  ],
+  [
+    "juguete",
+    "toy",
+    "objects",
+    "children toys",
+    "photo"
+  ],
+  [
+    "muñeca (juguete)",
+    "doll",
+    "objects",
+    "doll vintage",
+    "photo"
+  ],
+  [
+    "pañuelo",
+    "handkerchief / scarf",
+    "objects",
+    "silk scarf",
+    "photo"
+  ],
+  [
+    "toalla",
+    "towel",
+    "objects",
+    "folded towels",
+    "photo"
+  ],
+  [
+    "jabón",
+    "soap",
+    "objects",
+    "soap bar bubbles",
+    "photo"
+  ],
+  [
+    "cepillo",
+    "brush",
+    "objects",
+    "hair brush",
+    "photo"
+  ],
+  [
+    "peine",
+    "comb",
+    "objects",
+    "comb black",
+    "photo"
+  ],
+  [
+    "pasta dental",
+    "toothpaste",
+    "objects",
+    "toothpaste tube",
+    "photo"
+  ],
+  [
+    "tijeras",
+    "scissors",
+    "objects",
+    "scissors silver",
+    "photo"
+  ],
+  [
+    "aguja",
+    "needle",
+    "objects",
+    "sewing needle",
+    "photo"
+  ],
+  [
+    "hilo",
+    "thread / string",
+    "objects",
+    "colorful thread",
+    "photo"
+  ],
+  [
+    "botón",
+    "button",
+    "objects",
+    "buttons collection",
+    "photo"
+  ],
+  [
+    "clavo",
+    "nail (metal)",
+    "objects",
+    "nails hardware",
+    "photo"
+  ],
+  [
+    "tornillo",
+    "screw",
+    "objects",
+    "screws hardware",
+    "photo"
+  ],
+  [
+    "martillo",
+    "hammer",
+    "objects",
+    "hammer tool",
+    "photo"
+  ],
+  [
+    "destornillador",
+    "screwdriver",
+    "objects",
+    "screwdriver",
+    "photo"
+  ],
+  [
+    "caja de herramientas",
+    "toolbox",
+    "objects",
+    "toolbox tools",
+    "photo"
+  ],
+  [
+    "regla",
+    "ruler",
+    "objects",
+    "ruler measuring",
+    "photo"
+  ],
+  [
+    "pegamento",
+    "glue",
+    "objects",
+    "glue stick bottle",
+    "photo"
+  ],
+  [
+    "caja fuerte",
+    "safe / vault",
+    "objects",
+    "safe vault",
+    "photo"
   ]
 ];
 
