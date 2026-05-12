@@ -574,3 +574,164 @@ input  { font-family: inherit; font-size: inherit; }
 }
 .voice-help-body li { margin: 2px 0; }
 .voice-help-body strong { color: var(--header); }
+
+/* ── Conjugation drill screen ────────────────────────────────── */
+.conj-intro {
+  padding: 18px 20px 22px;
+  text-align: center;
+  max-width: 520px;
+  margin: 0 auto;
+  width: 100%;
+}
+.conj-intro-eyebrow { color: var(--subtext); font-size: 13px; margin: 4px 0 0; }
+.conj-intro h2     { color: var(--header); font-size: 32px; margin: 4px 0; }
+.conj-intro-en     { color: var(--subtext); font-style: italic; margin: 0 0 14px; }
+.conj-intro-tense  {
+  display: inline-block;
+  background: var(--good);
+  color: white;
+  padding: 4px 16px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 13px;
+  margin: 6px 0;
+}
+.conj-intro-desc   {
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 8px 12px 18px;
+}
+.conj-table {
+  width: 100%;
+  max-width: 360px;
+  margin: 8px auto 16px;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.conj-table th, .conj-table td {
+  padding: 8px 14px;
+  text-align: left;
+  border-top: 1px solid var(--border);
+}
+.conj-table th {
+  color: var(--subtext);
+  font-weight: 500;
+  font-size: 13px;
+  width: 45%;
+}
+.conj-table td {
+  color: var(--header);
+  font-weight: 700;
+  font-size: 16px;
+}
+.conj-intro-examples-label {
+  color: var(--subtext);
+  font-size: 12px;
+  margin: 14px 0 4px;
+  text-align: left;
+  padding-left: 8px;
+}
+.conj-intro-examples {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px;
+  text-align: left;
+}
+.conj-intro-examples li {
+  background: #FFFBE6;
+  border-left: 3px solid var(--good);
+  padding: 8px 12px;
+  margin: 6px 0;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.conj-intro-examples .es { color: var(--header); font-weight: 600; }
+.conj-intro-examples .en { color: var(--subtext); font-size: 12px; margin-top: 2px; }
+
+/* ── Conjugation drill card ──────────────────────────────────── */
+.conj-card-eyebrow { text-align: center; margin: 8px 0 4px; }
+.conj-tense-pill {
+  background: var(--good);
+  color: white;
+  padding: 2px 12px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+}
+.conj-card-verb {
+  text-align: center;
+  margin: 14px 0 0;
+  color: var(--header);
+  font-size: 36px;
+}
+.conj-card-verb-en {
+  text-align: center;
+  color: var(--subtext);
+  font-style: italic;
+  margin: 2px 0 18px;
+  font-size: 14px;
+}
+.conj-prompt {
+  text-align: center;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px;
+  max-width: 360px;
+  margin: 0 auto 16px;
+}
+.conj-prompt-label {
+  display: block;
+  color: var(--subtext);
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+.conj-prompt-person {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.conj-reveal-area {
+  text-align: center;
+  min-height: 130px;
+  padding: 12px 14px;
+}
+.conj-form {
+  font-size: 40px;
+  font-weight: 800;
+  color: var(--header);
+  margin: 0;
+}
+.conj-sentence {
+  font-size: 17px;
+  color: var(--text);
+  margin: 8px 0 2px;
+  line-height: 1.4;
+}
+.conj-sentence-en {
+  color: var(--subtext);
+  font-style: italic;
+  font-size: 14px;
+}
+.conj-reveal-area .speak-btn { margin: 0 6px; }
+
+#conj-skip-ahead {
+  margin-top: 12px;
+  font-size: 12px;
+  text-decoration: underline;
+  color: var(--accent);
+}
+
+.conj-done {
+  padding: 60px 20px;
+  text-align: center;
+}
+.conj-done h2 { color: var(--good); font-size: 28px; }
+.conj-done .btn { margin: 8px auto; max-width: 280px; }

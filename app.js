@@ -33,7 +33,14 @@ const STORAGE_KEYS = {
   progress:        'spanishTutor:progress',
   customizations:  'spanishTutor:customizations',
   settings:        'spanishTutor:settings',
+  conjProgress:    'spanishTutor:conjProgress',   // SM-2 state per conjugation card
+  conjUnlocks:     'spanishTutor:conjUnlocks',    // per-verb max unlocked tense idx
 };
+
+// A verb is eligible for conjugation drilling when its vocab card has reached
+// this confidence in section 1. Tune to taste.
+const CONJ_ELIGIBILITY_MIN_REPS   = 3;
+const CONJ_ELIGIBILITY_MIN_RATING = 3;   // Good or Easy
 
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -63,6 +70,10 @@ function loadCustomizations() { return loadJSON(STORAGE_KEYS.customizations, {})
 function saveCustomizations(c){ saveJSON(STORAGE_KEYS.customizations, c); }
 function loadSettings()       { return loadJSON(STORAGE_KEYS.settings, {}); }
 function saveSettings(s)      { saveJSON(STORAGE_KEYS.settings, s); }
+function loadConjProgress()   { return loadJSON(STORAGE_KEYS.conjProgress, {}); }
+function saveConjProgress(p)  { saveJSON(STORAGE_KEYS.conjProgress, p); }
+function loadConjUnlocks()    { return loadJSON(STORAGE_KEYS.conjUnlocks, {}); }
+function saveConjUnlocks(u)   { saveJSON(STORAGE_KEYS.conjUnlocks, u); }
 
 
 function defaultCardState() {
@@ -366,6 +377,8 @@ const state = {
   progress:       loadProgress(),
   customizations: loadCustomizations(),
   settings:       loadSettings(),    // user prefs (voice, etc.)
+  conjProgress:   loadConjProgress(),
+  conjUnlocks:    loadConjUnlocks(),
   sessionCards:   [],
   currentIndex:   0,
   sessionCorrect: 0,
@@ -373,6 +386,13 @@ const state = {
   previewMode:    false,    // true during "Review All" — never saves progress
   answerRevealed: false,
   customizingWordIdx: null,
+  // Conjugation drill state
+  conjQueue:           [],
+  conjQueueIdx:        0,
+  conjSessionCorrect:  0,
+  conjAnswerRevealed:  false,
+  conjShowingIntro:    false,
+  conjIntroShownSet:   new Set(),   // remember intros shown this session
 };
 
 const $ = id => document.getElementById(id);
@@ -388,10 +408,322 @@ const TIPS = [
 ];
 
 function showScreen(name) {
-  ['home', 'study', 'done', 'browse'].forEach(s => {
+  ['home', 'study', 'done', 'browse', 'conj'].forEach(s => {
     $('screen-' + s).hidden = (s !== name);
   });
   window.scrollTo(0, 0);
+}
+
+
+// ═══════════════════════════════════════════════════════════════════════════
+// CONJUGATION DRILL SYSTEM
+// ═══════════════════════════════════════════════════════════════════════════
+
+/** Is the vocab card for this Spanish infinitive "confirmed as learned"? */
+function vocabConfirmed(infinitive) {
+  // Find vocabulary index for the infinitive
+  for (let i = 0; i < VOCABULARY.length; i++) {
+    if (VOCABULARY[i][0] === infinitive) {
+      const st = state.progress[String(i)];
+      if (!st) return false;
+      return (st.repetitions || 0) >= CONJ_ELIGIBILITY_MIN_REPS
+          && (st.last_rating || 0) >= CONJ_ELIGIBILITY_MIN_RATING;
+    }
+  }
+  return false;
+}
+
+/** Highest tense index unlocked for this verb (0 = present only,
+    1 = + preterite, 2 = + future, etc.). Defaults to 0. */
+function unlockedTenseIdx(infinitive) {
+  if (state.conjUnlocks[infinitive] === undefined) return 0;
+  return state.conjUnlocks[infinitive];
+}
+
+/** A verb's current-max tense is "mastered" when all 5 forms have
+    repetitions ≥ 2 and last rating ≥ Good. Returns boolean. */
+function tenseMastered(infinitive, tenseIdx) {
+  const tense = TENSE_ORDER[tenseIdx];
+  for (let i = 0; i < 5; i++) {
+    const id = `${infinitive}__${tense}__${i}`;
+    const st = state.conjProgress[id];
+    if (!st) return false;
+    if ((st.repetitions || 0) < 2) return false;
+    if ((st.last_rating || 0) < 3) return false;
+  }
+  return true;
+}
+
+/** Auto-advance a verb to the next tense if it's mastered the current one. */
+function maybeUnlockNext(infinitive) {
+  const cur = unlockedTenseIdx(infinitive);
+  if (cur >= TENSE_ORDER.length - 1) return;
+  if (tenseMastered(infinitive, cur)) {
+    state.conjUnlocks[infinitive] = cur + 1;
+    saveConjUnlocks(state.conjUnlocks);
+  }
+}
+
+/** Build the conjugation drill queue.
+    Each entry: { verb, tense, formIdx, conjugation, sentence_es, sentence_en, state } */
+function buildConjQueue() {
+  const t = today();
+  const queue = [];
+
+  CONJUGATIONS.forEach(verbEntry => {
+    if (!vocabConfirmed(verbEntry.infinitive)) return;
+    const maxTense = unlockedTenseIdx(verbEntry.infinitive);
+
+    for (let ti = 0; ti <= maxTense; ti++) {
+      const tense = TENSE_ORDER[ti];
+      const tenseData = verbEntry.tenses[tense];
+      if (!tenseData) continue;
+
+      for (let fi = 0; fi < 5; fi++) {
+        const id = `${verbEntry.infinitive}__${tense}__${fi}`;
+        const st = state.conjProgress[id] || defaultCardState();
+        // Only include if past next-review and past any within-day cooldown
+        if (st.next_review && st.next_review > t) continue;
+        if (_seconds_until_ready(st) > 0) continue;
+
+        queue.push({
+          id,
+          verb:        verbEntry.infinitive,
+          verbEn:      verbEntry.english,
+          tense,
+          tenseIdx:    ti,
+          tenseLabel:  tenseData.label,
+          tenseDesc:   tenseData.description,
+          formIdx:     fi,
+          person:      PERSONS[fi],
+          conjugation: tenseData.forms[fi],
+          sentenceEs:  tenseData.sentences[fi].es,
+          sentenceEn:  tenseData.sentences[fi].en,
+          state:       st,
+          allForms:    tenseData.forms,
+          allSentences:tenseData.sentences,
+        });
+      }
+    }
+  });
+
+  shuffle(queue);
+  return queue;
+}
+
+function _seconds_until_ready(st) {
+  // Mirror of the vocab cooldown logic, slightly slimmer
+  const r = st.last_rating;
+  if (r === undefined || r === null || r === 4) return 0;
+  if (r === 3 && (st.repetitions || 0) >= 2) return 0;
+  const cool = { 1: 600, 2: 1800, 3: 3600 }[r] || 0;
+  if (!cool || !st.last_seen_time) return 0;
+  const elapsed = (Date.now() - new Date(st.last_seen_time)) / 1000;
+  return Math.max(0, cool - elapsed);
+}
+
+function countConjReady() {
+  return buildConjQueue().length;
+}
+
+function startConjSession() {
+  state.conjQueue = buildConjQueue();
+  state.conjQueueIdx = 0;
+  state.conjSessionCorrect = 0;
+  state.conjIntroShownSet = new Set();
+  if (!state.conjQueue.length) {
+    // Nothing eligible
+    alert("No conjugation cards are ready yet.\n\n" +
+          "Verbs become eligible once they hit Good rating in vocabulary " +
+          "study, with at least 3 repetitions. Keep studying!");
+    return;
+  }
+  showScreen('conj');
+  renderConjCard();
+}
+
+function renderConjCard() {
+  if (state.conjQueueIdx >= state.conjQueue.length) {
+    showConjDone();
+    return;
+  }
+  const c = state.conjQueue[state.conjQueueIdx];
+  state.conjAnswerRevealed = false;
+
+  // Top progress
+  $('conj-progress').textContent =
+    `Card ${state.conjQueueIdx + 1} of ${state.conjQueue.length}`;
+  $('conj-progress-fill').style.width =
+    (100 * state.conjQueueIdx / state.conjQueue.length) + '%';
+
+  // First exposure to this (verb, tense)? Show intro first.
+  const introKey = `${c.verb}__${c.tense}`;
+  const everSeen = Object.keys(state.conjProgress).some(k =>
+    k.startsWith(c.verb + '__' + c.tense + '__'));
+  if (!everSeen && !state.conjIntroShownSet.has(introKey)) {
+    state.conjIntroShownSet.add(introKey);
+    showConjIntro(c);
+    return;
+  }
+
+  showConjDrill(c);
+}
+
+function showConjIntro(c) {
+  state.conjShowingIntro = true;
+  $('conj-intro').hidden = false;
+  $('conj-card').hidden = true;
+  $('conj-done').hidden = true;
+
+  $('conj-intro-verb').textContent = c.verb;
+  $('conj-intro-verb-en').textContent = '(' + c.verbEn + ')';
+  $('conj-intro-tense').textContent = c.tenseLabel;
+  $('conj-intro-desc').textContent = c.tenseDesc;
+
+  // Build conjugation table
+  const table = $('conj-intro-table');
+  table.innerHTML = '';
+  for (let i = 0; i < 5; i++) {
+    const tr = document.createElement('tr');
+    const th = document.createElement('th');
+    th.textContent = PERSONS[i];
+    const td = document.createElement('td');
+    td.textContent = c.allForms[i];
+    tr.appendChild(th);
+    tr.appendChild(td);
+    table.appendChild(tr);
+  }
+
+  // Examples (show first 2 for brevity in the intro)
+  const ul = $('conj-intro-examples');
+  ul.innerHTML = '';
+  for (let i = 0; i < Math.min(2, c.allSentences.length); i++) {
+    const li = document.createElement('li');
+    li.innerHTML = `<div class="es">${escapeHtml(c.allSentences[i].es)}</div>
+                    <div class="en">→ ${escapeHtml(c.allSentences[i].en)}</div>`;
+    ul.appendChild(li);
+  }
+}
+
+function showConjDrill(c) {
+  state.conjShowingIntro = false;
+  $('conj-intro').hidden = true;
+  $('conj-card').hidden = false;
+  $('conj-done').hidden = true;
+
+  $('conj-card-tense').textContent = c.tenseLabel.toUpperCase();
+  $('conj-card-verb').textContent = c.verb;
+  $('conj-card-verb-en').textContent = '(' + c.verbEn + ')';
+  $('conj-card-person').textContent = c.person;
+
+  // Reset reveal area
+  $('conj-form-text').textContent = '';
+  $('conj-sentence-es').textContent = '';
+  $('conj-sentence-en').textContent = '';
+  $('conj-speak-form').hidden = true;
+  $('conj-speak-sentence').hidden = true;
+  $('conj-btn-reveal').hidden = false;
+  $('conj-skip-ahead').hidden = true;
+}
+
+function revealConjAnswer() {
+  if (state.conjAnswerRevealed) return;
+  state.conjAnswerRevealed = true;
+  const c = state.conjQueue[state.conjQueueIdx];
+
+  $('conj-form-text').textContent = c.conjugation;
+  $('conj-sentence-es').textContent = c.sentenceEs;
+  $('conj-sentence-en').textContent = '→ ' + c.sentenceEn;
+  $('conj-speak-form').hidden = false;
+  $('conj-speak-sentence').hidden = false;
+  $('conj-btn-reveal').hidden = true;
+  $('conj-skip-ahead').hidden = false;
+
+  // Play form, then sentence
+  playConjAudio(c.id, () => {
+    setTimeout(() => playConjAudio(c.id + '__s'), 350);
+  });
+}
+
+function playConjAudio(audioId, onEnd) {
+  const audio = new Audio(`audio/conj/${audioId}.mp3`);
+  if (onEnd) audio.onended = onEnd;
+  audio.onerror = () => onEnd && onEnd();
+  audio.play().catch(()=>{ onEnd && onEnd(); });
+}
+
+function rateConjCard(rating) {
+  const c = state.conjQueue[state.conjQueueIdx];
+  const prev = c.state;
+  const [ef, interval, reps] = sm2Update(
+    prev.ease_factor, prev.interval, prev.repetitions, rating
+  );
+  const nextReview = new Date();
+  nextReview.setDate(nextReview.getDate() + interval);
+  const t = today();
+  state.conjProgress[c.id] = {
+    ease_factor:    ef,
+    interval,
+    repetitions:    reps,
+    next_review:    nextReview.toISOString().slice(0, 10),
+    times_seen:     (prev.times_seen || 0) + 1,
+    last_reviewed:  t,
+    first_seen:     prev.first_seen || t,
+    last_seen_time: new Date().toISOString(),
+    last_rating:    rating,
+  };
+  saveConjProgress(state.conjProgress);
+  if (rating >= 3) state.conjSessionCorrect++;
+
+  // Try unlocking next tense for this verb
+  maybeUnlockNext(c.verb);
+
+  // "Again" re-inserts with lag, same as vocab
+  if (rating === 1) {
+    const lag = 3 + Math.floor(Math.random() * 4);
+    state.conjQueue.splice(state.conjQueueIdx + 1 + lag, 0, c);
+  }
+
+  state.conjQueueIdx++;
+  renderConjCard();
+}
+
+function skipAheadConj() {
+  const c = state.conjQueue[state.conjQueueIdx];
+  // Mark all 5 forms of current tense as "learned" so unlocking advances
+  const today_iso = today();
+  const nowIso = new Date().toISOString();
+  for (let i = 0; i < 5; i++) {
+    const id = `${c.verb}__${c.tense}__${i}`;
+    const prev = state.conjProgress[id] || defaultCardState();
+    state.conjProgress[id] = {
+      ease_factor:    Math.max(2.5, prev.ease_factor || 2.5),
+      interval:       7,
+      repetitions:    Math.max(2, prev.repetitions || 0),
+      next_review:    new Date(Date.now() + 7*24*60*60*1000).toISOString().slice(0,10),
+      times_seen:     (prev.times_seen || 0) + 1,
+      last_reviewed:  today_iso,
+      first_seen:     prev.first_seen || today_iso,
+      last_seen_time: nowIso,
+      last_rating:    3,
+    };
+  }
+  saveConjProgress(state.conjProgress);
+  maybeUnlockNext(c.verb);
+  // Remove this verb-and-tense's remaining cards from queue
+  state.conjQueue = state.conjQueue.filter((q, i) =>
+    i <= state.conjQueueIdx || !(q.verb === c.verb && q.tense === c.tense));
+  state.conjQueueIdx++;
+  renderConjCard();
+}
+
+function showConjDone() {
+  $('conj-intro').hidden = true;
+  $('conj-card').hidden = true;
+  $('conj-done').hidden = false;
+  const total = state.conjQueue.length;
+  $('conj-done-tally').textContent =
+    `You got ${state.conjSessionCorrect} of ${total} cards correct.`;
 }
 
 
@@ -466,6 +798,25 @@ function renderHome() {
 
   $('overall-progress').textContent = `${learned} / ${VOCABULARY.length} words`;
   $('tip').textContent = TIPS[Math.floor(Math.random() * TIPS.length)];
+
+  // Conjugation drill availability
+  const conjBtn = $('btn-conj');
+  const conjEmpty = $('msg-conj-empty');
+  const conjReady = countConjReady();
+  // Count eligible verbs to show context if nothing ready right now
+  const eligibleVerbs = CONJUGATIONS.filter(v => vocabConfirmed(v.infinitive)).length;
+  conjBtn.hidden = true;
+  conjEmpty.hidden = true;
+  if (conjReady > 0) {
+    conjBtn.hidden = false;
+    conjBtn.textContent = `💪  Drill Conjugations  (${conjReady} ready)`;
+  } else if (eligibleVerbs > 0) {
+    conjEmpty.hidden = false;
+    conjEmpty.textContent = `💪 ${eligibleVerbs} verb${eligibleVerbs === 1 ? '' : 's'} are eligible for conjugation drilling — all are in cooldown. Come back later.`;
+  } else if (CONJUGATIONS && CONJUGATIONS.length) {
+    conjEmpty.hidden = false;
+    conjEmpty.textContent = `💪 Conjugation drilling unlocks as you master verbs in vocabulary study.`;
+  }
 }
 
 
@@ -1045,6 +1396,7 @@ function bind() {
   $('btn-browse').addEventListener('click', () => {
     renderVocab(''); $('search-input').value = ''; showScreen('browse');
   });
+  $('btn-conj'   ).addEventListener('click', startConjSession);
   $('btn-voice'  ).addEventListener('click', openVoiceSettings);
   $('btn-export' ).addEventListener('click', exportProgress);
   $('btn-import' ).addEventListener('click', () => $('file-import').click());
@@ -1107,6 +1459,42 @@ function bind() {
       }
     }
   });
+
+  // Conjugation drill screen
+  $('conj-back').addEventListener('click', () => { renderHome(); showScreen('home'); });
+  $('btn-begin-drill').addEventListener('click', () => {
+    const c = state.conjQueue[state.conjQueueIdx];
+    showConjDrill(c);
+  });
+  $('conj-btn-reveal').addEventListener('click', revealConjAnswer);
+  $('conj-form-text').addEventListener('click', () => {
+    if (state.conjAnswerRevealed) {
+      const c = state.conjQueue[state.conjQueueIdx];
+      playConjAudio(c.id);
+    }
+  });
+  $('conj-speak-form').addEventListener('click', e => {
+    e.stopPropagation();
+    const c = state.conjQueue[state.conjQueueIdx];
+    playConjAudio(c.id);
+  });
+  $('conj-speak-sentence').addEventListener('click', e => {
+    e.stopPropagation();
+    const c = state.conjQueue[state.conjQueueIdx];
+    playConjAudio(c.id + '__s');
+  });
+  document.querySelectorAll('[data-conj-rating]').forEach(btn => {
+    btn.addEventListener('click', () => rateConjCard(parseInt(btn.dataset.conjRating, 10)));
+  });
+  $('conj-skip-ahead').addEventListener('click', () => {
+    if (confirm('Mark all 5 forms of this verb in this tense as "learned" and unlock the next tense for this verb?')) {
+      skipAheadConj();
+    }
+  });
+  $('conj-btn-again').addEventListener('click', () => {
+    if (state.conjQueue.length) startConjSession();
+  });
+  $('conj-btn-home').addEventListener('click', () => { renderHome(); showScreen('home'); });
 
   // Voice settings modal
   $('btn-close-voice').addEventListener('click', closeVoiceSettings);

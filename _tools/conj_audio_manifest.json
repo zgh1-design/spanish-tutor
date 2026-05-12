@@ -1,0 +1,4652 @@
+[
+  {
+    "id": "hablar__present__0",
+    "text": "hablo",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__present__0__s",
+    "text": "Yo hablo español todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__present__1",
+    "text": "hablas",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__present__1__s",
+    "text": "Tú hablas muy rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__present__2",
+    "text": "habla",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__present__2__s",
+    "text": "Ella habla con su madre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__present__3",
+    "text": "hablamos",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__present__3__s",
+    "text": "Nosotros hablamos inglés en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__present__4",
+    "text": "hablan",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__present__4__s",
+    "text": "Ellos hablan por teléfono.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__preterite__0",
+    "text": "hablé",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__preterite__0__s",
+    "text": "Yo hablé con María ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__preterite__1",
+    "text": "hablaste",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__preterite__1__s",
+    "text": "Tú hablaste mucho anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__preterite__2",
+    "text": "habló",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__preterite__2__s",
+    "text": "Ella habló sin parar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__preterite__3",
+    "text": "hablamos",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__preterite__3__s",
+    "text": "Nosotros hablamos toda la noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__preterite__4",
+    "text": "hablaron",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__preterite__4__s",
+    "text": "Ellos hablaron durante una hora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__future__0",
+    "text": "hablaré",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__future__0__s",
+    "text": "Yo hablaré con el jefe mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__future__1",
+    "text": "hablarás",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__future__1__s",
+    "text": "Tú hablarás en la reunión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__future__2",
+    "text": "hablará",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__future__2__s",
+    "text": "Ella hablará por radio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__future__3",
+    "text": "hablaremos",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__future__3__s",
+    "text": "Nosotros hablaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__future__4",
+    "text": "hablarán",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__future__4__s",
+    "text": "Ellos hablarán con el doctor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__present__0",
+    "text": "trabajo",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__present__0__s",
+    "text": "Yo trabajo en una oficina.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__present__1",
+    "text": "trabajas",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__present__1__s",
+    "text": "Tú trabajas mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__present__2",
+    "text": "trabaja",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__present__2__s",
+    "text": "Él trabaja en el banco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__present__3",
+    "text": "trabajamos",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__present__3__s",
+    "text": "Nosotros trabajamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__present__4",
+    "text": "trabajan",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__present__4__s",
+    "text": "Ellos trabajan los sábados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__preterite__0",
+    "text": "trabajé",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__preterite__0__s",
+    "text": "Yo trabajé doce horas ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__preterite__1",
+    "text": "trabajaste",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__preterite__1__s",
+    "text": "Tú trabajaste el fin de semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__preterite__2",
+    "text": "trabajó",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__preterite__2__s",
+    "text": "Él trabajó en París por años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__preterite__3",
+    "text": "trabajamos",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__preterite__3__s",
+    "text": "Nosotros trabajamos en el proyecto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__preterite__4",
+    "text": "trabajaron",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__preterite__4__s",
+    "text": "Ellos trabajaron toda la noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__future__0",
+    "text": "trabajaré",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__future__0__s",
+    "text": "Yo trabajaré desde casa mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__future__1",
+    "text": "trabajarás",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__future__1__s",
+    "text": "Tú trabajarás con el equipo nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__future__2",
+    "text": "trabajará",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__future__2__s",
+    "text": "Él trabajará en otra ciudad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__future__3",
+    "text": "trabajaremos",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__future__3__s",
+    "text": "Nosotros trabajaremos hasta tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__future__4",
+    "text": "trabajarán",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__future__4__s",
+    "text": "Ellos trabajarán este verano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__present__0",
+    "text": "estudio",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__present__0__s",
+    "text": "Yo estudio matemáticas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__present__1",
+    "text": "estudias",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__present__1__s",
+    "text": "Tú estudias en la universidad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__present__2",
+    "text": "estudia",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__present__2__s",
+    "text": "Ella estudia para el examen.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__present__3",
+    "text": "estudiamos",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__present__3__s",
+    "text": "Nosotros estudiamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__present__4",
+    "text": "estudian",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__present__4__s",
+    "text": "Ellos estudian medicina.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__preterite__0",
+    "text": "estudié",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__preterite__0__s",
+    "text": "Yo estudié toda la noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__preterite__1",
+    "text": "estudiaste",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__preterite__1__s",
+    "text": "Tú estudiaste mucho ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__preterite__2",
+    "text": "estudió",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__preterite__2__s",
+    "text": "Ella estudió en Madrid.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__preterite__3",
+    "text": "estudiamos",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__preterite__3__s",
+    "text": "Nosotros estudiamos la lección.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__preterite__4",
+    "text": "estudiaron",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__preterite__4__s",
+    "text": "Ellos estudiaron los verbos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__future__0",
+    "text": "estudiaré",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__future__0__s",
+    "text": "Yo estudiaré después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__future__1",
+    "text": "estudiarás",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__future__1__s",
+    "text": "Tú estudiarás con tus amigos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__future__2",
+    "text": "estudiará",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__future__2__s",
+    "text": "Ella estudiará biología.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__future__3",
+    "text": "estudiaremos",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__future__3__s",
+    "text": "Nosotros estudiaremos historia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__future__4",
+    "text": "estudiarán",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__future__4__s",
+    "text": "Ellos estudiarán mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__present__0",
+    "text": "camino",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__present__0__s",
+    "text": "Yo camino al trabajo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__present__1",
+    "text": "caminas",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__present__1__s",
+    "text": "Tú caminas muy rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__present__2",
+    "text": "camina",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__present__2__s",
+    "text": "Ella camina en el parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__present__3",
+    "text": "caminamos",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__present__3__s",
+    "text": "Nosotros caminamos por la playa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__present__4",
+    "text": "caminan",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__present__4__s",
+    "text": "Ellos caminan cada mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__preterite__0",
+    "text": "caminé",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__preterite__0__s",
+    "text": "Yo caminé cinco kilómetros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__preterite__1",
+    "text": "caminaste",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__preterite__1__s",
+    "text": "Tú caminaste mucho ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__preterite__2",
+    "text": "caminó",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__preterite__2__s",
+    "text": "Ella caminó hasta la tienda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__preterite__3",
+    "text": "caminamos",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__preterite__3__s",
+    "text": "Nosotros caminamos durante horas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__preterite__4",
+    "text": "caminaron",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__preterite__4__s",
+    "text": "Ellos caminaron toda la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__future__0",
+    "text": "caminaré",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__future__0__s",
+    "text": "Yo caminaré después del almuerzo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__future__1",
+    "text": "caminarás",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__future__1__s",
+    "text": "Tú caminarás conmigo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__future__2",
+    "text": "caminará",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__future__2__s",
+    "text": "Ella caminará al colegio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__future__3",
+    "text": "caminaremos",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__future__3__s",
+    "text": "Nosotros caminaremos esta tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__future__4",
+    "text": "caminarán",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__future__4__s",
+    "text": "Ellos caminarán en la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__present__0",
+    "text": "canto",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__present__0__s",
+    "text": "Yo canto en la ducha.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__present__1",
+    "text": "cantas",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__present__1__s",
+    "text": "Tú cantas muy bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__present__2",
+    "text": "canta",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__present__2__s",
+    "text": "Ella canta en un coro.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__present__3",
+    "text": "cantamos",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__present__3__s",
+    "text": "Nosotros cantamos en español.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__present__4",
+    "text": "cantan",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__present__4__s",
+    "text": "Ellos cantan en la fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__preterite__0",
+    "text": "canté",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__preterite__0__s",
+    "text": "Yo canté en el concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__preterite__1",
+    "text": "cantaste",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__preterite__1__s",
+    "text": "Tú cantaste hermosamente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__preterite__2",
+    "text": "cantó",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__preterite__2__s",
+    "text": "Ella cantó toda la canción.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__preterite__3",
+    "text": "cantamos",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__preterite__3__s",
+    "text": "Nosotros cantamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__preterite__4",
+    "text": "cantaron",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__preterite__4__s",
+    "text": "Ellos cantaron en la boda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__future__0",
+    "text": "cantaré",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__future__0__s",
+    "text": "Yo cantaré en el escenario.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__future__1",
+    "text": "cantarás",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__future__1__s",
+    "text": "Tú cantarás esta noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__future__2",
+    "text": "cantará",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__future__2__s",
+    "text": "Ella cantará una balada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__future__3",
+    "text": "cantaremos",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__future__3__s",
+    "text": "Nosotros cantaremos en la iglesia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__future__4",
+    "text": "cantarán",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__future__4__s",
+    "text": "Ellos cantarán en español.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__present__0",
+    "text": "miro",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__present__0__s",
+    "text": "Yo miro la televisión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__present__1",
+    "text": "miras",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__present__1__s",
+    "text": "Tú miras las estrellas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__present__2",
+    "text": "mira",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__present__2__s",
+    "text": "Él mira el reloj.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__present__3",
+    "text": "miramos",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__present__3__s",
+    "text": "Nosotros miramos una película.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__present__4",
+    "text": "miran",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__present__4__s",
+    "text": "Ellos miran el partido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__preterite__0",
+    "text": "miré",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__preterite__0__s",
+    "text": "Yo miré la luna anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__preterite__1",
+    "text": "miraste",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__preterite__1__s",
+    "text": "Tú miraste el video.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__preterite__2",
+    "text": "miró",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__preterite__2__s",
+    "text": "Él miró por la ventana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__preterite__3",
+    "text": "miramos",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__preterite__3__s",
+    "text": "Nosotros miramos las fotos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__preterite__4",
+    "text": "miraron",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__preterite__4__s",
+    "text": "Ellos miraron el atardecer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__future__0",
+    "text": "miraré",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__future__0__s",
+    "text": "Yo miraré las noticias después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__future__1",
+    "text": "mirarás",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__future__1__s",
+    "text": "Tú mirarás el documental.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__future__2",
+    "text": "mirará",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__future__2__s",
+    "text": "Él mirará el partido el sábado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__future__3",
+    "text": "miraremos",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__future__3__s",
+    "text": "Nosotros miraremos una serie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__future__4",
+    "text": "mirarán",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__future__4__s",
+    "text": "Ellos mirarán la presentación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__present__0",
+    "text": "escucho",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__present__0__s",
+    "text": "Yo escucho música clásica.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__present__1",
+    "text": "escuchas",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__present__1__s",
+    "text": "Tú escuchas la radio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__present__2",
+    "text": "escucha",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__present__2__s",
+    "text": "Ella escucha al profesor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__present__3",
+    "text": "escuchamos",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__present__3__s",
+    "text": "Nosotros escuchamos podcasts.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__present__4",
+    "text": "escuchan",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__present__4__s",
+    "text": "Ellos escuchan jazz.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__preterite__0",
+    "text": "escuché",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__preterite__0__s",
+    "text": "Yo escuché el discurso completo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__preterite__1",
+    "text": "escuchaste",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__preterite__1__s",
+    "text": "Tú escuchaste el chiste dos veces.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__preterite__2",
+    "text": "escuchó",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__preterite__2__s",
+    "text": "Ella escuchó música toda la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__preterite__3",
+    "text": "escuchamos",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__preterite__3__s",
+    "text": "Nosotros escuchamos las instrucciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__preterite__4",
+    "text": "escucharon",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__preterite__4__s",
+    "text": "Ellos escucharon con atención.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__future__0",
+    "text": "escucharé",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__future__0__s",
+    "text": "Yo escucharé el álbum nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__future__1",
+    "text": "escucharás",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__future__1__s",
+    "text": "Tú escucharás la entrevista.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__future__2",
+    "text": "escuchará",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__future__2__s",
+    "text": "Ella escuchará el podcast después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__future__3",
+    "text": "escucharemos",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__future__3__s",
+    "text": "Nosotros escucharemos el concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__future__4",
+    "text": "escucharán",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__future__4__s",
+    "text": "Ellos escucharán las grabaciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__present__0",
+    "text": "preparo",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__present__0__s",
+    "text": "Yo preparo la cena cada noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__present__1",
+    "text": "preparas",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__present__1__s",
+    "text": "Tú preparas el café muy bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__present__2",
+    "text": "prepara",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__present__2__s",
+    "text": "Ella prepara una sorpresa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__present__3",
+    "text": "preparamos",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__present__3__s",
+    "text": "Nosotros preparamos la presentación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__present__4",
+    "text": "preparan",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__present__4__s",
+    "text": "Ellos preparan el desayuno.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__preterite__0",
+    "text": "preparé",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__preterite__0__s",
+    "text": "Yo preparé el almuerzo ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__preterite__1",
+    "text": "preparaste",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__preterite__1__s",
+    "text": "Tú preparaste un pastel delicioso.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__preterite__2",
+    "text": "preparó",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__preterite__2__s",
+    "text": "Ella preparó la maleta anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__preterite__3",
+    "text": "preparamos",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__preterite__3__s",
+    "text": "Nosotros preparamos todo a tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__preterite__4",
+    "text": "prepararon",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__preterite__4__s",
+    "text": "Ellos prepararon una fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__future__0",
+    "text": "prepararé",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__future__0__s",
+    "text": "Yo prepararé el informe mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__future__1",
+    "text": "prepararás",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__future__1__s",
+    "text": "Tú prepararás algo especial.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__future__2",
+    "text": "preparará",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__future__2__s",
+    "text": "Ella preparará la mesa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__future__3",
+    "text": "prepararemos",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__future__3__s",
+    "text": "Nosotros prepararemos la cena.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__future__4",
+    "text": "prepararán",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__future__4__s",
+    "text": "Ellos prepararán los documentos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__present__0",
+    "text": "ayudo",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__present__0__s",
+    "text": "Yo ayudo a mi madre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__present__1",
+    "text": "ayudas",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__present__1__s",
+    "text": "Tú ayudas con la tarea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__present__2",
+    "text": "ayuda",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__present__2__s",
+    "text": "Ella ayuda a los niños.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__present__3",
+    "text": "ayudamos",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__present__3__s",
+    "text": "Nosotros ayudamos a los vecinos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__present__4",
+    "text": "ayudan",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__present__4__s",
+    "text": "Ellos ayudan al maestro.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__preterite__0",
+    "text": "ayudé",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__preterite__0__s",
+    "text": "Yo ayudé en la cocina.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__preterite__1",
+    "text": "ayudaste",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__preterite__1__s",
+    "text": "Tú ayudaste a tu hermano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__preterite__2",
+    "text": "ayudó",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__preterite__2__s",
+    "text": "Ella ayudó con la mudanza.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__preterite__3",
+    "text": "ayudamos",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__preterite__3__s",
+    "text": "Nosotros ayudamos a limpiar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__preterite__4",
+    "text": "ayudaron",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__preterite__4__s",
+    "text": "Ellos ayudaron mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__future__0",
+    "text": "ayudaré",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__future__0__s",
+    "text": "Yo ayudaré después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__future__1",
+    "text": "ayudarás",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__future__1__s",
+    "text": "Tú ayudarás con el proyecto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__future__2",
+    "text": "ayudará",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__future__2__s",
+    "text": "Ella ayudará el sábado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__future__3",
+    "text": "ayudaremos",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__future__3__s",
+    "text": "Nosotros ayudaremos a tu padre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__future__4",
+    "text": "ayudarán",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__future__4__s",
+    "text": "Ellos ayudarán a organizar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__present__0",
+    "text": "compro",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__present__0__s",
+    "text": "Yo compro pan en la panadería.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__present__1",
+    "text": "compras",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__present__1__s",
+    "text": "Tú compras flores.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__present__2",
+    "text": "compra",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__present__2__s",
+    "text": "Ella compra ropa en línea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__present__3",
+    "text": "compramos",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__present__3__s",
+    "text": "Nosotros compramos comida fresca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__present__4",
+    "text": "compran",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__present__4__s",
+    "text": "Ellos compran regalos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__preterite__0",
+    "text": "compré",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__preterite__0__s",
+    "text": "Yo compré un libro nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__preterite__1",
+    "text": "compraste",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__preterite__1__s",
+    "text": "Tú compraste dos boletos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__preterite__2",
+    "text": "compró",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__preterite__2__s",
+    "text": "Ella compró el vestido perfecto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__preterite__3",
+    "text": "compramos",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__preterite__3__s",
+    "text": "Nosotros compramos la casa el año pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__preterite__4",
+    "text": "compraron",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__preterite__4__s",
+    "text": "Ellos compraron mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__future__0",
+    "text": "compraré",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__future__0__s",
+    "text": "Yo compraré la cena.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__future__1",
+    "text": "comprarás",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__future__1__s",
+    "text": "Tú comprarás los ingredientes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__future__2",
+    "text": "comprará",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__future__2__s",
+    "text": "Ella comprará un coche nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__future__3",
+    "text": "compraremos",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__future__3__s",
+    "text": "Nosotros compraremos la propiedad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__future__4",
+    "text": "comprarán",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__future__4__s",
+    "text": "Ellos comprarán entradas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__present__0",
+    "text": "como",
+    "kind": "form"
+  },
+  {
+    "id": "comer__present__0__s",
+    "text": "Yo como pizza los viernes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__present__1",
+    "text": "comes",
+    "kind": "form"
+  },
+  {
+    "id": "comer__present__1__s",
+    "text": "Tú comes muy poco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__present__2",
+    "text": "come",
+    "kind": "form"
+  },
+  {
+    "id": "comer__present__2__s",
+    "text": "Él come en el restaurante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__present__3",
+    "text": "comemos",
+    "kind": "form"
+  },
+  {
+    "id": "comer__present__3__s",
+    "text": "Nosotros comemos a las ocho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__present__4",
+    "text": "comen",
+    "kind": "form"
+  },
+  {
+    "id": "comer__present__4__s",
+    "text": "Ellos comen frutas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__preterite__0",
+    "text": "comí",
+    "kind": "form"
+  },
+  {
+    "id": "comer__preterite__0__s",
+    "text": "Yo comí en casa anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__preterite__1",
+    "text": "comiste",
+    "kind": "form"
+  },
+  {
+    "id": "comer__preterite__1__s",
+    "text": "Tú comiste demasiado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__preterite__2",
+    "text": "comió",
+    "kind": "form"
+  },
+  {
+    "id": "comer__preterite__2__s",
+    "text": "Él comió todo el plato.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__preterite__3",
+    "text": "comimos",
+    "kind": "form"
+  },
+  {
+    "id": "comer__preterite__3__s",
+    "text": "Nosotros comimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__preterite__4",
+    "text": "comieron",
+    "kind": "form"
+  },
+  {
+    "id": "comer__preterite__4__s",
+    "text": "Ellos comieron tacos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__future__0",
+    "text": "comeré",
+    "kind": "form"
+  },
+  {
+    "id": "comer__future__0__s",
+    "text": "Yo comeré tarde hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__future__1",
+    "text": "comerás",
+    "kind": "form"
+  },
+  {
+    "id": "comer__future__1__s",
+    "text": "Tú comerás con nosotros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__future__2",
+    "text": "comerá",
+    "kind": "form"
+  },
+  {
+    "id": "comer__future__2__s",
+    "text": "Él comerá en el aeropuerto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__future__3",
+    "text": "comeremos",
+    "kind": "form"
+  },
+  {
+    "id": "comer__future__3__s",
+    "text": "Nosotros comeremos pollo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__future__4",
+    "text": "comerán",
+    "kind": "form"
+  },
+  {
+    "id": "comer__future__4__s",
+    "text": "Ellos comerán postre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__present__0",
+    "text": "bebo",
+    "kind": "form"
+  },
+  {
+    "id": "beber__present__0__s",
+    "text": "Yo bebo agua todo el día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__present__1",
+    "text": "bebes",
+    "kind": "form"
+  },
+  {
+    "id": "beber__present__1__s",
+    "text": "Tú bebes mucho café.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__present__2",
+    "text": "bebe",
+    "kind": "form"
+  },
+  {
+    "id": "beber__present__2__s",
+    "text": "Ella bebe té por la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__present__3",
+    "text": "bebemos",
+    "kind": "form"
+  },
+  {
+    "id": "beber__present__3__s",
+    "text": "Nosotros bebemos vino con la cena.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__present__4",
+    "text": "beben",
+    "kind": "form"
+  },
+  {
+    "id": "beber__present__4__s",
+    "text": "Ellos beben cerveza.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__preterite__0",
+    "text": "bebí",
+    "kind": "form"
+  },
+  {
+    "id": "beber__preterite__0__s",
+    "text": "Yo bebí dos vasos de jugo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__preterite__1",
+    "text": "bebiste",
+    "kind": "form"
+  },
+  {
+    "id": "beber__preterite__1__s",
+    "text": "Tú bebiste demasiado anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__preterite__2",
+    "text": "bebió",
+    "kind": "form"
+  },
+  {
+    "id": "beber__preterite__2__s",
+    "text": "Ella bebió un café doble.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__preterite__3",
+    "text": "bebimos",
+    "kind": "form"
+  },
+  {
+    "id": "beber__preterite__3__s",
+    "text": "Nosotros bebimos champán.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__preterite__4",
+    "text": "bebieron",
+    "kind": "form"
+  },
+  {
+    "id": "beber__preterite__4__s",
+    "text": "Ellos bebieron toda la noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__future__0",
+    "text": "beberé",
+    "kind": "form"
+  },
+  {
+    "id": "beber__future__0__s",
+    "text": "Yo beberé limonada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__future__1",
+    "text": "beberás",
+    "kind": "form"
+  },
+  {
+    "id": "beber__future__1__s",
+    "text": "Tú beberás más agua.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__future__2",
+    "text": "beberá",
+    "kind": "form"
+  },
+  {
+    "id": "beber__future__2__s",
+    "text": "Ella beberá un mojito.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__future__3",
+    "text": "beberemos",
+    "kind": "form"
+  },
+  {
+    "id": "beber__future__3__s",
+    "text": "Nosotros beberemos sangría.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__future__4",
+    "text": "beberán",
+    "kind": "form"
+  },
+  {
+    "id": "beber__future__4__s",
+    "text": "Ellos beberán refrescos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__present__0",
+    "text": "aprendo",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__present__0__s",
+    "text": "Yo aprendo español rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__present__1",
+    "text": "aprendes",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__present__1__s",
+    "text": "Tú aprendes francés también.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__present__2",
+    "text": "aprende",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__present__2__s",
+    "text": "Ella aprende a tocar la guitarra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__present__3",
+    "text": "aprendemos",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__present__3__s",
+    "text": "Nosotros aprendemos cosas nuevas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__present__4",
+    "text": "aprenden",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__present__4__s",
+    "text": "Ellos aprenden de sus errores.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__preterite__0",
+    "text": "aprendí",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__preterite__0__s",
+    "text": "Yo aprendí mucho este año.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__preterite__1",
+    "text": "aprendiste",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__preterite__1__s",
+    "text": "Tú aprendiste a cocinar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__preterite__2",
+    "text": "aprendió",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__preterite__2__s",
+    "text": "Ella aprendió la canción.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__preterite__3",
+    "text": "aprendimos",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__preterite__3__s",
+    "text": "Nosotros aprendimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__preterite__4",
+    "text": "aprendieron",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__preterite__4__s",
+    "text": "Ellos aprendieron a nadar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__future__0",
+    "text": "aprenderé",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__future__0__s",
+    "text": "Yo aprenderé alemán.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__future__1",
+    "text": "aprenderás",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__future__1__s",
+    "text": "Tú aprenderás con el tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__future__2",
+    "text": "aprenderá",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__future__2__s",
+    "text": "Ella aprenderá a manejar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__future__3",
+    "text": "aprenderemos",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__future__3__s",
+    "text": "Nosotros aprenderemos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__future__4",
+    "text": "aprenderán",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__future__4__s",
+    "text": "Ellos aprenderán inglés.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__present__0",
+    "text": "leo",
+    "kind": "form"
+  },
+  {
+    "id": "leer__present__0__s",
+    "text": "Yo leo novelas en la cama.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__present__1",
+    "text": "lees",
+    "kind": "form"
+  },
+  {
+    "id": "leer__present__1__s",
+    "text": "Tú lees el periódico.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__present__2",
+    "text": "lee",
+    "kind": "form"
+  },
+  {
+    "id": "leer__present__2__s",
+    "text": "Ella lee poesía.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__present__3",
+    "text": "leemos",
+    "kind": "form"
+  },
+  {
+    "id": "leer__present__3__s",
+    "text": "Nosotros leemos en silencio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__present__4",
+    "text": "leen",
+    "kind": "form"
+  },
+  {
+    "id": "leer__present__4__s",
+    "text": "Ellos leen muchos libros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__preterite__0",
+    "text": "leí",
+    "kind": "form"
+  },
+  {
+    "id": "leer__preterite__0__s",
+    "text": "Yo leí el libro en un día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__preterite__1",
+    "text": "leíste",
+    "kind": "form"
+  },
+  {
+    "id": "leer__preterite__1__s",
+    "text": "Tú leíste todo el manual.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__preterite__2",
+    "text": "leyó",
+    "kind": "form"
+  },
+  {
+    "id": "leer__preterite__2__s",
+    "text": "Ella leyó la carta dos veces.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__preterite__3",
+    "text": "leímos",
+    "kind": "form"
+  },
+  {
+    "id": "leer__preterite__3__s",
+    "text": "Nosotros leímos los documentos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__preterite__4",
+    "text": "leyeron",
+    "kind": "form"
+  },
+  {
+    "id": "leer__preterite__4__s",
+    "text": "Ellos leyeron las instrucciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__future__0",
+    "text": "leeré",
+    "kind": "form"
+  },
+  {
+    "id": "leer__future__0__s",
+    "text": "Yo leeré ese artículo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__future__1",
+    "text": "leerás",
+    "kind": "form"
+  },
+  {
+    "id": "leer__future__1__s",
+    "text": "Tú leerás el contrato.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__future__2",
+    "text": "leerá",
+    "kind": "form"
+  },
+  {
+    "id": "leer__future__2__s",
+    "text": "Ella leerá una novela este verano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__future__3",
+    "text": "leeremos",
+    "kind": "form"
+  },
+  {
+    "id": "leer__future__3__s",
+    "text": "Nosotros leeremos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__future__4",
+    "text": "leerán",
+    "kind": "form"
+  },
+  {
+    "id": "leer__future__4__s",
+    "text": "Ellos leerán los resultados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__present__0",
+    "text": "corro",
+    "kind": "form"
+  },
+  {
+    "id": "correr__present__0__s",
+    "text": "Yo corro cinco kilómetros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__present__1",
+    "text": "corres",
+    "kind": "form"
+  },
+  {
+    "id": "correr__present__1__s",
+    "text": "Tú corres muy rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__present__2",
+    "text": "corre",
+    "kind": "form"
+  },
+  {
+    "id": "correr__present__2__s",
+    "text": "Ella corre en el parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__present__3",
+    "text": "corremos",
+    "kind": "form"
+  },
+  {
+    "id": "correr__present__3__s",
+    "text": "Nosotros corremos cada mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__present__4",
+    "text": "corren",
+    "kind": "form"
+  },
+  {
+    "id": "correr__present__4__s",
+    "text": "Ellos corren maratones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__preterite__0",
+    "text": "corrí",
+    "kind": "form"
+  },
+  {
+    "id": "correr__preterite__0__s",
+    "text": "Yo corrí toda la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__preterite__1",
+    "text": "corriste",
+    "kind": "form"
+  },
+  {
+    "id": "correr__preterite__1__s",
+    "text": "Tú corriste para alcanzar el bus.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__preterite__2",
+    "text": "corrió",
+    "kind": "form"
+  },
+  {
+    "id": "correr__preterite__2__s",
+    "text": "Ella corrió la carrera.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__preterite__3",
+    "text": "corrimos",
+    "kind": "form"
+  },
+  {
+    "id": "correr__preterite__3__s",
+    "text": "Nosotros corrimos por las calles.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__preterite__4",
+    "text": "corrieron",
+    "kind": "form"
+  },
+  {
+    "id": "correr__preterite__4__s",
+    "text": "Ellos corrieron hasta la casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__future__0",
+    "text": "correré",
+    "kind": "form"
+  },
+  {
+    "id": "correr__future__0__s",
+    "text": "Yo correré con mi amigo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__future__1",
+    "text": "correrás",
+    "kind": "form"
+  },
+  {
+    "id": "correr__future__1__s",
+    "text": "Tú correrás el maratón.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__future__2",
+    "text": "correrá",
+    "kind": "form"
+  },
+  {
+    "id": "correr__future__2__s",
+    "text": "Ella correrá el sábado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__future__3",
+    "text": "correremos",
+    "kind": "form"
+  },
+  {
+    "id": "correr__future__3__s",
+    "text": "Nosotros correremos por el bosque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__future__4",
+    "text": "correrán",
+    "kind": "form"
+  },
+  {
+    "id": "correr__future__4__s",
+    "text": "Ellos correrán juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__present__0",
+    "text": "vendo",
+    "kind": "form"
+  },
+  {
+    "id": "vender__present__0__s",
+    "text": "Yo vendo flores en el mercado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__present__1",
+    "text": "vendes",
+    "kind": "form"
+  },
+  {
+    "id": "vender__present__1__s",
+    "text": "Tú vendes coches.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__present__2",
+    "text": "vende",
+    "kind": "form"
+  },
+  {
+    "id": "vender__present__2__s",
+    "text": "Él vende libros usados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__present__3",
+    "text": "vendemos",
+    "kind": "form"
+  },
+  {
+    "id": "vender__present__3__s",
+    "text": "Nosotros vendemos artesanías.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__present__4",
+    "text": "venden",
+    "kind": "form"
+  },
+  {
+    "id": "vender__present__4__s",
+    "text": "Ellos venden frutas frescas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__preterite__0",
+    "text": "vendí",
+    "kind": "form"
+  },
+  {
+    "id": "vender__preterite__0__s",
+    "text": "Yo vendí mi vieja bicicleta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__preterite__1",
+    "text": "vendiste",
+    "kind": "form"
+  },
+  {
+    "id": "vender__preterite__1__s",
+    "text": "Tú vendiste la casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__preterite__2",
+    "text": "vendió",
+    "kind": "form"
+  },
+  {
+    "id": "vender__preterite__2__s",
+    "text": "Él vendió todo en un día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__preterite__3",
+    "text": "vendimos",
+    "kind": "form"
+  },
+  {
+    "id": "vender__preterite__3__s",
+    "text": "Nosotros vendimos los muebles.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__preterite__4",
+    "text": "vendieron",
+    "kind": "form"
+  },
+  {
+    "id": "vender__preterite__4__s",
+    "text": "Ellos vendieron sus acciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__future__0",
+    "text": "venderé",
+    "kind": "form"
+  },
+  {
+    "id": "vender__future__0__s",
+    "text": "Yo venderé mi auto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__future__1",
+    "text": "venderás",
+    "kind": "form"
+  },
+  {
+    "id": "vender__future__1__s",
+    "text": "Tú venderás la propiedad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__future__2",
+    "text": "venderá",
+    "kind": "form"
+  },
+  {
+    "id": "vender__future__2__s",
+    "text": "Él venderá su colección.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__future__3",
+    "text": "venderemos",
+    "kind": "form"
+  },
+  {
+    "id": "vender__future__3__s",
+    "text": "Nosotros venderemos los productos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__future__4",
+    "text": "venderán",
+    "kind": "form"
+  },
+  {
+    "id": "vender__future__4__s",
+    "text": "Ellos venderán las pinturas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__present__0",
+    "text": "comprendo",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__present__0__s",
+    "text": "Yo comprendo la situación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__present__1",
+    "text": "comprendes",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__present__1__s",
+    "text": "Tú comprendes el problema.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__present__2",
+    "text": "comprende",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__present__2__s",
+    "text": "Ella comprende muy rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__present__3",
+    "text": "comprendemos",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__present__3__s",
+    "text": "Nosotros comprendemos la lección.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__present__4",
+    "text": "comprenden",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__present__4__s",
+    "text": "Ellos comprenden las reglas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__preterite__0",
+    "text": "comprendí",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__preterite__0__s",
+    "text": "Yo comprendí la pregunta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__preterite__1",
+    "text": "comprendiste",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__preterite__1__s",
+    "text": "Tú comprendiste perfectamente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__preterite__2",
+    "text": "comprendió",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__preterite__2__s",
+    "text": "Ella comprendió mi punto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__preterite__3",
+    "text": "comprendimos",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__preterite__3__s",
+    "text": "Nosotros comprendimos al final.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__preterite__4",
+    "text": "comprendieron",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__preterite__4__s",
+    "text": "Ellos comprendieron el mensaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__future__0",
+    "text": "comprenderé",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__future__0__s",
+    "text": "Yo comprenderé con el tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__future__1",
+    "text": "comprenderás",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__future__1__s",
+    "text": "Tú comprenderás cuando crezcas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__future__2",
+    "text": "comprenderá",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__future__2__s",
+    "text": "Ella comprenderá la noticia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__future__3",
+    "text": "comprenderemos",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__future__3__s",
+    "text": "Nosotros comprenderemos la teoría.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__future__4",
+    "text": "comprenderán",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__future__4__s",
+    "text": "Ellos comprenderán pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__present__0",
+    "text": "vivo",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__present__0__s",
+    "text": "Yo vivo en una ciudad grande.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__present__1",
+    "text": "vives",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__present__1__s",
+    "text": "Tú vives cerca del mar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__present__2",
+    "text": "vive",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__present__2__s",
+    "text": "Ella vive sola.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__present__3",
+    "text": "vivimos",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__present__3__s",
+    "text": "Nosotros vivimos en familia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__present__4",
+    "text": "viven",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__present__4__s",
+    "text": "Ellos viven en el campo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__preterite__0",
+    "text": "viví",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__preterite__0__s",
+    "text": "Yo viví en México diez años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__preterite__1",
+    "text": "viviste",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__preterite__1__s",
+    "text": "Tú viviste en París.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__preterite__2",
+    "text": "vivió",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__preterite__2__s",
+    "text": "Ella vivió una aventura increíble.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__preterite__3",
+    "text": "vivimos",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__preterite__3__s",
+    "text": "Nosotros vivimos momentos felices.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__preterite__4",
+    "text": "vivieron",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__preterite__4__s",
+    "text": "Ellos vivieron en el campo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__future__0",
+    "text": "viviré",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__future__0__s",
+    "text": "Yo viviré en otro país.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__future__1",
+    "text": "vivirás",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__future__1__s",
+    "text": "Tú vivirás en la playa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__future__2",
+    "text": "vivirá",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__future__2__s",
+    "text": "Ella vivirá una vida feliz.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__future__3",
+    "text": "viviremos",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__future__3__s",
+    "text": "Nosotros viviremos en paz.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__future__4",
+    "text": "vivirán",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__future__4__s",
+    "text": "Ellos vivirán cerca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__present__0",
+    "text": "escribo",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__present__0__s",
+    "text": "Yo escribo cartas a mis abuelos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__present__1",
+    "text": "escribes",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__present__1__s",
+    "text": "Tú escribes muy bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__present__2",
+    "text": "escribe",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__present__2__s",
+    "text": "Él escribe novelas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__present__3",
+    "text": "escribimos",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__present__3__s",
+    "text": "Nosotros escribimos en español.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__present__4",
+    "text": "escriben",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__present__4__s",
+    "text": "Ellos escriben artículos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__preterite__0",
+    "text": "escribí",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__preterite__0__s",
+    "text": "Yo escribí un poema ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__preterite__1",
+    "text": "escribiste",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__preterite__1__s",
+    "text": "Tú escribiste el ensayo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__preterite__2",
+    "text": "escribió",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__preterite__2__s",
+    "text": "Él escribió tres libros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__preterite__3",
+    "text": "escribimos",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__preterite__3__s",
+    "text": "Nosotros escribimos el informe.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__preterite__4",
+    "text": "escribieron",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__preterite__4__s",
+    "text": "Ellos escribieron las cartas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__future__0",
+    "text": "escribiré",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__future__0__s",
+    "text": "Yo escribiré una carta esta noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__future__1",
+    "text": "escribirás",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__future__1__s",
+    "text": "Tú escribirás la respuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__future__2",
+    "text": "escribirá",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__future__2__s",
+    "text": "Él escribirá una biografía.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__future__3",
+    "text": "escribiremos",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__future__3__s",
+    "text": "Nosotros escribiremos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__future__4",
+    "text": "escribirán",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__future__4__s",
+    "text": "Ellos escribirán el guión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__present__0",
+    "text": "abro",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__present__0__s",
+    "text": "Yo abro la puerta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__present__1",
+    "text": "abres",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__present__1__s",
+    "text": "Tú abres las ventanas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__present__2",
+    "text": "abre",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__present__2__s",
+    "text": "Ella abre el regalo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__present__3",
+    "text": "abrimos",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__present__3__s",
+    "text": "Nosotros abrimos la tienda a las nueve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__present__4",
+    "text": "abren",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__present__4__s",
+    "text": "Ellos abren la caja.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__preterite__0",
+    "text": "abrí",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__preterite__0__s",
+    "text": "Yo abrí la carta con cuidado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__preterite__1",
+    "text": "abriste",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__preterite__1__s",
+    "text": "Tú abriste la botella.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__preterite__2",
+    "text": "abrió",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__preterite__2__s",
+    "text": "Ella abrió el sobre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__preterite__3",
+    "text": "abrimos",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__preterite__3__s",
+    "text": "Nosotros abrimos el restaurante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__preterite__4",
+    "text": "abrieron",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__preterite__4__s",
+    "text": "Ellos abrieron la entrada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__future__0",
+    "text": "abriré",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__future__0__s",
+    "text": "Yo abriré la oficina temprano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__future__1",
+    "text": "abrirás",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__future__1__s",
+    "text": "Tú abrirás los ojos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__future__2",
+    "text": "abrirá",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__future__2__s",
+    "text": "Ella abrirá una nueva tienda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__future__3",
+    "text": "abriremos",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__future__3__s",
+    "text": "Nosotros abriremos la cuenta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__future__4",
+    "text": "abrirán",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__future__4__s",
+    "text": "Ellos abrirán la puerta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__present__0",
+    "text": "recibo",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__present__0__s",
+    "text": "Yo recibo paquetes en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__present__1",
+    "text": "recibes",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__present__1__s",
+    "text": "Tú recibes muchos correos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__present__2",
+    "text": "recibe",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__present__2__s",
+    "text": "Ella recibe a sus invitados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__present__3",
+    "text": "recibimos",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__present__3__s",
+    "text": "Nosotros recibimos el periódico.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__present__4",
+    "text": "reciben",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__present__4__s",
+    "text": "Ellos reciben buenas noticias.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__preterite__0",
+    "text": "recibí",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__preterite__0__s",
+    "text": "Yo recibí una llamada importante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__preterite__1",
+    "text": "recibiste",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__preterite__1__s",
+    "text": "Tú recibiste un regalo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__preterite__2",
+    "text": "recibió",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__preterite__2__s",
+    "text": "Ella recibió el premio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__preterite__3",
+    "text": "recibimos",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__preterite__3__s",
+    "text": "Nosotros recibimos visitas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__preterite__4",
+    "text": "recibieron",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__preterite__4__s",
+    "text": "Ellos recibieron la invitación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__future__0",
+    "text": "recibiré",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__future__0__s",
+    "text": "Yo recibiré la respuesta mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__future__1",
+    "text": "recibirás",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__future__1__s",
+    "text": "Tú recibirás un aumento.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__future__2",
+    "text": "recibirá",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__future__2__s",
+    "text": "Ella recibirá el diploma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__future__3",
+    "text": "recibiremos",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__future__3__s",
+    "text": "Nosotros recibiremos las cartas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__future__4",
+    "text": "recibirán",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__future__4__s",
+    "text": "Ellos recibirán el pago.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__present__0",
+    "text": "subo",
+    "kind": "form"
+  },
+  {
+    "id": "subir__present__0__s",
+    "text": "Yo subo las escaleras corriendo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__present__1",
+    "text": "subes",
+    "kind": "form"
+  },
+  {
+    "id": "subir__present__1__s",
+    "text": "Tú subes a la montaña.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__present__2",
+    "text": "sube",
+    "kind": "form"
+  },
+  {
+    "id": "subir__present__2__s",
+    "text": "Él sube al autobús.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__present__3",
+    "text": "subimos",
+    "kind": "form"
+  },
+  {
+    "id": "subir__present__3__s",
+    "text": "Nosotros subimos al avión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__present__4",
+    "text": "suben",
+    "kind": "form"
+  },
+  {
+    "id": "subir__present__4__s",
+    "text": "Ellos suben fotos a la red.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__preterite__0",
+    "text": "subí",
+    "kind": "form"
+  },
+  {
+    "id": "subir__preterite__0__s",
+    "text": "Yo subí al techo a mirar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__preterite__1",
+    "text": "subiste",
+    "kind": "form"
+  },
+  {
+    "id": "subir__preterite__1__s",
+    "text": "Tú subiste muy alto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__preterite__2",
+    "text": "subió",
+    "kind": "form"
+  },
+  {
+    "id": "subir__preterite__2__s",
+    "text": "Él subió las escaleras lentamente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__preterite__3",
+    "text": "subimos",
+    "kind": "form"
+  },
+  {
+    "id": "subir__preterite__3__s",
+    "text": "Nosotros subimos al mirador.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__preterite__4",
+    "text": "subieron",
+    "kind": "form"
+  },
+  {
+    "id": "subir__preterite__4__s",
+    "text": "Ellos subieron al árbol.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__future__0",
+    "text": "subiré",
+    "kind": "form"
+  },
+  {
+    "id": "subir__future__0__s",
+    "text": "Yo subiré después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__future__1",
+    "text": "subirás",
+    "kind": "form"
+  },
+  {
+    "id": "subir__future__1__s",
+    "text": "Tú subirás al ático.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__future__2",
+    "text": "subirá",
+    "kind": "form"
+  },
+  {
+    "id": "subir__future__2__s",
+    "text": "Él subirá el equipaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__future__3",
+    "text": "subiremos",
+    "kind": "form"
+  },
+  {
+    "id": "subir__future__3__s",
+    "text": "Nosotros subiremos la montaña.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__future__4",
+    "text": "subirán",
+    "kind": "form"
+  },
+  {
+    "id": "subir__future__4__s",
+    "text": "Ellos subirán al escenario.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__present__0",
+    "text": "parto",
+    "kind": "form"
+  },
+  {
+    "id": "partir__present__0__s",
+    "text": "Yo parto temprano por la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__present__1",
+    "text": "partes",
+    "kind": "form"
+  },
+  {
+    "id": "partir__present__1__s",
+    "text": "Tú partes el pan.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__present__2",
+    "text": "parte",
+    "kind": "form"
+  },
+  {
+    "id": "partir__present__2__s",
+    "text": "Ella parte mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__present__3",
+    "text": "partimos",
+    "kind": "form"
+  },
+  {
+    "id": "partir__present__3__s",
+    "text": "Nosotros partimos a las seis.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__present__4",
+    "text": "parten",
+    "kind": "form"
+  },
+  {
+    "id": "partir__present__4__s",
+    "text": "Ellos parten al amanecer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__preterite__0",
+    "text": "partí",
+    "kind": "form"
+  },
+  {
+    "id": "partir__preterite__0__s",
+    "text": "Yo partí a las cinco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__preterite__1",
+    "text": "partiste",
+    "kind": "form"
+  },
+  {
+    "id": "partir__preterite__1__s",
+    "text": "Tú partiste sin avisar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__preterite__2",
+    "text": "partió",
+    "kind": "form"
+  },
+  {
+    "id": "partir__preterite__2__s",
+    "text": "Ella partió hacia el aeropuerto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__preterite__3",
+    "text": "partimos",
+    "kind": "form"
+  },
+  {
+    "id": "partir__preterite__3__s",
+    "text": "Nosotros partimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__preterite__4",
+    "text": "partieron",
+    "kind": "form"
+  },
+  {
+    "id": "partir__preterite__4__s",
+    "text": "Ellos partieron de viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__future__0",
+    "text": "partiré",
+    "kind": "form"
+  },
+  {
+    "id": "partir__future__0__s",
+    "text": "Yo partiré el viernes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__future__1",
+    "text": "partirás",
+    "kind": "form"
+  },
+  {
+    "id": "partir__future__1__s",
+    "text": "Tú partirás con nosotros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__future__2",
+    "text": "partirá",
+    "kind": "form"
+  },
+  {
+    "id": "partir__future__2__s",
+    "text": "Ella partirá pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__future__3",
+    "text": "partiremos",
+    "kind": "form"
+  },
+  {
+    "id": "partir__future__3__s",
+    "text": "Nosotros partiremos en tren.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__future__4",
+    "text": "partirán",
+    "kind": "form"
+  },
+  {
+    "id": "partir__future__4__s",
+    "text": "Ellos partirán muy temprano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__present__0",
+    "text": "soy",
+    "kind": "form"
+  },
+  {
+    "id": "ser__present__0__s",
+    "text": "Yo soy de Estados Unidos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__present__1",
+    "text": "eres",
+    "kind": "form"
+  },
+  {
+    "id": "ser__present__1__s",
+    "text": "Tú eres mi mejor amigo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__present__2",
+    "text": "es",
+    "kind": "form"
+  },
+  {
+    "id": "ser__present__2__s",
+    "text": "Ella es maestra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__present__3",
+    "text": "somos",
+    "kind": "form"
+  },
+  {
+    "id": "ser__present__3__s",
+    "text": "Nosotros somos hermanos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__present__4",
+    "text": "son",
+    "kind": "form"
+  },
+  {
+    "id": "ser__present__4__s",
+    "text": "Ellos son estudiantes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__preterite__0",
+    "text": "fui",
+    "kind": "form"
+  },
+  {
+    "id": "ser__preterite__0__s",
+    "text": "Yo fui a la fiesta anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__preterite__1",
+    "text": "fuiste",
+    "kind": "form"
+  },
+  {
+    "id": "ser__preterite__1__s",
+    "text": "Tú fuiste muy amable.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__preterite__2",
+    "text": "fue",
+    "kind": "form"
+  },
+  {
+    "id": "ser__preterite__2__s",
+    "text": "Ella fue mi profesora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__preterite__3",
+    "text": "fuimos",
+    "kind": "form"
+  },
+  {
+    "id": "ser__preterite__3__s",
+    "text": "Nosotros fuimos al museo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__preterite__4",
+    "text": "fueron",
+    "kind": "form"
+  },
+  {
+    "id": "ser__preterite__4__s",
+    "text": "Ellos fueron los ganadores.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__future__0",
+    "text": "seré",
+    "kind": "form"
+  },
+  {
+    "id": "ser__future__0__s",
+    "text": "Yo seré médico algún día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__future__1",
+    "text": "serás",
+    "kind": "form"
+  },
+  {
+    "id": "ser__future__1__s",
+    "text": "Tú serás un gran padre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__future__2",
+    "text": "será",
+    "kind": "form"
+  },
+  {
+    "id": "ser__future__2__s",
+    "text": "Ella será famosa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__future__3",
+    "text": "seremos",
+    "kind": "form"
+  },
+  {
+    "id": "ser__future__3__s",
+    "text": "Nosotros seremos felices.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__future__4",
+    "text": "serán",
+    "kind": "form"
+  },
+  {
+    "id": "ser__future__4__s",
+    "text": "Ellos serán nuestros vecinos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__present__0",
+    "text": "estoy",
+    "kind": "form"
+  },
+  {
+    "id": "estar__present__0__s",
+    "text": "Yo estoy en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__present__1",
+    "text": "estás",
+    "kind": "form"
+  },
+  {
+    "id": "estar__present__1__s",
+    "text": "Tú estás cansado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__present__2",
+    "text": "está",
+    "kind": "form"
+  },
+  {
+    "id": "estar__present__2__s",
+    "text": "Ella está contenta hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__present__3",
+    "text": "estamos",
+    "kind": "form"
+  },
+  {
+    "id": "estar__present__3__s",
+    "text": "Nosotros estamos en el parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__present__4",
+    "text": "están",
+    "kind": "form"
+  },
+  {
+    "id": "estar__present__4__s",
+    "text": "Ellos están listos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__preterite__0",
+    "text": "estuve",
+    "kind": "form"
+  },
+  {
+    "id": "estar__preterite__0__s",
+    "text": "Yo estuve enfermo la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__preterite__1",
+    "text": "estuviste",
+    "kind": "form"
+  },
+  {
+    "id": "estar__preterite__1__s",
+    "text": "Tú estuviste en mi casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__preterite__2",
+    "text": "estuvo",
+    "kind": "form"
+  },
+  {
+    "id": "estar__preterite__2__s",
+    "text": "Ella estuvo en París.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__preterite__3",
+    "text": "estuvimos",
+    "kind": "form"
+  },
+  {
+    "id": "estar__preterite__3__s",
+    "text": "Nosotros estuvimos juntos todo el día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__preterite__4",
+    "text": "estuvieron",
+    "kind": "form"
+  },
+  {
+    "id": "estar__preterite__4__s",
+    "text": "Ellos estuvieron muy ocupados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__future__0",
+    "text": "estaré",
+    "kind": "form"
+  },
+  {
+    "id": "estar__future__0__s",
+    "text": "Yo estaré allí pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__future__1",
+    "text": "estarás",
+    "kind": "form"
+  },
+  {
+    "id": "estar__future__1__s",
+    "text": "Tú estarás bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__future__2",
+    "text": "estará",
+    "kind": "form"
+  },
+  {
+    "id": "estar__future__2__s",
+    "text": "Ella estará en la oficina mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__future__3",
+    "text": "estaremos",
+    "kind": "form"
+  },
+  {
+    "id": "estar__future__3__s",
+    "text": "Nosotros estaremos en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__future__4",
+    "text": "estarán",
+    "kind": "form"
+  },
+  {
+    "id": "estar__future__4__s",
+    "text": "Ellos estarán de vacaciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__present__0",
+    "text": "voy",
+    "kind": "form"
+  },
+  {
+    "id": "ir__present__0__s",
+    "text": "Yo voy al trabajo en bicicleta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__present__1",
+    "text": "vas",
+    "kind": "form"
+  },
+  {
+    "id": "ir__present__1__s",
+    "text": "Tú vas a la escuela.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__present__2",
+    "text": "va",
+    "kind": "form"
+  },
+  {
+    "id": "ir__present__2__s",
+    "text": "Ella va al gimnasio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__present__3",
+    "text": "vamos",
+    "kind": "form"
+  },
+  {
+    "id": "ir__present__3__s",
+    "text": "Nosotros vamos al cine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__present__4",
+    "text": "van",
+    "kind": "form"
+  },
+  {
+    "id": "ir__present__4__s",
+    "text": "Ellos van a la playa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__preterite__0",
+    "text": "fui",
+    "kind": "form"
+  },
+  {
+    "id": "ir__preterite__0__s",
+    "text": "Yo fui a México el verano pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__preterite__1",
+    "text": "fuiste",
+    "kind": "form"
+  },
+  {
+    "id": "ir__preterite__1__s",
+    "text": "Tú fuiste a la fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__preterite__2",
+    "text": "fue",
+    "kind": "form"
+  },
+  {
+    "id": "ir__preterite__2__s",
+    "text": "Ella fue al doctor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__preterite__3",
+    "text": "fuimos",
+    "kind": "form"
+  },
+  {
+    "id": "ir__preterite__3__s",
+    "text": "Nosotros fuimos al concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__preterite__4",
+    "text": "fueron",
+    "kind": "form"
+  },
+  {
+    "id": "ir__preterite__4__s",
+    "text": "Ellos fueron de viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__future__0",
+    "text": "iré",
+    "kind": "form"
+  },
+  {
+    "id": "ir__future__0__s",
+    "text": "Yo iré contigo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__future__1",
+    "text": "irás",
+    "kind": "form"
+  },
+  {
+    "id": "ir__future__1__s",
+    "text": "Tú irás a la universidad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__future__2",
+    "text": "irá",
+    "kind": "form"
+  },
+  {
+    "id": "ir__future__2__s",
+    "text": "Ella irá al banco mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__future__3",
+    "text": "iremos",
+    "kind": "form"
+  },
+  {
+    "id": "ir__future__3__s",
+    "text": "Nosotros iremos al partido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__future__4",
+    "text": "irán",
+    "kind": "form"
+  },
+  {
+    "id": "ir__future__4__s",
+    "text": "Ellos irán al concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__present__0",
+    "text": "tengo",
+    "kind": "form"
+  },
+  {
+    "id": "tener__present__0__s",
+    "text": "Yo tengo dos hermanos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__present__1",
+    "text": "tienes",
+    "kind": "form"
+  },
+  {
+    "id": "tener__present__1__s",
+    "text": "Tú tienes mucha suerte.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__present__2",
+    "text": "tiene",
+    "kind": "form"
+  },
+  {
+    "id": "tener__present__2__s",
+    "text": "Ella tiene veinte años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__present__3",
+    "text": "tenemos",
+    "kind": "form"
+  },
+  {
+    "id": "tener__present__3__s",
+    "text": "Nosotros tenemos una casa grande.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__present__4",
+    "text": "tienen",
+    "kind": "form"
+  },
+  {
+    "id": "tener__present__4__s",
+    "text": "Ellos tienen tres perros.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__preterite__0",
+    "text": "tuve",
+    "kind": "form"
+  },
+  {
+    "id": "tener__preterite__0__s",
+    "text": "Yo tuve un examen difícil.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__preterite__1",
+    "text": "tuviste",
+    "kind": "form"
+  },
+  {
+    "id": "tener__preterite__1__s",
+    "text": "Tú tuviste un accidente pequeño.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__preterite__2",
+    "text": "tuvo",
+    "kind": "form"
+  },
+  {
+    "id": "tener__preterite__2__s",
+    "text": "Ella tuvo una gran idea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__preterite__3",
+    "text": "tuvimos",
+    "kind": "form"
+  },
+  {
+    "id": "tener__preterite__3__s",
+    "text": "Nosotros tuvimos suerte.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__preterite__4",
+    "text": "tuvieron",
+    "kind": "form"
+  },
+  {
+    "id": "tener__preterite__4__s",
+    "text": "Ellos tuvieron una boda hermosa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__future__0",
+    "text": "tendré",
+    "kind": "form"
+  },
+  {
+    "id": "tener__future__0__s",
+    "text": "Yo tendré tiempo el sábado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__future__1",
+    "text": "tendrás",
+    "kind": "form"
+  },
+  {
+    "id": "tener__future__1__s",
+    "text": "Tú tendrás la respuesta pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__future__2",
+    "text": "tendrá",
+    "kind": "form"
+  },
+  {
+    "id": "tener__future__2__s",
+    "text": "Ella tendrá éxito.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__future__3",
+    "text": "tendremos",
+    "kind": "form"
+  },
+  {
+    "id": "tener__future__3__s",
+    "text": "Nosotros tendremos una fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__future__4",
+    "text": "tendrán",
+    "kind": "form"
+  },
+  {
+    "id": "tener__future__4__s",
+    "text": "Ellos tendrán que esperar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__present__0",
+    "text": "hago",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__present__0__s",
+    "text": "Yo hago ejercicio cada día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__present__1",
+    "text": "haces",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__present__1__s",
+    "text": "Tú haces la cena los martes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__present__2",
+    "text": "hace",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__present__2__s",
+    "text": "Ella hace su tarea por la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__present__3",
+    "text": "hacemos",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__present__3__s",
+    "text": "Nosotros hacemos planes para mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__present__4",
+    "text": "hacen",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__present__4__s",
+    "text": "Ellos hacen mucho ruido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__preterite__0",
+    "text": "hice",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__preterite__0__s",
+    "text": "Yo hice un pastel ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__preterite__1",
+    "text": "hiciste",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__preterite__1__s",
+    "text": "Tú hiciste un buen trabajo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__preterite__2",
+    "text": "hizo",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__preterite__2__s",
+    "text": "Ella hizo una pregunta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__preterite__3",
+    "text": "hicimos",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__preterite__3__s",
+    "text": "Nosotros hicimos los planes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__preterite__4",
+    "text": "hicieron",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__preterite__4__s",
+    "text": "Ellos hicieron una fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__future__0",
+    "text": "haré",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__future__0__s",
+    "text": "Yo haré la cena esta noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__future__1",
+    "text": "harás",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__future__1__s",
+    "text": "Tú harás historia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__future__2",
+    "text": "hará",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__future__2__s",
+    "text": "Ella hará lo correcto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__future__3",
+    "text": "haremos",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__future__3__s",
+    "text": "Nosotros haremos un viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__future__4",
+    "text": "harán",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__future__4__s",
+    "text": "Ellos harán lo posible.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__present__0",
+    "text": "quiero",
+    "kind": "form"
+  },
+  {
+    "id": "querer__present__0__s",
+    "text": "Yo quiero un café por favor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__present__1",
+    "text": "quieres",
+    "kind": "form"
+  },
+  {
+    "id": "querer__present__1__s",
+    "text": "Tú quieres ir al cine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__present__2",
+    "text": "quiere",
+    "kind": "form"
+  },
+  {
+    "id": "querer__present__2__s",
+    "text": "Ella quiere a su familia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__present__3",
+    "text": "queremos",
+    "kind": "form"
+  },
+  {
+    "id": "querer__present__3__s",
+    "text": "Nosotros queremos viajar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__present__4",
+    "text": "quieren",
+    "kind": "form"
+  },
+  {
+    "id": "querer__present__4__s",
+    "text": "Ellos quieren aprender español.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__preterite__0",
+    "text": "quise",
+    "kind": "form"
+  },
+  {
+    "id": "querer__preterite__0__s",
+    "text": "Yo quise ayudar pero no pude.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__preterite__1",
+    "text": "quisiste",
+    "kind": "form"
+  },
+  {
+    "id": "querer__preterite__1__s",
+    "text": "Tú quisiste comprar el libro.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__preterite__2",
+    "text": "quiso",
+    "kind": "form"
+  },
+  {
+    "id": "querer__preterite__2__s",
+    "text": "Ella quiso decir algo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__preterite__3",
+    "text": "quisimos",
+    "kind": "form"
+  },
+  {
+    "id": "querer__preterite__3__s",
+    "text": "Nosotros quisimos salir temprano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__preterite__4",
+    "text": "quisieron",
+    "kind": "form"
+  },
+  {
+    "id": "querer__preterite__4__s",
+    "text": "Ellos quisieron acompañarnos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__future__0",
+    "text": "querré",
+    "kind": "form"
+  },
+  {
+    "id": "querer__future__0__s",
+    "text": "Yo querré verte luego.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__future__1",
+    "text": "querrás",
+    "kind": "form"
+  },
+  {
+    "id": "querer__future__1__s",
+    "text": "Tú querrás saber esto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__future__2",
+    "text": "querrá",
+    "kind": "form"
+  },
+  {
+    "id": "querer__future__2__s",
+    "text": "Ella querrá la verdad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__future__3",
+    "text": "querremos",
+    "kind": "form"
+  },
+  {
+    "id": "querer__future__3__s",
+    "text": "Nosotros querremos descansar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__future__4",
+    "text": "querrán",
+    "kind": "form"
+  },
+  {
+    "id": "querer__future__4__s",
+    "text": "Ellos querrán más detalles.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__present__0",
+    "text": "puedo",
+    "kind": "form"
+  },
+  {
+    "id": "poder__present__0__s",
+    "text": "Yo puedo hablar tres idiomas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__present__1",
+    "text": "puedes",
+    "kind": "form"
+  },
+  {
+    "id": "poder__present__1__s",
+    "text": "Tú puedes hacerlo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__present__2",
+    "text": "puede",
+    "kind": "form"
+  },
+  {
+    "id": "poder__present__2__s",
+    "text": "Ella puede llegar tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__present__3",
+    "text": "podemos",
+    "kind": "form"
+  },
+  {
+    "id": "poder__present__3__s",
+    "text": "Nosotros podemos ayudar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__present__4",
+    "text": "pueden",
+    "kind": "form"
+  },
+  {
+    "id": "poder__present__4__s",
+    "text": "Ellos pueden venir mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__preterite__0",
+    "text": "pude",
+    "kind": "form"
+  },
+  {
+    "id": "poder__preterite__0__s",
+    "text": "Yo pude terminar a tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__preterite__1",
+    "text": "pudiste",
+    "kind": "form"
+  },
+  {
+    "id": "poder__preterite__1__s",
+    "text": "Tú pudiste ver el partido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__preterite__2",
+    "text": "pudo",
+    "kind": "form"
+  },
+  {
+    "id": "poder__preterite__2__s",
+    "text": "Ella pudo hacer la reserva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__preterite__3",
+    "text": "pudimos",
+    "kind": "form"
+  },
+  {
+    "id": "poder__preterite__3__s",
+    "text": "Nosotros pudimos resolverlo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__preterite__4",
+    "text": "pudieron",
+    "kind": "form"
+  },
+  {
+    "id": "poder__preterite__4__s",
+    "text": "Ellos pudieron asistir.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__future__0",
+    "text": "podré",
+    "kind": "form"
+  },
+  {
+    "id": "poder__future__0__s",
+    "text": "Yo podré ayudarte mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__future__1",
+    "text": "podrás",
+    "kind": "form"
+  },
+  {
+    "id": "poder__future__1__s",
+    "text": "Tú podrás descansar pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__future__2",
+    "text": "podrá",
+    "kind": "form"
+  },
+  {
+    "id": "poder__future__2__s",
+    "text": "Ella podrá viajar el próximo año.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__future__3",
+    "text": "podremos",
+    "kind": "form"
+  },
+  {
+    "id": "poder__future__3__s",
+    "text": "Nosotros podremos vernos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__future__4",
+    "text": "podrán",
+    "kind": "form"
+  },
+  {
+    "id": "poder__future__4__s",
+    "text": "Ellos podrán comprar la casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__present__0",
+    "text": "veo",
+    "kind": "form"
+  },
+  {
+    "id": "ver__present__0__s",
+    "text": "Yo veo la televisión por la noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__present__1",
+    "text": "ves",
+    "kind": "form"
+  },
+  {
+    "id": "ver__present__1__s",
+    "text": "Tú ves muchas películas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__present__2",
+    "text": "ve",
+    "kind": "form"
+  },
+  {
+    "id": "ver__present__2__s",
+    "text": "Ella ve a sus amigos los domingos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__present__3",
+    "text": "vemos",
+    "kind": "form"
+  },
+  {
+    "id": "ver__present__3__s",
+    "text": "Nosotros vemos las estrellas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__present__4",
+    "text": "ven",
+    "kind": "form"
+  },
+  {
+    "id": "ver__present__4__s",
+    "text": "Ellos ven a sus abuelos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__preterite__0",
+    "text": "vi",
+    "kind": "form"
+  },
+  {
+    "id": "ver__preterite__0__s",
+    "text": "Yo vi un pájaro en el árbol.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__preterite__1",
+    "text": "viste",
+    "kind": "form"
+  },
+  {
+    "id": "ver__preterite__1__s",
+    "text": "Tú viste la película anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__preterite__2",
+    "text": "vio",
+    "kind": "form"
+  },
+  {
+    "id": "ver__preterite__2__s",
+    "text": "Ella vio a su hermana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__preterite__3",
+    "text": "vimos",
+    "kind": "form"
+  },
+  {
+    "id": "ver__preterite__3__s",
+    "text": "Nosotros vimos un eclipse.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__preterite__4",
+    "text": "vieron",
+    "kind": "form"
+  },
+  {
+    "id": "ver__preterite__4__s",
+    "text": "Ellos vieron al doctor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__future__0",
+    "text": "veré",
+    "kind": "form"
+  },
+  {
+    "id": "ver__future__0__s",
+    "text": "Yo veré la nueva exposición.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__future__1",
+    "text": "verás",
+    "kind": "form"
+  },
+  {
+    "id": "ver__future__1__s",
+    "text": "Tú verás el resultado pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__future__2",
+    "text": "verá",
+    "kind": "form"
+  },
+  {
+    "id": "ver__future__2__s",
+    "text": "Ella verá a su novio mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__future__3",
+    "text": "veremos",
+    "kind": "form"
+  },
+  {
+    "id": "ver__future__3__s",
+    "text": "Nosotros veremos qué pasa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__future__4",
+    "text": "verán",
+    "kind": "form"
+  },
+  {
+    "id": "ver__future__4__s",
+    "text": "Ellos verán la verdad.",
+    "kind": "sentence"
+  }
+]

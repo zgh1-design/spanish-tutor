@@ -45,6 +45,8 @@
     <p     id="msg-empty"       class="empty-msg"        hidden></p>
     <button id="btn-practice"   class="btn btn-accent"   hidden></button>
     <p     id="msg-practice-wait" class="hint-text"      hidden></p>
+    <button id="btn-conj"       class="btn btn-good"      hidden></button>
+    <p     id="msg-conj-empty"  class="hint-text"         hidden></p>
     <button id="btn-review-all" class="btn btn-secondary">🔁 Review All Words</button>
     <button id="btn-browse"     class="btn btn-ghost">📚 Browse Vocabulary</button>
     <button id="btn-voice"      class="btn btn-ghost">🔊 Voice Settings</button>
@@ -120,6 +122,82 @@
     <p class="done-total" id="done-total"></p>
     <button class="btn btn-primary" id="btn-study-again">Study Again</button>
     <button class="btn btn-ghost"   id="btn-go-home">Go Home</button>
+  </div>
+</section>
+
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     SCREEN: CONJUGATION DRILL (intro panel + drill card share one screen)
+─────────────────────────────────────────────────────────────────────────── -->
+<section id="screen-conj" class="screen" hidden>
+  <header class="topbar">
+    <button class="topbar-btn" id="conj-back">← Home</button>
+    <span class="topbar-title" id="conj-progress">Card 1 of 1</span>
+    <span class="topbar-spacer"></span>
+  </header>
+
+  <div class="progress-bar"><div id="conj-progress-fill"></div></div>
+
+  <!-- ── INTRO PANEL: one-time per (verb, tense) ── -->
+  <div id="conj-intro" class="conj-intro" hidden>
+    <p class="conj-intro-eyebrow">🆕 New tense for</p>
+    <h2 id="conj-intro-verb"></h2>
+    <p class="conj-intro-en" id="conj-intro-verb-en"></p>
+
+    <div class="conj-intro-tense" id="conj-intro-tense"></div>
+    <p class="conj-intro-desc" id="conj-intro-desc"></p>
+
+    <table class="conj-table" id="conj-intro-table"></table>
+
+    <p class="conj-intro-examples-label">Examples:</p>
+    <ul class="conj-intro-examples" id="conj-intro-examples"></ul>
+
+    <button class="btn btn-primary" id="btn-begin-drill">Begin drilling →</button>
+  </div>
+
+  <!-- ── DRILL CARD ── -->
+  <div id="conj-card" class="card" hidden>
+    <div class="conj-card-eyebrow">
+      <span class="conj-tense-pill" id="conj-card-tense"></span>
+    </div>
+
+    <h2 class="conj-card-verb" id="conj-card-verb"></h2>
+    <p class="conj-card-verb-en" id="conj-card-verb-en"></p>
+
+    <div class="conj-prompt">
+      <span class="conj-prompt-label">Conjugate for:</span>
+      <span class="conj-prompt-person" id="conj-card-person"></span>
+    </div>
+
+    <div class="conj-reveal-area" id="conj-reveal-area">
+      <div class="conj-form" id="conj-form-text"></div>
+      <button class="speak-btn" id="conj-speak-form" hidden aria-label="Speak form">🔊</button>
+      <div class="conj-sentence" id="conj-sentence-es"></div>
+      <button class="speak-btn" id="conj-speak-sentence" hidden aria-label="Speak sentence">🔊</button>
+      <div class="conj-sentence-en" id="conj-sentence-en"></div>
+    </div>
+
+    <div class="card-controls">
+      <button class="btn btn-primary btn-narrow" id="conj-btn-reveal">Reveal Answer</button>
+      <div class="rating-row">
+        <button class="rating-btn rating-again" data-conj-rating="1">Again<span>(forgot)</span></button>
+        <button class="rating-btn rating-hard"  data-conj-rating="2">Hard<span>(struggled)</span></button>
+        <button class="rating-btn rating-good"  data-conj-rating="3">Good<span>(got it!)</span></button>
+        <button class="rating-btn rating-easy"  data-conj-rating="4">Easy<span>(instantly)</span></button>
+      </div>
+    </div>
+
+    <button class="link-btn" id="conj-skip-ahead" hidden>
+      ⏭️ I know this pattern — skip ahead to the next tense for this verb
+    </button>
+  </div>
+
+  <!-- ── DONE PANEL ── -->
+  <div id="conj-done" class="conj-done" hidden>
+    <h2>🎉 Session done!</h2>
+    <p id="conj-done-tally"></p>
+    <button class="btn btn-primary" id="conj-btn-again">Drill again</button>
+    <button class="btn btn-ghost" id="conj-btn-home">Go home</button>
   </div>
 </section>
 
@@ -219,6 +297,7 @@
      SCRIPTS
 ─────────────────────────────────────────────────────────────────────────── -->
 <script src="data.js"></script>
+<script src="conjugations.js"></script>
 <script src="app.js"></script>
 
 </body>
