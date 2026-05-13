@@ -27,13 +27,23 @@ def clean(spanish):
     return s.strip('¿?¡!').strip()
 
 
-async def gen_one(idx, spanish, sem, regen):
+def speakable(entry):
+    """Return the string Jorge should say. Prepends the article if the entry
+    has one (position 6 in the 7-field format)."""
+    spanish = clean(entry[0])
+    article = entry[6] if len(entry) >= 7 else ''
+    if article:
+        return f'{article} {spanish}'
+    return spanish
+
+
+async def gen_one(idx, text, sem, regen):
     async with sem:
         path = os.path.join(AUDIO_DIR, f'{idx}.mp3')
         if (not regen) and os.path.exists(path) and os.path.getsize(path) > 100:
             return idx, 'skip'
         try:
-            c = edge_tts.Communicate(clean(spanish), VOICE)
+            c = edge_tts.Communicate(text, VOICE)
             await c.save(path)
             return idx, 'ok'
         except Exception as e:
@@ -47,7 +57,7 @@ async def run(args):
     print(f'Audio targets: {len(targets)} (range {args.start}–{end})')
 
     sem = asyncio.Semaphore(8)
-    tasks = [gen_one(i, w[0], sem, args.regen_all) for i, w in targets]
+    tasks = [gen_one(i, speakable(w), sem, args.regen_all) for i, w in targets]
     done = 0; ok = 0; skip = 0; errs = []
     for coro in asyncio.as_completed(tasks):
         idx, status = await coro

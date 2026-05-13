@@ -70,7 +70,7 @@ def validate(vocab):
         if not isinstance(entry, list):
             errs.append(f'#{i} not a list')
             continue
-        if len(entry) < 4 or len(entry) > 6:
+        if len(entry) < 4 or len(entry) > 7:
             errs.append(f'#{i} bad length: {entry!r}')
             continue
         sp, en, cat, search = entry[:4]
@@ -148,6 +148,7 @@ if __name__ == '__main__':
     # Import the word list from a sibling Python file
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     from vocabulary import VOCABULARY
+    from articles import determine_article
 
     errs = validate(VOCABULARY)
     if errs:
@@ -158,7 +159,25 @@ if __name__ == '__main__':
             print(f'  …and {len(errs)-20} more')
         sys.exit(1)
 
+    # Pad each entry to length 7 and inject the computed article at position 6.
+    # Positional layout: [spanish, english, category, image_search,
+    #                     visual_strategy, usage_example, article]
+    enriched = []
+    counts = {'el': 0, 'la': 0, 'los': 0, 'las': 0, '': 0}
+    for entry in VOCABULARY:
+        padded = list(entry)
+        while len(padded) < 7:
+            padded.append('')
+        padded[6] = determine_article(entry)
+        counts[padded[6]] = counts.get(padded[6], 0) + 1
+        enriched.append(padded)
+
     out = os.path.join(ROOT, 'data.js')
-    write_data_js(VOCABULARY, out)
-    write_index_manifest(VOCABULARY)
-    print(f'✅ wrote {out} with {len(VOCABULARY)} entries')
+    write_data_js(enriched, out)
+    write_index_manifest(enriched)
+    print(f'✅ wrote {out} with {len(enriched)} entries')
+    total_with_article = sum(c for k, c in counts.items() if k)
+    print(f'   articles: el={counts["el"]}  la={counts["la"]}  '
+          f'los={counts["los"]}  las={counts["las"]}  '
+          f'none={counts.get("", 0)}  '
+          f'(total with article: {total_with_article})')

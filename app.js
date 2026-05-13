@@ -987,9 +987,14 @@ function revealAnswer() {
   if (state.answerRevealed) return;
   state.answerRevealed = true;
   const card = state.sessionCards[state.currentIndex];
-  const [spanish, english] = card.word;
+  const spanish = card.word[0];
+  const english = card.word[1];
+  const article = card.word[6] || '';
 
-  $('spanish-text').textContent = spanish;
+  // If a definite article is set, display it ahead of the noun (e.g., "el perro")
+  const display = article ? `${article} ${spanish}` : spanish;
+  $('spanish-text').textContent = display;
+
   $('spanish-word').classList.add('revealed');
   $('speak-btn').hidden = false;
   $('english-translation').textContent = '→  ' + english;
@@ -997,8 +1002,9 @@ function revealAnswer() {
   $('btn-reveal').hidden = true;
   $('card-image').classList.add('revealed');
 
-  // Auto-pronounce on reveal — comment out next line to disable
-  speakWord(card.idx, spanish);
+  // Auto-pronounce on reveal — comment out next line to disable.
+  // The pre-recorded audio already includes the article in its narration.
+  speakWord(card.idx, display);
 }
 
 function rateCard(rating) {
@@ -1104,6 +1110,7 @@ function renderVocab(filterText) {
 
   VOCABULARY.forEach((word, i) => {
     const [spanish, english, category] = word;
+    const article = word[6] || '';
     if (term && !spanish.toLowerCase().includes(term)
              && !english.toLowerCase().includes(term)
              && !category.toLowerCase().includes(term)) return;
@@ -1117,11 +1124,12 @@ function renderVocab(filterText) {
       list.appendChild(h);
     }
     const learned = (state.progress[String(i)] || {}).repetitions > 0;
+    const display = article ? `${article} ${spanish}` : spanish;
     const row = document.createElement('div');
     row.className = 'vocab-row';
     row.innerHTML = `
       <div class="vocab-status">${learned ? '✅' : '⬜'}</div>
-      <div class="vocab-spanish">${spanish}</div>
+      <div class="vocab-spanish">${display}</div>
       <div class="vocab-english">${english}</div>`;
     list.appendChild(row);
   });
