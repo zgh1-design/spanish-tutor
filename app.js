@@ -1349,11 +1349,16 @@ function escapeHtml(s) {
 // ─── EXPORT / IMPORT (cross-device sync) ──────────────────────────────────
 
 function exportProgress() {
+  // Bumped to version 2: now includes conjugation state and settings.
+  // Version 1 files are still importable (missing fields default to empty).
   const data = {
-    version: 1,
+    version: 2,
     exported_at: new Date().toISOString(),
-    progress: state.progress,
-    customizations: state.customizations,
+    progress:        state.progress,
+    customizations:  state.customizations,
+    settings:        state.settings        || {},
+    conj_progress:   (typeof loadConjProgress === 'function') ? loadConjProgress() : {},
+    conj_unlocks:    (typeof loadConjUnlocks  === 'function') ? loadConjUnlocks()  : {},
   };
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
@@ -1372,13 +1377,38 @@ function importProgress(file) {
     try {
       const data = JSON.parse(r.result);
       if (!data.progress) throw new Error('File is missing progress data.');
-      if (!confirm('This will REPLACE your current progress and customizations. Continue?')) return;
+
+      // Tell the user EXACTLY what will be overwritten before they commit
+      const parts = [];
+      parts.push(`${Object.keys(data.progress || {}).length} vocabulary entries`);
+      parts.push(`${Object.keys(data.customizations || {}).length} custom images/emoji`);
+      if (data.conj_progress) parts.push(`${Object.keys(data.conj_progress).length} conjugation cards`);
+      if (data.conj_unlocks)  parts.push(`${Object.keys(data.conj_unlocks).length} tense unlocks`);
+      if (data.settings && Object.keys(data.settings).length) parts.push('voice & app settings');
+
+      const msg = `Importing data from ${data.exported_at || 'unknown date'} (v${data.version || 1}):\n\n` +
+                  `  • ${parts.join('\n  • ')}\n\n` +
+                  `This will REPLACE everything currently in this browser. Continue?`;
+      if (!confirm(msg)) return;
+
+      // Apply every field. Missing fields (older v1 files) become empty.
       state.progress       = data.progress       || {};
       state.customizations = data.customizations || {};
+      state.settings       = data.settings       || {};
       saveProgress(state.progress);
       saveCustomizations(state.customizations);
+      saveSettings(state.settings);
+
+      if (typeof saveConjProgress === 'function')
+        saveConjProgress(data.conj_progress || {});
+      if (typeof saveConjUnlocks === 'function')
+        saveConjUnlocks(data.conj_unlocks || {});
+
+      // Force voice cache refresh so a newly-imported voiceURI takes effect
+      cachedVoice = null;
+
       renderHome();
-      alert('Progress imported successfully.');
+      alert('Progress imported successfully.\n\nReload the page to see all changes.');
     } catch (e) {
       alert('Could not import that file:\n\n' + e.message);
     }
