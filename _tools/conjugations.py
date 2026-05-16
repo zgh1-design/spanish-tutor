@@ -656,6 +656,17 @@ VERBS = {
                           ('Ella será famosa.',                    'She will be famous.'),
                           ('Nosotros seremos felices.',            'We will be happy.'),
                           ('Ellos serán nuestros vecinos.',        'They will be our neighbors.')],
+            'imperfect': [('Cuando era niño, yo era muy curioso.', 'When I was a kid, I was very curious.'),
+                          ('Tú eras mi mejor amigo en la escuela.','You were my best friend at school.'),
+                          ('Ella era profesora antes.',            'She used to be a teacher.'),
+                          ('Nosotros éramos vecinos hace años.',   'We were neighbors years ago.'),
+                          ('Ellos eran los líderes del grupo.',    'They were the leaders of the group.')],
+            'subjunctive_present':
+                         [('Quiero que yo sea más paciente.',       'I want to be more patient.'),
+                          ('Espero que tú seas feliz.',             'I hope you are happy.'),
+                          ('Es importante que ella sea honesta.',   'It is important that she be honest.'),
+                          ('Dudo que nosotros seamos los primeros.','I doubt we will be the first.'),
+                          ('Ojalá que ellos sean amables.',         'Hopefully they are kind.')],
         }
     },
 
@@ -683,6 +694,17 @@ VERBS = {
                           ('Ella estará en la oficina mañana.',    'She will be in the office tomorrow.'),
                           ('Nosotros estaremos en casa.',          'We will be at home.'),
                           ('Ellos estarán de vacaciones.',         'They will be on vacation.')],
+            'imperfect': [('Yo estaba cansado anoche.',             'I was tired last night.'),
+                          ('Tú estabas muy contento en la fiesta.', 'You were very happy at the party.'),
+                          ('Ella estaba en casa todo el día.',      'She was at home all day.'),
+                          ('Nosotros estábamos en la playa.',       'We were at the beach.'),
+                          ('Ellos estaban preocupados por ti.',     'They were worried about you.')],
+            'subjunctive_present':
+                         [('Espero que yo esté listo a tiempo.',    'I hope I will be ready in time.'),
+                          ('Quiero que tú estés feliz.',            'I want you to be happy.'),
+                          ('Es importante que ella esté presente.', 'It is important that she be present.'),
+                          ('Dudo que nosotros estemos juntos mañana.','I doubt we will be together tomorrow.'),
+                          ('Ojalá que ellos estén bien.',           'Hopefully they are well.')],
         }
     },
 
@@ -710,6 +732,17 @@ VERBS = {
                           ('Ella irá al banco mañana.',            'She will go to the bank tomorrow.'),
                           ('Nosotros iremos al partido.',          'We will go to the game.'),
                           ('Ellos irán al concierto.',             'They will go to the concert.')],
+            'imperfect': [('Yo iba a la escuela en bicicleta.',     'I used to go to school by bicycle.'),
+                          ('Tú ibas al gimnasio todos los días.',   'You used to go to the gym every day.'),
+                          ('Ella iba al parque con su madre.',      'She used to go to the park with her mother.'),
+                          ('Nosotros íbamos de vacaciones cada año.','We used to go on vacation every year.'),
+                          ('Ellos iban juntos al cine.',            'They used to go to the movies together.')],
+            'subjunctive_present':
+                         [('Quiero que yo vaya a España algún día.','I want to go to Spain someday.'),
+                          ('Espero que tú vayas al doctor.',        'I hope you go to the doctor.'),
+                          ('Es importante que ella vaya a la reunión.','It is important that she go to the meeting.'),
+                          ('Dudo que nosotros vayamos al concierto.','I doubt we will go to the concert.'),
+                          ('Ojalá que ellos vayan con cuidado.',    'Hopefully they go carefully.')],
         }
     },
 
@@ -737,6 +770,17 @@ VERBS = {
                           ('Ella tendrá éxito.',                   'She will have success.'),
                           ('Nosotros tendremos una fiesta.',       'We will have a party.'),
                           ('Ellos tendrán que esperar.',           'They will have to wait.')],
+            'imperfect': [('Cuando era pequeño, yo tenía un perro.','When I was little, I had a dog.'),
+                          ('Tú tenías el pelo largo antes.',        'You used to have long hair.'),
+                          ('Ella tenía una casa enorme.',           'She had a huge house.'),
+                          ('Nosotros teníamos muchos amigos.',      'We had many friends.'),
+                          ('Ellos tenían un coche antiguo.',        'They had an old car.')],
+            'subjunctive_present':
+                         [('Espero que yo tenga éxito.',            'I hope I succeed.'),
+                          ('Quiero que tú tengas buena suerte.',    'I want you to have good luck.'),
+                          ('Es importante que ella tenga el documento.','It is important that she have the document.'),
+                          ('Dudo que nosotros tengamos tiempo hoy.','I doubt we will have time today.'),
+                          ('Ojalá que ellos tengan un buen viaje.', 'Hopefully they have a good trip.')],
         }
     },
 
@@ -764,6 +808,17 @@ VERBS = {
                           ('Ella hará lo correcto.',               'She will do the right thing.'),
                           ('Nosotros haremos un viaje.',           'We will take a trip.'),
                           ('Ellos harán lo posible.',              'They will do what they can.')],
+            'imperfect': [('Yo hacía ejercicio cada mañana.',       'I used to exercise every morning.'),
+                          ('Tú hacías ruido constantemente.',       'You used to make noise constantly.'),
+                          ('Ella hacía pasteles los domingos.',     'She used to make cakes on Sundays.'),
+                          ('Nosotros hacíamos viajes en verano.',   'We used to take trips in summer.'),
+                          ('Ellos hacían deportes juntos.',         'They used to play sports together.')],
+            'subjunctive_present':
+                         [('Quiero que yo haga lo correcto.',       'I want to do the right thing.'),
+                          ('Espero que tú hagas la tarea.',         'I hope you do the homework.'),
+                          ('Es importante que ella haga la presentación.','It is important that she give the presentation.'),
+                          ('Dudo que nosotros hagamos el viaje.',   'I doubt we will make the trip.'),
+                          ('Ojalá que ellos hagan un buen trabajo.','Hopefully they do a good job.')],
         }
     },
 
@@ -1355,5 +1410,89 @@ VERBS = {
                           ('Ellos perderán esta vez.',             'They will lose this time.')],
         }
     },
+
+# ═══════════════════════════════════════════════════════════════════
+# Round 2 additions — 25 more verbs (75 total)
+# Forms hand-declared (especially for irregulars and spelling-change verbs).
+# Sentences auto-generated by augment_sentences.py for all 5 tenses.
+# ═══════════════════════════════════════════════════════════════════
+
+    'buscar':  {'type':'irregular','english':'to look for','forms':{
+        'present':  ['busco','buscas','busca','buscamos','buscan'],
+        'preterite':['busqué','buscaste','buscó','buscamos','buscaron'],
+        'future':   ['buscaré','buscarás','buscará','buscaremos','buscarán'],
+    }, 'sentences':{}},
+
+    'tomar':   {'type':'regular','english':'to take / to drink', 'sentences':{}},
+    'llamar':  {'type':'regular','english':'to call',            'sentences':{}},
+    'mostrar': {'type':'stem-o-ue','english':'to show','forms':{
+        'present':  ['muestro','muestras','muestra','mostramos','muestran'],
+        'preterite':['mostré','mostraste','mostró','mostramos','mostraron'],
+        'future':   ['mostraré','mostrarás','mostrará','mostraremos','mostrarán'],
+    }, 'sentences':{}},
+
+    'preguntar':{'type':'regular','english':'to ask',           'sentences':{}},
+    'contestar':{'type':'regular','english':'to answer',        'sentences':{}},
+    'cocinar': {'type':'regular','english':'to cook',           'sentences':{}},
+    'limpiar': {'type':'regular','english':'to clean',          'sentences':{}},
+    'enseñar': {'type':'regular','english':'to teach',          'sentences':{}},
+    'cambiar': {'type':'regular','english':'to change',         'sentences':{}},
+    'olvidar': {'type':'regular','english':'to forget',         'sentences':{}},
+    'amar':    {'type':'regular','english':'to love',           'sentences':{}},
+    'usar':    {'type':'regular','english':'to use',            'sentences':{}},
+    'gritar':  {'type':'regular','english':'to shout',          'sentences':{}},
+    'llorar':  {'type':'regular','english':'to cry',            'sentences':{}},
+    'viajar':  {'type':'regular','english':'to travel',         'sentences':{}},
+    'gustar':  {'type':'regular','english':'to like',           'sentences':{}},
+    'levantar':{'type':'regular','english':'to lift / to raise','sentences':{}},
+
+    'pedir':  {'type':'stem-e-i','english':'to ask for / to request','forms':{
+        'present':  ['pido','pides','pide','pedimos','piden'],
+        'preterite':['pedí','pediste','pidió','pedimos','pidieron'],
+        'future':   ['pediré','pedirás','pedirá','pediremos','pedirán'],
+    }, 'sentences':{}},
+
+    'sentir': {'type':'stem-e-ie','english':'to feel','forms':{
+        'present':  ['siento','sientes','siente','sentimos','sienten'],
+        'preterite':['sentí','sentiste','sintió','sentimos','sintieron'],
+        'future':   ['sentiré','sentirás','sentirá','sentiremos','sentirán'],
+    }, 'sentences':{}},
+
+    'cerrar': {'type':'stem-e-ie','english':'to close','forms':{
+        'present':  ['cierro','cierras','cierra','cerramos','cierran'],
+        'preterite':['cerré','cerraste','cerró','cerramos','cerraron'],
+        'future':   ['cerraré','cerrarás','cerrará','cerraremos','cerrarán'],
+    }, 'sentences':{}},
+
+    'recordar':{'type':'stem-o-ue','english':'to remember','forms':{
+        'present':  ['recuerdo','recuerdas','recuerda','recordamos','recuerdan'],
+        'preterite':['recordé','recordaste','recordó','recordamos','recordaron'],
+        'future':   ['recordaré','recordarás','recordará','recordaremos','recordarán'],
+    }, 'sentences':{}},
+
+    'tocar':  {'type':'irregular','english':'to touch / to play (instrument)','forms':{
+        'present':  ['toco','tocas','toca','tocamos','tocan'],
+        'preterite':['toqué','tocaste','tocó','tocamos','tocaron'],
+        'future':   ['tocaré','tocarás','tocará','tocaremos','tocarán'],
+    }, 'sentences':{}},
+
+    'morir':  {'type':'stem-o-ue','english':'to die','forms':{
+        'present':  ['muero','mueres','muere','morimos','mueren'],
+        'preterite':['morí','moriste','murió','morimos','murieron'],
+        'future':   ['moriré','morirás','morirá','moriremos','morirán'],
+    }, 'sentences':{}},
+
+    'traer':  {'type':'irregular','english':'to bring','forms':{
+        'present':  ['traigo','traes','trae','traemos','traen'],
+        'preterite':['traje','trajiste','trajo','trajimos','trajeron'],
+        'future':   ['traeré','traerás','traerá','traeremos','traerán'],
+    }, 'sentences':{}},
+
+    'oír':    {'type':'irregular','english':'to hear','forms':{
+        'present':  ['oigo','oyes','oye','oímos','oyen'],
+        'preterite':['oí','oíste','oyó','oímos','oyeron'],
+        'future':   ['oiré','oirás','oirá','oiremos','oirán'],
+        'imperfect':['oía','oías','oía','oíamos','oían'],
+    }, 'sentences':{}},
 
 }

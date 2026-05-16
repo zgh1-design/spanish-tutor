@@ -5906,7 +5906,7 @@
   },
   {
     "id": "ser__imperfect__0__s",
-    "text": "Cuando era niño, yo era mucho.",
+    "text": "Cuando era niño, yo era muy curioso.",
     "kind": "sentence"
   },
   {
@@ -5916,7 +5916,7 @@
   },
   {
     "id": "ser__imperfect__1__s",
-    "text": "Tú eras todos los días.",
+    "text": "Tú eras mi mejor amigo en la escuela.",
     "kind": "sentence"
   },
   {
@@ -5926,7 +5926,7 @@
   },
   {
     "id": "ser__imperfect__2__s",
-    "text": "Ella era de joven.",
+    "text": "Ella era profesora antes.",
     "kind": "sentence"
   },
   {
@@ -5936,7 +5936,7 @@
   },
   {
     "id": "ser__imperfect__3__s",
-    "text": "Nosotros éramos juntos en aquellos años.",
+    "text": "Nosotros éramos vecinos hace años.",
     "kind": "sentence"
   },
   {
@@ -5946,7 +5946,7 @@
   },
   {
     "id": "ser__imperfect__4__s",
-    "text": "Ellos eran cada tarde.",
+    "text": "Ellos eran los líderes del grupo.",
     "kind": "sentence"
   },
   {
@@ -5956,7 +5956,7 @@
   },
   {
     "id": "ser__subjunctive_present__0__s",
-    "text": "Quieren que yo sea.",
+    "text": "Quiero que yo sea más paciente.",
     "kind": "sentence"
   },
   {
@@ -5966,7 +5966,7 @@
   },
   {
     "id": "ser__subjunctive_present__1__s",
-    "text": "Espero que tú seas pronto.",
+    "text": "Espero que tú seas feliz.",
     "kind": "sentence"
   },
   {
@@ -5976,7 +5976,7 @@
   },
   {
     "id": "ser__subjunctive_present__2__s",
-    "text": "Es importante que ella sea.",
+    "text": "Es importante que ella sea honesta.",
     "kind": "sentence"
   },
   {
@@ -5986,7 +5986,7 @@
   },
   {
     "id": "ser__subjunctive_present__3__s",
-    "text": "Dudo que nosotros seamos hoy.",
+    "text": "Dudo que nosotros seamos los primeros.",
     "kind": "sentence"
   },
   {
@@ -5996,7 +5996,7 @@
   },
   {
     "id": "ser__subjunctive_present__4__s",
-    "text": "Ojalá que ellos sean bien.",
+    "text": "Ojalá que ellos sean amables.",
     "kind": "sentence"
   },
   {
@@ -6156,7 +6156,7 @@
   },
   {
     "id": "estar__imperfect__0__s",
-    "text": "Cuando era niño, yo estaba mucho.",
+    "text": "Yo estaba cansado anoche.",
     "kind": "sentence"
   },
   {
@@ -6166,7 +6166,7 @@
   },
   {
     "id": "estar__imperfect__1__s",
-    "text": "Tú estabas todos los días.",
+    "text": "Tú estabas muy contento en la fiesta.",
     "kind": "sentence"
   },
   {
@@ -6176,7 +6176,7 @@
   },
   {
     "id": "estar__imperfect__2__s",
-    "text": "Ella estaba de joven.",
+    "text": "Ella estaba en casa todo el día.",
     "kind": "sentence"
   },
   {
@@ -6186,7 +6186,7 @@
   },
   {
     "id": "estar__imperfect__3__s",
-    "text": "Nosotros estábamos juntos en aquellos años.",
+    "text": "Nosotros estábamos en la playa.",
     "kind": "sentence"
   },
   {
@@ -6196,7 +6196,7 @@
   },
   {
     "id": "estar__imperfect__4__s",
-    "text": "Ellos estaban cada tarde.",
+    "text": "Ellos estaban preocupados por ti.",
     "kind": "sentence"
   },
   {
@@ -6206,7 +6206,7 @@
   },
   {
     "id": "estar__subjunctive_present__0__s",
-    "text": "Quieren que yo esté.",
+    "text": "Espero que yo esté listo a tiempo.",
     "kind": "sentence"
   },
   {
@@ -6216,7 +6216,7 @@
   },
   {
     "id": "estar__subjunctive_present__1__s",
-    "text": "Espero que tú estés pronto.",
+    "text": "Quiero que tú estés feliz.",
     "kind": "sentence"
   },
   {
@@ -6226,7 +6226,7 @@
   },
   {
     "id": "estar__subjunctive_present__2__s",
-    "text": "Es importante que ella esté.",
+    "text": "Es importante que ella esté presente.",
     "kind": "sentence"
   },
   {
@@ -6236,7 +6236,7 @@
   },
   {
     "id": "estar__subjunctive_present__3__s",
-    "text": "Dudo que nosotros estemos hoy.",
+    "text": "Dudo que nosotros estemos juntos mañana.",
     "kind": "sentence"
   },
   {
@@ -6406,7 +6406,7 @@
   },
   {
     "id": "ir__imperfect__0__s",
-    "text": "Cuando era niño, yo iba mucho.",
+    "text": "Yo iba a la escuela en bicicleta.",
     "kind": "sentence"
   },
   {
@@ -6416,7 +6416,7 @@
   },
   {
     "id": "ir__imperfect__1__s",
-    "text": "Tú ibas todos los días.",
+    "text": "Tú ibas al gimnasio todos los días.",
     "kind": "sentence"
   },
   {
@@ -6426,7 +6426,7 @@
   },
   {
     "id": "ir__imperfect__2__s",
-    "text": "Ella iba de joven.",
+    "text": "Ella iba al parque con su madre.",
     "kind": "sentence"
   },
   {
@@ -6436,7 +6436,7 @@
   },
   {
     "id": "ir__imperfect__3__s",
-    "text": "Nosotros íbamos juntos en aquellos años.",
+    "text": "Nosotros íbamos de vacaciones cada año.",
     "kind": "sentence"
   },
   {
@@ -6446,7 +6446,7 @@
   },
   {
     "id": "ir__imperfect__4__s",
-    "text": "Ellos iban cada tarde.",
+    "text": "Ellos iban juntos al cine.",
     "kind": "sentence"
   },
   {
@@ -6456,7 +6456,7 @@
   },
   {
     "id": "ir__subjunctive_present__0__s",
-    "text": "Quieren que yo vaya.",
+    "text": "Quiero que yo vaya a España algún día.",
     "kind": "sentence"
   },
   {
@@ -6466,7 +6466,7 @@
   },
   {
     "id": "ir__subjunctive_present__1__s",
-    "text": "Espero que tú vayas pronto.",
+    "text": "Espero que tú vayas al doctor.",
     "kind": "sentence"
   },
   {
@@ -6476,7 +6476,7 @@
   },
   {
     "id": "ir__subjunctive_present__2__s",
-    "text": "Es importante que ella vaya.",
+    "text": "Es importante que ella vaya a la reunión.",
     "kind": "sentence"
   },
   {
@@ -6486,7 +6486,7 @@
   },
   {
     "id": "ir__subjunctive_present__3__s",
-    "text": "Dudo que nosotros vayamos hoy.",
+    "text": "Dudo que nosotros vayamos al concierto.",
     "kind": "sentence"
   },
   {
@@ -6496,7 +6496,7 @@
   },
   {
     "id": "ir__subjunctive_present__4__s",
-    "text": "Ojalá que ellos vayan bien.",
+    "text": "Ojalá que ellos vayan con cuidado.",
     "kind": "sentence"
   },
   {
@@ -6656,7 +6656,7 @@
   },
   {
     "id": "tener__imperfect__0__s",
-    "text": "Cuando era niño, yo tenía mucho.",
+    "text": "Cuando era pequeño, yo tenía un perro.",
     "kind": "sentence"
   },
   {
@@ -6666,7 +6666,7 @@
   },
   {
     "id": "tener__imperfect__1__s",
-    "text": "Tú tenías todos los días.",
+    "text": "Tú tenías el pelo largo antes.",
     "kind": "sentence"
   },
   {
@@ -6676,7 +6676,7 @@
   },
   {
     "id": "tener__imperfect__2__s",
-    "text": "Ella tenía de joven.",
+    "text": "Ella tenía una casa enorme.",
     "kind": "sentence"
   },
   {
@@ -6686,7 +6686,7 @@
   },
   {
     "id": "tener__imperfect__3__s",
-    "text": "Nosotros teníamos juntos en aquellos años.",
+    "text": "Nosotros teníamos muchos amigos.",
     "kind": "sentence"
   },
   {
@@ -6696,7 +6696,7 @@
   },
   {
     "id": "tener__imperfect__4__s",
-    "text": "Ellos tenían cada tarde.",
+    "text": "Ellos tenían un coche antiguo.",
     "kind": "sentence"
   },
   {
@@ -6706,7 +6706,7 @@
   },
   {
     "id": "tener__subjunctive_present__0__s",
-    "text": "Quieren que yo tenga.",
+    "text": "Espero que yo tenga éxito.",
     "kind": "sentence"
   },
   {
@@ -6716,7 +6716,7 @@
   },
   {
     "id": "tener__subjunctive_present__1__s",
-    "text": "Espero que tú tengas pronto.",
+    "text": "Quiero que tú tengas buena suerte.",
     "kind": "sentence"
   },
   {
@@ -6726,7 +6726,7 @@
   },
   {
     "id": "tener__subjunctive_present__2__s",
-    "text": "Es importante que ella tenga.",
+    "text": "Es importante que ella tenga el documento.",
     "kind": "sentence"
   },
   {
@@ -6736,7 +6736,7 @@
   },
   {
     "id": "tener__subjunctive_present__3__s",
-    "text": "Dudo que nosotros tengamos hoy.",
+    "text": "Dudo que nosotros tengamos tiempo hoy.",
     "kind": "sentence"
   },
   {
@@ -6746,7 +6746,7 @@
   },
   {
     "id": "tener__subjunctive_present__4__s",
-    "text": "Ojalá que ellos tengan bien.",
+    "text": "Ojalá que ellos tengan un buen viaje.",
     "kind": "sentence"
   },
   {
@@ -6906,7 +6906,7 @@
   },
   {
     "id": "hacer__imperfect__0__s",
-    "text": "Cuando era niño, yo hacía mucho.",
+    "text": "Yo hacía ejercicio cada mañana.",
     "kind": "sentence"
   },
   {
@@ -6916,7 +6916,7 @@
   },
   {
     "id": "hacer__imperfect__1__s",
-    "text": "Tú hacías todos los días.",
+    "text": "Tú hacías ruido constantemente.",
     "kind": "sentence"
   },
   {
@@ -6926,7 +6926,7 @@
   },
   {
     "id": "hacer__imperfect__2__s",
-    "text": "Ella hacía de joven.",
+    "text": "Ella hacía pasteles los domingos.",
     "kind": "sentence"
   },
   {
@@ -6936,7 +6936,7 @@
   },
   {
     "id": "hacer__imperfect__3__s",
-    "text": "Nosotros hacíamos juntos en aquellos años.",
+    "text": "Nosotros hacíamos viajes en verano.",
     "kind": "sentence"
   },
   {
@@ -6946,7 +6946,7 @@
   },
   {
     "id": "hacer__imperfect__4__s",
-    "text": "Ellos hacían cada tarde.",
+    "text": "Ellos hacían deportes juntos.",
     "kind": "sentence"
   },
   {
@@ -6956,7 +6956,7 @@
   },
   {
     "id": "hacer__subjunctive_present__0__s",
-    "text": "Quieren que yo haga.",
+    "text": "Quiero que yo haga lo correcto.",
     "kind": "sentence"
   },
   {
@@ -6966,7 +6966,7 @@
   },
   {
     "id": "hacer__subjunctive_present__1__s",
-    "text": "Espero que tú hagas pronto.",
+    "text": "Espero que tú hagas la tarea.",
     "kind": "sentence"
   },
   {
@@ -6976,7 +6976,7 @@
   },
   {
     "id": "hacer__subjunctive_present__2__s",
-    "text": "Es importante que ella haga.",
+    "text": "Es importante que ella haga la presentación.",
     "kind": "sentence"
   },
   {
@@ -6986,7 +6986,7 @@
   },
   {
     "id": "hacer__subjunctive_present__3__s",
-    "text": "Dudo que nosotros hagamos hoy.",
+    "text": "Dudo que nosotros hagamos el viaje.",
     "kind": "sentence"
   },
   {
@@ -6996,7 +6996,7 @@
   },
   {
     "id": "hacer__subjunctive_present__4__s",
-    "text": "Ojalá que ellos hagan bien.",
+    "text": "Ojalá que ellos hagan un buen trabajo.",
     "kind": "sentence"
   },
   {
@@ -12497,6 +12497,6506 @@
   {
     "id": "perder__subjunctive_present__4__s",
     "text": "Ojalá que ellos perdan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__present__0",
+    "text": "busco",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__present__0__s",
+    "text": "Yo busco todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__present__1",
+    "text": "buscas",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__present__1__s",
+    "text": "Tú buscas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__present__2",
+    "text": "busca",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__present__2__s",
+    "text": "Ella busca en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__present__3",
+    "text": "buscamos",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__present__3__s",
+    "text": "Nosotros buscamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__present__4",
+    "text": "buscan",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__present__4__s",
+    "text": "Ellos buscan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__preterite__0",
+    "text": "busqué",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__preterite__0__s",
+    "text": "Yo busqué ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__preterite__1",
+    "text": "buscaste",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__preterite__1__s",
+    "text": "Tú buscaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__preterite__2",
+    "text": "buscó",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__preterite__2__s",
+    "text": "Ella buscó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__preterite__3",
+    "text": "buscamos",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__preterite__3__s",
+    "text": "Nosotros buscamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__preterite__4",
+    "text": "buscaron",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__preterite__4__s",
+    "text": "Ellos buscaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__future__0",
+    "text": "buscaré",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__future__0__s",
+    "text": "Yo buscaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__future__1",
+    "text": "buscarás",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__future__1__s",
+    "text": "Tú buscarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__future__2",
+    "text": "buscará",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__future__2__s",
+    "text": "Ella buscará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__future__3",
+    "text": "buscaremos",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__future__3__s",
+    "text": "Nosotros buscaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__future__4",
+    "text": "buscarán",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__future__4__s",
+    "text": "Ellos buscarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__imperfect__0",
+    "text": "buscaba",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__imperfect__0__s",
+    "text": "Cuando era niño, yo buscaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__imperfect__1",
+    "text": "buscabas",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__imperfect__1__s",
+    "text": "Tú buscabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__imperfect__2",
+    "text": "buscaba",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__imperfect__2__s",
+    "text": "Ella buscaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__imperfect__3",
+    "text": "buscábamos",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__imperfect__3__s",
+    "text": "Nosotros buscábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__imperfect__4",
+    "text": "buscaban",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__imperfect__4__s",
+    "text": "Ellos buscaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__subjunctive_present__0",
+    "text": "busque",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__subjunctive_present__0__s",
+    "text": "Quieren que yo busque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__subjunctive_present__1",
+    "text": "busques",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__subjunctive_present__1__s",
+    "text": "Espero que tú busques pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__subjunctive_present__2",
+    "text": "busque",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__subjunctive_present__2__s",
+    "text": "Es importante que ella busque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__subjunctive_present__3",
+    "text": "busquemos",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros busquemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "buscar__subjunctive_present__4",
+    "text": "busquen",
+    "kind": "form"
+  },
+  {
+    "id": "buscar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos busquen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__present__0",
+    "text": "tomo",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__present__0__s",
+    "text": "Yo tomo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__present__1",
+    "text": "tomas",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__present__1__s",
+    "text": "Tú tomas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__present__2",
+    "text": "toma",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__present__2__s",
+    "text": "Ella toma en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__present__3",
+    "text": "tomamos",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__present__3__s",
+    "text": "Nosotros tomamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__present__4",
+    "text": "toman",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__present__4__s",
+    "text": "Ellos toman mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__preterite__0",
+    "text": "tomé",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__preterite__0__s",
+    "text": "Yo tomé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__preterite__1",
+    "text": "tomaste",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__preterite__1__s",
+    "text": "Tú tomaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__preterite__2",
+    "text": "tomó",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__preterite__2__s",
+    "text": "Ella tomó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__preterite__3",
+    "text": "tomamos",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__preterite__3__s",
+    "text": "Nosotros tomamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__preterite__4",
+    "text": "tomaron",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__preterite__4__s",
+    "text": "Ellos tomaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__future__0",
+    "text": "tomaré",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__future__0__s",
+    "text": "Yo tomaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__future__1",
+    "text": "tomarás",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__future__1__s",
+    "text": "Tú tomarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__future__2",
+    "text": "tomará",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__future__2__s",
+    "text": "Ella tomará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__future__3",
+    "text": "tomaremos",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__future__3__s",
+    "text": "Nosotros tomaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__future__4",
+    "text": "tomarán",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__future__4__s",
+    "text": "Ellos tomarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__imperfect__0",
+    "text": "tomaba",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__imperfect__0__s",
+    "text": "Cuando era niño, yo tomaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__imperfect__1",
+    "text": "tomabas",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__imperfect__1__s",
+    "text": "Tú tomabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__imperfect__2",
+    "text": "tomaba",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__imperfect__2__s",
+    "text": "Ella tomaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__imperfect__3",
+    "text": "tomábamos",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__imperfect__3__s",
+    "text": "Nosotros tomábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__imperfect__4",
+    "text": "tomaban",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__imperfect__4__s",
+    "text": "Ellos tomaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__subjunctive_present__0",
+    "text": "tome",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__subjunctive_present__0__s",
+    "text": "Quieren que yo tome.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__subjunctive_present__1",
+    "text": "tomes",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__subjunctive_present__1__s",
+    "text": "Espero que tú tomes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__subjunctive_present__2",
+    "text": "tome",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__subjunctive_present__2__s",
+    "text": "Es importante que ella tome.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__subjunctive_present__3",
+    "text": "tomemos",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros tomemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tomar__subjunctive_present__4",
+    "text": "tomen",
+    "kind": "form"
+  },
+  {
+    "id": "tomar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos tomen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__present__0",
+    "text": "llamo",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__present__0__s",
+    "text": "Yo llamo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__present__1",
+    "text": "llamas",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__present__1__s",
+    "text": "Tú llamas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__present__2",
+    "text": "llama",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__present__2__s",
+    "text": "Ella llama en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__present__3",
+    "text": "llamamos",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__present__3__s",
+    "text": "Nosotros llamamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__present__4",
+    "text": "llaman",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__present__4__s",
+    "text": "Ellos llaman mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__preterite__0",
+    "text": "llamé",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__preterite__0__s",
+    "text": "Yo llamé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__preterite__1",
+    "text": "llamaste",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__preterite__1__s",
+    "text": "Tú llamaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__preterite__2",
+    "text": "llamó",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__preterite__2__s",
+    "text": "Ella llamó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__preterite__3",
+    "text": "llamamos",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__preterite__3__s",
+    "text": "Nosotros llamamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__preterite__4",
+    "text": "llamaron",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__preterite__4__s",
+    "text": "Ellos llamaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__future__0",
+    "text": "llamaré",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__future__0__s",
+    "text": "Yo llamaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__future__1",
+    "text": "llamarás",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__future__1__s",
+    "text": "Tú llamarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__future__2",
+    "text": "llamará",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__future__2__s",
+    "text": "Ella llamará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__future__3",
+    "text": "llamaremos",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__future__3__s",
+    "text": "Nosotros llamaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__future__4",
+    "text": "llamarán",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__future__4__s",
+    "text": "Ellos llamarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__imperfect__0",
+    "text": "llamaba",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__imperfect__0__s",
+    "text": "Cuando era niño, yo llamaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__imperfect__1",
+    "text": "llamabas",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__imperfect__1__s",
+    "text": "Tú llamabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__imperfect__2",
+    "text": "llamaba",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__imperfect__2__s",
+    "text": "Ella llamaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__imperfect__3",
+    "text": "llamábamos",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__imperfect__3__s",
+    "text": "Nosotros llamábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__imperfect__4",
+    "text": "llamaban",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__imperfect__4__s",
+    "text": "Ellos llamaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__subjunctive_present__0",
+    "text": "llame",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__subjunctive_present__0__s",
+    "text": "Quieren que yo llame.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__subjunctive_present__1",
+    "text": "llames",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__subjunctive_present__1__s",
+    "text": "Espero que tú llames pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__subjunctive_present__2",
+    "text": "llame",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__subjunctive_present__2__s",
+    "text": "Es importante que ella llame.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__subjunctive_present__3",
+    "text": "llamemos",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros llamemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llamar__subjunctive_present__4",
+    "text": "llamen",
+    "kind": "form"
+  },
+  {
+    "id": "llamar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos llamen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__present__0",
+    "text": "muestro",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__present__0__s",
+    "text": "Yo muestro todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__present__1",
+    "text": "muestras",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__present__1__s",
+    "text": "Tú muestras con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__present__2",
+    "text": "muestra",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__present__2__s",
+    "text": "Ella muestra en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__present__3",
+    "text": "mostramos",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__present__3__s",
+    "text": "Nosotros mostramos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__present__4",
+    "text": "muestran",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__present__4__s",
+    "text": "Ellos muestran mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__preterite__0",
+    "text": "mostré",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__preterite__0__s",
+    "text": "Yo mostré ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__preterite__1",
+    "text": "mostraste",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__preterite__1__s",
+    "text": "Tú mostraste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__preterite__2",
+    "text": "mostró",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__preterite__2__s",
+    "text": "Ella mostró anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__preterite__3",
+    "text": "mostramos",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__preterite__3__s",
+    "text": "Nosotros mostramos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__preterite__4",
+    "text": "mostraron",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__preterite__4__s",
+    "text": "Ellos mostraron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__future__0",
+    "text": "mostraré",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__future__0__s",
+    "text": "Yo mostraré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__future__1",
+    "text": "mostrarás",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__future__1__s",
+    "text": "Tú mostrarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__future__2",
+    "text": "mostrará",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__future__2__s",
+    "text": "Ella mostrará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__future__3",
+    "text": "mostraremos",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__future__3__s",
+    "text": "Nosotros mostraremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__future__4",
+    "text": "mostrarán",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__future__4__s",
+    "text": "Ellos mostrarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__imperfect__0",
+    "text": "mostraba",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__imperfect__0__s",
+    "text": "Cuando era niño, yo mostraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__imperfect__1",
+    "text": "mostrabas",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__imperfect__1__s",
+    "text": "Tú mostrabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__imperfect__2",
+    "text": "mostraba",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__imperfect__2__s",
+    "text": "Ella mostraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__imperfect__3",
+    "text": "mostrábamos",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__imperfect__3__s",
+    "text": "Nosotros mostrábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__imperfect__4",
+    "text": "mostraban",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__imperfect__4__s",
+    "text": "Ellos mostraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__subjunctive_present__0",
+    "text": "mostre",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__subjunctive_present__0__s",
+    "text": "Quieren que yo mostre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__subjunctive_present__1",
+    "text": "mostres",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__subjunctive_present__1__s",
+    "text": "Espero que tú mostres pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__subjunctive_present__2",
+    "text": "mostre",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__subjunctive_present__2__s",
+    "text": "Es importante que ella mostre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__subjunctive_present__3",
+    "text": "mostremos",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros mostremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mostrar__subjunctive_present__4",
+    "text": "mostren",
+    "kind": "form"
+  },
+  {
+    "id": "mostrar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos mostren bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__present__0",
+    "text": "pregunto",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__present__0__s",
+    "text": "Yo pregunto todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__present__1",
+    "text": "preguntas",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__present__1__s",
+    "text": "Tú preguntas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__present__2",
+    "text": "pregunta",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__present__2__s",
+    "text": "Ella pregunta en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__present__3",
+    "text": "preguntamos",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__present__3__s",
+    "text": "Nosotros preguntamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__present__4",
+    "text": "preguntan",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__present__4__s",
+    "text": "Ellos preguntan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__preterite__0",
+    "text": "pregunté",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__preterite__0__s",
+    "text": "Yo pregunté ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__preterite__1",
+    "text": "preguntaste",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__preterite__1__s",
+    "text": "Tú preguntaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__preterite__2",
+    "text": "preguntó",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__preterite__2__s",
+    "text": "Ella preguntó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__preterite__3",
+    "text": "preguntamos",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__preterite__3__s",
+    "text": "Nosotros preguntamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__preterite__4",
+    "text": "preguntaron",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__preterite__4__s",
+    "text": "Ellos preguntaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__future__0",
+    "text": "preguntaré",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__future__0__s",
+    "text": "Yo preguntaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__future__1",
+    "text": "preguntarás",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__future__1__s",
+    "text": "Tú preguntarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__future__2",
+    "text": "preguntará",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__future__2__s",
+    "text": "Ella preguntará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__future__3",
+    "text": "preguntaremos",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__future__3__s",
+    "text": "Nosotros preguntaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__future__4",
+    "text": "preguntarán",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__future__4__s",
+    "text": "Ellos preguntarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__imperfect__0",
+    "text": "preguntaba",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__imperfect__0__s",
+    "text": "Cuando era niño, yo preguntaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__imperfect__1",
+    "text": "preguntabas",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__imperfect__1__s",
+    "text": "Tú preguntabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__imperfect__2",
+    "text": "preguntaba",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__imperfect__2__s",
+    "text": "Ella preguntaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__imperfect__3",
+    "text": "preguntábamos",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__imperfect__3__s",
+    "text": "Nosotros preguntábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__imperfect__4",
+    "text": "preguntaban",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__imperfect__4__s",
+    "text": "Ellos preguntaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__subjunctive_present__0",
+    "text": "pregunte",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__subjunctive_present__0__s",
+    "text": "Quieren que yo pregunte.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__subjunctive_present__1",
+    "text": "preguntes",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__subjunctive_present__1__s",
+    "text": "Espero que tú preguntes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__subjunctive_present__2",
+    "text": "pregunte",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__subjunctive_present__2__s",
+    "text": "Es importante que ella pregunte.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__subjunctive_present__3",
+    "text": "preguntemos",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros preguntemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preguntar__subjunctive_present__4",
+    "text": "pregunten",
+    "kind": "form"
+  },
+  {
+    "id": "preguntar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos pregunten bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__present__0",
+    "text": "contesto",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__present__0__s",
+    "text": "Yo contesto todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__present__1",
+    "text": "contestas",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__present__1__s",
+    "text": "Tú contestas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__present__2",
+    "text": "contesta",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__present__2__s",
+    "text": "Ella contesta en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__present__3",
+    "text": "contestamos",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__present__3__s",
+    "text": "Nosotros contestamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__present__4",
+    "text": "contestan",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__present__4__s",
+    "text": "Ellos contestan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__preterite__0",
+    "text": "contesté",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__preterite__0__s",
+    "text": "Yo contesté ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__preterite__1",
+    "text": "contestaste",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__preterite__1__s",
+    "text": "Tú contestaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__preterite__2",
+    "text": "contestó",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__preterite__2__s",
+    "text": "Ella contestó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__preterite__3",
+    "text": "contestamos",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__preterite__3__s",
+    "text": "Nosotros contestamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__preterite__4",
+    "text": "contestaron",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__preterite__4__s",
+    "text": "Ellos contestaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__future__0",
+    "text": "contestaré",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__future__0__s",
+    "text": "Yo contestaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__future__1",
+    "text": "contestarás",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__future__1__s",
+    "text": "Tú contestarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__future__2",
+    "text": "contestará",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__future__2__s",
+    "text": "Ella contestará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__future__3",
+    "text": "contestaremos",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__future__3__s",
+    "text": "Nosotros contestaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__future__4",
+    "text": "contestarán",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__future__4__s",
+    "text": "Ellos contestarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__imperfect__0",
+    "text": "contestaba",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__imperfect__0__s",
+    "text": "Cuando era niño, yo contestaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__imperfect__1",
+    "text": "contestabas",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__imperfect__1__s",
+    "text": "Tú contestabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__imperfect__2",
+    "text": "contestaba",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__imperfect__2__s",
+    "text": "Ella contestaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__imperfect__3",
+    "text": "contestábamos",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__imperfect__3__s",
+    "text": "Nosotros contestábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__imperfect__4",
+    "text": "contestaban",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__imperfect__4__s",
+    "text": "Ellos contestaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__subjunctive_present__0",
+    "text": "conteste",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__subjunctive_present__0__s",
+    "text": "Quieren que yo conteste.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__subjunctive_present__1",
+    "text": "contestes",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__subjunctive_present__1__s",
+    "text": "Espero que tú contestes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__subjunctive_present__2",
+    "text": "conteste",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__subjunctive_present__2__s",
+    "text": "Es importante que ella conteste.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__subjunctive_present__3",
+    "text": "contestemos",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros contestemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "contestar__subjunctive_present__4",
+    "text": "contesten",
+    "kind": "form"
+  },
+  {
+    "id": "contestar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos contesten bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__present__0",
+    "text": "cocino",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__present__0__s",
+    "text": "Yo cocino todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__present__1",
+    "text": "cocinas",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__present__1__s",
+    "text": "Tú cocinas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__present__2",
+    "text": "cocina",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__present__2__s",
+    "text": "Ella cocina en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__present__3",
+    "text": "cocinamos",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__present__3__s",
+    "text": "Nosotros cocinamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__present__4",
+    "text": "cocinan",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__present__4__s",
+    "text": "Ellos cocinan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__preterite__0",
+    "text": "cociné",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__preterite__0__s",
+    "text": "Yo cociné ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__preterite__1",
+    "text": "cocinaste",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__preterite__1__s",
+    "text": "Tú cocinaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__preterite__2",
+    "text": "cocinó",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__preterite__2__s",
+    "text": "Ella cocinó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__preterite__3",
+    "text": "cocinamos",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__preterite__3__s",
+    "text": "Nosotros cocinamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__preterite__4",
+    "text": "cocinaron",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__preterite__4__s",
+    "text": "Ellos cocinaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__future__0",
+    "text": "cocinaré",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__future__0__s",
+    "text": "Yo cocinaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__future__1",
+    "text": "cocinarás",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__future__1__s",
+    "text": "Tú cocinarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__future__2",
+    "text": "cocinará",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__future__2__s",
+    "text": "Ella cocinará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__future__3",
+    "text": "cocinaremos",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__future__3__s",
+    "text": "Nosotros cocinaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__future__4",
+    "text": "cocinarán",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__future__4__s",
+    "text": "Ellos cocinarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__imperfect__0",
+    "text": "cocinaba",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__imperfect__0__s",
+    "text": "Cuando era niño, yo cocinaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__imperfect__1",
+    "text": "cocinabas",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__imperfect__1__s",
+    "text": "Tú cocinabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__imperfect__2",
+    "text": "cocinaba",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__imperfect__2__s",
+    "text": "Ella cocinaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__imperfect__3",
+    "text": "cocinábamos",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__imperfect__3__s",
+    "text": "Nosotros cocinábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__imperfect__4",
+    "text": "cocinaban",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__imperfect__4__s",
+    "text": "Ellos cocinaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__subjunctive_present__0",
+    "text": "cocine",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__subjunctive_present__0__s",
+    "text": "Quieren que yo cocine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__subjunctive_present__1",
+    "text": "cocines",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__subjunctive_present__1__s",
+    "text": "Espero que tú cocines pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__subjunctive_present__2",
+    "text": "cocine",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__subjunctive_present__2__s",
+    "text": "Es importante que ella cocine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__subjunctive_present__3",
+    "text": "cocinemos",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros cocinemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cocinar__subjunctive_present__4",
+    "text": "cocinen",
+    "kind": "form"
+  },
+  {
+    "id": "cocinar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos cocinen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__present__0",
+    "text": "limpio",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__present__0__s",
+    "text": "Yo limpio todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__present__1",
+    "text": "limpias",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__present__1__s",
+    "text": "Tú limpias con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__present__2",
+    "text": "limpia",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__present__2__s",
+    "text": "Ella limpia en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__present__3",
+    "text": "limpiamos",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__present__3__s",
+    "text": "Nosotros limpiamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__present__4",
+    "text": "limpian",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__present__4__s",
+    "text": "Ellos limpian mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__preterite__0",
+    "text": "limpié",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__preterite__0__s",
+    "text": "Yo limpié ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__preterite__1",
+    "text": "limpiaste",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__preterite__1__s",
+    "text": "Tú limpiaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__preterite__2",
+    "text": "limpió",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__preterite__2__s",
+    "text": "Ella limpió anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__preterite__3",
+    "text": "limpiamos",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__preterite__3__s",
+    "text": "Nosotros limpiamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__preterite__4",
+    "text": "limpiaron",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__preterite__4__s",
+    "text": "Ellos limpiaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__future__0",
+    "text": "limpiaré",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__future__0__s",
+    "text": "Yo limpiaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__future__1",
+    "text": "limpiarás",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__future__1__s",
+    "text": "Tú limpiarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__future__2",
+    "text": "limpiará",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__future__2__s",
+    "text": "Ella limpiará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__future__3",
+    "text": "limpiaremos",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__future__3__s",
+    "text": "Nosotros limpiaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__future__4",
+    "text": "limpiarán",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__future__4__s",
+    "text": "Ellos limpiarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__imperfect__0",
+    "text": "limpiaba",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__imperfect__0__s",
+    "text": "Cuando era niño, yo limpiaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__imperfect__1",
+    "text": "limpiabas",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__imperfect__1__s",
+    "text": "Tú limpiabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__imperfect__2",
+    "text": "limpiaba",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__imperfect__2__s",
+    "text": "Ella limpiaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__imperfect__3",
+    "text": "limpiábamos",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__imperfect__3__s",
+    "text": "Nosotros limpiábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__imperfect__4",
+    "text": "limpiaban",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__imperfect__4__s",
+    "text": "Ellos limpiaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__subjunctive_present__0",
+    "text": "limpie",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__subjunctive_present__0__s",
+    "text": "Quieren que yo limpie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__subjunctive_present__1",
+    "text": "limpies",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__subjunctive_present__1__s",
+    "text": "Espero que tú limpies pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__subjunctive_present__2",
+    "text": "limpie",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__subjunctive_present__2__s",
+    "text": "Es importante que ella limpie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__subjunctive_present__3",
+    "text": "limpiemos",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros limpiemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "limpiar__subjunctive_present__4",
+    "text": "limpien",
+    "kind": "form"
+  },
+  {
+    "id": "limpiar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos limpien bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__present__0",
+    "text": "enseño",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__present__0__s",
+    "text": "Yo enseño todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__present__1",
+    "text": "enseñas",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__present__1__s",
+    "text": "Tú enseñas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__present__2",
+    "text": "enseña",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__present__2__s",
+    "text": "Ella enseña en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__present__3",
+    "text": "enseñamos",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__present__3__s",
+    "text": "Nosotros enseñamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__present__4",
+    "text": "enseñan",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__present__4__s",
+    "text": "Ellos enseñan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__preterite__0",
+    "text": "enseñé",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__preterite__0__s",
+    "text": "Yo enseñé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__preterite__1",
+    "text": "enseñaste",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__preterite__1__s",
+    "text": "Tú enseñaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__preterite__2",
+    "text": "enseñó",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__preterite__2__s",
+    "text": "Ella enseñó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__preterite__3",
+    "text": "enseñamos",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__preterite__3__s",
+    "text": "Nosotros enseñamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__preterite__4",
+    "text": "enseñaron",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__preterite__4__s",
+    "text": "Ellos enseñaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__future__0",
+    "text": "enseñaré",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__future__0__s",
+    "text": "Yo enseñaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__future__1",
+    "text": "enseñarás",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__future__1__s",
+    "text": "Tú enseñarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__future__2",
+    "text": "enseñará",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__future__2__s",
+    "text": "Ella enseñará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__future__3",
+    "text": "enseñaremos",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__future__3__s",
+    "text": "Nosotros enseñaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__future__4",
+    "text": "enseñarán",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__future__4__s",
+    "text": "Ellos enseñarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__imperfect__0",
+    "text": "enseñaba",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__imperfect__0__s",
+    "text": "Cuando era niño, yo enseñaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__imperfect__1",
+    "text": "enseñabas",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__imperfect__1__s",
+    "text": "Tú enseñabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__imperfect__2",
+    "text": "enseñaba",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__imperfect__2__s",
+    "text": "Ella enseñaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__imperfect__3",
+    "text": "enseñábamos",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__imperfect__3__s",
+    "text": "Nosotros enseñábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__imperfect__4",
+    "text": "enseñaban",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__imperfect__4__s",
+    "text": "Ellos enseñaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__subjunctive_present__0",
+    "text": "enseñe",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__subjunctive_present__0__s",
+    "text": "Quieren que yo enseñe.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__subjunctive_present__1",
+    "text": "enseñes",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__subjunctive_present__1__s",
+    "text": "Espero que tú enseñes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__subjunctive_present__2",
+    "text": "enseñe",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__subjunctive_present__2__s",
+    "text": "Es importante que ella enseñe.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__subjunctive_present__3",
+    "text": "enseñemos",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros enseñemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "enseñar__subjunctive_present__4",
+    "text": "enseñen",
+    "kind": "form"
+  },
+  {
+    "id": "enseñar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos enseñen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__present__0",
+    "text": "cambio",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__present__0__s",
+    "text": "Yo cambio todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__present__1",
+    "text": "cambias",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__present__1__s",
+    "text": "Tú cambias con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__present__2",
+    "text": "cambia",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__present__2__s",
+    "text": "Ella cambia en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__present__3",
+    "text": "cambiamos",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__present__3__s",
+    "text": "Nosotros cambiamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__present__4",
+    "text": "cambian",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__present__4__s",
+    "text": "Ellos cambian mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__preterite__0",
+    "text": "cambié",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__preterite__0__s",
+    "text": "Yo cambié ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__preterite__1",
+    "text": "cambiaste",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__preterite__1__s",
+    "text": "Tú cambiaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__preterite__2",
+    "text": "cambió",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__preterite__2__s",
+    "text": "Ella cambió anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__preterite__3",
+    "text": "cambiamos",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__preterite__3__s",
+    "text": "Nosotros cambiamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__preterite__4",
+    "text": "cambiaron",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__preterite__4__s",
+    "text": "Ellos cambiaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__future__0",
+    "text": "cambiaré",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__future__0__s",
+    "text": "Yo cambiaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__future__1",
+    "text": "cambiarás",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__future__1__s",
+    "text": "Tú cambiarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__future__2",
+    "text": "cambiará",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__future__2__s",
+    "text": "Ella cambiará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__future__3",
+    "text": "cambiaremos",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__future__3__s",
+    "text": "Nosotros cambiaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__future__4",
+    "text": "cambiarán",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__future__4__s",
+    "text": "Ellos cambiarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__imperfect__0",
+    "text": "cambiaba",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__imperfect__0__s",
+    "text": "Cuando era niño, yo cambiaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__imperfect__1",
+    "text": "cambiabas",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__imperfect__1__s",
+    "text": "Tú cambiabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__imperfect__2",
+    "text": "cambiaba",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__imperfect__2__s",
+    "text": "Ella cambiaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__imperfect__3",
+    "text": "cambiábamos",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__imperfect__3__s",
+    "text": "Nosotros cambiábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__imperfect__4",
+    "text": "cambiaban",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__imperfect__4__s",
+    "text": "Ellos cambiaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__subjunctive_present__0",
+    "text": "cambie",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__subjunctive_present__0__s",
+    "text": "Quieren que yo cambie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__subjunctive_present__1",
+    "text": "cambies",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__subjunctive_present__1__s",
+    "text": "Espero que tú cambies pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__subjunctive_present__2",
+    "text": "cambie",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__subjunctive_present__2__s",
+    "text": "Es importante que ella cambie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__subjunctive_present__3",
+    "text": "cambiemos",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros cambiemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cambiar__subjunctive_present__4",
+    "text": "cambien",
+    "kind": "form"
+  },
+  {
+    "id": "cambiar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos cambien bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__present__0",
+    "text": "olvido",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__present__0__s",
+    "text": "Yo olvido todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__present__1",
+    "text": "olvidas",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__present__1__s",
+    "text": "Tú olvidas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__present__2",
+    "text": "olvida",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__present__2__s",
+    "text": "Ella olvida en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__present__3",
+    "text": "olvidamos",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__present__3__s",
+    "text": "Nosotros olvidamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__present__4",
+    "text": "olvidan",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__present__4__s",
+    "text": "Ellos olvidan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__preterite__0",
+    "text": "olvidé",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__preterite__0__s",
+    "text": "Yo olvidé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__preterite__1",
+    "text": "olvidaste",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__preterite__1__s",
+    "text": "Tú olvidaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__preterite__2",
+    "text": "olvidó",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__preterite__2__s",
+    "text": "Ella olvidó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__preterite__3",
+    "text": "olvidamos",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__preterite__3__s",
+    "text": "Nosotros olvidamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__preterite__4",
+    "text": "olvidaron",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__preterite__4__s",
+    "text": "Ellos olvidaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__future__0",
+    "text": "olvidaré",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__future__0__s",
+    "text": "Yo olvidaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__future__1",
+    "text": "olvidarás",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__future__1__s",
+    "text": "Tú olvidarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__future__2",
+    "text": "olvidará",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__future__2__s",
+    "text": "Ella olvidará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__future__3",
+    "text": "olvidaremos",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__future__3__s",
+    "text": "Nosotros olvidaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__future__4",
+    "text": "olvidarán",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__future__4__s",
+    "text": "Ellos olvidarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__imperfect__0",
+    "text": "olvidaba",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__imperfect__0__s",
+    "text": "Cuando era niño, yo olvidaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__imperfect__1",
+    "text": "olvidabas",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__imperfect__1__s",
+    "text": "Tú olvidabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__imperfect__2",
+    "text": "olvidaba",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__imperfect__2__s",
+    "text": "Ella olvidaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__imperfect__3",
+    "text": "olvidábamos",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__imperfect__3__s",
+    "text": "Nosotros olvidábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__imperfect__4",
+    "text": "olvidaban",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__imperfect__4__s",
+    "text": "Ellos olvidaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__subjunctive_present__0",
+    "text": "olvide",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__subjunctive_present__0__s",
+    "text": "Quieren que yo olvide.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__subjunctive_present__1",
+    "text": "olvides",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__subjunctive_present__1__s",
+    "text": "Espero que tú olvides pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__subjunctive_present__2",
+    "text": "olvide",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__subjunctive_present__2__s",
+    "text": "Es importante que ella olvide.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__subjunctive_present__3",
+    "text": "olvidemos",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros olvidemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "olvidar__subjunctive_present__4",
+    "text": "olviden",
+    "kind": "form"
+  },
+  {
+    "id": "olvidar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos olviden bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__present__0",
+    "text": "amo",
+    "kind": "form"
+  },
+  {
+    "id": "amar__present__0__s",
+    "text": "Yo amo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__present__1",
+    "text": "amas",
+    "kind": "form"
+  },
+  {
+    "id": "amar__present__1__s",
+    "text": "Tú amas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__present__2",
+    "text": "ama",
+    "kind": "form"
+  },
+  {
+    "id": "amar__present__2__s",
+    "text": "Ella ama en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__present__3",
+    "text": "amamos",
+    "kind": "form"
+  },
+  {
+    "id": "amar__present__3__s",
+    "text": "Nosotros amamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__present__4",
+    "text": "aman",
+    "kind": "form"
+  },
+  {
+    "id": "amar__present__4__s",
+    "text": "Ellos aman mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__preterite__0",
+    "text": "amé",
+    "kind": "form"
+  },
+  {
+    "id": "amar__preterite__0__s",
+    "text": "Yo amé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__preterite__1",
+    "text": "amaste",
+    "kind": "form"
+  },
+  {
+    "id": "amar__preterite__1__s",
+    "text": "Tú amaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__preterite__2",
+    "text": "amó",
+    "kind": "form"
+  },
+  {
+    "id": "amar__preterite__2__s",
+    "text": "Ella amó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__preterite__3",
+    "text": "amamos",
+    "kind": "form"
+  },
+  {
+    "id": "amar__preterite__3__s",
+    "text": "Nosotros amamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__preterite__4",
+    "text": "amaron",
+    "kind": "form"
+  },
+  {
+    "id": "amar__preterite__4__s",
+    "text": "Ellos amaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__future__0",
+    "text": "amaré",
+    "kind": "form"
+  },
+  {
+    "id": "amar__future__0__s",
+    "text": "Yo amaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__future__1",
+    "text": "amarás",
+    "kind": "form"
+  },
+  {
+    "id": "amar__future__1__s",
+    "text": "Tú amarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__future__2",
+    "text": "amará",
+    "kind": "form"
+  },
+  {
+    "id": "amar__future__2__s",
+    "text": "Ella amará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__future__3",
+    "text": "amaremos",
+    "kind": "form"
+  },
+  {
+    "id": "amar__future__3__s",
+    "text": "Nosotros amaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__future__4",
+    "text": "amarán",
+    "kind": "form"
+  },
+  {
+    "id": "amar__future__4__s",
+    "text": "Ellos amarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__imperfect__0",
+    "text": "amaba",
+    "kind": "form"
+  },
+  {
+    "id": "amar__imperfect__0__s",
+    "text": "Cuando era niño, yo amaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__imperfect__1",
+    "text": "amabas",
+    "kind": "form"
+  },
+  {
+    "id": "amar__imperfect__1__s",
+    "text": "Tú amabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__imperfect__2",
+    "text": "amaba",
+    "kind": "form"
+  },
+  {
+    "id": "amar__imperfect__2__s",
+    "text": "Ella amaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__imperfect__3",
+    "text": "amábamos",
+    "kind": "form"
+  },
+  {
+    "id": "amar__imperfect__3__s",
+    "text": "Nosotros amábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__imperfect__4",
+    "text": "amaban",
+    "kind": "form"
+  },
+  {
+    "id": "amar__imperfect__4__s",
+    "text": "Ellos amaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__subjunctive_present__0",
+    "text": "ame",
+    "kind": "form"
+  },
+  {
+    "id": "amar__subjunctive_present__0__s",
+    "text": "Quieren que yo ame.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__subjunctive_present__1",
+    "text": "ames",
+    "kind": "form"
+  },
+  {
+    "id": "amar__subjunctive_present__1__s",
+    "text": "Espero que tú ames pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__subjunctive_present__2",
+    "text": "ame",
+    "kind": "form"
+  },
+  {
+    "id": "amar__subjunctive_present__2__s",
+    "text": "Es importante que ella ame.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__subjunctive_present__3",
+    "text": "amemos",
+    "kind": "form"
+  },
+  {
+    "id": "amar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros amemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "amar__subjunctive_present__4",
+    "text": "amen",
+    "kind": "form"
+  },
+  {
+    "id": "amar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos amen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__present__0",
+    "text": "uso",
+    "kind": "form"
+  },
+  {
+    "id": "usar__present__0__s",
+    "text": "Yo uso todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__present__1",
+    "text": "usas",
+    "kind": "form"
+  },
+  {
+    "id": "usar__present__1__s",
+    "text": "Tú usas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__present__2",
+    "text": "usa",
+    "kind": "form"
+  },
+  {
+    "id": "usar__present__2__s",
+    "text": "Ella usa en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__present__3",
+    "text": "usamos",
+    "kind": "form"
+  },
+  {
+    "id": "usar__present__3__s",
+    "text": "Nosotros usamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__present__4",
+    "text": "usan",
+    "kind": "form"
+  },
+  {
+    "id": "usar__present__4__s",
+    "text": "Ellos usan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__preterite__0",
+    "text": "usé",
+    "kind": "form"
+  },
+  {
+    "id": "usar__preterite__0__s",
+    "text": "Yo usé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__preterite__1",
+    "text": "usaste",
+    "kind": "form"
+  },
+  {
+    "id": "usar__preterite__1__s",
+    "text": "Tú usaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__preterite__2",
+    "text": "usó",
+    "kind": "form"
+  },
+  {
+    "id": "usar__preterite__2__s",
+    "text": "Ella usó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__preterite__3",
+    "text": "usamos",
+    "kind": "form"
+  },
+  {
+    "id": "usar__preterite__3__s",
+    "text": "Nosotros usamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__preterite__4",
+    "text": "usaron",
+    "kind": "form"
+  },
+  {
+    "id": "usar__preterite__4__s",
+    "text": "Ellos usaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__future__0",
+    "text": "usaré",
+    "kind": "form"
+  },
+  {
+    "id": "usar__future__0__s",
+    "text": "Yo usaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__future__1",
+    "text": "usarás",
+    "kind": "form"
+  },
+  {
+    "id": "usar__future__1__s",
+    "text": "Tú usarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__future__2",
+    "text": "usará",
+    "kind": "form"
+  },
+  {
+    "id": "usar__future__2__s",
+    "text": "Ella usará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__future__3",
+    "text": "usaremos",
+    "kind": "form"
+  },
+  {
+    "id": "usar__future__3__s",
+    "text": "Nosotros usaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__future__4",
+    "text": "usarán",
+    "kind": "form"
+  },
+  {
+    "id": "usar__future__4__s",
+    "text": "Ellos usarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__imperfect__0",
+    "text": "usaba",
+    "kind": "form"
+  },
+  {
+    "id": "usar__imperfect__0__s",
+    "text": "Cuando era niño, yo usaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__imperfect__1",
+    "text": "usabas",
+    "kind": "form"
+  },
+  {
+    "id": "usar__imperfect__1__s",
+    "text": "Tú usabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__imperfect__2",
+    "text": "usaba",
+    "kind": "form"
+  },
+  {
+    "id": "usar__imperfect__2__s",
+    "text": "Ella usaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__imperfect__3",
+    "text": "usábamos",
+    "kind": "form"
+  },
+  {
+    "id": "usar__imperfect__3__s",
+    "text": "Nosotros usábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__imperfect__4",
+    "text": "usaban",
+    "kind": "form"
+  },
+  {
+    "id": "usar__imperfect__4__s",
+    "text": "Ellos usaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__subjunctive_present__0",
+    "text": "use",
+    "kind": "form"
+  },
+  {
+    "id": "usar__subjunctive_present__0__s",
+    "text": "Quieren que yo use.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__subjunctive_present__1",
+    "text": "uses",
+    "kind": "form"
+  },
+  {
+    "id": "usar__subjunctive_present__1__s",
+    "text": "Espero que tú uses pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__subjunctive_present__2",
+    "text": "use",
+    "kind": "form"
+  },
+  {
+    "id": "usar__subjunctive_present__2__s",
+    "text": "Es importante que ella use.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__subjunctive_present__3",
+    "text": "usemos",
+    "kind": "form"
+  },
+  {
+    "id": "usar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros usemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "usar__subjunctive_present__4",
+    "text": "usen",
+    "kind": "form"
+  },
+  {
+    "id": "usar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos usen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__present__0",
+    "text": "grito",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__present__0__s",
+    "text": "Yo grito todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__present__1",
+    "text": "gritas",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__present__1__s",
+    "text": "Tú gritas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__present__2",
+    "text": "grita",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__present__2__s",
+    "text": "Ella grita en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__present__3",
+    "text": "gritamos",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__present__3__s",
+    "text": "Nosotros gritamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__present__4",
+    "text": "gritan",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__present__4__s",
+    "text": "Ellos gritan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__preterite__0",
+    "text": "grité",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__preterite__0__s",
+    "text": "Yo grité ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__preterite__1",
+    "text": "gritaste",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__preterite__1__s",
+    "text": "Tú gritaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__preterite__2",
+    "text": "gritó",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__preterite__2__s",
+    "text": "Ella gritó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__preterite__3",
+    "text": "gritamos",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__preterite__3__s",
+    "text": "Nosotros gritamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__preterite__4",
+    "text": "gritaron",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__preterite__4__s",
+    "text": "Ellos gritaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__future__0",
+    "text": "gritaré",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__future__0__s",
+    "text": "Yo gritaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__future__1",
+    "text": "gritarás",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__future__1__s",
+    "text": "Tú gritarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__future__2",
+    "text": "gritará",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__future__2__s",
+    "text": "Ella gritará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__future__3",
+    "text": "gritaremos",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__future__3__s",
+    "text": "Nosotros gritaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__future__4",
+    "text": "gritarán",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__future__4__s",
+    "text": "Ellos gritarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__imperfect__0",
+    "text": "gritaba",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__imperfect__0__s",
+    "text": "Cuando era niño, yo gritaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__imperfect__1",
+    "text": "gritabas",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__imperfect__1__s",
+    "text": "Tú gritabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__imperfect__2",
+    "text": "gritaba",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__imperfect__2__s",
+    "text": "Ella gritaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__imperfect__3",
+    "text": "gritábamos",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__imperfect__3__s",
+    "text": "Nosotros gritábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__imperfect__4",
+    "text": "gritaban",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__imperfect__4__s",
+    "text": "Ellos gritaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__subjunctive_present__0",
+    "text": "grite",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__subjunctive_present__0__s",
+    "text": "Quieren que yo grite.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__subjunctive_present__1",
+    "text": "grites",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__subjunctive_present__1__s",
+    "text": "Espero que tú grites pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__subjunctive_present__2",
+    "text": "grite",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__subjunctive_present__2__s",
+    "text": "Es importante que ella grite.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__subjunctive_present__3",
+    "text": "gritemos",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros gritemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gritar__subjunctive_present__4",
+    "text": "griten",
+    "kind": "form"
+  },
+  {
+    "id": "gritar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos griten bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__present__0",
+    "text": "lloro",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__present__0__s",
+    "text": "Yo lloro todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__present__1",
+    "text": "lloras",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__present__1__s",
+    "text": "Tú lloras con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__present__2",
+    "text": "llora",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__present__2__s",
+    "text": "Ella llora en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__present__3",
+    "text": "lloramos",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__present__3__s",
+    "text": "Nosotros lloramos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__present__4",
+    "text": "lloran",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__present__4__s",
+    "text": "Ellos lloran mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__preterite__0",
+    "text": "lloré",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__preterite__0__s",
+    "text": "Yo lloré ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__preterite__1",
+    "text": "lloraste",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__preterite__1__s",
+    "text": "Tú lloraste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__preterite__2",
+    "text": "lloró",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__preterite__2__s",
+    "text": "Ella lloró anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__preterite__3",
+    "text": "lloramos",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__preterite__3__s",
+    "text": "Nosotros lloramos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__preterite__4",
+    "text": "lloraron",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__preterite__4__s",
+    "text": "Ellos lloraron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__future__0",
+    "text": "lloraré",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__future__0__s",
+    "text": "Yo lloraré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__future__1",
+    "text": "llorarás",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__future__1__s",
+    "text": "Tú llorarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__future__2",
+    "text": "llorará",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__future__2__s",
+    "text": "Ella llorará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__future__3",
+    "text": "lloraremos",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__future__3__s",
+    "text": "Nosotros lloraremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__future__4",
+    "text": "llorarán",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__future__4__s",
+    "text": "Ellos llorarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__imperfect__0",
+    "text": "lloraba",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__imperfect__0__s",
+    "text": "Cuando era niño, yo lloraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__imperfect__1",
+    "text": "llorabas",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__imperfect__1__s",
+    "text": "Tú llorabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__imperfect__2",
+    "text": "lloraba",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__imperfect__2__s",
+    "text": "Ella lloraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__imperfect__3",
+    "text": "llorábamos",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__imperfect__3__s",
+    "text": "Nosotros llorábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__imperfect__4",
+    "text": "lloraban",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__imperfect__4__s",
+    "text": "Ellos lloraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__subjunctive_present__0",
+    "text": "llore",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__subjunctive_present__0__s",
+    "text": "Quieren que yo llore.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__subjunctive_present__1",
+    "text": "llores",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__subjunctive_present__1__s",
+    "text": "Espero que tú llores pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__subjunctive_present__2",
+    "text": "llore",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__subjunctive_present__2__s",
+    "text": "Es importante que ella llore.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__subjunctive_present__3",
+    "text": "lloremos",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros lloremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llorar__subjunctive_present__4",
+    "text": "lloren",
+    "kind": "form"
+  },
+  {
+    "id": "llorar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos lloren bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__present__0",
+    "text": "viajo",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__present__0__s",
+    "text": "Yo viajo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__present__1",
+    "text": "viajas",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__present__1__s",
+    "text": "Tú viajas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__present__2",
+    "text": "viaja",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__present__2__s",
+    "text": "Ella viaja en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__present__3",
+    "text": "viajamos",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__present__3__s",
+    "text": "Nosotros viajamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__present__4",
+    "text": "viajan",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__present__4__s",
+    "text": "Ellos viajan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__preterite__0",
+    "text": "viajé",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__preterite__0__s",
+    "text": "Yo viajé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__preterite__1",
+    "text": "viajaste",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__preterite__1__s",
+    "text": "Tú viajaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__preterite__2",
+    "text": "viajó",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__preterite__2__s",
+    "text": "Ella viajó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__preterite__3",
+    "text": "viajamos",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__preterite__3__s",
+    "text": "Nosotros viajamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__preterite__4",
+    "text": "viajaron",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__preterite__4__s",
+    "text": "Ellos viajaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__future__0",
+    "text": "viajaré",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__future__0__s",
+    "text": "Yo viajaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__future__1",
+    "text": "viajarás",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__future__1__s",
+    "text": "Tú viajarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__future__2",
+    "text": "viajará",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__future__2__s",
+    "text": "Ella viajará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__future__3",
+    "text": "viajaremos",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__future__3__s",
+    "text": "Nosotros viajaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__future__4",
+    "text": "viajarán",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__future__4__s",
+    "text": "Ellos viajarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__imperfect__0",
+    "text": "viajaba",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__imperfect__0__s",
+    "text": "Cuando era niño, yo viajaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__imperfect__1",
+    "text": "viajabas",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__imperfect__1__s",
+    "text": "Tú viajabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__imperfect__2",
+    "text": "viajaba",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__imperfect__2__s",
+    "text": "Ella viajaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__imperfect__3",
+    "text": "viajábamos",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__imperfect__3__s",
+    "text": "Nosotros viajábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__imperfect__4",
+    "text": "viajaban",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__imperfect__4__s",
+    "text": "Ellos viajaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__subjunctive_present__0",
+    "text": "viaje",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__subjunctive_present__0__s",
+    "text": "Quieren que yo viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__subjunctive_present__1",
+    "text": "viajes",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__subjunctive_present__1__s",
+    "text": "Espero que tú viajes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__subjunctive_present__2",
+    "text": "viaje",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__subjunctive_present__2__s",
+    "text": "Es importante que ella viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__subjunctive_present__3",
+    "text": "viajemos",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros viajemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "viajar__subjunctive_present__4",
+    "text": "viajen",
+    "kind": "form"
+  },
+  {
+    "id": "viajar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos viajen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__present__0",
+    "text": "gusto",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__present__0__s",
+    "text": "Yo gusto todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__present__1",
+    "text": "gustas",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__present__1__s",
+    "text": "Tú gustas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__present__2",
+    "text": "gusta",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__present__2__s",
+    "text": "Ella gusta en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__present__3",
+    "text": "gustamos",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__present__3__s",
+    "text": "Nosotros gustamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__present__4",
+    "text": "gustan",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__present__4__s",
+    "text": "Ellos gustan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__preterite__0",
+    "text": "gusté",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__preterite__0__s",
+    "text": "Yo gusté ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__preterite__1",
+    "text": "gustaste",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__preterite__1__s",
+    "text": "Tú gustaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__preterite__2",
+    "text": "gustó",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__preterite__2__s",
+    "text": "Ella gustó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__preterite__3",
+    "text": "gustamos",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__preterite__3__s",
+    "text": "Nosotros gustamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__preterite__4",
+    "text": "gustaron",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__preterite__4__s",
+    "text": "Ellos gustaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__future__0",
+    "text": "gustaré",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__future__0__s",
+    "text": "Yo gustaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__future__1",
+    "text": "gustarás",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__future__1__s",
+    "text": "Tú gustarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__future__2",
+    "text": "gustará",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__future__2__s",
+    "text": "Ella gustará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__future__3",
+    "text": "gustaremos",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__future__3__s",
+    "text": "Nosotros gustaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__future__4",
+    "text": "gustarán",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__future__4__s",
+    "text": "Ellos gustarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__imperfect__0",
+    "text": "gustaba",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__imperfect__0__s",
+    "text": "Cuando era niño, yo gustaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__imperfect__1",
+    "text": "gustabas",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__imperfect__1__s",
+    "text": "Tú gustabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__imperfect__2",
+    "text": "gustaba",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__imperfect__2__s",
+    "text": "Ella gustaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__imperfect__3",
+    "text": "gustábamos",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__imperfect__3__s",
+    "text": "Nosotros gustábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__imperfect__4",
+    "text": "gustaban",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__imperfect__4__s",
+    "text": "Ellos gustaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__subjunctive_present__0",
+    "text": "guste",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__subjunctive_present__0__s",
+    "text": "Quieren que yo guste.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__subjunctive_present__1",
+    "text": "gustes",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__subjunctive_present__1__s",
+    "text": "Espero que tú gustes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__subjunctive_present__2",
+    "text": "guste",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__subjunctive_present__2__s",
+    "text": "Es importante que ella guste.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__subjunctive_present__3",
+    "text": "gustemos",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros gustemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "gustar__subjunctive_present__4",
+    "text": "gusten",
+    "kind": "form"
+  },
+  {
+    "id": "gustar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos gusten bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__present__0",
+    "text": "levanto",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__present__0__s",
+    "text": "Yo levanto todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__present__1",
+    "text": "levantas",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__present__1__s",
+    "text": "Tú levantas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__present__2",
+    "text": "levanta",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__present__2__s",
+    "text": "Ella levanta en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__present__3",
+    "text": "levantamos",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__present__3__s",
+    "text": "Nosotros levantamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__present__4",
+    "text": "levantan",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__present__4__s",
+    "text": "Ellos levantan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__preterite__0",
+    "text": "levanté",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__preterite__0__s",
+    "text": "Yo levanté ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__preterite__1",
+    "text": "levantaste",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__preterite__1__s",
+    "text": "Tú levantaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__preterite__2",
+    "text": "levantó",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__preterite__2__s",
+    "text": "Ella levantó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__preterite__3",
+    "text": "levantamos",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__preterite__3__s",
+    "text": "Nosotros levantamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__preterite__4",
+    "text": "levantaron",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__preterite__4__s",
+    "text": "Ellos levantaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__future__0",
+    "text": "levantaré",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__future__0__s",
+    "text": "Yo levantaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__future__1",
+    "text": "levantarás",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__future__1__s",
+    "text": "Tú levantarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__future__2",
+    "text": "levantará",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__future__2__s",
+    "text": "Ella levantará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__future__3",
+    "text": "levantaremos",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__future__3__s",
+    "text": "Nosotros levantaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__future__4",
+    "text": "levantarán",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__future__4__s",
+    "text": "Ellos levantarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__imperfect__0",
+    "text": "levantaba",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__imperfect__0__s",
+    "text": "Cuando era niño, yo levantaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__imperfect__1",
+    "text": "levantabas",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__imperfect__1__s",
+    "text": "Tú levantabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__imperfect__2",
+    "text": "levantaba",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__imperfect__2__s",
+    "text": "Ella levantaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__imperfect__3",
+    "text": "levantábamos",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__imperfect__3__s",
+    "text": "Nosotros levantábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__imperfect__4",
+    "text": "levantaban",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__imperfect__4__s",
+    "text": "Ellos levantaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__subjunctive_present__0",
+    "text": "levante",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__subjunctive_present__0__s",
+    "text": "Quieren que yo levante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__subjunctive_present__1",
+    "text": "levantes",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__subjunctive_present__1__s",
+    "text": "Espero que tú levantes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__subjunctive_present__2",
+    "text": "levante",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__subjunctive_present__2__s",
+    "text": "Es importante que ella levante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__subjunctive_present__3",
+    "text": "levantemos",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros levantemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "levantar__subjunctive_present__4",
+    "text": "levanten",
+    "kind": "form"
+  },
+  {
+    "id": "levantar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos levanten bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__present__0",
+    "text": "pido",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__present__0__s",
+    "text": "Yo pido todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__present__1",
+    "text": "pides",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__present__1__s",
+    "text": "Tú pides con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__present__2",
+    "text": "pide",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__present__2__s",
+    "text": "Ella pide en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__present__3",
+    "text": "pedimos",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__present__3__s",
+    "text": "Nosotros pedimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__present__4",
+    "text": "piden",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__present__4__s",
+    "text": "Ellos piden mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__preterite__0",
+    "text": "pedí",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__preterite__0__s",
+    "text": "Yo pedí ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__preterite__1",
+    "text": "pediste",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__preterite__1__s",
+    "text": "Tú pediste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__preterite__2",
+    "text": "pidió",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__preterite__2__s",
+    "text": "Ella pidió anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__preterite__3",
+    "text": "pedimos",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__preterite__3__s",
+    "text": "Nosotros pedimos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__preterite__4",
+    "text": "pidieron",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__preterite__4__s",
+    "text": "Ellos pidieron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__future__0",
+    "text": "pediré",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__future__0__s",
+    "text": "Yo pediré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__future__1",
+    "text": "pedirás",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__future__1__s",
+    "text": "Tú pedirás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__future__2",
+    "text": "pedirá",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__future__2__s",
+    "text": "Ella pedirá después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__future__3",
+    "text": "pediremos",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__future__3__s",
+    "text": "Nosotros pediremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__future__4",
+    "text": "pedirán",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__future__4__s",
+    "text": "Ellos pedirán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__imperfect__0",
+    "text": "pedía",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__imperfect__0__s",
+    "text": "Cuando era niño, yo pedía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__imperfect__1",
+    "text": "pedías",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__imperfect__1__s",
+    "text": "Tú pedías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__imperfect__2",
+    "text": "pedía",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__imperfect__2__s",
+    "text": "Ella pedía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__imperfect__3",
+    "text": "pedíamos",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__imperfect__3__s",
+    "text": "Nosotros pedíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__imperfect__4",
+    "text": "pedían",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__imperfect__4__s",
+    "text": "Ellos pedían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__subjunctive_present__0",
+    "text": "pida",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__subjunctive_present__0__s",
+    "text": "Quieren que yo pida.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__subjunctive_present__1",
+    "text": "pidas",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__subjunctive_present__1__s",
+    "text": "Espero que tú pidas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__subjunctive_present__2",
+    "text": "pida",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__subjunctive_present__2__s",
+    "text": "Es importante que ella pida.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__subjunctive_present__3",
+    "text": "pidamos",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros pidamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pedir__subjunctive_present__4",
+    "text": "pidan",
+    "kind": "form"
+  },
+  {
+    "id": "pedir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos pidan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__present__0",
+    "text": "siento",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__present__0__s",
+    "text": "Yo siento todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__present__1",
+    "text": "sientes",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__present__1__s",
+    "text": "Tú sientes con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__present__2",
+    "text": "siente",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__present__2__s",
+    "text": "Ella siente en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__present__3",
+    "text": "sentimos",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__present__3__s",
+    "text": "Nosotros sentimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__present__4",
+    "text": "sienten",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__present__4__s",
+    "text": "Ellos sienten mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__preterite__0",
+    "text": "sentí",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__preterite__0__s",
+    "text": "Yo sentí ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__preterite__1",
+    "text": "sentiste",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__preterite__1__s",
+    "text": "Tú sentiste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__preterite__2",
+    "text": "sintió",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__preterite__2__s",
+    "text": "Ella sintió anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__preterite__3",
+    "text": "sentimos",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__preterite__3__s",
+    "text": "Nosotros sentimos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__preterite__4",
+    "text": "sintieron",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__preterite__4__s",
+    "text": "Ellos sintieron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__future__0",
+    "text": "sentiré",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__future__0__s",
+    "text": "Yo sentiré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__future__1",
+    "text": "sentirás",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__future__1__s",
+    "text": "Tú sentirás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__future__2",
+    "text": "sentirá",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__future__2__s",
+    "text": "Ella sentirá después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__future__3",
+    "text": "sentiremos",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__future__3__s",
+    "text": "Nosotros sentiremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__future__4",
+    "text": "sentirán",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__future__4__s",
+    "text": "Ellos sentirán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__imperfect__0",
+    "text": "sentía",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__imperfect__0__s",
+    "text": "Cuando era niño, yo sentía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__imperfect__1",
+    "text": "sentías",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__imperfect__1__s",
+    "text": "Tú sentías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__imperfect__2",
+    "text": "sentía",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__imperfect__2__s",
+    "text": "Ella sentía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__imperfect__3",
+    "text": "sentíamos",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__imperfect__3__s",
+    "text": "Nosotros sentíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__imperfect__4",
+    "text": "sentían",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__imperfect__4__s",
+    "text": "Ellos sentían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__subjunctive_present__0",
+    "text": "sienta",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__subjunctive_present__0__s",
+    "text": "Quieren que yo sienta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__subjunctive_present__1",
+    "text": "sientas",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__subjunctive_present__1__s",
+    "text": "Espero que tú sientas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__subjunctive_present__2",
+    "text": "sienta",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__subjunctive_present__2__s",
+    "text": "Es importante que ella sienta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__subjunctive_present__3",
+    "text": "sintamos",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros sintamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "sentir__subjunctive_present__4",
+    "text": "sientan",
+    "kind": "form"
+  },
+  {
+    "id": "sentir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos sientan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__present__0",
+    "text": "cierro",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__present__0__s",
+    "text": "Yo cierro todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__present__1",
+    "text": "cierras",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__present__1__s",
+    "text": "Tú cierras con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__present__2",
+    "text": "cierra",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__present__2__s",
+    "text": "Ella cierra en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__present__3",
+    "text": "cerramos",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__present__3__s",
+    "text": "Nosotros cerramos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__present__4",
+    "text": "cierran",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__present__4__s",
+    "text": "Ellos cierran mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__preterite__0",
+    "text": "cerré",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__preterite__0__s",
+    "text": "Yo cerré ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__preterite__1",
+    "text": "cerraste",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__preterite__1__s",
+    "text": "Tú cerraste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__preterite__2",
+    "text": "cerró",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__preterite__2__s",
+    "text": "Ella cerró anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__preterite__3",
+    "text": "cerramos",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__preterite__3__s",
+    "text": "Nosotros cerramos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__preterite__4",
+    "text": "cerraron",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__preterite__4__s",
+    "text": "Ellos cerraron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__future__0",
+    "text": "cerraré",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__future__0__s",
+    "text": "Yo cerraré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__future__1",
+    "text": "cerrarás",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__future__1__s",
+    "text": "Tú cerrarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__future__2",
+    "text": "cerrará",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__future__2__s",
+    "text": "Ella cerrará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__future__3",
+    "text": "cerraremos",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__future__3__s",
+    "text": "Nosotros cerraremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__future__4",
+    "text": "cerrarán",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__future__4__s",
+    "text": "Ellos cerrarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__imperfect__0",
+    "text": "cerraba",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__imperfect__0__s",
+    "text": "Cuando era niño, yo cerraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__imperfect__1",
+    "text": "cerrabas",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__imperfect__1__s",
+    "text": "Tú cerrabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__imperfect__2",
+    "text": "cerraba",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__imperfect__2__s",
+    "text": "Ella cerraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__imperfect__3",
+    "text": "cerrábamos",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__imperfect__3__s",
+    "text": "Nosotros cerrábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__imperfect__4",
+    "text": "cerraban",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__imperfect__4__s",
+    "text": "Ellos cerraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__subjunctive_present__0",
+    "text": "cerre",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__subjunctive_present__0__s",
+    "text": "Quieren que yo cerre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__subjunctive_present__1",
+    "text": "cerres",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__subjunctive_present__1__s",
+    "text": "Espero que tú cerres pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__subjunctive_present__2",
+    "text": "cerre",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__subjunctive_present__2__s",
+    "text": "Es importante que ella cerre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__subjunctive_present__3",
+    "text": "cerremos",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros cerremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cerrar__subjunctive_present__4",
+    "text": "cerren",
+    "kind": "form"
+  },
+  {
+    "id": "cerrar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos cerren bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__present__0",
+    "text": "recuerdo",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__present__0__s",
+    "text": "Yo recuerdo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__present__1",
+    "text": "recuerdas",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__present__1__s",
+    "text": "Tú recuerdas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__present__2",
+    "text": "recuerda",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__present__2__s",
+    "text": "Ella recuerda en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__present__3",
+    "text": "recordamos",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__present__3__s",
+    "text": "Nosotros recordamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__present__4",
+    "text": "recuerdan",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__present__4__s",
+    "text": "Ellos recuerdan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__preterite__0",
+    "text": "recordé",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__preterite__0__s",
+    "text": "Yo recordé ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__preterite__1",
+    "text": "recordaste",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__preterite__1__s",
+    "text": "Tú recordaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__preterite__2",
+    "text": "recordó",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__preterite__2__s",
+    "text": "Ella recordó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__preterite__3",
+    "text": "recordamos",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__preterite__3__s",
+    "text": "Nosotros recordamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__preterite__4",
+    "text": "recordaron",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__preterite__4__s",
+    "text": "Ellos recordaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__future__0",
+    "text": "recordaré",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__future__0__s",
+    "text": "Yo recordaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__future__1",
+    "text": "recordarás",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__future__1__s",
+    "text": "Tú recordarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__future__2",
+    "text": "recordará",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__future__2__s",
+    "text": "Ella recordará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__future__3",
+    "text": "recordaremos",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__future__3__s",
+    "text": "Nosotros recordaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__future__4",
+    "text": "recordarán",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__future__4__s",
+    "text": "Ellos recordarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__imperfect__0",
+    "text": "recordaba",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__imperfect__0__s",
+    "text": "Cuando era niño, yo recordaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__imperfect__1",
+    "text": "recordabas",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__imperfect__1__s",
+    "text": "Tú recordabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__imperfect__2",
+    "text": "recordaba",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__imperfect__2__s",
+    "text": "Ella recordaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__imperfect__3",
+    "text": "recordábamos",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__imperfect__3__s",
+    "text": "Nosotros recordábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__imperfect__4",
+    "text": "recordaban",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__imperfect__4__s",
+    "text": "Ellos recordaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__subjunctive_present__0",
+    "text": "recorde",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__subjunctive_present__0__s",
+    "text": "Quieren que yo recorde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__subjunctive_present__1",
+    "text": "recordes",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__subjunctive_present__1__s",
+    "text": "Espero que tú recordes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__subjunctive_present__2",
+    "text": "recorde",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__subjunctive_present__2__s",
+    "text": "Es importante que ella recorde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__subjunctive_present__3",
+    "text": "recordemos",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros recordemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recordar__subjunctive_present__4",
+    "text": "recorden",
+    "kind": "form"
+  },
+  {
+    "id": "recordar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos recorden bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__present__0",
+    "text": "toco",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__present__0__s",
+    "text": "Yo toco todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__present__1",
+    "text": "tocas",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__present__1__s",
+    "text": "Tú tocas con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__present__2",
+    "text": "toca",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__present__2__s",
+    "text": "Ella toca en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__present__3",
+    "text": "tocamos",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__present__3__s",
+    "text": "Nosotros tocamos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__present__4",
+    "text": "tocan",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__present__4__s",
+    "text": "Ellos tocan mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__preterite__0",
+    "text": "toqué",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__preterite__0__s",
+    "text": "Yo toqué ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__preterite__1",
+    "text": "tocaste",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__preterite__1__s",
+    "text": "Tú tocaste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__preterite__2",
+    "text": "tocó",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__preterite__2__s",
+    "text": "Ella tocó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__preterite__3",
+    "text": "tocamos",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__preterite__3__s",
+    "text": "Nosotros tocamos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__preterite__4",
+    "text": "tocaron",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__preterite__4__s",
+    "text": "Ellos tocaron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__future__0",
+    "text": "tocaré",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__future__0__s",
+    "text": "Yo tocaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__future__1",
+    "text": "tocarás",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__future__1__s",
+    "text": "Tú tocarás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__future__2",
+    "text": "tocará",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__future__2__s",
+    "text": "Ella tocará después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__future__3",
+    "text": "tocaremos",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__future__3__s",
+    "text": "Nosotros tocaremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__future__4",
+    "text": "tocarán",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__future__4__s",
+    "text": "Ellos tocarán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__imperfect__0",
+    "text": "tocaba",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__imperfect__0__s",
+    "text": "Cuando era niño, yo tocaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__imperfect__1",
+    "text": "tocabas",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__imperfect__1__s",
+    "text": "Tú tocabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__imperfect__2",
+    "text": "tocaba",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__imperfect__2__s",
+    "text": "Ella tocaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__imperfect__3",
+    "text": "tocábamos",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__imperfect__3__s",
+    "text": "Nosotros tocábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__imperfect__4",
+    "text": "tocaban",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__imperfect__4__s",
+    "text": "Ellos tocaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__subjunctive_present__0",
+    "text": "toque",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__subjunctive_present__0__s",
+    "text": "Quieren que yo toque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__subjunctive_present__1",
+    "text": "toques",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__subjunctive_present__1__s",
+    "text": "Espero que tú toques pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__subjunctive_present__2",
+    "text": "toque",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__subjunctive_present__2__s",
+    "text": "Es importante que ella toque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__subjunctive_present__3",
+    "text": "toquemos",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros toquemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tocar__subjunctive_present__4",
+    "text": "toquen",
+    "kind": "form"
+  },
+  {
+    "id": "tocar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos toquen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__present__0",
+    "text": "muero",
+    "kind": "form"
+  },
+  {
+    "id": "morir__present__0__s",
+    "text": "Yo muero todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__present__1",
+    "text": "mueres",
+    "kind": "form"
+  },
+  {
+    "id": "morir__present__1__s",
+    "text": "Tú mueres con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__present__2",
+    "text": "muere",
+    "kind": "form"
+  },
+  {
+    "id": "morir__present__2__s",
+    "text": "Ella muere en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__present__3",
+    "text": "morimos",
+    "kind": "form"
+  },
+  {
+    "id": "morir__present__3__s",
+    "text": "Nosotros morimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__present__4",
+    "text": "mueren",
+    "kind": "form"
+  },
+  {
+    "id": "morir__present__4__s",
+    "text": "Ellos mueren mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__preterite__0",
+    "text": "morí",
+    "kind": "form"
+  },
+  {
+    "id": "morir__preterite__0__s",
+    "text": "Yo morí ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__preterite__1",
+    "text": "moriste",
+    "kind": "form"
+  },
+  {
+    "id": "morir__preterite__1__s",
+    "text": "Tú moriste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__preterite__2",
+    "text": "murió",
+    "kind": "form"
+  },
+  {
+    "id": "morir__preterite__2__s",
+    "text": "Ella murió anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__preterite__3",
+    "text": "morimos",
+    "kind": "form"
+  },
+  {
+    "id": "morir__preterite__3__s",
+    "text": "Nosotros morimos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__preterite__4",
+    "text": "murieron",
+    "kind": "form"
+  },
+  {
+    "id": "morir__preterite__4__s",
+    "text": "Ellos murieron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__future__0",
+    "text": "moriré",
+    "kind": "form"
+  },
+  {
+    "id": "morir__future__0__s",
+    "text": "Yo moriré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__future__1",
+    "text": "morirás",
+    "kind": "form"
+  },
+  {
+    "id": "morir__future__1__s",
+    "text": "Tú morirás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__future__2",
+    "text": "morirá",
+    "kind": "form"
+  },
+  {
+    "id": "morir__future__2__s",
+    "text": "Ella morirá después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__future__3",
+    "text": "moriremos",
+    "kind": "form"
+  },
+  {
+    "id": "morir__future__3__s",
+    "text": "Nosotros moriremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__future__4",
+    "text": "morirán",
+    "kind": "form"
+  },
+  {
+    "id": "morir__future__4__s",
+    "text": "Ellos morirán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__imperfect__0",
+    "text": "moría",
+    "kind": "form"
+  },
+  {
+    "id": "morir__imperfect__0__s",
+    "text": "Cuando era niño, yo moría mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__imperfect__1",
+    "text": "morías",
+    "kind": "form"
+  },
+  {
+    "id": "morir__imperfect__1__s",
+    "text": "Tú morías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__imperfect__2",
+    "text": "moría",
+    "kind": "form"
+  },
+  {
+    "id": "morir__imperfect__2__s",
+    "text": "Ella moría de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__imperfect__3",
+    "text": "moríamos",
+    "kind": "form"
+  },
+  {
+    "id": "morir__imperfect__3__s",
+    "text": "Nosotros moríamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__imperfect__4",
+    "text": "morían",
+    "kind": "form"
+  },
+  {
+    "id": "morir__imperfect__4__s",
+    "text": "Ellos morían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__subjunctive_present__0",
+    "text": "mora",
+    "kind": "form"
+  },
+  {
+    "id": "morir__subjunctive_present__0__s",
+    "text": "Quieren que yo mora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__subjunctive_present__1",
+    "text": "moras",
+    "kind": "form"
+  },
+  {
+    "id": "morir__subjunctive_present__1__s",
+    "text": "Espero que tú moras pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__subjunctive_present__2",
+    "text": "mora",
+    "kind": "form"
+  },
+  {
+    "id": "morir__subjunctive_present__2__s",
+    "text": "Es importante que ella mora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__subjunctive_present__3",
+    "text": "moramos",
+    "kind": "form"
+  },
+  {
+    "id": "morir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros moramos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "morir__subjunctive_present__4",
+    "text": "moran",
+    "kind": "form"
+  },
+  {
+    "id": "morir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos moran bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__present__0",
+    "text": "traigo",
+    "kind": "form"
+  },
+  {
+    "id": "traer__present__0__s",
+    "text": "Yo traigo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__present__1",
+    "text": "traes",
+    "kind": "form"
+  },
+  {
+    "id": "traer__present__1__s",
+    "text": "Tú traes con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__present__2",
+    "text": "trae",
+    "kind": "form"
+  },
+  {
+    "id": "traer__present__2__s",
+    "text": "Ella trae en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__present__3",
+    "text": "traemos",
+    "kind": "form"
+  },
+  {
+    "id": "traer__present__3__s",
+    "text": "Nosotros traemos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__present__4",
+    "text": "traen",
+    "kind": "form"
+  },
+  {
+    "id": "traer__present__4__s",
+    "text": "Ellos traen mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__preterite__0",
+    "text": "traje",
+    "kind": "form"
+  },
+  {
+    "id": "traer__preterite__0__s",
+    "text": "Yo traje ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__preterite__1",
+    "text": "trajiste",
+    "kind": "form"
+  },
+  {
+    "id": "traer__preterite__1__s",
+    "text": "Tú trajiste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__preterite__2",
+    "text": "trajo",
+    "kind": "form"
+  },
+  {
+    "id": "traer__preterite__2__s",
+    "text": "Ella trajo anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__preterite__3",
+    "text": "trajimos",
+    "kind": "form"
+  },
+  {
+    "id": "traer__preterite__3__s",
+    "text": "Nosotros trajimos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__preterite__4",
+    "text": "trajeron",
+    "kind": "form"
+  },
+  {
+    "id": "traer__preterite__4__s",
+    "text": "Ellos trajeron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__future__0",
+    "text": "traeré",
+    "kind": "form"
+  },
+  {
+    "id": "traer__future__0__s",
+    "text": "Yo traeré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__future__1",
+    "text": "traerás",
+    "kind": "form"
+  },
+  {
+    "id": "traer__future__1__s",
+    "text": "Tú traerás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__future__2",
+    "text": "traerá",
+    "kind": "form"
+  },
+  {
+    "id": "traer__future__2__s",
+    "text": "Ella traerá después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__future__3",
+    "text": "traeremos",
+    "kind": "form"
+  },
+  {
+    "id": "traer__future__3__s",
+    "text": "Nosotros traeremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__future__4",
+    "text": "traerán",
+    "kind": "form"
+  },
+  {
+    "id": "traer__future__4__s",
+    "text": "Ellos traerán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__imperfect__0",
+    "text": "traía",
+    "kind": "form"
+  },
+  {
+    "id": "traer__imperfect__0__s",
+    "text": "Cuando era niño, yo traía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__imperfect__1",
+    "text": "traías",
+    "kind": "form"
+  },
+  {
+    "id": "traer__imperfect__1__s",
+    "text": "Tú traías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__imperfect__2",
+    "text": "traía",
+    "kind": "form"
+  },
+  {
+    "id": "traer__imperfect__2__s",
+    "text": "Ella traía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__imperfect__3",
+    "text": "traíamos",
+    "kind": "form"
+  },
+  {
+    "id": "traer__imperfect__3__s",
+    "text": "Nosotros traíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__imperfect__4",
+    "text": "traían",
+    "kind": "form"
+  },
+  {
+    "id": "traer__imperfect__4__s",
+    "text": "Ellos traían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__subjunctive_present__0",
+    "text": "traiga",
+    "kind": "form"
+  },
+  {
+    "id": "traer__subjunctive_present__0__s",
+    "text": "Quieren que yo traiga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__subjunctive_present__1",
+    "text": "traigas",
+    "kind": "form"
+  },
+  {
+    "id": "traer__subjunctive_present__1__s",
+    "text": "Espero que tú traigas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__subjunctive_present__2",
+    "text": "traiga",
+    "kind": "form"
+  },
+  {
+    "id": "traer__subjunctive_present__2__s",
+    "text": "Es importante que ella traiga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__subjunctive_present__3",
+    "text": "traigamos",
+    "kind": "form"
+  },
+  {
+    "id": "traer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros traigamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "traer__subjunctive_present__4",
+    "text": "traigan",
+    "kind": "form"
+  },
+  {
+    "id": "traer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos traigan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__present__0",
+    "text": "oigo",
+    "kind": "form"
+  },
+  {
+    "id": "oír__present__0__s",
+    "text": "Yo oigo todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__present__1",
+    "text": "oyes",
+    "kind": "form"
+  },
+  {
+    "id": "oír__present__1__s",
+    "text": "Tú oyes con frecuencia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__present__2",
+    "text": "oye",
+    "kind": "form"
+  },
+  {
+    "id": "oír__present__2__s",
+    "text": "Ella oye en casa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__present__3",
+    "text": "oímos",
+    "kind": "form"
+  },
+  {
+    "id": "oír__present__3__s",
+    "text": "Nosotros oímos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__present__4",
+    "text": "oyen",
+    "kind": "form"
+  },
+  {
+    "id": "oír__present__4__s",
+    "text": "Ellos oyen mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__preterite__0",
+    "text": "oí",
+    "kind": "form"
+  },
+  {
+    "id": "oír__preterite__0__s",
+    "text": "Yo oí ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__preterite__1",
+    "text": "oíste",
+    "kind": "form"
+  },
+  {
+    "id": "oír__preterite__1__s",
+    "text": "Tú oíste el sábado pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__preterite__2",
+    "text": "oyó",
+    "kind": "form"
+  },
+  {
+    "id": "oír__preterite__2__s",
+    "text": "Ella oyó anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__preterite__3",
+    "text": "oímos",
+    "kind": "form"
+  },
+  {
+    "id": "oír__preterite__3__s",
+    "text": "Nosotros oímos la semana pasada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__preterite__4",
+    "text": "oyeron",
+    "kind": "form"
+  },
+  {
+    "id": "oír__preterite__4__s",
+    "text": "Ellos oyeron hace dos días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__future__0",
+    "text": "oiré",
+    "kind": "form"
+  },
+  {
+    "id": "oír__future__0__s",
+    "text": "Yo oiré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__future__1",
+    "text": "oirás",
+    "kind": "form"
+  },
+  {
+    "id": "oír__future__1__s",
+    "text": "Tú oirás el próximo lunes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__future__2",
+    "text": "oirá",
+    "kind": "form"
+  },
+  {
+    "id": "oír__future__2__s",
+    "text": "Ella oirá después.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__future__3",
+    "text": "oiremos",
+    "kind": "form"
+  },
+  {
+    "id": "oír__future__3__s",
+    "text": "Nosotros oiremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__future__4",
+    "text": "oirán",
+    "kind": "form"
+  },
+  {
+    "id": "oír__future__4__s",
+    "text": "Ellos oirán la próxima semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__imperfect__0",
+    "text": "oía",
+    "kind": "form"
+  },
+  {
+    "id": "oír__imperfect__0__s",
+    "text": "Cuando era niño, yo oía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__imperfect__1",
+    "text": "oías",
+    "kind": "form"
+  },
+  {
+    "id": "oír__imperfect__1__s",
+    "text": "Tú oías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__imperfect__2",
+    "text": "oía",
+    "kind": "form"
+  },
+  {
+    "id": "oír__imperfect__2__s",
+    "text": "Ella oía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__imperfect__3",
+    "text": "oíamos",
+    "kind": "form"
+  },
+  {
+    "id": "oír__imperfect__3__s",
+    "text": "Nosotros oíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__imperfect__4",
+    "text": "oían",
+    "kind": "form"
+  },
+  {
+    "id": "oír__imperfect__4__s",
+    "text": "Ellos oían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__subjunctive_present__0",
+    "text": "oiga",
+    "kind": "form"
+  },
+  {
+    "id": "oír__subjunctive_present__0__s",
+    "text": "Quieren que yo oiga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__subjunctive_present__1",
+    "text": "oigas",
+    "kind": "form"
+  },
+  {
+    "id": "oír__subjunctive_present__1__s",
+    "text": "Espero que tú oigas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__subjunctive_present__2",
+    "text": "oiga",
+    "kind": "form"
+  },
+  {
+    "id": "oír__subjunctive_present__2__s",
+    "text": "Es importante que ella oiga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__subjunctive_present__3",
+    "text": "oigamos",
+    "kind": "form"
+  },
+  {
+    "id": "oír__subjunctive_present__3__s",
+    "text": "Dudo que nosotros oigamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "oír__subjunctive_present__4",
+    "text": "oigan",
+    "kind": "form"
+  },
+  {
+    "id": "oír__subjunctive_present__4__s",
+    "text": "Ojalá que ellos oigan bien.",
     "kind": "sentence"
   }
 ]

@@ -177,6 +177,25 @@ function countNewToday(progress) {
   return Object.values(progress).filter(s => s.first_seen === t).length;
 }
 
+// Precompute set of conjugation-curated infinitives for fast priority lookup.
+// These are the verbs we've hand-picked for the conjugation drilling section,
+// so by definition they're the most useful high-frequency verbs to learn early.
+const _CURATED_VERBS = new Set(
+  (typeof CONJUGATIONS !== 'undefined' && Array.isArray(CONJUGATIONS))
+    ? CONJUGATIONS.map(c => c.infinitive)
+    : []
+);
+
+/** Is this vocabulary entry one of our priority verbs?
+    True only if (1) the English starts with "to " (i.e., it's a verb) AND
+    (2) the Spanish infinitive is in the curated conjugation set. */
+function isHighPriorityVerb(word) {
+  const english  = word[1] || '';
+  if (!english.toLowerCase().startsWith('to ')) return false;
+  const spanish  = (word[0] || '').split(' ')[0].split('/')[0].trim().toLowerCase();
+  return _CURATED_VERBS.has(spanish);
+}
+
 /**
  * Build the queue: reviews from previous days first (shuffled),
  * then up to DAILY_NEW_LIMIT new words.
@@ -201,10 +220,24 @@ function getDueCards(progress) {
   });
 
   shuffle(reviews);
-  shuffle(newPool);
+  // (newPool is split into priority + regular tiers below — each tier is
+  // shuffled independently so the order within each is still random.)
+  // Priority sort: verbs we hand-curated into the conjugation system come up
+  // first when introducing new words. This ensures high-frequency verbs land
+  // in your study queue early so they can graduate to conjugation drilling
+  // sooner. Within each priority tier, order is randomized.
+  const priorityPool = [];
+  const regularPool  = [];
+  for (const item of newPool) {
+    if (isHighPriorityVerb(item.word)) priorityPool.push(item);
+    else regularPool.push(item);
+  }
+  shuffle(priorityPool);
+  shuffle(regularPool);
+  const orderedPool = priorityPool.concat(regularPool);
 
   const remaining = Math.max(0, DAILY_NEW_LIMIT - introducedToday);
-  return reviews.concat(newPool.slice(0, remaining));
+  return reviews.concat(orderedPool.slice(0, remaining));
 }
 
 function getWaitingCards(progress) {

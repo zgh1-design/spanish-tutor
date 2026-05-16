@@ -4082,24 +4082,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Cuando era niño, yo era mucho.",
-            "en": "When I was a kid, I used to be a lot."
+            "es": "Cuando era niño, yo era muy curioso.",
+            "en": "When I was a kid, I was very curious."
           },
           {
-            "es": "Tú eras todos los días.",
-            "en": "You used to be every day."
+            "es": "Tú eras mi mejor amigo en la escuela.",
+            "en": "You were my best friend at school."
           },
           {
-            "es": "Ella era de joven.",
-            "en": "She used to be when she was young."
+            "es": "Ella era profesora antes.",
+            "en": "She used to be a teacher."
           },
           {
-            "es": "Nosotros éramos juntos en aquellos años.",
-            "en": "We used to be together in those years."
+            "es": "Nosotros éramos vecinos hace años.",
+            "en": "We were neighbors years ago."
           },
           {
-            "es": "Ellos eran cada tarde.",
-            "en": "They used to be every afternoon."
+            "es": "Ellos eran los líderes del grupo.",
+            "en": "They were the leaders of the group."
           }
         ]
       },
@@ -4115,24 +4115,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Quieren que yo sea.",
-            "en": "They want me to be."
+            "es": "Quiero que yo sea más paciente.",
+            "en": "I want to be more patient."
           },
           {
-            "es": "Espero que tú seas pronto.",
-            "en": "I hope you be soon."
+            "es": "Espero que tú seas feliz.",
+            "en": "I hope you are happy."
           },
           {
-            "es": "Es importante que ella sea.",
-            "en": "It is important that she be."
+            "es": "Es importante que ella sea honesta.",
+            "en": "It is important that she be honest."
           },
           {
-            "es": "Dudo que nosotros seamos hoy.",
-            "en": "I doubt that we be today."
+            "es": "Dudo que nosotros seamos los primeros.",
+            "en": "I doubt we will be the first."
           },
           {
-            "es": "Ojalá que ellos sean bien.",
-            "en": "I hope they be well."
+            "es": "Ojalá que ellos sean amables.",
+            "en": "Hopefully they are kind."
           }
         ]
       }
@@ -4254,24 +4254,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Cuando era niño, yo estaba mucho.",
-            "en": "When I was a kid, I used to be a lot."
+            "es": "Yo estaba cansado anoche.",
+            "en": "I was tired last night."
           },
           {
-            "es": "Tú estabas todos los días.",
-            "en": "You used to be every day."
+            "es": "Tú estabas muy contento en la fiesta.",
+            "en": "You were very happy at the party."
           },
           {
-            "es": "Ella estaba de joven.",
-            "en": "She used to be when she was young."
+            "es": "Ella estaba en casa todo el día.",
+            "en": "She was at home all day."
           },
           {
-            "es": "Nosotros estábamos juntos en aquellos años.",
-            "en": "We used to be together in those years."
+            "es": "Nosotros estábamos en la playa.",
+            "en": "We were at the beach."
           },
           {
-            "es": "Ellos estaban cada tarde.",
-            "en": "They used to be every afternoon."
+            "es": "Ellos estaban preocupados por ti.",
+            "en": "They were worried about you."
           }
         ]
       },
@@ -4287,24 +4287,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Quieren que yo esté.",
-            "en": "They want me to be."
+            "es": "Espero que yo esté listo a tiempo.",
+            "en": "I hope I will be ready in time."
           },
           {
-            "es": "Espero que tú estés pronto.",
-            "en": "I hope you be soon."
+            "es": "Quiero que tú estés feliz.",
+            "en": "I want you to be happy."
           },
           {
-            "es": "Es importante que ella esté.",
-            "en": "It is important that she be."
+            "es": "Es importante que ella esté presente.",
+            "en": "It is important that she be present."
           },
           {
-            "es": "Dudo que nosotros estemos hoy.",
-            "en": "I doubt that we be today."
+            "es": "Dudo que nosotros estemos juntos mañana.",
+            "en": "I doubt we will be together tomorrow."
           },
           {
             "es": "Ojalá que ellos estén bien.",
-            "en": "I hope they be well."
+            "en": "Hopefully they are well."
           }
         ]
       }
@@ -4426,24 +4426,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Cuando era niño, yo iba mucho.",
-            "en": "When I was a kid, I used to go a lot."
+            "es": "Yo iba a la escuela en bicicleta.",
+            "en": "I used to go to school by bicycle."
           },
           {
-            "es": "Tú ibas todos los días.",
-            "en": "You used to go every day."
+            "es": "Tú ibas al gimnasio todos los días.",
+            "en": "You used to go to the gym every day."
           },
           {
-            "es": "Ella iba de joven.",
-            "en": "She used to go when she was young."
+            "es": "Ella iba al parque con su madre.",
+            "en": "She used to go to the park with her mother."
           },
           {
-            "es": "Nosotros íbamos juntos en aquellos años.",
-            "en": "We used to go together in those years."
+            "es": "Nosotros íbamos de vacaciones cada año.",
+            "en": "We used to go on vacation every year."
           },
           {
-            "es": "Ellos iban cada tarde.",
-            "en": "They used to go every afternoon."
+            "es": "Ellos iban juntos al cine.",
+            "en": "They used to go to the movies together."
           }
         ]
       },
@@ -4459,24 +4459,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Quieren que yo vaya.",
-            "en": "They want me to go."
+            "es": "Quiero que yo vaya a España algún día.",
+            "en": "I want to go to Spain someday."
           },
           {
-            "es": "Espero que tú vayas pronto.",
-            "en": "I hope you go soon."
+            "es": "Espero que tú vayas al doctor.",
+            "en": "I hope you go to the doctor."
           },
           {
-            "es": "Es importante que ella vaya.",
-            "en": "It is important that she go."
+            "es": "Es importante que ella vaya a la reunión.",
+            "en": "It is important that she go to the meeting."
           },
           {
-            "es": "Dudo que nosotros vayamos hoy.",
-            "en": "I doubt that we go today."
+            "es": "Dudo que nosotros vayamos al concierto.",
+            "en": "I doubt we will go to the concert."
           },
           {
-            "es": "Ojalá que ellos vayan bien.",
-            "en": "I hope they go well."
+            "es": "Ojalá que ellos vayan con cuidado.",
+            "en": "Hopefully they go carefully."
           }
         ]
       }
@@ -4598,24 +4598,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Cuando era niño, yo tenía mucho.",
-            "en": "When I was a kid, I used to have a lot."
+            "es": "Cuando era pequeño, yo tenía un perro.",
+            "en": "When I was little, I had a dog."
           },
           {
-            "es": "Tú tenías todos los días.",
-            "en": "You used to have every day."
+            "es": "Tú tenías el pelo largo antes.",
+            "en": "You used to have long hair."
           },
           {
-            "es": "Ella tenía de joven.",
-            "en": "She used to have when she was young."
+            "es": "Ella tenía una casa enorme.",
+            "en": "She had a huge house."
           },
           {
-            "es": "Nosotros teníamos juntos en aquellos años.",
-            "en": "We used to have together in those years."
+            "es": "Nosotros teníamos muchos amigos.",
+            "en": "We had many friends."
           },
           {
-            "es": "Ellos tenían cada tarde.",
-            "en": "They used to have every afternoon."
+            "es": "Ellos tenían un coche antiguo.",
+            "en": "They had an old car."
           }
         ]
       },
@@ -4631,24 +4631,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Quieren que yo tenga.",
-            "en": "They want me to have."
+            "es": "Espero que yo tenga éxito.",
+            "en": "I hope I succeed."
           },
           {
-            "es": "Espero que tú tengas pronto.",
-            "en": "I hope you have soon."
+            "es": "Quiero que tú tengas buena suerte.",
+            "en": "I want you to have good luck."
           },
           {
-            "es": "Es importante que ella tenga.",
-            "en": "It is important that she have."
+            "es": "Es importante que ella tenga el documento.",
+            "en": "It is important that she have the document."
           },
           {
-            "es": "Dudo que nosotros tengamos hoy.",
-            "en": "I doubt that we have today."
+            "es": "Dudo que nosotros tengamos tiempo hoy.",
+            "en": "I doubt we will have time today."
           },
           {
-            "es": "Ojalá que ellos tengan bien.",
-            "en": "I hope they have well."
+            "es": "Ojalá que ellos tengan un buen viaje.",
+            "en": "Hopefully they have a good trip."
           }
         ]
       }
@@ -4770,24 +4770,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Cuando era niño, yo hacía mucho.",
-            "en": "When I was a kid, I used to do a lot."
+            "es": "Yo hacía ejercicio cada mañana.",
+            "en": "I used to exercise every morning."
           },
           {
-            "es": "Tú hacías todos los días.",
-            "en": "You used to do every day."
+            "es": "Tú hacías ruido constantemente.",
+            "en": "You used to make noise constantly."
           },
           {
-            "es": "Ella hacía de joven.",
-            "en": "She used to do when she was young."
+            "es": "Ella hacía pasteles los domingos.",
+            "en": "She used to make cakes on Sundays."
           },
           {
-            "es": "Nosotros hacíamos juntos en aquellos años.",
-            "en": "We used to do together in those years."
+            "es": "Nosotros hacíamos viajes en verano.",
+            "en": "We used to take trips in summer."
           },
           {
-            "es": "Ellos hacían cada tarde.",
-            "en": "They used to do every afternoon."
+            "es": "Ellos hacían deportes juntos.",
+            "en": "They used to play sports together."
           }
         ]
       },
@@ -4803,24 +4803,24 @@ const CONJUGATIONS = [
         ],
         "sentences": [
           {
-            "es": "Quieren que yo haga.",
-            "en": "They want me to do."
+            "es": "Quiero que yo haga lo correcto.",
+            "en": "I want to do the right thing."
           },
           {
-            "es": "Espero que tú hagas pronto.",
-            "en": "I hope you do soon."
+            "es": "Espero que tú hagas la tarea.",
+            "en": "I hope you do the homework."
           },
           {
-            "es": "Es importante que ella haga.",
-            "en": "It is important that she do."
+            "es": "Es importante que ella haga la presentación.",
+            "en": "It is important that she give the presentation."
           },
           {
-            "es": "Dudo que nosotros hagamos hoy.",
-            "en": "I doubt that we do today."
+            "es": "Dudo que nosotros hagamos el viaje.",
+            "en": "I doubt we will make the trip."
           },
           {
-            "es": "Ojalá que ellos hagan bien.",
-            "en": "I hope they do well."
+            "es": "Ojalá que ellos hagan un buen trabajo.",
+            "en": "Hopefully they do a good job."
           }
         ]
       }
@@ -8605,6 +8605,4478 @@ const CONJUGATIONS = [
           {
             "es": "Ojalá que ellos perdan bien.",
             "en": "I hope they lose well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "buscar",
+    "english": "to look for",
+    "type": "irregular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "busco",
+          "buscas",
+          "busca",
+          "buscamos",
+          "buscan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo busco todos los días.",
+            "en": "I look for every day."
+          },
+          {
+            "es": "Tú buscas con frecuencia.",
+            "en": "You look for often."
+          },
+          {
+            "es": "Ella busca en casa.",
+            "en": "She look for at home."
+          },
+          {
+            "es": "Nosotros buscamos juntos.",
+            "en": "We look for together."
+          },
+          {
+            "es": "Ellos buscan mucho.",
+            "en": "They look for a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "busqué",
+          "buscaste",
+          "buscó",
+          "buscamos",
+          "buscaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo busqué ayer.",
+            "en": "I look for yesterday."
+          },
+          {
+            "es": "Tú buscaste el sábado pasado.",
+            "en": "You look for last Saturday."
+          },
+          {
+            "es": "Ella buscó anoche.",
+            "en": "She look for last night."
+          },
+          {
+            "es": "Nosotros buscamos la semana pasada.",
+            "en": "We look for last week."
+          },
+          {
+            "es": "Ellos buscaron hace dos días.",
+            "en": "They look for two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "buscaré",
+          "buscarás",
+          "buscará",
+          "buscaremos",
+          "buscarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo buscaré mañana.",
+            "en": "I will look for tomorrow."
+          },
+          {
+            "es": "Tú buscarás el próximo lunes.",
+            "en": "You will look for next Monday."
+          },
+          {
+            "es": "Ella buscará después.",
+            "en": "She will look for later."
+          },
+          {
+            "es": "Nosotros buscaremos pronto.",
+            "en": "We will look for soon."
+          },
+          {
+            "es": "Ellos buscarán la próxima semana.",
+            "en": "They will look for next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "buscaba",
+          "buscabas",
+          "buscaba",
+          "buscábamos",
+          "buscaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo buscaba mucho.",
+            "en": "When I was a kid, I used to look for a lot."
+          },
+          {
+            "es": "Tú buscabas todos los días.",
+            "en": "You used to look for every day."
+          },
+          {
+            "es": "Ella buscaba de joven.",
+            "en": "She used to look for when she was young."
+          },
+          {
+            "es": "Nosotros buscábamos juntos en aquellos años.",
+            "en": "We used to look for together in those years."
+          },
+          {
+            "es": "Ellos buscaban cada tarde.",
+            "en": "They used to look for every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "busque",
+          "busques",
+          "busque",
+          "busquemos",
+          "busquen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo busque.",
+            "en": "They want me to look for."
+          },
+          {
+            "es": "Espero que tú busques pronto.",
+            "en": "I hope you look for soon."
+          },
+          {
+            "es": "Es importante que ella busque.",
+            "en": "It is important that she look for."
+          },
+          {
+            "es": "Dudo que nosotros busquemos hoy.",
+            "en": "I doubt that we look for today."
+          },
+          {
+            "es": "Ojalá que ellos busquen bien.",
+            "en": "I hope they look for well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "tomar",
+    "english": "to take / to drink",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "tomo",
+          "tomas",
+          "toma",
+          "tomamos",
+          "toman"
+        ],
+        "sentences": [
+          {
+            "es": "Yo tomo todos los días.",
+            "en": "I take every day."
+          },
+          {
+            "es": "Tú tomas con frecuencia.",
+            "en": "You take often."
+          },
+          {
+            "es": "Ella toma en casa.",
+            "en": "She take at home."
+          },
+          {
+            "es": "Nosotros tomamos juntos.",
+            "en": "We take together."
+          },
+          {
+            "es": "Ellos toman mucho.",
+            "en": "They take a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "tomé",
+          "tomaste",
+          "tomó",
+          "tomamos",
+          "tomaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo tomé ayer.",
+            "en": "I take yesterday."
+          },
+          {
+            "es": "Tú tomaste el sábado pasado.",
+            "en": "You take last Saturday."
+          },
+          {
+            "es": "Ella tomó anoche.",
+            "en": "She take last night."
+          },
+          {
+            "es": "Nosotros tomamos la semana pasada.",
+            "en": "We take last week."
+          },
+          {
+            "es": "Ellos tomaron hace dos días.",
+            "en": "They take two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "tomaré",
+          "tomarás",
+          "tomará",
+          "tomaremos",
+          "tomarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo tomaré mañana.",
+            "en": "I will take tomorrow."
+          },
+          {
+            "es": "Tú tomarás el próximo lunes.",
+            "en": "You will take next Monday."
+          },
+          {
+            "es": "Ella tomará después.",
+            "en": "She will take later."
+          },
+          {
+            "es": "Nosotros tomaremos pronto.",
+            "en": "We will take soon."
+          },
+          {
+            "es": "Ellos tomarán la próxima semana.",
+            "en": "They will take next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "tomaba",
+          "tomabas",
+          "tomaba",
+          "tomábamos",
+          "tomaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo tomaba mucho.",
+            "en": "When I was a kid, I used to take a lot."
+          },
+          {
+            "es": "Tú tomabas todos los días.",
+            "en": "You used to take every day."
+          },
+          {
+            "es": "Ella tomaba de joven.",
+            "en": "She used to take when she was young."
+          },
+          {
+            "es": "Nosotros tomábamos juntos en aquellos años.",
+            "en": "We used to take together in those years."
+          },
+          {
+            "es": "Ellos tomaban cada tarde.",
+            "en": "They used to take every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "tome",
+          "tomes",
+          "tome",
+          "tomemos",
+          "tomen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo tome.",
+            "en": "They want me to take."
+          },
+          {
+            "es": "Espero que tú tomes pronto.",
+            "en": "I hope you take soon."
+          },
+          {
+            "es": "Es importante que ella tome.",
+            "en": "It is important that she take."
+          },
+          {
+            "es": "Dudo que nosotros tomemos hoy.",
+            "en": "I doubt that we take today."
+          },
+          {
+            "es": "Ojalá que ellos tomen bien.",
+            "en": "I hope they take well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "llamar",
+    "english": "to call",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "llamo",
+          "llamas",
+          "llama",
+          "llamamos",
+          "llaman"
+        ],
+        "sentences": [
+          {
+            "es": "Yo llamo todos los días.",
+            "en": "I call every day."
+          },
+          {
+            "es": "Tú llamas con frecuencia.",
+            "en": "You call often."
+          },
+          {
+            "es": "Ella llama en casa.",
+            "en": "She call at home."
+          },
+          {
+            "es": "Nosotros llamamos juntos.",
+            "en": "We call together."
+          },
+          {
+            "es": "Ellos llaman mucho.",
+            "en": "They call a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "llamé",
+          "llamaste",
+          "llamó",
+          "llamamos",
+          "llamaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo llamé ayer.",
+            "en": "I call yesterday."
+          },
+          {
+            "es": "Tú llamaste el sábado pasado.",
+            "en": "You call last Saturday."
+          },
+          {
+            "es": "Ella llamó anoche.",
+            "en": "She call last night."
+          },
+          {
+            "es": "Nosotros llamamos la semana pasada.",
+            "en": "We call last week."
+          },
+          {
+            "es": "Ellos llamaron hace dos días.",
+            "en": "They call two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "llamaré",
+          "llamarás",
+          "llamará",
+          "llamaremos",
+          "llamarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo llamaré mañana.",
+            "en": "I will call tomorrow."
+          },
+          {
+            "es": "Tú llamarás el próximo lunes.",
+            "en": "You will call next Monday."
+          },
+          {
+            "es": "Ella llamará después.",
+            "en": "She will call later."
+          },
+          {
+            "es": "Nosotros llamaremos pronto.",
+            "en": "We will call soon."
+          },
+          {
+            "es": "Ellos llamarán la próxima semana.",
+            "en": "They will call next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "llamaba",
+          "llamabas",
+          "llamaba",
+          "llamábamos",
+          "llamaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo llamaba mucho.",
+            "en": "When I was a kid, I used to call a lot."
+          },
+          {
+            "es": "Tú llamabas todos los días.",
+            "en": "You used to call every day."
+          },
+          {
+            "es": "Ella llamaba de joven.",
+            "en": "She used to call when she was young."
+          },
+          {
+            "es": "Nosotros llamábamos juntos en aquellos años.",
+            "en": "We used to call together in those years."
+          },
+          {
+            "es": "Ellos llamaban cada tarde.",
+            "en": "They used to call every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "llame",
+          "llames",
+          "llame",
+          "llamemos",
+          "llamen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo llame.",
+            "en": "They want me to call."
+          },
+          {
+            "es": "Espero que tú llames pronto.",
+            "en": "I hope you call soon."
+          },
+          {
+            "es": "Es importante que ella llame.",
+            "en": "It is important that she call."
+          },
+          {
+            "es": "Dudo que nosotros llamemos hoy.",
+            "en": "I doubt that we call today."
+          },
+          {
+            "es": "Ojalá que ellos llamen bien.",
+            "en": "I hope they call well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "mostrar",
+    "english": "to show",
+    "type": "stem-o-ue",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "muestro",
+          "muestras",
+          "muestra",
+          "mostramos",
+          "muestran"
+        ],
+        "sentences": [
+          {
+            "es": "Yo muestro todos los días.",
+            "en": "I show every day."
+          },
+          {
+            "es": "Tú muestras con frecuencia.",
+            "en": "You show often."
+          },
+          {
+            "es": "Ella muestra en casa.",
+            "en": "She show at home."
+          },
+          {
+            "es": "Nosotros mostramos juntos.",
+            "en": "We show together."
+          },
+          {
+            "es": "Ellos muestran mucho.",
+            "en": "They show a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "mostré",
+          "mostraste",
+          "mostró",
+          "mostramos",
+          "mostraron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo mostré ayer.",
+            "en": "I show yesterday."
+          },
+          {
+            "es": "Tú mostraste el sábado pasado.",
+            "en": "You show last Saturday."
+          },
+          {
+            "es": "Ella mostró anoche.",
+            "en": "She show last night."
+          },
+          {
+            "es": "Nosotros mostramos la semana pasada.",
+            "en": "We show last week."
+          },
+          {
+            "es": "Ellos mostraron hace dos días.",
+            "en": "They show two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "mostraré",
+          "mostrarás",
+          "mostrará",
+          "mostraremos",
+          "mostrarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo mostraré mañana.",
+            "en": "I will show tomorrow."
+          },
+          {
+            "es": "Tú mostrarás el próximo lunes.",
+            "en": "You will show next Monday."
+          },
+          {
+            "es": "Ella mostrará después.",
+            "en": "She will show later."
+          },
+          {
+            "es": "Nosotros mostraremos pronto.",
+            "en": "We will show soon."
+          },
+          {
+            "es": "Ellos mostrarán la próxima semana.",
+            "en": "They will show next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "mostraba",
+          "mostrabas",
+          "mostraba",
+          "mostrábamos",
+          "mostraban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo mostraba mucho.",
+            "en": "When I was a kid, I used to show a lot."
+          },
+          {
+            "es": "Tú mostrabas todos los días.",
+            "en": "You used to show every day."
+          },
+          {
+            "es": "Ella mostraba de joven.",
+            "en": "She used to show when she was young."
+          },
+          {
+            "es": "Nosotros mostrábamos juntos en aquellos años.",
+            "en": "We used to show together in those years."
+          },
+          {
+            "es": "Ellos mostraban cada tarde.",
+            "en": "They used to show every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "mostre",
+          "mostres",
+          "mostre",
+          "mostremos",
+          "mostren"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo mostre.",
+            "en": "They want me to show."
+          },
+          {
+            "es": "Espero que tú mostres pronto.",
+            "en": "I hope you show soon."
+          },
+          {
+            "es": "Es importante que ella mostre.",
+            "en": "It is important that she show."
+          },
+          {
+            "es": "Dudo que nosotros mostremos hoy.",
+            "en": "I doubt that we show today."
+          },
+          {
+            "es": "Ojalá que ellos mostren bien.",
+            "en": "I hope they show well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "preguntar",
+    "english": "to ask",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "pregunto",
+          "preguntas",
+          "pregunta",
+          "preguntamos",
+          "preguntan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo pregunto todos los días.",
+            "en": "I ask every day."
+          },
+          {
+            "es": "Tú preguntas con frecuencia.",
+            "en": "You ask often."
+          },
+          {
+            "es": "Ella pregunta en casa.",
+            "en": "She ask at home."
+          },
+          {
+            "es": "Nosotros preguntamos juntos.",
+            "en": "We ask together."
+          },
+          {
+            "es": "Ellos preguntan mucho.",
+            "en": "They ask a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "pregunté",
+          "preguntaste",
+          "preguntó",
+          "preguntamos",
+          "preguntaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo pregunté ayer.",
+            "en": "I ask yesterday."
+          },
+          {
+            "es": "Tú preguntaste el sábado pasado.",
+            "en": "You ask last Saturday."
+          },
+          {
+            "es": "Ella preguntó anoche.",
+            "en": "She ask last night."
+          },
+          {
+            "es": "Nosotros preguntamos la semana pasada.",
+            "en": "We ask last week."
+          },
+          {
+            "es": "Ellos preguntaron hace dos días.",
+            "en": "They ask two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "preguntaré",
+          "preguntarás",
+          "preguntará",
+          "preguntaremos",
+          "preguntarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo preguntaré mañana.",
+            "en": "I will ask tomorrow."
+          },
+          {
+            "es": "Tú preguntarás el próximo lunes.",
+            "en": "You will ask next Monday."
+          },
+          {
+            "es": "Ella preguntará después.",
+            "en": "She will ask later."
+          },
+          {
+            "es": "Nosotros preguntaremos pronto.",
+            "en": "We will ask soon."
+          },
+          {
+            "es": "Ellos preguntarán la próxima semana.",
+            "en": "They will ask next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "preguntaba",
+          "preguntabas",
+          "preguntaba",
+          "preguntábamos",
+          "preguntaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo preguntaba mucho.",
+            "en": "When I was a kid, I used to ask a lot."
+          },
+          {
+            "es": "Tú preguntabas todos los días.",
+            "en": "You used to ask every day."
+          },
+          {
+            "es": "Ella preguntaba de joven.",
+            "en": "She used to ask when she was young."
+          },
+          {
+            "es": "Nosotros preguntábamos juntos en aquellos años.",
+            "en": "We used to ask together in those years."
+          },
+          {
+            "es": "Ellos preguntaban cada tarde.",
+            "en": "They used to ask every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "pregunte",
+          "preguntes",
+          "pregunte",
+          "preguntemos",
+          "pregunten"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo pregunte.",
+            "en": "They want me to ask."
+          },
+          {
+            "es": "Espero que tú preguntes pronto.",
+            "en": "I hope you ask soon."
+          },
+          {
+            "es": "Es importante que ella pregunte.",
+            "en": "It is important that she ask."
+          },
+          {
+            "es": "Dudo que nosotros preguntemos hoy.",
+            "en": "I doubt that we ask today."
+          },
+          {
+            "es": "Ojalá que ellos pregunten bien.",
+            "en": "I hope they ask well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "contestar",
+    "english": "to answer",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "contesto",
+          "contestas",
+          "contesta",
+          "contestamos",
+          "contestan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo contesto todos los días.",
+            "en": "I answer every day."
+          },
+          {
+            "es": "Tú contestas con frecuencia.",
+            "en": "You answer often."
+          },
+          {
+            "es": "Ella contesta en casa.",
+            "en": "She answer at home."
+          },
+          {
+            "es": "Nosotros contestamos juntos.",
+            "en": "We answer together."
+          },
+          {
+            "es": "Ellos contestan mucho.",
+            "en": "They answer a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "contesté",
+          "contestaste",
+          "contestó",
+          "contestamos",
+          "contestaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo contesté ayer.",
+            "en": "I answer yesterday."
+          },
+          {
+            "es": "Tú contestaste el sábado pasado.",
+            "en": "You answer last Saturday."
+          },
+          {
+            "es": "Ella contestó anoche.",
+            "en": "She answer last night."
+          },
+          {
+            "es": "Nosotros contestamos la semana pasada.",
+            "en": "We answer last week."
+          },
+          {
+            "es": "Ellos contestaron hace dos días.",
+            "en": "They answer two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "contestaré",
+          "contestarás",
+          "contestará",
+          "contestaremos",
+          "contestarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo contestaré mañana.",
+            "en": "I will answer tomorrow."
+          },
+          {
+            "es": "Tú contestarás el próximo lunes.",
+            "en": "You will answer next Monday."
+          },
+          {
+            "es": "Ella contestará después.",
+            "en": "She will answer later."
+          },
+          {
+            "es": "Nosotros contestaremos pronto.",
+            "en": "We will answer soon."
+          },
+          {
+            "es": "Ellos contestarán la próxima semana.",
+            "en": "They will answer next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "contestaba",
+          "contestabas",
+          "contestaba",
+          "contestábamos",
+          "contestaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo contestaba mucho.",
+            "en": "When I was a kid, I used to answer a lot."
+          },
+          {
+            "es": "Tú contestabas todos los días.",
+            "en": "You used to answer every day."
+          },
+          {
+            "es": "Ella contestaba de joven.",
+            "en": "She used to answer when she was young."
+          },
+          {
+            "es": "Nosotros contestábamos juntos en aquellos años.",
+            "en": "We used to answer together in those years."
+          },
+          {
+            "es": "Ellos contestaban cada tarde.",
+            "en": "They used to answer every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "conteste",
+          "contestes",
+          "conteste",
+          "contestemos",
+          "contesten"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo conteste.",
+            "en": "They want me to answer."
+          },
+          {
+            "es": "Espero que tú contestes pronto.",
+            "en": "I hope you answer soon."
+          },
+          {
+            "es": "Es importante que ella conteste.",
+            "en": "It is important that she answer."
+          },
+          {
+            "es": "Dudo que nosotros contestemos hoy.",
+            "en": "I doubt that we answer today."
+          },
+          {
+            "es": "Ojalá que ellos contesten bien.",
+            "en": "I hope they answer well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "cocinar",
+    "english": "to cook",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "cocino",
+          "cocinas",
+          "cocina",
+          "cocinamos",
+          "cocinan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cocino todos los días.",
+            "en": "I cook every day."
+          },
+          {
+            "es": "Tú cocinas con frecuencia.",
+            "en": "You cook often."
+          },
+          {
+            "es": "Ella cocina en casa.",
+            "en": "She cook at home."
+          },
+          {
+            "es": "Nosotros cocinamos juntos.",
+            "en": "We cook together."
+          },
+          {
+            "es": "Ellos cocinan mucho.",
+            "en": "They cook a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "cociné",
+          "cocinaste",
+          "cocinó",
+          "cocinamos",
+          "cocinaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cociné ayer.",
+            "en": "I cook yesterday."
+          },
+          {
+            "es": "Tú cocinaste el sábado pasado.",
+            "en": "You cook last Saturday."
+          },
+          {
+            "es": "Ella cocinó anoche.",
+            "en": "She cook last night."
+          },
+          {
+            "es": "Nosotros cocinamos la semana pasada.",
+            "en": "We cook last week."
+          },
+          {
+            "es": "Ellos cocinaron hace dos días.",
+            "en": "They cook two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "cocinaré",
+          "cocinarás",
+          "cocinará",
+          "cocinaremos",
+          "cocinarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cocinaré mañana.",
+            "en": "I will cook tomorrow."
+          },
+          {
+            "es": "Tú cocinarás el próximo lunes.",
+            "en": "You will cook next Monday."
+          },
+          {
+            "es": "Ella cocinará después.",
+            "en": "She will cook later."
+          },
+          {
+            "es": "Nosotros cocinaremos pronto.",
+            "en": "We will cook soon."
+          },
+          {
+            "es": "Ellos cocinarán la próxima semana.",
+            "en": "They will cook next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "cocinaba",
+          "cocinabas",
+          "cocinaba",
+          "cocinábamos",
+          "cocinaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo cocinaba mucho.",
+            "en": "When I was a kid, I used to cook a lot."
+          },
+          {
+            "es": "Tú cocinabas todos los días.",
+            "en": "You used to cook every day."
+          },
+          {
+            "es": "Ella cocinaba de joven.",
+            "en": "She used to cook when she was young."
+          },
+          {
+            "es": "Nosotros cocinábamos juntos en aquellos años.",
+            "en": "We used to cook together in those years."
+          },
+          {
+            "es": "Ellos cocinaban cada tarde.",
+            "en": "They used to cook every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "cocine",
+          "cocines",
+          "cocine",
+          "cocinemos",
+          "cocinen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo cocine.",
+            "en": "They want me to cook."
+          },
+          {
+            "es": "Espero que tú cocines pronto.",
+            "en": "I hope you cook soon."
+          },
+          {
+            "es": "Es importante que ella cocine.",
+            "en": "It is important that she cook."
+          },
+          {
+            "es": "Dudo que nosotros cocinemos hoy.",
+            "en": "I doubt that we cook today."
+          },
+          {
+            "es": "Ojalá que ellos cocinen bien.",
+            "en": "I hope they cook well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "limpiar",
+    "english": "to clean",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "limpio",
+          "limpias",
+          "limpia",
+          "limpiamos",
+          "limpian"
+        ],
+        "sentences": [
+          {
+            "es": "Yo limpio todos los días.",
+            "en": "I clean every day."
+          },
+          {
+            "es": "Tú limpias con frecuencia.",
+            "en": "You clean often."
+          },
+          {
+            "es": "Ella limpia en casa.",
+            "en": "She clean at home."
+          },
+          {
+            "es": "Nosotros limpiamos juntos.",
+            "en": "We clean together."
+          },
+          {
+            "es": "Ellos limpian mucho.",
+            "en": "They clean a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "limpié",
+          "limpiaste",
+          "limpió",
+          "limpiamos",
+          "limpiaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo limpié ayer.",
+            "en": "I clean yesterday."
+          },
+          {
+            "es": "Tú limpiaste el sábado pasado.",
+            "en": "You clean last Saturday."
+          },
+          {
+            "es": "Ella limpió anoche.",
+            "en": "She clean last night."
+          },
+          {
+            "es": "Nosotros limpiamos la semana pasada.",
+            "en": "We clean last week."
+          },
+          {
+            "es": "Ellos limpiaron hace dos días.",
+            "en": "They clean two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "limpiaré",
+          "limpiarás",
+          "limpiará",
+          "limpiaremos",
+          "limpiarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo limpiaré mañana.",
+            "en": "I will clean tomorrow."
+          },
+          {
+            "es": "Tú limpiarás el próximo lunes.",
+            "en": "You will clean next Monday."
+          },
+          {
+            "es": "Ella limpiará después.",
+            "en": "She will clean later."
+          },
+          {
+            "es": "Nosotros limpiaremos pronto.",
+            "en": "We will clean soon."
+          },
+          {
+            "es": "Ellos limpiarán la próxima semana.",
+            "en": "They will clean next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "limpiaba",
+          "limpiabas",
+          "limpiaba",
+          "limpiábamos",
+          "limpiaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo limpiaba mucho.",
+            "en": "When I was a kid, I used to clean a lot."
+          },
+          {
+            "es": "Tú limpiabas todos los días.",
+            "en": "You used to clean every day."
+          },
+          {
+            "es": "Ella limpiaba de joven.",
+            "en": "She used to clean when she was young."
+          },
+          {
+            "es": "Nosotros limpiábamos juntos en aquellos años.",
+            "en": "We used to clean together in those years."
+          },
+          {
+            "es": "Ellos limpiaban cada tarde.",
+            "en": "They used to clean every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "limpie",
+          "limpies",
+          "limpie",
+          "limpiemos",
+          "limpien"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo limpie.",
+            "en": "They want me to clean."
+          },
+          {
+            "es": "Espero que tú limpies pronto.",
+            "en": "I hope you clean soon."
+          },
+          {
+            "es": "Es importante que ella limpie.",
+            "en": "It is important that she clean."
+          },
+          {
+            "es": "Dudo que nosotros limpiemos hoy.",
+            "en": "I doubt that we clean today."
+          },
+          {
+            "es": "Ojalá que ellos limpien bien.",
+            "en": "I hope they clean well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "enseñar",
+    "english": "to teach",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "enseño",
+          "enseñas",
+          "enseña",
+          "enseñamos",
+          "enseñan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo enseño todos los días.",
+            "en": "I teach every day."
+          },
+          {
+            "es": "Tú enseñas con frecuencia.",
+            "en": "You teach often."
+          },
+          {
+            "es": "Ella enseña en casa.",
+            "en": "She teach at home."
+          },
+          {
+            "es": "Nosotros enseñamos juntos.",
+            "en": "We teach together."
+          },
+          {
+            "es": "Ellos enseñan mucho.",
+            "en": "They teach a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "enseñé",
+          "enseñaste",
+          "enseñó",
+          "enseñamos",
+          "enseñaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo enseñé ayer.",
+            "en": "I teach yesterday."
+          },
+          {
+            "es": "Tú enseñaste el sábado pasado.",
+            "en": "You teach last Saturday."
+          },
+          {
+            "es": "Ella enseñó anoche.",
+            "en": "She teach last night."
+          },
+          {
+            "es": "Nosotros enseñamos la semana pasada.",
+            "en": "We teach last week."
+          },
+          {
+            "es": "Ellos enseñaron hace dos días.",
+            "en": "They teach two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "enseñaré",
+          "enseñarás",
+          "enseñará",
+          "enseñaremos",
+          "enseñarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo enseñaré mañana.",
+            "en": "I will teach tomorrow."
+          },
+          {
+            "es": "Tú enseñarás el próximo lunes.",
+            "en": "You will teach next Monday."
+          },
+          {
+            "es": "Ella enseñará después.",
+            "en": "She will teach later."
+          },
+          {
+            "es": "Nosotros enseñaremos pronto.",
+            "en": "We will teach soon."
+          },
+          {
+            "es": "Ellos enseñarán la próxima semana.",
+            "en": "They will teach next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "enseñaba",
+          "enseñabas",
+          "enseñaba",
+          "enseñábamos",
+          "enseñaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo enseñaba mucho.",
+            "en": "When I was a kid, I used to teach a lot."
+          },
+          {
+            "es": "Tú enseñabas todos los días.",
+            "en": "You used to teach every day."
+          },
+          {
+            "es": "Ella enseñaba de joven.",
+            "en": "She used to teach when she was young."
+          },
+          {
+            "es": "Nosotros enseñábamos juntos en aquellos años.",
+            "en": "We used to teach together in those years."
+          },
+          {
+            "es": "Ellos enseñaban cada tarde.",
+            "en": "They used to teach every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "enseñe",
+          "enseñes",
+          "enseñe",
+          "enseñemos",
+          "enseñen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo enseñe.",
+            "en": "They want me to teach."
+          },
+          {
+            "es": "Espero que tú enseñes pronto.",
+            "en": "I hope you teach soon."
+          },
+          {
+            "es": "Es importante que ella enseñe.",
+            "en": "It is important that she teach."
+          },
+          {
+            "es": "Dudo que nosotros enseñemos hoy.",
+            "en": "I doubt that we teach today."
+          },
+          {
+            "es": "Ojalá que ellos enseñen bien.",
+            "en": "I hope they teach well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "cambiar",
+    "english": "to change",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "cambio",
+          "cambias",
+          "cambia",
+          "cambiamos",
+          "cambian"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cambio todos los días.",
+            "en": "I change every day."
+          },
+          {
+            "es": "Tú cambias con frecuencia.",
+            "en": "You change often."
+          },
+          {
+            "es": "Ella cambia en casa.",
+            "en": "She change at home."
+          },
+          {
+            "es": "Nosotros cambiamos juntos.",
+            "en": "We change together."
+          },
+          {
+            "es": "Ellos cambian mucho.",
+            "en": "They change a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "cambié",
+          "cambiaste",
+          "cambió",
+          "cambiamos",
+          "cambiaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cambié ayer.",
+            "en": "I change yesterday."
+          },
+          {
+            "es": "Tú cambiaste el sábado pasado.",
+            "en": "You change last Saturday."
+          },
+          {
+            "es": "Ella cambió anoche.",
+            "en": "She change last night."
+          },
+          {
+            "es": "Nosotros cambiamos la semana pasada.",
+            "en": "We change last week."
+          },
+          {
+            "es": "Ellos cambiaron hace dos días.",
+            "en": "They change two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "cambiaré",
+          "cambiarás",
+          "cambiará",
+          "cambiaremos",
+          "cambiarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cambiaré mañana.",
+            "en": "I will change tomorrow."
+          },
+          {
+            "es": "Tú cambiarás el próximo lunes.",
+            "en": "You will change next Monday."
+          },
+          {
+            "es": "Ella cambiará después.",
+            "en": "She will change later."
+          },
+          {
+            "es": "Nosotros cambiaremos pronto.",
+            "en": "We will change soon."
+          },
+          {
+            "es": "Ellos cambiarán la próxima semana.",
+            "en": "They will change next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "cambiaba",
+          "cambiabas",
+          "cambiaba",
+          "cambiábamos",
+          "cambiaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo cambiaba mucho.",
+            "en": "When I was a kid, I used to change a lot."
+          },
+          {
+            "es": "Tú cambiabas todos los días.",
+            "en": "You used to change every day."
+          },
+          {
+            "es": "Ella cambiaba de joven.",
+            "en": "She used to change when she was young."
+          },
+          {
+            "es": "Nosotros cambiábamos juntos en aquellos años.",
+            "en": "We used to change together in those years."
+          },
+          {
+            "es": "Ellos cambiaban cada tarde.",
+            "en": "They used to change every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "cambie",
+          "cambies",
+          "cambie",
+          "cambiemos",
+          "cambien"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo cambie.",
+            "en": "They want me to change."
+          },
+          {
+            "es": "Espero que tú cambies pronto.",
+            "en": "I hope you change soon."
+          },
+          {
+            "es": "Es importante que ella cambie.",
+            "en": "It is important that she change."
+          },
+          {
+            "es": "Dudo que nosotros cambiemos hoy.",
+            "en": "I doubt that we change today."
+          },
+          {
+            "es": "Ojalá que ellos cambien bien.",
+            "en": "I hope they change well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "olvidar",
+    "english": "to forget",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "olvido",
+          "olvidas",
+          "olvida",
+          "olvidamos",
+          "olvidan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo olvido todos los días.",
+            "en": "I forget every day."
+          },
+          {
+            "es": "Tú olvidas con frecuencia.",
+            "en": "You forget often."
+          },
+          {
+            "es": "Ella olvida en casa.",
+            "en": "She forget at home."
+          },
+          {
+            "es": "Nosotros olvidamos juntos.",
+            "en": "We forget together."
+          },
+          {
+            "es": "Ellos olvidan mucho.",
+            "en": "They forget a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "olvidé",
+          "olvidaste",
+          "olvidó",
+          "olvidamos",
+          "olvidaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo olvidé ayer.",
+            "en": "I forget yesterday."
+          },
+          {
+            "es": "Tú olvidaste el sábado pasado.",
+            "en": "You forget last Saturday."
+          },
+          {
+            "es": "Ella olvidó anoche.",
+            "en": "She forget last night."
+          },
+          {
+            "es": "Nosotros olvidamos la semana pasada.",
+            "en": "We forget last week."
+          },
+          {
+            "es": "Ellos olvidaron hace dos días.",
+            "en": "They forget two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "olvidaré",
+          "olvidarás",
+          "olvidará",
+          "olvidaremos",
+          "olvidarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo olvidaré mañana.",
+            "en": "I will forget tomorrow."
+          },
+          {
+            "es": "Tú olvidarás el próximo lunes.",
+            "en": "You will forget next Monday."
+          },
+          {
+            "es": "Ella olvidará después.",
+            "en": "She will forget later."
+          },
+          {
+            "es": "Nosotros olvidaremos pronto.",
+            "en": "We will forget soon."
+          },
+          {
+            "es": "Ellos olvidarán la próxima semana.",
+            "en": "They will forget next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "olvidaba",
+          "olvidabas",
+          "olvidaba",
+          "olvidábamos",
+          "olvidaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo olvidaba mucho.",
+            "en": "When I was a kid, I used to forget a lot."
+          },
+          {
+            "es": "Tú olvidabas todos los días.",
+            "en": "You used to forget every day."
+          },
+          {
+            "es": "Ella olvidaba de joven.",
+            "en": "She used to forget when she was young."
+          },
+          {
+            "es": "Nosotros olvidábamos juntos en aquellos años.",
+            "en": "We used to forget together in those years."
+          },
+          {
+            "es": "Ellos olvidaban cada tarde.",
+            "en": "They used to forget every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "olvide",
+          "olvides",
+          "olvide",
+          "olvidemos",
+          "olviden"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo olvide.",
+            "en": "They want me to forget."
+          },
+          {
+            "es": "Espero que tú olvides pronto.",
+            "en": "I hope you forget soon."
+          },
+          {
+            "es": "Es importante que ella olvide.",
+            "en": "It is important that she forget."
+          },
+          {
+            "es": "Dudo que nosotros olvidemos hoy.",
+            "en": "I doubt that we forget today."
+          },
+          {
+            "es": "Ojalá que ellos olviden bien.",
+            "en": "I hope they forget well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "amar",
+    "english": "to love",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "amo",
+          "amas",
+          "ama",
+          "amamos",
+          "aman"
+        ],
+        "sentences": [
+          {
+            "es": "Yo amo todos los días.",
+            "en": "I love every day."
+          },
+          {
+            "es": "Tú amas con frecuencia.",
+            "en": "You love often."
+          },
+          {
+            "es": "Ella ama en casa.",
+            "en": "She love at home."
+          },
+          {
+            "es": "Nosotros amamos juntos.",
+            "en": "We love together."
+          },
+          {
+            "es": "Ellos aman mucho.",
+            "en": "They love a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "amé",
+          "amaste",
+          "amó",
+          "amamos",
+          "amaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo amé ayer.",
+            "en": "I love yesterday."
+          },
+          {
+            "es": "Tú amaste el sábado pasado.",
+            "en": "You love last Saturday."
+          },
+          {
+            "es": "Ella amó anoche.",
+            "en": "She love last night."
+          },
+          {
+            "es": "Nosotros amamos la semana pasada.",
+            "en": "We love last week."
+          },
+          {
+            "es": "Ellos amaron hace dos días.",
+            "en": "They love two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "amaré",
+          "amarás",
+          "amará",
+          "amaremos",
+          "amarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo amaré mañana.",
+            "en": "I will love tomorrow."
+          },
+          {
+            "es": "Tú amarás el próximo lunes.",
+            "en": "You will love next Monday."
+          },
+          {
+            "es": "Ella amará después.",
+            "en": "She will love later."
+          },
+          {
+            "es": "Nosotros amaremos pronto.",
+            "en": "We will love soon."
+          },
+          {
+            "es": "Ellos amarán la próxima semana.",
+            "en": "They will love next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "amaba",
+          "amabas",
+          "amaba",
+          "amábamos",
+          "amaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo amaba mucho.",
+            "en": "When I was a kid, I used to love a lot."
+          },
+          {
+            "es": "Tú amabas todos los días.",
+            "en": "You used to love every day."
+          },
+          {
+            "es": "Ella amaba de joven.",
+            "en": "She used to love when she was young."
+          },
+          {
+            "es": "Nosotros amábamos juntos en aquellos años.",
+            "en": "We used to love together in those years."
+          },
+          {
+            "es": "Ellos amaban cada tarde.",
+            "en": "They used to love every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "ame",
+          "ames",
+          "ame",
+          "amemos",
+          "amen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo ame.",
+            "en": "They want me to love."
+          },
+          {
+            "es": "Espero que tú ames pronto.",
+            "en": "I hope you love soon."
+          },
+          {
+            "es": "Es importante que ella ame.",
+            "en": "It is important that she love."
+          },
+          {
+            "es": "Dudo que nosotros amemos hoy.",
+            "en": "I doubt that we love today."
+          },
+          {
+            "es": "Ojalá que ellos amen bien.",
+            "en": "I hope they love well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "usar",
+    "english": "to use",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "uso",
+          "usas",
+          "usa",
+          "usamos",
+          "usan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo uso todos los días.",
+            "en": "I use every day."
+          },
+          {
+            "es": "Tú usas con frecuencia.",
+            "en": "You use often."
+          },
+          {
+            "es": "Ella usa en casa.",
+            "en": "She use at home."
+          },
+          {
+            "es": "Nosotros usamos juntos.",
+            "en": "We use together."
+          },
+          {
+            "es": "Ellos usan mucho.",
+            "en": "They use a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "usé",
+          "usaste",
+          "usó",
+          "usamos",
+          "usaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo usé ayer.",
+            "en": "I use yesterday."
+          },
+          {
+            "es": "Tú usaste el sábado pasado.",
+            "en": "You use last Saturday."
+          },
+          {
+            "es": "Ella usó anoche.",
+            "en": "She use last night."
+          },
+          {
+            "es": "Nosotros usamos la semana pasada.",
+            "en": "We use last week."
+          },
+          {
+            "es": "Ellos usaron hace dos días.",
+            "en": "They use two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "usaré",
+          "usarás",
+          "usará",
+          "usaremos",
+          "usarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo usaré mañana.",
+            "en": "I will use tomorrow."
+          },
+          {
+            "es": "Tú usarás el próximo lunes.",
+            "en": "You will use next Monday."
+          },
+          {
+            "es": "Ella usará después.",
+            "en": "She will use later."
+          },
+          {
+            "es": "Nosotros usaremos pronto.",
+            "en": "We will use soon."
+          },
+          {
+            "es": "Ellos usarán la próxima semana.",
+            "en": "They will use next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "usaba",
+          "usabas",
+          "usaba",
+          "usábamos",
+          "usaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo usaba mucho.",
+            "en": "When I was a kid, I used to use a lot."
+          },
+          {
+            "es": "Tú usabas todos los días.",
+            "en": "You used to use every day."
+          },
+          {
+            "es": "Ella usaba de joven.",
+            "en": "She used to use when she was young."
+          },
+          {
+            "es": "Nosotros usábamos juntos en aquellos años.",
+            "en": "We used to use together in those years."
+          },
+          {
+            "es": "Ellos usaban cada tarde.",
+            "en": "They used to use every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "use",
+          "uses",
+          "use",
+          "usemos",
+          "usen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo use.",
+            "en": "They want me to use."
+          },
+          {
+            "es": "Espero que tú uses pronto.",
+            "en": "I hope you use soon."
+          },
+          {
+            "es": "Es importante que ella use.",
+            "en": "It is important that she use."
+          },
+          {
+            "es": "Dudo que nosotros usemos hoy.",
+            "en": "I doubt that we use today."
+          },
+          {
+            "es": "Ojalá que ellos usen bien.",
+            "en": "I hope they use well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "gritar",
+    "english": "to shout",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "grito",
+          "gritas",
+          "grita",
+          "gritamos",
+          "gritan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo grito todos los días.",
+            "en": "I shout every day."
+          },
+          {
+            "es": "Tú gritas con frecuencia.",
+            "en": "You shout often."
+          },
+          {
+            "es": "Ella grita en casa.",
+            "en": "She shout at home."
+          },
+          {
+            "es": "Nosotros gritamos juntos.",
+            "en": "We shout together."
+          },
+          {
+            "es": "Ellos gritan mucho.",
+            "en": "They shout a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "grité",
+          "gritaste",
+          "gritó",
+          "gritamos",
+          "gritaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo grité ayer.",
+            "en": "I shout yesterday."
+          },
+          {
+            "es": "Tú gritaste el sábado pasado.",
+            "en": "You shout last Saturday."
+          },
+          {
+            "es": "Ella gritó anoche.",
+            "en": "She shout last night."
+          },
+          {
+            "es": "Nosotros gritamos la semana pasada.",
+            "en": "We shout last week."
+          },
+          {
+            "es": "Ellos gritaron hace dos días.",
+            "en": "They shout two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "gritaré",
+          "gritarás",
+          "gritará",
+          "gritaremos",
+          "gritarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo gritaré mañana.",
+            "en": "I will shout tomorrow."
+          },
+          {
+            "es": "Tú gritarás el próximo lunes.",
+            "en": "You will shout next Monday."
+          },
+          {
+            "es": "Ella gritará después.",
+            "en": "She will shout later."
+          },
+          {
+            "es": "Nosotros gritaremos pronto.",
+            "en": "We will shout soon."
+          },
+          {
+            "es": "Ellos gritarán la próxima semana.",
+            "en": "They will shout next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "gritaba",
+          "gritabas",
+          "gritaba",
+          "gritábamos",
+          "gritaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo gritaba mucho.",
+            "en": "When I was a kid, I used to shout a lot."
+          },
+          {
+            "es": "Tú gritabas todos los días.",
+            "en": "You used to shout every day."
+          },
+          {
+            "es": "Ella gritaba de joven.",
+            "en": "She used to shout when she was young."
+          },
+          {
+            "es": "Nosotros gritábamos juntos en aquellos años.",
+            "en": "We used to shout together in those years."
+          },
+          {
+            "es": "Ellos gritaban cada tarde.",
+            "en": "They used to shout every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "grite",
+          "grites",
+          "grite",
+          "gritemos",
+          "griten"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo grite.",
+            "en": "They want me to shout."
+          },
+          {
+            "es": "Espero que tú grites pronto.",
+            "en": "I hope you shout soon."
+          },
+          {
+            "es": "Es importante que ella grite.",
+            "en": "It is important that she shout."
+          },
+          {
+            "es": "Dudo que nosotros gritemos hoy.",
+            "en": "I doubt that we shout today."
+          },
+          {
+            "es": "Ojalá que ellos griten bien.",
+            "en": "I hope they shout well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "llorar",
+    "english": "to cry",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "lloro",
+          "lloras",
+          "llora",
+          "lloramos",
+          "lloran"
+        ],
+        "sentences": [
+          {
+            "es": "Yo lloro todos los días.",
+            "en": "I cry every day."
+          },
+          {
+            "es": "Tú lloras con frecuencia.",
+            "en": "You cry often."
+          },
+          {
+            "es": "Ella llora en casa.",
+            "en": "She cry at home."
+          },
+          {
+            "es": "Nosotros lloramos juntos.",
+            "en": "We cry together."
+          },
+          {
+            "es": "Ellos lloran mucho.",
+            "en": "They cry a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "lloré",
+          "lloraste",
+          "lloró",
+          "lloramos",
+          "lloraron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo lloré ayer.",
+            "en": "I cry yesterday."
+          },
+          {
+            "es": "Tú lloraste el sábado pasado.",
+            "en": "You cry last Saturday."
+          },
+          {
+            "es": "Ella lloró anoche.",
+            "en": "She cry last night."
+          },
+          {
+            "es": "Nosotros lloramos la semana pasada.",
+            "en": "We cry last week."
+          },
+          {
+            "es": "Ellos lloraron hace dos días.",
+            "en": "They cry two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "lloraré",
+          "llorarás",
+          "llorará",
+          "lloraremos",
+          "llorarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo lloraré mañana.",
+            "en": "I will cry tomorrow."
+          },
+          {
+            "es": "Tú llorarás el próximo lunes.",
+            "en": "You will cry next Monday."
+          },
+          {
+            "es": "Ella llorará después.",
+            "en": "She will cry later."
+          },
+          {
+            "es": "Nosotros lloraremos pronto.",
+            "en": "We will cry soon."
+          },
+          {
+            "es": "Ellos llorarán la próxima semana.",
+            "en": "They will cry next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "lloraba",
+          "llorabas",
+          "lloraba",
+          "llorábamos",
+          "lloraban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo lloraba mucho.",
+            "en": "When I was a kid, I used to cry a lot."
+          },
+          {
+            "es": "Tú llorabas todos los días.",
+            "en": "You used to cry every day."
+          },
+          {
+            "es": "Ella lloraba de joven.",
+            "en": "She used to cry when she was young."
+          },
+          {
+            "es": "Nosotros llorábamos juntos en aquellos años.",
+            "en": "We used to cry together in those years."
+          },
+          {
+            "es": "Ellos lloraban cada tarde.",
+            "en": "They used to cry every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "llore",
+          "llores",
+          "llore",
+          "lloremos",
+          "lloren"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo llore.",
+            "en": "They want me to cry."
+          },
+          {
+            "es": "Espero que tú llores pronto.",
+            "en": "I hope you cry soon."
+          },
+          {
+            "es": "Es importante que ella llore.",
+            "en": "It is important that she cry."
+          },
+          {
+            "es": "Dudo que nosotros lloremos hoy.",
+            "en": "I doubt that we cry today."
+          },
+          {
+            "es": "Ojalá que ellos lloren bien.",
+            "en": "I hope they cry well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "viajar",
+    "english": "to travel",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "viajo",
+          "viajas",
+          "viaja",
+          "viajamos",
+          "viajan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo viajo todos los días.",
+            "en": "I travel every day."
+          },
+          {
+            "es": "Tú viajas con frecuencia.",
+            "en": "You travel often."
+          },
+          {
+            "es": "Ella viaja en casa.",
+            "en": "She travel at home."
+          },
+          {
+            "es": "Nosotros viajamos juntos.",
+            "en": "We travel together."
+          },
+          {
+            "es": "Ellos viajan mucho.",
+            "en": "They travel a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "viajé",
+          "viajaste",
+          "viajó",
+          "viajamos",
+          "viajaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo viajé ayer.",
+            "en": "I travel yesterday."
+          },
+          {
+            "es": "Tú viajaste el sábado pasado.",
+            "en": "You travel last Saturday."
+          },
+          {
+            "es": "Ella viajó anoche.",
+            "en": "She travel last night."
+          },
+          {
+            "es": "Nosotros viajamos la semana pasada.",
+            "en": "We travel last week."
+          },
+          {
+            "es": "Ellos viajaron hace dos días.",
+            "en": "They travel two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "viajaré",
+          "viajarás",
+          "viajará",
+          "viajaremos",
+          "viajarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo viajaré mañana.",
+            "en": "I will travel tomorrow."
+          },
+          {
+            "es": "Tú viajarás el próximo lunes.",
+            "en": "You will travel next Monday."
+          },
+          {
+            "es": "Ella viajará después.",
+            "en": "She will travel later."
+          },
+          {
+            "es": "Nosotros viajaremos pronto.",
+            "en": "We will travel soon."
+          },
+          {
+            "es": "Ellos viajarán la próxima semana.",
+            "en": "They will travel next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "viajaba",
+          "viajabas",
+          "viajaba",
+          "viajábamos",
+          "viajaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo viajaba mucho.",
+            "en": "When I was a kid, I used to travel a lot."
+          },
+          {
+            "es": "Tú viajabas todos los días.",
+            "en": "You used to travel every day."
+          },
+          {
+            "es": "Ella viajaba de joven.",
+            "en": "She used to travel when she was young."
+          },
+          {
+            "es": "Nosotros viajábamos juntos en aquellos años.",
+            "en": "We used to travel together in those years."
+          },
+          {
+            "es": "Ellos viajaban cada tarde.",
+            "en": "They used to travel every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "viaje",
+          "viajes",
+          "viaje",
+          "viajemos",
+          "viajen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo viaje.",
+            "en": "They want me to travel."
+          },
+          {
+            "es": "Espero que tú viajes pronto.",
+            "en": "I hope you travel soon."
+          },
+          {
+            "es": "Es importante que ella viaje.",
+            "en": "It is important that she travel."
+          },
+          {
+            "es": "Dudo que nosotros viajemos hoy.",
+            "en": "I doubt that we travel today."
+          },
+          {
+            "es": "Ojalá que ellos viajen bien.",
+            "en": "I hope they travel well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "gustar",
+    "english": "to like",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "gusto",
+          "gustas",
+          "gusta",
+          "gustamos",
+          "gustan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo gusto todos los días.",
+            "en": "I like every day."
+          },
+          {
+            "es": "Tú gustas con frecuencia.",
+            "en": "You like often."
+          },
+          {
+            "es": "Ella gusta en casa.",
+            "en": "She like at home."
+          },
+          {
+            "es": "Nosotros gustamos juntos.",
+            "en": "We like together."
+          },
+          {
+            "es": "Ellos gustan mucho.",
+            "en": "They like a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "gusté",
+          "gustaste",
+          "gustó",
+          "gustamos",
+          "gustaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo gusté ayer.",
+            "en": "I like yesterday."
+          },
+          {
+            "es": "Tú gustaste el sábado pasado.",
+            "en": "You like last Saturday."
+          },
+          {
+            "es": "Ella gustó anoche.",
+            "en": "She like last night."
+          },
+          {
+            "es": "Nosotros gustamos la semana pasada.",
+            "en": "We like last week."
+          },
+          {
+            "es": "Ellos gustaron hace dos días.",
+            "en": "They like two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "gustaré",
+          "gustarás",
+          "gustará",
+          "gustaremos",
+          "gustarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo gustaré mañana.",
+            "en": "I will like tomorrow."
+          },
+          {
+            "es": "Tú gustarás el próximo lunes.",
+            "en": "You will like next Monday."
+          },
+          {
+            "es": "Ella gustará después.",
+            "en": "She will like later."
+          },
+          {
+            "es": "Nosotros gustaremos pronto.",
+            "en": "We will like soon."
+          },
+          {
+            "es": "Ellos gustarán la próxima semana.",
+            "en": "They will like next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "gustaba",
+          "gustabas",
+          "gustaba",
+          "gustábamos",
+          "gustaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo gustaba mucho.",
+            "en": "When I was a kid, I used to like a lot."
+          },
+          {
+            "es": "Tú gustabas todos los días.",
+            "en": "You used to like every day."
+          },
+          {
+            "es": "Ella gustaba de joven.",
+            "en": "She used to like when she was young."
+          },
+          {
+            "es": "Nosotros gustábamos juntos en aquellos años.",
+            "en": "We used to like together in those years."
+          },
+          {
+            "es": "Ellos gustaban cada tarde.",
+            "en": "They used to like every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "guste",
+          "gustes",
+          "guste",
+          "gustemos",
+          "gusten"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo guste.",
+            "en": "They want me to like."
+          },
+          {
+            "es": "Espero que tú gustes pronto.",
+            "en": "I hope you like soon."
+          },
+          {
+            "es": "Es importante que ella guste.",
+            "en": "It is important that she like."
+          },
+          {
+            "es": "Dudo que nosotros gustemos hoy.",
+            "en": "I doubt that we like today."
+          },
+          {
+            "es": "Ojalá que ellos gusten bien.",
+            "en": "I hope they like well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "levantar",
+    "english": "to lift / to raise",
+    "type": "regular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "levanto",
+          "levantas",
+          "levanta",
+          "levantamos",
+          "levantan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo levanto todos los días.",
+            "en": "I lift every day."
+          },
+          {
+            "es": "Tú levantas con frecuencia.",
+            "en": "You lift often."
+          },
+          {
+            "es": "Ella levanta en casa.",
+            "en": "She lift at home."
+          },
+          {
+            "es": "Nosotros levantamos juntos.",
+            "en": "We lift together."
+          },
+          {
+            "es": "Ellos levantan mucho.",
+            "en": "They lift a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "levanté",
+          "levantaste",
+          "levantó",
+          "levantamos",
+          "levantaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo levanté ayer.",
+            "en": "I lift yesterday."
+          },
+          {
+            "es": "Tú levantaste el sábado pasado.",
+            "en": "You lift last Saturday."
+          },
+          {
+            "es": "Ella levantó anoche.",
+            "en": "She lift last night."
+          },
+          {
+            "es": "Nosotros levantamos la semana pasada.",
+            "en": "We lift last week."
+          },
+          {
+            "es": "Ellos levantaron hace dos días.",
+            "en": "They lift two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "levantaré",
+          "levantarás",
+          "levantará",
+          "levantaremos",
+          "levantarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo levantaré mañana.",
+            "en": "I will lift tomorrow."
+          },
+          {
+            "es": "Tú levantarás el próximo lunes.",
+            "en": "You will lift next Monday."
+          },
+          {
+            "es": "Ella levantará después.",
+            "en": "She will lift later."
+          },
+          {
+            "es": "Nosotros levantaremos pronto.",
+            "en": "We will lift soon."
+          },
+          {
+            "es": "Ellos levantarán la próxima semana.",
+            "en": "They will lift next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "levantaba",
+          "levantabas",
+          "levantaba",
+          "levantábamos",
+          "levantaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo levantaba mucho.",
+            "en": "When I was a kid, I used to lift a lot."
+          },
+          {
+            "es": "Tú levantabas todos los días.",
+            "en": "You used to lift every day."
+          },
+          {
+            "es": "Ella levantaba de joven.",
+            "en": "She used to lift when she was young."
+          },
+          {
+            "es": "Nosotros levantábamos juntos en aquellos años.",
+            "en": "We used to lift together in those years."
+          },
+          {
+            "es": "Ellos levantaban cada tarde.",
+            "en": "They used to lift every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "levante",
+          "levantes",
+          "levante",
+          "levantemos",
+          "levanten"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo levante.",
+            "en": "They want me to lift."
+          },
+          {
+            "es": "Espero que tú levantes pronto.",
+            "en": "I hope you lift soon."
+          },
+          {
+            "es": "Es importante que ella levante.",
+            "en": "It is important that she lift."
+          },
+          {
+            "es": "Dudo que nosotros levantemos hoy.",
+            "en": "I doubt that we lift today."
+          },
+          {
+            "es": "Ojalá que ellos levanten bien.",
+            "en": "I hope they lift well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "pedir",
+    "english": "to ask for / to request",
+    "type": "stem-e-i",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "pido",
+          "pides",
+          "pide",
+          "pedimos",
+          "piden"
+        ],
+        "sentences": [
+          {
+            "es": "Yo pido todos los días.",
+            "en": "I ask for every day."
+          },
+          {
+            "es": "Tú pides con frecuencia.",
+            "en": "You ask for often."
+          },
+          {
+            "es": "Ella pide en casa.",
+            "en": "She ask for at home."
+          },
+          {
+            "es": "Nosotros pedimos juntos.",
+            "en": "We ask for together."
+          },
+          {
+            "es": "Ellos piden mucho.",
+            "en": "They ask for a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "pedí",
+          "pediste",
+          "pidió",
+          "pedimos",
+          "pidieron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo pedí ayer.",
+            "en": "I ask for yesterday."
+          },
+          {
+            "es": "Tú pediste el sábado pasado.",
+            "en": "You ask for last Saturday."
+          },
+          {
+            "es": "Ella pidió anoche.",
+            "en": "She ask for last night."
+          },
+          {
+            "es": "Nosotros pedimos la semana pasada.",
+            "en": "We ask for last week."
+          },
+          {
+            "es": "Ellos pidieron hace dos días.",
+            "en": "They ask for two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "pediré",
+          "pedirás",
+          "pedirá",
+          "pediremos",
+          "pedirán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo pediré mañana.",
+            "en": "I will ask for tomorrow."
+          },
+          {
+            "es": "Tú pedirás el próximo lunes.",
+            "en": "You will ask for next Monday."
+          },
+          {
+            "es": "Ella pedirá después.",
+            "en": "She will ask for later."
+          },
+          {
+            "es": "Nosotros pediremos pronto.",
+            "en": "We will ask for soon."
+          },
+          {
+            "es": "Ellos pedirán la próxima semana.",
+            "en": "They will ask for next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "pedía",
+          "pedías",
+          "pedía",
+          "pedíamos",
+          "pedían"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo pedía mucho.",
+            "en": "When I was a kid, I used to ask for a lot."
+          },
+          {
+            "es": "Tú pedías todos los días.",
+            "en": "You used to ask for every day."
+          },
+          {
+            "es": "Ella pedía de joven.",
+            "en": "She used to ask for when she was young."
+          },
+          {
+            "es": "Nosotros pedíamos juntos en aquellos años.",
+            "en": "We used to ask for together in those years."
+          },
+          {
+            "es": "Ellos pedían cada tarde.",
+            "en": "They used to ask for every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "pida",
+          "pidas",
+          "pida",
+          "pidamos",
+          "pidan"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo pida.",
+            "en": "They want me to ask for."
+          },
+          {
+            "es": "Espero que tú pidas pronto.",
+            "en": "I hope you ask for soon."
+          },
+          {
+            "es": "Es importante que ella pida.",
+            "en": "It is important that she ask for."
+          },
+          {
+            "es": "Dudo que nosotros pidamos hoy.",
+            "en": "I doubt that we ask for today."
+          },
+          {
+            "es": "Ojalá que ellos pidan bien.",
+            "en": "I hope they ask for well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "sentir",
+    "english": "to feel",
+    "type": "stem-e-ie",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "siento",
+          "sientes",
+          "siente",
+          "sentimos",
+          "sienten"
+        ],
+        "sentences": [
+          {
+            "es": "Yo siento todos los días.",
+            "en": "I feel every day."
+          },
+          {
+            "es": "Tú sientes con frecuencia.",
+            "en": "You feel often."
+          },
+          {
+            "es": "Ella siente en casa.",
+            "en": "She feel at home."
+          },
+          {
+            "es": "Nosotros sentimos juntos.",
+            "en": "We feel together."
+          },
+          {
+            "es": "Ellos sienten mucho.",
+            "en": "They feel a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "sentí",
+          "sentiste",
+          "sintió",
+          "sentimos",
+          "sintieron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo sentí ayer.",
+            "en": "I feel yesterday."
+          },
+          {
+            "es": "Tú sentiste el sábado pasado.",
+            "en": "You feel last Saturday."
+          },
+          {
+            "es": "Ella sintió anoche.",
+            "en": "She feel last night."
+          },
+          {
+            "es": "Nosotros sentimos la semana pasada.",
+            "en": "We feel last week."
+          },
+          {
+            "es": "Ellos sintieron hace dos días.",
+            "en": "They feel two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "sentiré",
+          "sentirás",
+          "sentirá",
+          "sentiremos",
+          "sentirán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo sentiré mañana.",
+            "en": "I will feel tomorrow."
+          },
+          {
+            "es": "Tú sentirás el próximo lunes.",
+            "en": "You will feel next Monday."
+          },
+          {
+            "es": "Ella sentirá después.",
+            "en": "She will feel later."
+          },
+          {
+            "es": "Nosotros sentiremos pronto.",
+            "en": "We will feel soon."
+          },
+          {
+            "es": "Ellos sentirán la próxima semana.",
+            "en": "They will feel next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "sentía",
+          "sentías",
+          "sentía",
+          "sentíamos",
+          "sentían"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo sentía mucho.",
+            "en": "When I was a kid, I used to feel a lot."
+          },
+          {
+            "es": "Tú sentías todos los días.",
+            "en": "You used to feel every day."
+          },
+          {
+            "es": "Ella sentía de joven.",
+            "en": "She used to feel when she was young."
+          },
+          {
+            "es": "Nosotros sentíamos juntos en aquellos años.",
+            "en": "We used to feel together in those years."
+          },
+          {
+            "es": "Ellos sentían cada tarde.",
+            "en": "They used to feel every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "sienta",
+          "sientas",
+          "sienta",
+          "sintamos",
+          "sientan"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo sienta.",
+            "en": "They want me to feel."
+          },
+          {
+            "es": "Espero que tú sientas pronto.",
+            "en": "I hope you feel soon."
+          },
+          {
+            "es": "Es importante que ella sienta.",
+            "en": "It is important that she feel."
+          },
+          {
+            "es": "Dudo que nosotros sintamos hoy.",
+            "en": "I doubt that we feel today."
+          },
+          {
+            "es": "Ojalá que ellos sientan bien.",
+            "en": "I hope they feel well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "cerrar",
+    "english": "to close",
+    "type": "stem-e-ie",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "cierro",
+          "cierras",
+          "cierra",
+          "cerramos",
+          "cierran"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cierro todos los días.",
+            "en": "I close every day."
+          },
+          {
+            "es": "Tú cierras con frecuencia.",
+            "en": "You close often."
+          },
+          {
+            "es": "Ella cierra en casa.",
+            "en": "She close at home."
+          },
+          {
+            "es": "Nosotros cerramos juntos.",
+            "en": "We close together."
+          },
+          {
+            "es": "Ellos cierran mucho.",
+            "en": "They close a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "cerré",
+          "cerraste",
+          "cerró",
+          "cerramos",
+          "cerraron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cerré ayer.",
+            "en": "I close yesterday."
+          },
+          {
+            "es": "Tú cerraste el sábado pasado.",
+            "en": "You close last Saturday."
+          },
+          {
+            "es": "Ella cerró anoche.",
+            "en": "She close last night."
+          },
+          {
+            "es": "Nosotros cerramos la semana pasada.",
+            "en": "We close last week."
+          },
+          {
+            "es": "Ellos cerraron hace dos días.",
+            "en": "They close two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "cerraré",
+          "cerrarás",
+          "cerrará",
+          "cerraremos",
+          "cerrarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo cerraré mañana.",
+            "en": "I will close tomorrow."
+          },
+          {
+            "es": "Tú cerrarás el próximo lunes.",
+            "en": "You will close next Monday."
+          },
+          {
+            "es": "Ella cerrará después.",
+            "en": "She will close later."
+          },
+          {
+            "es": "Nosotros cerraremos pronto.",
+            "en": "We will close soon."
+          },
+          {
+            "es": "Ellos cerrarán la próxima semana.",
+            "en": "They will close next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "cerraba",
+          "cerrabas",
+          "cerraba",
+          "cerrábamos",
+          "cerraban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo cerraba mucho.",
+            "en": "When I was a kid, I used to close a lot."
+          },
+          {
+            "es": "Tú cerrabas todos los días.",
+            "en": "You used to close every day."
+          },
+          {
+            "es": "Ella cerraba de joven.",
+            "en": "She used to close when she was young."
+          },
+          {
+            "es": "Nosotros cerrábamos juntos en aquellos años.",
+            "en": "We used to close together in those years."
+          },
+          {
+            "es": "Ellos cerraban cada tarde.",
+            "en": "They used to close every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "cerre",
+          "cerres",
+          "cerre",
+          "cerremos",
+          "cerren"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo cerre.",
+            "en": "They want me to close."
+          },
+          {
+            "es": "Espero que tú cerres pronto.",
+            "en": "I hope you close soon."
+          },
+          {
+            "es": "Es importante que ella cerre.",
+            "en": "It is important that she close."
+          },
+          {
+            "es": "Dudo que nosotros cerremos hoy.",
+            "en": "I doubt that we close today."
+          },
+          {
+            "es": "Ojalá que ellos cerren bien.",
+            "en": "I hope they close well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "recordar",
+    "english": "to remember",
+    "type": "stem-o-ue",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "recuerdo",
+          "recuerdas",
+          "recuerda",
+          "recordamos",
+          "recuerdan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo recuerdo todos los días.",
+            "en": "I remember every day."
+          },
+          {
+            "es": "Tú recuerdas con frecuencia.",
+            "en": "You remember often."
+          },
+          {
+            "es": "Ella recuerda en casa.",
+            "en": "She remember at home."
+          },
+          {
+            "es": "Nosotros recordamos juntos.",
+            "en": "We remember together."
+          },
+          {
+            "es": "Ellos recuerdan mucho.",
+            "en": "They remember a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "recordé",
+          "recordaste",
+          "recordó",
+          "recordamos",
+          "recordaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo recordé ayer.",
+            "en": "I remember yesterday."
+          },
+          {
+            "es": "Tú recordaste el sábado pasado.",
+            "en": "You remember last Saturday."
+          },
+          {
+            "es": "Ella recordó anoche.",
+            "en": "She remember last night."
+          },
+          {
+            "es": "Nosotros recordamos la semana pasada.",
+            "en": "We remember last week."
+          },
+          {
+            "es": "Ellos recordaron hace dos días.",
+            "en": "They remember two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "recordaré",
+          "recordarás",
+          "recordará",
+          "recordaremos",
+          "recordarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo recordaré mañana.",
+            "en": "I will remember tomorrow."
+          },
+          {
+            "es": "Tú recordarás el próximo lunes.",
+            "en": "You will remember next Monday."
+          },
+          {
+            "es": "Ella recordará después.",
+            "en": "She will remember later."
+          },
+          {
+            "es": "Nosotros recordaremos pronto.",
+            "en": "We will remember soon."
+          },
+          {
+            "es": "Ellos recordarán la próxima semana.",
+            "en": "They will remember next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "recordaba",
+          "recordabas",
+          "recordaba",
+          "recordábamos",
+          "recordaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo recordaba mucho.",
+            "en": "When I was a kid, I used to remember a lot."
+          },
+          {
+            "es": "Tú recordabas todos los días.",
+            "en": "You used to remember every day."
+          },
+          {
+            "es": "Ella recordaba de joven.",
+            "en": "She used to remember when she was young."
+          },
+          {
+            "es": "Nosotros recordábamos juntos en aquellos años.",
+            "en": "We used to remember together in those years."
+          },
+          {
+            "es": "Ellos recordaban cada tarde.",
+            "en": "They used to remember every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "recorde",
+          "recordes",
+          "recorde",
+          "recordemos",
+          "recorden"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo recorde.",
+            "en": "They want me to remember."
+          },
+          {
+            "es": "Espero que tú recordes pronto.",
+            "en": "I hope you remember soon."
+          },
+          {
+            "es": "Es importante que ella recorde.",
+            "en": "It is important that she remember."
+          },
+          {
+            "es": "Dudo que nosotros recordemos hoy.",
+            "en": "I doubt that we remember today."
+          },
+          {
+            "es": "Ojalá que ellos recorden bien.",
+            "en": "I hope they remember well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "tocar",
+    "english": "to touch / to play (instrument)",
+    "type": "irregular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "toco",
+          "tocas",
+          "toca",
+          "tocamos",
+          "tocan"
+        ],
+        "sentences": [
+          {
+            "es": "Yo toco todos los días.",
+            "en": "I touch every day."
+          },
+          {
+            "es": "Tú tocas con frecuencia.",
+            "en": "You touch often."
+          },
+          {
+            "es": "Ella toca en casa.",
+            "en": "She touch at home."
+          },
+          {
+            "es": "Nosotros tocamos juntos.",
+            "en": "We touch together."
+          },
+          {
+            "es": "Ellos tocan mucho.",
+            "en": "They touch a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "toqué",
+          "tocaste",
+          "tocó",
+          "tocamos",
+          "tocaron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo toqué ayer.",
+            "en": "I touch yesterday."
+          },
+          {
+            "es": "Tú tocaste el sábado pasado.",
+            "en": "You touch last Saturday."
+          },
+          {
+            "es": "Ella tocó anoche.",
+            "en": "She touch last night."
+          },
+          {
+            "es": "Nosotros tocamos la semana pasada.",
+            "en": "We touch last week."
+          },
+          {
+            "es": "Ellos tocaron hace dos días.",
+            "en": "They touch two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "tocaré",
+          "tocarás",
+          "tocará",
+          "tocaremos",
+          "tocarán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo tocaré mañana.",
+            "en": "I will touch tomorrow."
+          },
+          {
+            "es": "Tú tocarás el próximo lunes.",
+            "en": "You will touch next Monday."
+          },
+          {
+            "es": "Ella tocará después.",
+            "en": "She will touch later."
+          },
+          {
+            "es": "Nosotros tocaremos pronto.",
+            "en": "We will touch soon."
+          },
+          {
+            "es": "Ellos tocarán la próxima semana.",
+            "en": "They will touch next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "tocaba",
+          "tocabas",
+          "tocaba",
+          "tocábamos",
+          "tocaban"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo tocaba mucho.",
+            "en": "When I was a kid, I used to touch a lot."
+          },
+          {
+            "es": "Tú tocabas todos los días.",
+            "en": "You used to touch every day."
+          },
+          {
+            "es": "Ella tocaba de joven.",
+            "en": "She used to touch when she was young."
+          },
+          {
+            "es": "Nosotros tocábamos juntos en aquellos años.",
+            "en": "We used to touch together in those years."
+          },
+          {
+            "es": "Ellos tocaban cada tarde.",
+            "en": "They used to touch every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "toque",
+          "toques",
+          "toque",
+          "toquemos",
+          "toquen"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo toque.",
+            "en": "They want me to touch."
+          },
+          {
+            "es": "Espero que tú toques pronto.",
+            "en": "I hope you touch soon."
+          },
+          {
+            "es": "Es importante que ella toque.",
+            "en": "It is important that she touch."
+          },
+          {
+            "es": "Dudo que nosotros toquemos hoy.",
+            "en": "I doubt that we touch today."
+          },
+          {
+            "es": "Ojalá que ellos toquen bien.",
+            "en": "I hope they touch well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "morir",
+    "english": "to die",
+    "type": "stem-o-ue",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "muero",
+          "mueres",
+          "muere",
+          "morimos",
+          "mueren"
+        ],
+        "sentences": [
+          {
+            "es": "Yo muero todos los días.",
+            "en": "I die every day."
+          },
+          {
+            "es": "Tú mueres con frecuencia.",
+            "en": "You die often."
+          },
+          {
+            "es": "Ella muere en casa.",
+            "en": "She die at home."
+          },
+          {
+            "es": "Nosotros morimos juntos.",
+            "en": "We die together."
+          },
+          {
+            "es": "Ellos mueren mucho.",
+            "en": "They die a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "morí",
+          "moriste",
+          "murió",
+          "morimos",
+          "murieron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo morí ayer.",
+            "en": "I die yesterday."
+          },
+          {
+            "es": "Tú moriste el sábado pasado.",
+            "en": "You die last Saturday."
+          },
+          {
+            "es": "Ella murió anoche.",
+            "en": "She die last night."
+          },
+          {
+            "es": "Nosotros morimos la semana pasada.",
+            "en": "We die last week."
+          },
+          {
+            "es": "Ellos murieron hace dos días.",
+            "en": "They die two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "moriré",
+          "morirás",
+          "morirá",
+          "moriremos",
+          "morirán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo moriré mañana.",
+            "en": "I will die tomorrow."
+          },
+          {
+            "es": "Tú morirás el próximo lunes.",
+            "en": "You will die next Monday."
+          },
+          {
+            "es": "Ella morirá después.",
+            "en": "She will die later."
+          },
+          {
+            "es": "Nosotros moriremos pronto.",
+            "en": "We will die soon."
+          },
+          {
+            "es": "Ellos morirán la próxima semana.",
+            "en": "They will die next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "moría",
+          "morías",
+          "moría",
+          "moríamos",
+          "morían"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo moría mucho.",
+            "en": "When I was a kid, I used to die a lot."
+          },
+          {
+            "es": "Tú morías todos los días.",
+            "en": "You used to die every day."
+          },
+          {
+            "es": "Ella moría de joven.",
+            "en": "She used to die when she was young."
+          },
+          {
+            "es": "Nosotros moríamos juntos en aquellos años.",
+            "en": "We used to die together in those years."
+          },
+          {
+            "es": "Ellos morían cada tarde.",
+            "en": "They used to die every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "mora",
+          "moras",
+          "mora",
+          "moramos",
+          "moran"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo mora.",
+            "en": "They want me to die."
+          },
+          {
+            "es": "Espero que tú moras pronto.",
+            "en": "I hope you die soon."
+          },
+          {
+            "es": "Es importante que ella mora.",
+            "en": "It is important that she die."
+          },
+          {
+            "es": "Dudo que nosotros moramos hoy.",
+            "en": "I doubt that we die today."
+          },
+          {
+            "es": "Ojalá que ellos moran bien.",
+            "en": "I hope they die well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "traer",
+    "english": "to bring",
+    "type": "irregular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "traigo",
+          "traes",
+          "trae",
+          "traemos",
+          "traen"
+        ],
+        "sentences": [
+          {
+            "es": "Yo traigo todos los días.",
+            "en": "I bring every day."
+          },
+          {
+            "es": "Tú traes con frecuencia.",
+            "en": "You bring often."
+          },
+          {
+            "es": "Ella trae en casa.",
+            "en": "She bring at home."
+          },
+          {
+            "es": "Nosotros traemos juntos.",
+            "en": "We bring together."
+          },
+          {
+            "es": "Ellos traen mucho.",
+            "en": "They bring a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "traje",
+          "trajiste",
+          "trajo",
+          "trajimos",
+          "trajeron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo traje ayer.",
+            "en": "I bring yesterday."
+          },
+          {
+            "es": "Tú trajiste el sábado pasado.",
+            "en": "You bring last Saturday."
+          },
+          {
+            "es": "Ella trajo anoche.",
+            "en": "She bring last night."
+          },
+          {
+            "es": "Nosotros trajimos la semana pasada.",
+            "en": "We bring last week."
+          },
+          {
+            "es": "Ellos trajeron hace dos días.",
+            "en": "They bring two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "traeré",
+          "traerás",
+          "traerá",
+          "traeremos",
+          "traerán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo traeré mañana.",
+            "en": "I will bring tomorrow."
+          },
+          {
+            "es": "Tú traerás el próximo lunes.",
+            "en": "You will bring next Monday."
+          },
+          {
+            "es": "Ella traerá después.",
+            "en": "She will bring later."
+          },
+          {
+            "es": "Nosotros traeremos pronto.",
+            "en": "We will bring soon."
+          },
+          {
+            "es": "Ellos traerán la próxima semana.",
+            "en": "They will bring next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "traía",
+          "traías",
+          "traía",
+          "traíamos",
+          "traían"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo traía mucho.",
+            "en": "When I was a kid, I used to bring a lot."
+          },
+          {
+            "es": "Tú traías todos los días.",
+            "en": "You used to bring every day."
+          },
+          {
+            "es": "Ella traía de joven.",
+            "en": "She used to bring when she was young."
+          },
+          {
+            "es": "Nosotros traíamos juntos en aquellos años.",
+            "en": "We used to bring together in those years."
+          },
+          {
+            "es": "Ellos traían cada tarde.",
+            "en": "They used to bring every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "traiga",
+          "traigas",
+          "traiga",
+          "traigamos",
+          "traigan"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo traiga.",
+            "en": "They want me to bring."
+          },
+          {
+            "es": "Espero que tú traigas pronto.",
+            "en": "I hope you bring soon."
+          },
+          {
+            "es": "Es importante que ella traiga.",
+            "en": "It is important that she bring."
+          },
+          {
+            "es": "Dudo que nosotros traigamos hoy.",
+            "en": "I doubt that we bring today."
+          },
+          {
+            "es": "Ojalá que ellos traigan bien.",
+            "en": "I hope they bring well."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "infinitive": "oír",
+    "english": "to hear",
+    "type": "irregular",
+    "tenses": {
+      "present": {
+        "label": "Present",
+        "description": "Used for current actions, habits, and general truths.",
+        "forms": [
+          "oigo",
+          "oyes",
+          "oye",
+          "oímos",
+          "oyen"
+        ],
+        "sentences": [
+          {
+            "es": "Yo oigo todos los días.",
+            "en": "I hear every day."
+          },
+          {
+            "es": "Tú oyes con frecuencia.",
+            "en": "You hear often."
+          },
+          {
+            "es": "Ella oye en casa.",
+            "en": "She hear at home."
+          },
+          {
+            "es": "Nosotros oímos juntos.",
+            "en": "We hear together."
+          },
+          {
+            "es": "Ellos oyen mucho.",
+            "en": "They hear a lot."
+          }
+        ]
+      },
+      "preterite": {
+        "label": "Preterite (simple past)",
+        "description": "Used for completed actions in the past — events with a clear end.",
+        "forms": [
+          "oí",
+          "oíste",
+          "oyó",
+          "oímos",
+          "oyeron"
+        ],
+        "sentences": [
+          {
+            "es": "Yo oí ayer.",
+            "en": "I hear yesterday."
+          },
+          {
+            "es": "Tú oíste el sábado pasado.",
+            "en": "You hear last Saturday."
+          },
+          {
+            "es": "Ella oyó anoche.",
+            "en": "She hear last night."
+          },
+          {
+            "es": "Nosotros oímos la semana pasada.",
+            "en": "We hear last week."
+          },
+          {
+            "es": "Ellos oyeron hace dos días.",
+            "en": "They hear two days ago."
+          }
+        ]
+      },
+      "future": {
+        "label": "Future",
+        "description": "Used for actions that will happen.",
+        "forms": [
+          "oiré",
+          "oirás",
+          "oirá",
+          "oiremos",
+          "oirán"
+        ],
+        "sentences": [
+          {
+            "es": "Yo oiré mañana.",
+            "en": "I will hear tomorrow."
+          },
+          {
+            "es": "Tú oirás el próximo lunes.",
+            "en": "You will hear next Monday."
+          },
+          {
+            "es": "Ella oirá después.",
+            "en": "She will hear later."
+          },
+          {
+            "es": "Nosotros oiremos pronto.",
+            "en": "We will hear soon."
+          },
+          {
+            "es": "Ellos oirán la próxima semana.",
+            "en": "They will hear next week."
+          }
+        ]
+      },
+      "imperfect": {
+        "label": "Imperfect (habitual/ongoing past)",
+        "description": "Used for habitual or ongoing past actions — \"used to\" or \"was -ing\".",
+        "forms": [
+          "oía",
+          "oías",
+          "oía",
+          "oíamos",
+          "oían"
+        ],
+        "sentences": [
+          {
+            "es": "Cuando era niño, yo oía mucho.",
+            "en": "When I was a kid, I used to hear a lot."
+          },
+          {
+            "es": "Tú oías todos los días.",
+            "en": "You used to hear every day."
+          },
+          {
+            "es": "Ella oía de joven.",
+            "en": "She used to hear when she was young."
+          },
+          {
+            "es": "Nosotros oíamos juntos en aquellos años.",
+            "en": "We used to hear together in those years."
+          },
+          {
+            "es": "Ellos oían cada tarde.",
+            "en": "They used to hear every afternoon."
+          }
+        ]
+      },
+      "subjunctive_present": {
+        "label": "Present Subjunctive",
+        "description": "Used after expressions of desire, doubt, emotion, and uncertainty (after \"que\" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).",
+        "forms": [
+          "oiga",
+          "oigas",
+          "oiga",
+          "oigamos",
+          "oigan"
+        ],
+        "sentences": [
+          {
+            "es": "Quieren que yo oiga.",
+            "en": "They want me to hear."
+          },
+          {
+            "es": "Espero que tú oigas pronto.",
+            "en": "I hope you hear soon."
+          },
+          {
+            "es": "Es importante que ella oiga.",
+            "en": "It is important that she hear."
+          },
+          {
+            "es": "Dudo que nosotros oigamos hoy.",
+            "en": "I doubt that we hear today."
+          },
+          {
+            "es": "Ojalá que ellos oigan bien.",
+            "en": "I hope they hear well."
           }
         ]
       }
