@@ -42,6 +42,13 @@ const STORAGE_KEYS = {
 const CONJ_ELIGIBILITY_MIN_REPS   = 3;
 const CONJ_ELIGIBILITY_MIN_RATING = 3;   // Good or Easy
 
+// Advanced tenses (imperfect, subjunctive_present) auto-unlock once you've
+// mastered the basic three across this many verbs. Lower it if you want them
+// sooner; raise it if you want more consolidation first. The manual unlock
+// button on the home screen overrides this any time.
+const ADV_UNLOCK_VERB_THRESHOLD = 25;
+const BASIC_TENSES = ['present', 'preterite', 'future'];
+
 
 // ═══════════════════════════════════════════════════════════════════════════
 // 1. STORAGE
@@ -440,6 +447,35 @@ function unlockedTenseIdx(infinitive) {
   return state.conjUnlocks[infinitive];
 }
 
+/** Has the global "advanced tenses" gate been opened, either by hitting the
+    auto-unlock threshold of mastered-basic verbs OR by the user manually
+    flipping the switch in settings? */
+function advancedTensesUnlocked() {
+  if (state.settings && state.settings.advancedUnlocked) return true;
+  return countVerbsMasteredInBasic() >= ADV_UNLOCK_VERB_THRESHOLD;
+}
+
+/** Number of verbs where all 5 forms × 3 basic tenses (15 cards) are at
+    Good or better. Drives the auto-unlock and the progress indicator. */
+function countVerbsMasteredInBasic() {
+  let count = 0;
+  CONJUGATIONS.forEach(v => {
+    if (isVerbMasteredInBasic(v.infinitive)) count++;
+  });
+  return count;
+}
+function isVerbMasteredInBasic(infinitive) {
+  for (const tense of BASIC_TENSES) {
+    for (let i = 0; i < 5; i++) {
+      const st = state.conjProgress[`${infinitive}__${tense}__${i}`];
+      if (!st) return false;
+      if ((st.repetitions || 0) < 2) return false;
+      if ((st.last_rating || 0) < 3) return false;
+    }
+  }
+  return true;
+}
+
 /** A verb's current-max tense is "mastered" when all 5 forms have
     repetitions ≥ 2 and last rating ≥ Good. Returns boolean. */
 function tenseMastered(infinitive, tenseIdx) {
@@ -454,10 +490,14 @@ function tenseMastered(infinitive, tenseIdx) {
   return true;
 }
 
-/** Auto-advance a verb to the next tense if it's mastered the current one. */
+/** Auto-advance a verb to the next tense if it's mastered the current one.
+    Will not advance past the basic-3 cap unless the global advanced gate
+    has been opened (auto-unlocked at threshold, or manually unlocked). */
 function maybeUnlockNext(infinitive) {
   const cur = unlockedTenseIdx(infinitive);
   if (cur >= TENSE_ORDER.length - 1) return;
+  // Cap at last basic tense (idx 2) while the advanced gate is closed
+  if (cur >= BASIC_TENSES.length - 1 && !advancedTensesUnlocked()) return;
   if (tenseMastered(infinitive, cur)) {
     state.conjUnlocks[infinitive] = cur + 1;
     saveConjUnlocks(state.conjUnlocks);
@@ -470,12 +510,17 @@ function buildConjQueue() {
   const t = today();
   const queue = [];
 
+  const advancedOpen = advancedTensesUnlocked();
+
   CONJUGATIONS.forEach(verbEntry => {
     if (!vocabConfirmed(verbEntry.infinitive)) return;
     const maxTense = unlockedTenseIdx(verbEntry.infinitive);
 
     for (let ti = 0; ti <= maxTense; ti++) {
       const tense = TENSE_ORDER[ti];
+      // GLOBAL GATE: skip imperfect / subjunctive_present unless the advanced
+      // gate is open (auto-unlocked at threshold, or manually unlocked).
+      if (TENSES_ADVANCED && TENSES_ADVANCED.includes(tense) && !advancedOpen) continue;
       const tenseData = verbEntry.tenses[tense];
       if (!tenseData) continue;
 
@@ -817,6 +862,78 @@ function renderHome() {
     conjEmpty.hidden = false;
     conjEmpty.textContent = `💪 Conjugation drilling unlocks as you master verbs in vocabulary study.`;
   }
+
+  // Advanced-tenses unlock panel: shows progress toward auto-unlock, plus a
+  // manual override the user can flip whenever.
+  renderAdvancedTensesPanel();
+}
+
+
+/** Render the panel that shows whether tenses 4–5 (imperfect, subjunctive)
+    are unlocked, your progress toward the auto-unlock threshold, and the
+    manual override button. */
+function renderAdvancedTensesPanel() {
+  const panel = $('panel-advanced-tenses');
+  if (!panel) return;  // home screen not active
+
+  const mastered  = countVerbsMasteredInBasic();
+  const threshold = ADV_UNLOCK_VERB_THRESHOLD;
+  const auto      = mastered >= threshold;
+  const manual    = !!(state.settings && state.settings.advancedUnlocked);
+  const open      = auto || manual;
+
+  // Only show this panel once any vocabulary verb has reached eligibility —
+  // otherwise it's premature noise.
+  if (countConjReady() === 0 && !CONJUGATIONS.some(v => vocabConfirmed(v.infinitive))) {
+    panel.hidden = true;
+    return;
+  }
+  panel.hidden = false;
+
+  $('adv-tenses-progress-bar').style.width =
+    Math.min(100, 100 * mastered / threshold) + '%';
+  $('adv-tenses-progress-label').textContent =
+    `${mastered} / ${threshold} verbs mastered in present, preterite, future`;
+
+  const status     = $('adv-tenses-status');
+  const unlockBtn  = $('btn-unlock-adv');
+  const lockBtn    = $('btn-relock-adv');
+  if (open) {
+    status.textContent = manual
+      ? '🔓 Advanced tenses (Imperfect + Subjunctive) unlocked — manually'
+      : '🔓 Advanced tenses (Imperfect + Subjunctive) unlocked — threshold reached';
+    status.className = 'adv-tenses-status open';
+    unlockBtn.hidden = true;
+    lockBtn.hidden   = !manual;   // only allow re-lock if it was a manual unlock
+  } else {
+    status.textContent = '🔒 Imperfect + Subjunctive locked until you master ' +
+                         `${threshold} verbs in the basic three tenses (or unlock manually).`;
+    status.className = 'adv-tenses-status locked';
+    unlockBtn.hidden = false;
+    lockBtn.hidden   = true;
+  }
+}
+
+
+/** Manually unlock the advanced tenses regardless of threshold. */
+function manualUnlockAdvanced() {
+  if (!confirm(
+      'Unlock Imperfect and Present Subjunctive now?\n\n' +
+      'Recommended only after you can reliably conjugate Present, Preterite, ' +
+      'and Future in at least 20 verbs. Unlocking too early can slow your ' +
+      'long-term progress.\n\nProceed?'
+  )) return;
+  state.settings.advancedUnlocked = true;
+  saveSettings(state.settings);
+  renderHome();
+}
+
+/** Reverse a manual unlock (auto-unlock cannot be reverted — earned it!). */
+function relockAdvanced() {
+  if (!confirm('Re-lock the advanced tenses? Your existing drill progress on them is kept.')) return;
+  delete state.settings.advancedUnlocked;
+  saveSettings(state.settings);
+  renderHome();
 }
 
 
@@ -1435,6 +1552,8 @@ function bind() {
     renderVocab(''); $('search-input').value = ''; showScreen('browse');
   });
   $('btn-conj'   ).addEventListener('click', startConjSession);
+  $('btn-unlock-adv').addEventListener('click', manualUnlockAdvanced);
+  $('btn-relock-adv').addEventListener('click', relockAdvanced);
   $('btn-voice'  ).addEventListener('click', openVoiceSettings);
   $('btn-export' ).addEventListener('click', exportProgress);
   $('btn-import' ).addEventListener('click', () => $('file-import').click());

@@ -13,35 +13,101 @@ PERSONS = ['yo', 'tú', 'él/ella/usted', 'nosotros', 'ellos/ustedes']
 PERSON_SUBJECTS = ['Yo', 'Tú', 'Ella', 'Nosotros', 'Ellos']
 PERSON_EN       = ['I',  'You','She','We',         'They']
 
-TENSES = ['present', 'preterite', 'future']
+TENSES = ['present', 'preterite', 'future', 'imperfect', 'subjunctive_present']
+# First three are the starting set. The advanced two stay locked until the user
+# either reaches competence or manually unlocks them in settings.
+TENSES_DEFAULT_UNLOCKED = ['present', 'preterite', 'future']
+TENSES_ADVANCED         = ['imperfect', 'subjunctive_present']
+
 TENSE_LABEL = {
-    'present':   'Present',
-    'preterite': 'Preterite (simple past)',
-    'future':    'Future',
+    'present':              'Present',
+    'preterite':            'Preterite (simple past)',
+    'future':               'Future',
+    'imperfect':            'Imperfect (habitual/ongoing past)',
+    'subjunctive_present':  'Present Subjunctive',
 }
 TENSE_DESCRIPTION = {
     'present':   'Used for current actions, habits, and general truths.',
     'preterite': 'Used for completed actions in the past — events with a clear end.',
     'future':    'Used for actions that will happen.',
+    'imperfect': 'Used for habitual or ongoing past actions — "used to" or "was -ing".',
+    'subjunctive_present':
+        'Used after expressions of desire, doubt, emotion, and uncertainty '
+        '(after "que" + a triggering phrase like Quiero que…, Espero que…, Es importante que…).',
 }
 
 # Regular endings — appended to the verb stem (verb minus -ar/-er/-ir)
 REGULAR_ENDINGS = {
     'ar': {
-        'present':   ['o',    'as',    'a',    'amos',   'an'],
-        'preterite': ['é',    'aste',  'ó',    'amos',   'aron'],
-        'future':    ['aré',  'arás',  'ará',  'aremos', 'arán'],
+        'present':             ['o',    'as',    'a',    'amos',   'an'],
+        'preterite':           ['é',    'aste',  'ó',    'amos',   'aron'],
+        'future':              ['aré',  'arás',  'ará',  'aremos', 'arán'],
+        'imperfect':           ['aba',  'abas',  'aba',  'ábamos', 'aban'],
+        'subjunctive_present': ['e',    'es',    'e',    'emos',   'en'],
     },
     'er': {
-        'present':   ['o',    'es',    'e',    'emos',   'en'],
-        'preterite': ['í',    'iste',  'ió',   'imos',   'ieron'],
-        'future':    ['eré',  'erás',  'erá',  'eremos', 'erán'],
+        'present':             ['o',    'es',    'e',    'emos',   'en'],
+        'preterite':           ['í',    'iste',  'ió',   'imos',   'ieron'],
+        'future':              ['eré',  'erás',  'erá',  'eremos', 'erán'],
+        'imperfect':           ['ía',   'ías',   'ía',   'íamos',  'ían'],
+        'subjunctive_present': ['a',    'as',    'a',    'amos',   'an'],
     },
     'ir': {
-        'present':   ['o',    'es',    'e',    'imos',   'en'],
-        'preterite': ['í',    'iste',  'ió',   'imos',   'ieron'],
-        'future':    ['iré',  'irás',  'irá',  'iremos', 'irán'],
+        'present':             ['o',    'es',    'e',    'imos',   'en'],
+        'preterite':           ['í',    'iste',  'ió',   'imos',   'ieron'],
+        'future':              ['iré',  'irás',  'irá',  'iremos', 'irán'],
+        'imperfect':           ['ía',   'ías',   'ía',   'íamos',  'ían'],
+        'subjunctive_present': ['a',    'as',    'a',    'amos',   'an'],
     },
+}
+
+# Verbs whose imperfect is irregular (the only 3 in Spanish):
+#   ser → era / eras / era / éramos / eran
+#   ir  → iba / ibas / iba / íbamos / iban
+#   ver → veía / veías / veía / veíamos / veían
+IRREGULAR_IMPERFECT = {
+    'ser': ['era',  'eras',  'era',  'éramos', 'eran'],
+    'ir':  ['iba',  'ibas',  'iba',  'íbamos', 'iban'],
+    'ver': ['veía', 'veías', 'veía', 'veíamos','veían'],
+}
+
+# Present subjunctive irregulars. The general rule is "drop -o from yo-present,
+# add subjunctive endings" — but several common verbs use entirely different stems.
+IRREGULAR_SUBJ_PRESENT = {
+    'ser':    ['sea',    'seas',    'sea',    'seamos',    'sean'],
+    'estar':  ['esté',   'estés',   'esté',   'estemos',   'estén'],
+    'ir':     ['vaya',   'vayas',   'vaya',   'vayamos',   'vayan'],
+    'haber':  ['haya',   'hayas',   'haya',   'hayamos',   'hayan'],
+    'saber':  ['sepa',   'sepas',   'sepa',   'sepamos',   'sepan'],
+    'dar':    ['dé',     'des',     'dé',     'demos',     'den'],
+    'ver':    ['vea',    'veas',    'vea',    'veamos',    'vean'],
+    'tener':  ['tenga',  'tengas',  'tenga',  'tengamos',  'tengan'],
+    'hacer':  ['haga',   'hagas',   'haga',   'hagamos',   'hagan'],
+    'decir':  ['diga',   'digas',   'diga',   'digamos',   'digan'],
+    'poder':  ['pueda',  'puedas',  'pueda',  'podamos',   'puedan'],
+    'querer': ['quiera', 'quieras', 'quiera', 'queramos',  'quieran'],
+    'venir':  ['venga',  'vengas',  'venga',  'vengamos',  'vengan'],
+    'poner':  ['ponga',  'pongas',  'ponga',  'pongamos',  'pongan'],
+    'salir':  ['salga',  'salgas',  'salga',  'salgamos',  'salgan'],
+    'traer':  ['traiga', 'traigas', 'traiga', 'traigamos', 'traigan'],
+    'caer':   ['caiga',  'caigas',  'caiga',  'caigamos',  'caigan'],
+    'oír':    ['oiga',   'oigas',   'oiga',   'oigamos',   'oigan'],
+    'conocer':['conozca','conozcas','conozca','conozcamos','conozcan'],
+    'parecer':['parezca','parezcas','parezca','parezcamos','parezcan'],
+    'pedir':  ['pida',   'pidas',   'pida',   'pidamos',   'pidan'],
+    'dormir': ['duerma', 'duermas', 'duerma', 'durmamos',  'duerman'],
+    'sentir': ['sienta', 'sientas', 'sienta', 'sintamos',  'sientan'],
+    'pensar': ['piense', 'pienses', 'piense', 'pensemos',  'piensen'],
+    'volver': ['vuelva', 'vuelvas', 'vuelva', 'volvamos',  'vuelvan'],
+    'jugar':  ['juegue', 'juegues', 'juegue', 'juguemos',  'jueguen'],
+    'pagar':  ['pague',  'pagues',  'pague',  'paguemos',  'paguen'],
+    'buscar': ['busque', 'busques', 'busque', 'busquemos', 'busquen'],
+    'tocar':  ['toque',  'toques',  'toque',  'toquemos',  'toquen'],
+    'llegar': ['llegue', 'llegues', 'llegue', 'lleguemos', 'lleguen'],
+    'empezar':['empiece','empieces','empiece','empecemos', 'empiecen'],
+    'sacar':  ['saque',  'saques',  'saque',  'saquemos',  'saquen'],
+    'pescar': ['pesque', 'pesques', 'pesque', 'pesquemos', 'pesquen'],
+    'cruzar': ['cruce',  'cruces',  'cruce',  'crucemos',  'crucen'],
 }
 
 # Each verb entry:
@@ -779,6 +845,514 @@ VERBS = {
                           ('Ella verá a su novio mañana.',         'She will see her boyfriend tomorrow.'),
                           ('Nosotros veremos qué pasa.',           'We will see what happens.'),
                           ('Ellos verán la verdad.',               'They will see the truth.')],
+        }
+    },
+
+# ═══════════════════════════════════════════════════════════════════
+# Phase 3b additions — 19 more high-frequency verbs (50 total)
+# Imperfect & subjunctive_present sentences are auto-generated.
+# ═══════════════════════════════════════════════════════════════════
+
+    'decir': {
+        'type': 'irregular',
+        'english': 'to say / to tell',
+        'forms': {
+            'present':   ['digo',   'dices',   'dice',   'decimos', 'dicen'],
+            'preterite': ['dije',   'dijiste', 'dijo',   'dijimos', 'dijeron'],
+            'future':    ['diré',   'dirás',   'dirá',   'diremos', 'dirán'],
+        },
+        'sentences': {
+            'present':   [('Yo digo la verdad siempre.',           'I always tell the truth.'),
+                          ('Tú dices muchas cosas interesantes.',  'You say many interesting things.'),
+                          ('Ella dice que viene a las ocho.',      'She says she\'s coming at eight.'),
+                          ('Nosotros decimos lo que pensamos.',    'We say what we think.'),
+                          ('Ellos dicen que el examen es fácil.',  'They say the exam is easy.')],
+            'preterite': [('Yo dije adiós a mis amigos.',          'I said goodbye to my friends.'),
+                          ('Tú dijiste algo importante.',          'You said something important.'),
+                          ('Ella dijo la respuesta correcta.',     'She said the correct answer.'),
+                          ('Nosotros dijimos la verdad al juez.',  'We told the truth to the judge.'),
+                          ('Ellos dijeron muchas mentiras.',       'They told many lies.')],
+            'future':    [('Yo diré lo que pienso.',               'I will say what I think.'),
+                          ('Tú dirás la respuesta correcta.',      'You will say the right answer.'),
+                          ('Ella dirá su opinión.',                'She will give her opinion.'),
+                          ('Nosotros diremos sí o no.',            'We will say yes or no.'),
+                          ('Ellos dirán algo importante.',         'They will say something important.')],
+        }
+    },
+
+    'dar': {
+        'type': 'irregular',
+        'english': 'to give',
+        'forms': {
+            'present':   ['doy',    'das',     'da',     'damos',  'dan'],
+            'preterite': ['di',     'diste',   'dio',    'dimos',  'dieron'],
+            'future':    ['daré',   'darás',   'dará',   'daremos','darán'],
+        },
+        'sentences': {
+            'present':   [('Yo doy regalos en Navidad.',           'I give gifts at Christmas.'),
+                          ('Tú das buenos consejos.',              'You give good advice.'),
+                          ('Ella da clases de piano.',             'She gives piano lessons.'),
+                          ('Nosotros damos dinero a la caridad.',  'We give money to charity.'),
+                          ('Ellos dan flores a su madre.',         'They give flowers to their mother.')],
+            'preterite': [('Yo di mi opinión en la reunión.',      'I gave my opinion at the meeting.'),
+                          ('Tú diste un buen discurso.',           'You gave a good speech.'),
+                          ('Ella dio una vuelta por el parque.',   'She took a walk in the park.'),
+                          ('Nosotros dimos las gracias al chef.',  'We thanked the chef.'),
+                          ('Ellos dieron muchos regalos.',         'They gave many gifts.')],
+            'future':    [('Yo daré una fiesta el sábado.',        'I will throw a party on Saturday.'),
+                          ('Tú darás el examen mañana.',           'You will take the exam tomorrow.'),
+                          ('Ella dará una clase nueva.',           'She will give a new class.'),
+                          ('Nosotros daremos lo mejor.',           'We will give our best.'),
+                          ('Ellos darán las llaves al portero.',   'They will give the keys to the doorman.')],
+        }
+    },
+
+    'saber': {
+        'type': 'irregular',
+        'english': 'to know (a fact)',
+        'forms': {
+            'present':   ['sé',     'sabes',   'sabe',   'sabemos','saben'],
+            'preterite': ['supe',   'supiste', 'supo',   'supimos','supieron'],
+            'future':    ['sabré',  'sabrás',  'sabrá',  'sabremos','sabrán'],
+        },
+        'sentences': {
+            'present':   [('Yo sé hablar tres idiomas.',           'I know how to speak three languages.'),
+                          ('Tú sabes la respuesta.',               'You know the answer.'),
+                          ('Ella sabe cocinar muy bien.',          'She knows how to cook very well.'),
+                          ('Nosotros sabemos el camino.',          'We know the way.'),
+                          ('Ellos saben mucho de historia.',       'They know a lot about history.')],
+            'preterite': [('Yo supe la noticia ayer.',             'I learned the news yesterday.'),
+                          ('Tú supiste qué hacer.',                'You knew what to do.'),
+                          ('Ella supo la verdad anoche.',          'She found out the truth last night.'),
+                          ('Nosotros supimos el resultado.',       'We found out the result.'),
+                          ('Ellos supieron del accidente.',        'They learned about the accident.')],
+            'future':    [('Yo sabré la verdad pronto.',           'I will know the truth soon.'),
+                          ('Tú sabrás cómo resolverlo.',           'You will know how to solve it.'),
+                          ('Ella sabrá qué decir.',                'She will know what to say.'),
+                          ('Nosotros sabremos los resultados.',    'We will know the results.'),
+                          ('Ellos sabrán la decisión final.',      'They will know the final decision.')],
+        }
+    },
+
+    'conocer': {
+        'type': 'irregular',
+        'english': 'to know (a person/place)',
+        'forms': {
+            'present':   ['conozco', 'conoces', 'conoce', 'conocemos','conocen'],
+            'preterite': ['conocí',  'conociste','conoció','conocimos','conocieron'],
+            'future':    ['conoceré','conocerás','conocerá','conoceremos','conocerán'],
+        },
+        'sentences': {
+            'present':   [('Yo conozco a tu hermana.',             'I know your sister.'),
+                          ('Tú conoces la ciudad muy bien.',       'You know the city very well.'),
+                          ('Ella conoce a muchas personas.',       'She knows many people.'),
+                          ('Nosotros conocemos un buen restaurante.','We know a good restaurant.'),
+                          ('Ellos conocen ese país.',              'They know that country.')],
+            'preterite': [('Yo conocí a mi esposa en la universidad.','I met my wife at university.'),
+                          ('Tú conociste a mi familia ayer.',      'You met my family yesterday.'),
+                          ('Ella conoció Madrid el año pasado.',   'She visited Madrid last year.'),
+                          ('Nosotros conocimos al nuevo profesor.','We met the new teacher.'),
+                          ('Ellos conocieron París en verano.',    'They visited Paris in summer.')],
+            'future':    [('Yo conoceré a tu novio mañana.',       'I will meet your boyfriend tomorrow.'),
+                          ('Tú conocerás un mundo nuevo.',         'You will know a new world.'),
+                          ('Ella conocerá al jefe en la reunión.', 'She will meet the boss at the meeting.'),
+                          ('Nosotros conoceremos la verdad.',      'We will learn the truth.'),
+                          ('Ellos conocerán Barcelona pronto.',    'They will visit Barcelona soon.')],
+        }
+    },
+
+    'venir': {
+        'type': 'irregular',
+        'english': 'to come',
+        'forms': {
+            'present':   ['vengo',  'vienes',  'viene',  'venimos','vienen'],
+            'preterite': ['vine',   'viniste', 'vino',   'vinimos','vinieron'],
+            'future':    ['vendré', 'vendrás', 'vendrá', 'vendremos','vendrán'],
+        },
+        'sentences': {
+            'present':   [('Yo vengo de Estados Unidos.',          'I come from the United States.'),
+                          ('Tú vienes a casa después del trabajo.','You come home after work.'),
+                          ('Ella viene a vernos cada semana.',     'She comes to see us every week.'),
+                          ('Nosotros venimos en autobús.',         'We come by bus.'),
+                          ('Ellos vienen de una familia grande.',  'They come from a big family.')],
+            'preterite': [('Yo vine en avión desde Nueva York.',   'I came by plane from New York.'),
+                          ('Tú viniste a la fiesta anoche.',       'You came to the party last night.'),
+                          ('Ella vino sin avisar.',                'She came without warning.'),
+                          ('Nosotros vinimos juntos.',             'We came together.'),
+                          ('Ellos vinieron tarde a la reunión.',   'They came late to the meeting.')],
+            'future':    [('Yo vendré temprano mañana.',           'I will come early tomorrow.'),
+                          ('Tú vendrás con nosotros al cine.',     'You will come with us to the movies.'),
+                          ('Ella vendrá a la boda.',               'She will come to the wedding.'),
+                          ('Nosotros vendremos en tren.',          'We will come by train.'),
+                          ('Ellos vendrán al concierto.',          'They will come to the concert.')],
+        }
+    },
+
+    'dormir': {
+        'type': 'stem-o-ue',
+        'english': 'to sleep',
+        'forms': {
+            'present':   ['duermo', 'duermes', 'duerme', 'dormimos','duermen'],
+            'preterite': ['dormí',  'dormiste','durmió', 'dormimos','durmieron'],
+            'future':    ['dormiré','dormirás','dormirá','dormiremos','dormirán'],
+        },
+        'sentences': {
+            'present':   [('Yo duermo ocho horas cada noche.',     'I sleep eight hours every night.'),
+                          ('Tú duermes muy poco.',                 'You sleep very little.'),
+                          ('Ella duerme con su gato.',             'She sleeps with her cat.'),
+                          ('Nosotros dormimos en el hotel.',       'We sleep at the hotel.'),
+                          ('Ellos duermen toda la mañana.',        'They sleep all morning.')],
+            'preterite': [('Yo dormí muy bien anoche.',            'I slept very well last night.'),
+                          ('Tú dormiste hasta las diez.',          'You slept until ten.'),
+                          ('Ella durmió en el sofá.',              'She slept on the couch.'),
+                          ('Nosotros dormimos en la playa.',       'We slept on the beach.'),
+                          ('Ellos durmieron poco.',                'They slept little.')],
+            'future':    [('Yo dormiré temprano hoy.',             'I will sleep early today.'),
+                          ('Tú dormirás mejor con esta almohada.', 'You will sleep better with this pillow.'),
+                          ('Ella dormirá en el cuarto de invitados.','She will sleep in the guest room.'),
+                          ('Nosotros dormiremos en la tienda.',    'We will sleep in the tent.'),
+                          ('Ellos dormirán todo el día.',          'They will sleep all day.')],
+        }
+    },
+
+    'jugar': {
+        'type': 'stem-u-ue',
+        'english': 'to play',
+        'forms': {
+            'present':   ['juego',  'juegas',  'juega',  'jugamos','juegan'],
+            'preterite': ['jugué',  'jugaste', 'jugó',   'jugamos','jugaron'],
+            'future':    ['jugaré', 'jugarás', 'jugará', 'jugaremos','jugarán'],
+        },
+        'sentences': {
+            'present':   [('Yo juego al fútbol los sábados.',      'I play soccer on Saturdays.'),
+                          ('Tú juegas muy bien al tenis.',         'You play tennis very well.'),
+                          ('Ella juega con sus muñecas.',          'She plays with her dolls.'),
+                          ('Nosotros jugamos a las cartas.',       'We play cards.'),
+                          ('Ellos juegan en el parque.',           'They play in the park.')],
+            'preterite': [('Yo jugué al ajedrez con mi abuelo.',   'I played chess with my grandfather.'),
+                          ('Tú jugaste un partido fantástico.',    'You played a fantastic game.'),
+                          ('Ella jugó en el equipo nacional.',     'She played on the national team.'),
+                          ('Nosotros jugamos toda la tarde.',      'We played all afternoon.'),
+                          ('Ellos jugaron mejor que nunca.',       'They played better than ever.')],
+            'future':    [('Yo jugaré al baloncesto mañana.',      'I will play basketball tomorrow.'),
+                          ('Tú jugarás en el torneo.',             'You will play in the tournament.'),
+                          ('Ella jugará el papel principal.',      'She will play the main role.'),
+                          ('Nosotros jugaremos juntos.',           'We will play together.'),
+                          ('Ellos jugarán contra el campeón.',     'They will play against the champion.')],
+        }
+    },
+
+    'pensar': {
+        'type': 'stem-e-ie',
+        'english': 'to think',
+        'forms': {
+            'present':   ['pienso', 'piensas', 'piensa', 'pensamos','piensan'],
+            'preterite': ['pensé',  'pensaste','pensó',  'pensamos','pensaron'],
+            'future':    ['pensaré','pensarás','pensará','pensaremos','pensarán'],
+        },
+        'sentences': {
+            'present':   [('Yo pienso mucho en el futuro.',        'I think a lot about the future.'),
+                          ('Tú piensas demasiado.',                'You think too much.'),
+                          ('Ella piensa en su familia.',           'She thinks about her family.'),
+                          ('Nosotros pensamos lo mismo.',          'We think the same thing.'),
+                          ('Ellos piensan que es injusto.',        'They think it\'s unfair.')],
+            'preterite': [('Yo pensé en ti todo el día.',          'I thought about you all day.'),
+                          ('Tú pensaste rápido.',                  'You thought quickly.'),
+                          ('Ella pensó en la solución.',           'She thought of the solution.'),
+                          ('Nosotros pensamos mucho antes de decidir.','We thought a lot before deciding.'),
+                          ('Ellos pensaron que era una broma.',    'They thought it was a joke.')],
+            'future':    [('Yo pensaré en tu propuesta.',          'I will think about your proposal.'),
+                          ('Tú pensarás mejor mañana.',            'You will think better tomorrow.'),
+                          ('Ella pensará en la respuesta.',        'She will think about the answer.'),
+                          ('Nosotros pensaremos en el plan.',      'We will think about the plan.'),
+                          ('Ellos pensarán antes de actuar.',      'They will think before acting.')],
+        }
+    },
+
+    'creer': {
+        'type': 'irregular',
+        'english': 'to believe / to think',
+        'forms': {
+            'present':   ['creo',   'crees',   'cree',   'creemos','creen'],
+            'preterite': ['creí',   'creíste', 'creyó',  'creímos','creyeron'],
+            'future':    ['creeré', 'creerás', 'creerá', 'creeremos','creerán'],
+        },
+        'sentences': {
+            'present':   [('Yo creo en la magia.',                 'I believe in magic.'),
+                          ('Tú crees todo lo que ves.',            'You believe everything you see.'),
+                          ('Ella cree en sus sueños.',             'She believes in her dreams.'),
+                          ('Nosotros creemos en el amor.',         'We believe in love.'),
+                          ('Ellos creen en Dios.',                 'They believe in God.')],
+            'preterite': [('Yo creí su historia.',                 'I believed her story.'),
+                          ('Tú creíste demasiado pronto.',         'You believed too soon.'),
+                          ('Ella creyó en mí desde el principio.', 'She believed in me from the start.'),
+                          ('Nosotros creímos la mentira.',         'We believed the lie.'),
+                          ('Ellos creyeron en el milagro.',        'They believed in the miracle.')],
+            'future':    [('Yo creeré cuando lo vea.',             'I will believe when I see it.'),
+                          ('Tú creerás en ti mismo algún día.',    'You will believe in yourself someday.'),
+                          ('Ella creerá la verdad.',               'She will believe the truth.'),
+                          ('Nosotros creeremos en el plan.',       'We will believe in the plan.'),
+                          ('Ellos creerán en la causa.',           'They will believe in the cause.')],
+        }
+    },
+
+    'entender': {
+        'type': 'stem-e-ie',
+        'english': 'to understand',
+        'forms': {
+            'present':   ['entiendo','entiendes','entiende','entendemos','entienden'],
+            'preterite': ['entendí','entendiste','entendió','entendimos','entendieron'],
+            'future':    ['entenderé','entenderás','entenderá','entenderemos','entenderán'],
+        },
+        'sentences': {
+            'present':   [('Yo entiendo español perfectamente.',   'I understand Spanish perfectly.'),
+                          ('Tú entiendes la situación.',           'You understand the situation.'),
+                          ('Ella entiende cómo funciona.',         'She understands how it works.'),
+                          ('Nosotros entendemos el problema.',     'We understand the problem.'),
+                          ('Ellos entienden la lección.',          'They understand the lesson.')],
+            'preterite': [('Yo entendí la pregunta.',              'I understood the question.'),
+                          ('Tú entendiste rápido.',                'You understood quickly.'),
+                          ('Ella entendió la indirecta.',          'She caught the hint.'),
+                          ('Nosotros entendimos su preocupación.', 'We understood her concern.'),
+                          ('Ellos entendieron al final.',          'They understood in the end.')],
+            'future':    [('Yo entenderé con el tiempo.',          'I will understand with time.'),
+                          ('Tú entenderás cuando seas mayor.',     'You will understand when you\'re older.'),
+                          ('Ella entenderá tu punto.',             'She will understand your point.'),
+                          ('Nosotros entenderemos algún día.',     'We will understand someday.'),
+                          ('Ellos entenderán el motivo.',          'They will understand the reason.')],
+        }
+    },
+
+    'llegar': {
+        'type': 'irregular',
+        'english': 'to arrive',
+        'forms': {
+            'present':   ['llego',  'llegas',  'llega',  'llegamos','llegan'],
+            'preterite': ['llegué', 'llegaste','llegó',  'llegamos','llegaron'],
+            'future':    ['llegaré','llegarás','llegará','llegaremos','llegarán'],
+        },
+        'sentences': {
+            'present':   [('Yo llego al trabajo a las nueve.',     'I arrive at work at nine.'),
+                          ('Tú llegas siempre tarde.',             'You always arrive late.'),
+                          ('Ella llega en tren.',                  'She arrives by train.'),
+                          ('Nosotros llegamos a tiempo.',          'We arrive on time.'),
+                          ('Ellos llegan del aeropuerto.',         'They arrive from the airport.')],
+            'preterite': [('Yo llegué muy temprano hoy.',          'I arrived very early today.'),
+                          ('Tú llegaste justo a tiempo.',          'You arrived just in time.'),
+                          ('Ella llegó con un regalo.',            'She arrived with a gift.'),
+                          ('Nosotros llegamos sin problemas.',     'We arrived without problems.'),
+                          ('Ellos llegaron al hotel anoche.',      'They arrived at the hotel last night.')],
+            'future':    [('Yo llegaré antes del mediodía.',       'I will arrive before noon.'),
+                          ('Tú llegarás cansado del viaje.',       'You will arrive tired from the trip.'),
+                          ('Ella llegará el viernes.',             'She will arrive on Friday.'),
+                          ('Nosotros llegaremos en una hora.',     'We will arrive in an hour.'),
+                          ('Ellos llegarán por la tarde.',         'They will arrive in the afternoon.')],
+        }
+    },
+
+    'salir': {
+        'type': 'irregular',
+        'english': 'to leave / to go out',
+        'forms': {
+            'present':   ['salgo',  'sales',   'sale',   'salimos','salen'],
+            'preterite': ['salí',   'saliste', 'salió',  'salimos','salieron'],
+            'future':    ['saldré', 'saldrás', 'saldrá', 'saldremos','saldrán'],
+        },
+        'sentences': {
+            'present':   [('Yo salgo de casa a las ocho.',         'I leave home at eight.'),
+                          ('Tú sales con tus amigos los viernes.', 'You go out with your friends on Fridays.'),
+                          ('Ella sale del trabajo a las cinco.',   'She leaves work at five.'),
+                          ('Nosotros salimos a cenar fuera.',      'We go out to dinner.'),
+                          ('Ellos salen del cine muy tarde.',      'They leave the cinema very late.')],
+            'preterite': [('Yo salí temprano ayer.',               'I left early yesterday.'),
+                          ('Tú saliste sin chaqueta.',             'You went out without a jacket.'),
+                          ('Ella salió a las seis.',               'She left at six.'),
+                          ('Nosotros salimos del bar.',            'We left the bar.'),
+                          ('Ellos salieron sin decir nada.',       'They left without saying anything.')],
+            'future':    [('Yo saldré pronto.',                    'I will leave soon.'),
+                          ('Tú saldrás bien en el examen.',        'You will do well on the exam.'),
+                          ('Ella saldrá de la oficina a las seis.','She will leave the office at six.'),
+                          ('Nosotros saldremos juntos.',           'We will go out together.'),
+                          ('Ellos saldrán de viaje mañana.',       'They will leave on a trip tomorrow.')],
+        }
+    },
+
+    'esperar': {
+        'type': 'regular',
+        'english': 'to wait / to hope',
+        'sentences': {
+            'present':   [('Yo espero el autobús.',                'I wait for the bus.'),
+                          ('Tú esperas demasiado.',                'You wait too much.'),
+                          ('Ella espera buenas noticias.',         'She hopes for good news.'),
+                          ('Nosotros esperamos al doctor.',        'We wait for the doctor.'),
+                          ('Ellos esperan el tren.',               'They wait for the train.')],
+            'preterite': [('Yo esperé una hora.',                  'I waited an hour.'),
+                          ('Tú esperaste pacientemente.',          'You waited patiently.'),
+                          ('Ella esperó toda la tarde.',           'She waited all afternoon.'),
+                          ('Nosotros esperamos en la cola.',       'We waited in line.'),
+                          ('Ellos esperaron el resultado.',        'They waited for the result.')],
+            'future':    [('Yo esperaré tu llamada.',              'I will wait for your call.'),
+                          ('Tú esperarás tu turno.',               'You will wait your turn.'),
+                          ('Ella esperará a su esposo.',           'She will wait for her husband.'),
+                          ('Nosotros esperaremos noticias.',       'We will wait for news.'),
+                          ('Ellos esperarán hasta mañana.',        'They will wait until tomorrow.')],
+        }
+    },
+
+    'pagar': {
+        'type': 'irregular',
+        'english': 'to pay',
+        'forms': {
+            'present':   ['pago',   'pagas',   'paga',   'pagamos','pagan'],
+            'preterite': ['pagué',  'pagaste', 'pagó',   'pagamos','pagaron'],
+            'future':    ['pagaré', 'pagarás', 'pagará', 'pagaremos','pagarán'],
+        },
+        'sentences': {
+            'present':   [('Yo pago la cuenta hoy.',               'I pay the bill today.'),
+                          ('Tú pagas mucho de alquiler.',          'You pay a lot of rent.'),
+                          ('Ella paga con tarjeta.',               'She pays with a card.'),
+                          ('Nosotros pagamos en efectivo.',        'We pay in cash.'),
+                          ('Ellos pagan los impuestos.',           'They pay the taxes.')],
+            'preterite': [('Yo pagué la cena.',                    'I paid for dinner.'),
+                          ('Tú pagaste poco por eso.',             'You paid little for that.'),
+                          ('Ella pagó el doble.',                  'She paid double.'),
+                          ('Nosotros pagamos al camarero.',        'We paid the waiter.'),
+                          ('Ellos pagaron las entradas.',          'They paid for the tickets.')],
+            'future':    [('Yo pagaré mañana.',                    'I will pay tomorrow.'),
+                          ('Tú pagarás el viaje.',                 'You will pay for the trip.'),
+                          ('Ella pagará en plazos.',               'She will pay in installments.'),
+                          ('Nosotros pagaremos la deuda.',         'We will pay the debt.'),
+                          ('Ellos pagarán el daño.',               'They will pay for the damage.')],
+        }
+    },
+
+    'llevar': {
+        'type': 'regular',
+        'english': 'to carry / to wear',
+        'sentences': {
+            'present':   [('Yo llevo mi mochila a clase.',         'I carry my backpack to class.'),
+                          ('Tú llevas una camisa blanca.',         'You are wearing a white shirt.'),
+                          ('Ella lleva el bebé en brazos.',        'She carries the baby in her arms.'),
+                          ('Nosotros llevamos comida al picnic.',  'We bring food to the picnic.'),
+                          ('Ellos llevan regalos a la fiesta.',    'They bring gifts to the party.')],
+            'preterite': [('Yo llevé la maleta al hotel.',         'I took the suitcase to the hotel.'),
+                          ('Tú llevaste a los niños al parque.',   'You took the kids to the park.'),
+                          ('Ella llevó flores al hospital.',       'She brought flowers to the hospital.'),
+                          ('Nosotros llevamos vino a la cena.',    'We brought wine to dinner.'),
+                          ('Ellos llevaron la torta a la fiesta.', 'They brought the cake to the party.')],
+            'future':    [('Yo llevaré paraguas por si llueve.',   'I will bring an umbrella in case it rains.'),
+                          ('Tú llevarás el almuerzo al trabajo.',  'You will bring lunch to work.'),
+                          ('Ella llevará un vestido nuevo.',       'She will wear a new dress.'),
+                          ('Nosotros llevaremos el coche.',        'We will take the car.'),
+                          ('Ellos llevarán a sus hijos al cine.',  'They will take their kids to the movies.')],
+        }
+    },
+
+    'encontrar': {
+        'type': 'stem-o-ue',
+        'english': 'to find',
+        'forms': {
+            'present':   ['encuentro','encuentras','encuentra','encontramos','encuentran'],
+            'preterite': ['encontré','encontraste','encontró','encontramos','encontraron'],
+            'future':    ['encontraré','encontrarás','encontrará','encontraremos','encontrarán'],
+        },
+        'sentences': {
+            'present':   [('Yo encuentro mis llaves siempre.',     'I always find my keys.'),
+                          ('Tú encuentras buenas ofertas.',        'You find good deals.'),
+                          ('Ella encuentra paz en la naturaleza.', 'She finds peace in nature.'),
+                          ('Nosotros encontramos una solución.',   'We find a solution.'),
+                          ('Ellos encuentran trabajos rápidamente.','They find jobs quickly.')],
+            'preterite': [('Yo encontré dinero en la calle.',      'I found money on the street.'),
+                          ('Tú encontraste el libro perdido.',     'You found the lost book.'),
+                          ('Ella encontró su anillo.',             'She found her ring.'),
+                          ('Nosotros encontramos un buen hotel.',  'We found a good hotel.'),
+                          ('Ellos encontraron el camino correcto.','They found the right path.')],
+            'future':    [('Yo encontraré la respuesta.',          'I will find the answer.'),
+                          ('Tú encontrarás el amor.',              'You will find love.'),
+                          ('Ella encontrará un nuevo apartamento.','She will find a new apartment.'),
+                          ('Nosotros encontraremos la verdad.',    'We will find the truth.'),
+                          ('Ellos encontrarán una manera.',        'They will find a way.')],
+        }
+    },
+
+    'volver': {
+        'type': 'stem-o-ue',
+        'english': 'to return / to come back',
+        'forms': {
+            'present':   ['vuelvo', 'vuelves', 'vuelve', 'volvemos','vuelven'],
+            'preterite': ['volví',  'volviste','volvió', 'volvimos','volvieron'],
+            'future':    ['volveré','volverás','volverá','volveremos','volverán'],
+        },
+        'sentences': {
+            'present':   [('Yo vuelvo a casa a las seis.',         'I return home at six.'),
+                          ('Tú vuelves siempre tarde.',            'You always come back late.'),
+                          ('Ella vuelve del trabajo cansada.',     'She comes back from work tired.'),
+                          ('Nosotros volvemos en autobús.',        'We return by bus.'),
+                          ('Ellos vuelven a verla cada año.',      'They return to see her every year.')],
+            'preterite': [('Yo volví a Madrid el año pasado.',     'I returned to Madrid last year.'),
+                          ('Tú volviste sano y salvo.',            'You came back safe and sound.'),
+                          ('Ella volvió a llamarme.',              'She called me back.'),
+                          ('Nosotros volvimos por el mismo camino.','We returned by the same path.'),
+                          ('Ellos volvieron de las vacaciones.',   'They returned from vacation.')],
+            'future':    [('Yo volveré mañana por la mañana.',     'I will return tomorrow morning.'),
+                          ('Tú volverás a intentarlo.',            'You will try again.'),
+                          ('Ella volverá a su país.',              'She will return to her country.'),
+                          ('Nosotros volveremos pronto.',          'We will return soon.'),
+                          ('Ellos volverán a ganar este año.',     'They will win again this year.')],
+        }
+    },
+
+    'empezar': {
+        'type': 'stem-e-ie',
+        'english': 'to begin / to start',
+        'forms': {
+            'present':   ['empiezo','empiezas','empieza','empezamos','empiezan'],
+            'preterite': ['empecé', 'empezaste','empezó','empezamos','empezaron'],
+            'future':    ['empezaré','empezarás','empezará','empezaremos','empezarán'],
+        },
+        'sentences': {
+            'present':   [('Yo empiezo a trabajar a las ocho.',    'I start working at eight.'),
+                          ('Tú empiezas con buen ánimo.',          'You start with good spirits.'),
+                          ('Ella empieza el curso en otoño.',      'She starts the course in fall.'),
+                          ('Nosotros empezamos a las nueve.',      'We start at nine.'),
+                          ('Ellos empiezan el proyecto hoy.',      'They start the project today.')],
+            'preterite': [('Yo empecé el libro anoche.',           'I started the book last night.'),
+                          ('Tú empezaste muy temprano.',           'You started very early.'),
+                          ('Ella empezó a llorar.',                'She started to cry.'),
+                          ('Nosotros empezamos a estudiar.',       'We started studying.'),
+                          ('Ellos empezaron la reunión a tiempo.', 'They started the meeting on time.')],
+            'future':    [('Yo empezaré una dieta nueva.',         'I will start a new diet.'),
+                          ('Tú empezarás de cero.',                'You will start from scratch.'),
+                          ('Ella empezará a estudiar pronto.',     'She will start studying soon.'),
+                          ('Nosotros empezaremos en enero.',       'We will start in January.'),
+                          ('Ellos empezarán la obra mañana.',      'They will start the work tomorrow.')],
+        }
+    },
+
+    'perder': {
+        'type': 'stem-e-ie',
+        'english': 'to lose',
+        'forms': {
+            'present':   ['pierdo', 'pierdes', 'pierde', 'perdemos','pierden'],
+            'preterite': ['perdí',  'perdiste','perdió', 'perdimos','perdieron'],
+            'future':    ['perderé','perderás','perderá','perderemos','perderán'],
+        },
+        'sentences': {
+            'present':   [('Yo pierdo las llaves a menudo.',       'I often lose my keys.'),
+                          ('Tú pierdes la paciencia rápido.',      'You lose patience quickly.'),
+                          ('Ella pierde peso poco a poco.',        'She is losing weight gradually.'),
+                          ('Nosotros perdemos tiempo.',            'We are wasting time.'),
+                          ('Ellos pierden el partido.',            'They are losing the match.')],
+            'preterite': [('Yo perdí mi cartera en el bar.',       'I lost my wallet at the bar.'),
+                          ('Tú perdiste tu oportunidad.',          'You lost your chance.'),
+                          ('Ella perdió las llaves del coche.',    'She lost the car keys.'),
+                          ('Nosotros perdimos el vuelo.',          'We missed the flight.'),
+                          ('Ellos perdieron la final.',            'They lost the final.')],
+            'future':    [('Yo perderé peso este verano.',         'I will lose weight this summer.'),
+                          ('Tú perderás la apuesta.',              'You will lose the bet.'),
+                          ('Ella perderá el tren.',                'She will miss the train.'),
+                          ('Nosotros perderemos si no jugamos bien.','We will lose if we don\'t play well.'),
+                          ('Ellos perderán esta vez.',             'They will lose this time.')],
         }
     },
 

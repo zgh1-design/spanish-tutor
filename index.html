@@ -47,6 +47,18 @@
     <p     id="msg-practice-wait" class="hint-text"      hidden></p>
     <button id="btn-conj"       class="btn btn-good"      hidden></button>
     <p     id="msg-conj-empty"  class="hint-text"         hidden></p>
+
+    <!-- Advanced-tenses (imperfect + subjunctive) unlock panel.
+         Shown only once you have at least some conjugation activity. -->
+    <div id="panel-advanced-tenses" class="adv-tenses-panel" hidden>
+      <p id="adv-tenses-status" class="adv-tenses-status locked"></p>
+      <div class="adv-tenses-bar">
+        <div id="adv-tenses-progress-bar"></div>
+      </div>
+      <p id="adv-tenses-progress-label" class="adv-tenses-progress-label"></p>
+      <button id="btn-unlock-adv"  class="btn btn-secondary" hidden>🔓 Unlock now</button>
+      <button id="btn-relock-adv"  class="btn btn-ghost"     hidden>🔒 Re-lock</button>
+    </div>
     <button id="btn-review-all" class="btn btn-secondary">🔁 Review All Words</button>
     <button id="btn-browse"     class="btn btn-ghost">📚 Browse Vocabulary</button>
     <button id="btn-voice"      class="btn btn-ghost">🔊 Voice Settings</button>

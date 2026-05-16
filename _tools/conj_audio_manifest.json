@@ -150,6 +150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "hablar__imperfect__0",
+    "text": "hablaba",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__imperfect__0__s",
+    "text": "Cuando era niño, yo hablaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__imperfect__1",
+    "text": "hablabas",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__imperfect__1__s",
+    "text": "Tú hablabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__imperfect__2",
+    "text": "hablaba",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__imperfect__2__s",
+    "text": "Ella hablaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__imperfect__3",
+    "text": "hablábamos",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__imperfect__3__s",
+    "text": "Nosotros hablábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__imperfect__4",
+    "text": "hablaban",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__imperfect__4__s",
+    "text": "Ellos hablaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__subjunctive_present__0",
+    "text": "hable",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__subjunctive_present__0__s",
+    "text": "Quieren que yo hable.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__subjunctive_present__1",
+    "text": "hables",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__subjunctive_present__1__s",
+    "text": "Espero que tú hables pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__subjunctive_present__2",
+    "text": "hable",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__subjunctive_present__2__s",
+    "text": "Es importante que ella hable.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__subjunctive_present__3",
+    "text": "hablemos",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros hablemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hablar__subjunctive_present__4",
+    "text": "hablen",
+    "kind": "form"
+  },
+  {
+    "id": "hablar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos hablen bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "trabajar__present__0",
     "text": "trabajo",
     "kind": "form"
@@ -297,6 +397,106 @@
   {
     "id": "trabajar__future__4__s",
     "text": "Ellos trabajarán este verano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__imperfect__0",
+    "text": "trabajaba",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__imperfect__0__s",
+    "text": "Cuando era niño, yo trabajaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__imperfect__1",
+    "text": "trabajabas",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__imperfect__1__s",
+    "text": "Tú trabajabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__imperfect__2",
+    "text": "trabajaba",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__imperfect__2__s",
+    "text": "Ella trabajaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__imperfect__3",
+    "text": "trabajábamos",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__imperfect__3__s",
+    "text": "Nosotros trabajábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__imperfect__4",
+    "text": "trabajaban",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__imperfect__4__s",
+    "text": "Ellos trabajaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__subjunctive_present__0",
+    "text": "trabaje",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__subjunctive_present__0__s",
+    "text": "Quieren que yo trabaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__subjunctive_present__1",
+    "text": "trabajes",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__subjunctive_present__1__s",
+    "text": "Espero que tú trabajes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__subjunctive_present__2",
+    "text": "trabaje",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__subjunctive_present__2__s",
+    "text": "Es importante que ella trabaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__subjunctive_present__3",
+    "text": "trabajemos",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros trabajemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "trabajar__subjunctive_present__4",
+    "text": "trabajen",
+    "kind": "form"
+  },
+  {
+    "id": "trabajar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos trabajen bien.",
     "kind": "sentence"
   },
   {
@@ -450,6 +650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "estudiar__imperfect__0",
+    "text": "estudiaba",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__imperfect__0__s",
+    "text": "Cuando era niño, yo estudiaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__imperfect__1",
+    "text": "estudiabas",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__imperfect__1__s",
+    "text": "Tú estudiabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__imperfect__2",
+    "text": "estudiaba",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__imperfect__2__s",
+    "text": "Ella estudiaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__imperfect__3",
+    "text": "estudiábamos",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__imperfect__3__s",
+    "text": "Nosotros estudiábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__imperfect__4",
+    "text": "estudiaban",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__imperfect__4__s",
+    "text": "Ellos estudiaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__subjunctive_present__0",
+    "text": "estudie",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__subjunctive_present__0__s",
+    "text": "Quieren que yo estudie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__subjunctive_present__1",
+    "text": "estudies",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__subjunctive_present__1__s",
+    "text": "Espero que tú estudies pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__subjunctive_present__2",
+    "text": "estudie",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__subjunctive_present__2__s",
+    "text": "Es importante que ella estudie.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__subjunctive_present__3",
+    "text": "estudiemos",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros estudiemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estudiar__subjunctive_present__4",
+    "text": "estudien",
+    "kind": "form"
+  },
+  {
+    "id": "estudiar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos estudien bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "caminar__present__0",
     "text": "camino",
     "kind": "form"
@@ -597,6 +897,106 @@
   {
     "id": "caminar__future__4__s",
     "text": "Ellos caminarán en la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__imperfect__0",
+    "text": "caminaba",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__imperfect__0__s",
+    "text": "Cuando era niño, yo caminaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__imperfect__1",
+    "text": "caminabas",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__imperfect__1__s",
+    "text": "Tú caminabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__imperfect__2",
+    "text": "caminaba",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__imperfect__2__s",
+    "text": "Ella caminaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__imperfect__3",
+    "text": "caminábamos",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__imperfect__3__s",
+    "text": "Nosotros caminábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__imperfect__4",
+    "text": "caminaban",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__imperfect__4__s",
+    "text": "Ellos caminaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__subjunctive_present__0",
+    "text": "camine",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__subjunctive_present__0__s",
+    "text": "Quieren que yo camine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__subjunctive_present__1",
+    "text": "camines",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__subjunctive_present__1__s",
+    "text": "Espero que tú camines pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__subjunctive_present__2",
+    "text": "camine",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__subjunctive_present__2__s",
+    "text": "Es importante que ella camine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__subjunctive_present__3",
+    "text": "caminemos",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros caminemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "caminar__subjunctive_present__4",
+    "text": "caminen",
+    "kind": "form"
+  },
+  {
+    "id": "caminar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos caminen bien.",
     "kind": "sentence"
   },
   {
@@ -750,6 +1150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "cantar__imperfect__0",
+    "text": "cantaba",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__imperfect__0__s",
+    "text": "Cuando era niño, yo cantaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__imperfect__1",
+    "text": "cantabas",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__imperfect__1__s",
+    "text": "Tú cantabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__imperfect__2",
+    "text": "cantaba",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__imperfect__2__s",
+    "text": "Ella cantaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__imperfect__3",
+    "text": "cantábamos",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__imperfect__3__s",
+    "text": "Nosotros cantábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__imperfect__4",
+    "text": "cantaban",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__imperfect__4__s",
+    "text": "Ellos cantaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__subjunctive_present__0",
+    "text": "cante",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__subjunctive_present__0__s",
+    "text": "Quieren que yo cante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__subjunctive_present__1",
+    "text": "cantes",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__subjunctive_present__1__s",
+    "text": "Espero que tú cantes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__subjunctive_present__2",
+    "text": "cante",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__subjunctive_present__2__s",
+    "text": "Es importante que ella cante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__subjunctive_present__3",
+    "text": "cantemos",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros cantemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "cantar__subjunctive_present__4",
+    "text": "canten",
+    "kind": "form"
+  },
+  {
+    "id": "cantar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos canten bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "mirar__present__0",
     "text": "miro",
     "kind": "form"
@@ -897,6 +1397,106 @@
   {
     "id": "mirar__future__4__s",
     "text": "Ellos mirarán la presentación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__imperfect__0",
+    "text": "miraba",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__imperfect__0__s",
+    "text": "Cuando era niño, yo miraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__imperfect__1",
+    "text": "mirabas",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__imperfect__1__s",
+    "text": "Tú mirabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__imperfect__2",
+    "text": "miraba",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__imperfect__2__s",
+    "text": "Ella miraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__imperfect__3",
+    "text": "mirábamos",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__imperfect__3__s",
+    "text": "Nosotros mirábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__imperfect__4",
+    "text": "miraban",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__imperfect__4__s",
+    "text": "Ellos miraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__subjunctive_present__0",
+    "text": "mire",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__subjunctive_present__0__s",
+    "text": "Quieren que yo mire.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__subjunctive_present__1",
+    "text": "mires",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__subjunctive_present__1__s",
+    "text": "Espero que tú mires pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__subjunctive_present__2",
+    "text": "mire",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__subjunctive_present__2__s",
+    "text": "Es importante que ella mire.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__subjunctive_present__3",
+    "text": "miremos",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros miremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "mirar__subjunctive_present__4",
+    "text": "miren",
+    "kind": "form"
+  },
+  {
+    "id": "mirar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos miren bien.",
     "kind": "sentence"
   },
   {
@@ -1050,6 +1650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "escuchar__imperfect__0",
+    "text": "escuchaba",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__imperfect__0__s",
+    "text": "Cuando era niño, yo escuchaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__imperfect__1",
+    "text": "escuchabas",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__imperfect__1__s",
+    "text": "Tú escuchabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__imperfect__2",
+    "text": "escuchaba",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__imperfect__2__s",
+    "text": "Ella escuchaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__imperfect__3",
+    "text": "escuchábamos",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__imperfect__3__s",
+    "text": "Nosotros escuchábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__imperfect__4",
+    "text": "escuchaban",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__imperfect__4__s",
+    "text": "Ellos escuchaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__subjunctive_present__0",
+    "text": "escuche",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__subjunctive_present__0__s",
+    "text": "Quieren que yo escuche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__subjunctive_present__1",
+    "text": "escuches",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__subjunctive_present__1__s",
+    "text": "Espero que tú escuches pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__subjunctive_present__2",
+    "text": "escuche",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__subjunctive_present__2__s",
+    "text": "Es importante que ella escuche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__subjunctive_present__3",
+    "text": "escuchemos",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros escuchemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escuchar__subjunctive_present__4",
+    "text": "escuchen",
+    "kind": "form"
+  },
+  {
+    "id": "escuchar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos escuchen bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "preparar__present__0",
     "text": "preparo",
     "kind": "form"
@@ -1197,6 +1897,106 @@
   {
     "id": "preparar__future__4__s",
     "text": "Ellos prepararán los documentos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__imperfect__0",
+    "text": "preparaba",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__imperfect__0__s",
+    "text": "Cuando era niño, yo preparaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__imperfect__1",
+    "text": "preparabas",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__imperfect__1__s",
+    "text": "Tú preparabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__imperfect__2",
+    "text": "preparaba",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__imperfect__2__s",
+    "text": "Ella preparaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__imperfect__3",
+    "text": "preparábamos",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__imperfect__3__s",
+    "text": "Nosotros preparábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__imperfect__4",
+    "text": "preparaban",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__imperfect__4__s",
+    "text": "Ellos preparaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__subjunctive_present__0",
+    "text": "prepare",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__subjunctive_present__0__s",
+    "text": "Quieren que yo prepare.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__subjunctive_present__1",
+    "text": "prepares",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__subjunctive_present__1__s",
+    "text": "Espero que tú prepares pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__subjunctive_present__2",
+    "text": "prepare",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__subjunctive_present__2__s",
+    "text": "Es importante que ella prepare.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__subjunctive_present__3",
+    "text": "preparemos",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros preparemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "preparar__subjunctive_present__4",
+    "text": "preparen",
+    "kind": "form"
+  },
+  {
+    "id": "preparar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos preparen bien.",
     "kind": "sentence"
   },
   {
@@ -1350,6 +2150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "ayudar__imperfect__0",
+    "text": "ayudaba",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__imperfect__0__s",
+    "text": "Cuando era niño, yo ayudaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__imperfect__1",
+    "text": "ayudabas",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__imperfect__1__s",
+    "text": "Tú ayudabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__imperfect__2",
+    "text": "ayudaba",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__imperfect__2__s",
+    "text": "Ella ayudaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__imperfect__3",
+    "text": "ayudábamos",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__imperfect__3__s",
+    "text": "Nosotros ayudábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__imperfect__4",
+    "text": "ayudaban",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__imperfect__4__s",
+    "text": "Ellos ayudaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__subjunctive_present__0",
+    "text": "ayude",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__subjunctive_present__0__s",
+    "text": "Quieren que yo ayude.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__subjunctive_present__1",
+    "text": "ayudes",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__subjunctive_present__1__s",
+    "text": "Espero que tú ayudes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__subjunctive_present__2",
+    "text": "ayude",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__subjunctive_present__2__s",
+    "text": "Es importante que ella ayude.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__subjunctive_present__3",
+    "text": "ayudemos",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros ayudemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ayudar__subjunctive_present__4",
+    "text": "ayuden",
+    "kind": "form"
+  },
+  {
+    "id": "ayudar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos ayuden bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "comprar__present__0",
     "text": "compro",
     "kind": "form"
@@ -1497,6 +2397,106 @@
   {
     "id": "comprar__future__4__s",
     "text": "Ellos comprarán entradas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__imperfect__0",
+    "text": "compraba",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__imperfect__0__s",
+    "text": "Cuando era niño, yo compraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__imperfect__1",
+    "text": "comprabas",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__imperfect__1__s",
+    "text": "Tú comprabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__imperfect__2",
+    "text": "compraba",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__imperfect__2__s",
+    "text": "Ella compraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__imperfect__3",
+    "text": "comprábamos",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__imperfect__3__s",
+    "text": "Nosotros comprábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__imperfect__4",
+    "text": "compraban",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__imperfect__4__s",
+    "text": "Ellos compraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__subjunctive_present__0",
+    "text": "compre",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__subjunctive_present__0__s",
+    "text": "Quieren que yo compre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__subjunctive_present__1",
+    "text": "compres",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__subjunctive_present__1__s",
+    "text": "Espero que tú compres pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__subjunctive_present__2",
+    "text": "compre",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__subjunctive_present__2__s",
+    "text": "Es importante que ella compre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__subjunctive_present__3",
+    "text": "compremos",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros compremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprar__subjunctive_present__4",
+    "text": "compren",
+    "kind": "form"
+  },
+  {
+    "id": "comprar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos compren bien.",
     "kind": "sentence"
   },
   {
@@ -1650,6 +2650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "comer__imperfect__0",
+    "text": "comía",
+    "kind": "form"
+  },
+  {
+    "id": "comer__imperfect__0__s",
+    "text": "Cuando era niño, yo comía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__imperfect__1",
+    "text": "comías",
+    "kind": "form"
+  },
+  {
+    "id": "comer__imperfect__1__s",
+    "text": "Tú comías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__imperfect__2",
+    "text": "comía",
+    "kind": "form"
+  },
+  {
+    "id": "comer__imperfect__2__s",
+    "text": "Ella comía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__imperfect__3",
+    "text": "comíamos",
+    "kind": "form"
+  },
+  {
+    "id": "comer__imperfect__3__s",
+    "text": "Nosotros comíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__imperfect__4",
+    "text": "comían",
+    "kind": "form"
+  },
+  {
+    "id": "comer__imperfect__4__s",
+    "text": "Ellos comían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__subjunctive_present__0",
+    "text": "coma",
+    "kind": "form"
+  },
+  {
+    "id": "comer__subjunctive_present__0__s",
+    "text": "Quieren que yo coma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__subjunctive_present__1",
+    "text": "comas",
+    "kind": "form"
+  },
+  {
+    "id": "comer__subjunctive_present__1__s",
+    "text": "Espero que tú comas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__subjunctive_present__2",
+    "text": "coma",
+    "kind": "form"
+  },
+  {
+    "id": "comer__subjunctive_present__2__s",
+    "text": "Es importante que ella coma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__subjunctive_present__3",
+    "text": "comamos",
+    "kind": "form"
+  },
+  {
+    "id": "comer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros comamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comer__subjunctive_present__4",
+    "text": "coman",
+    "kind": "form"
+  },
+  {
+    "id": "comer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos coman bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "beber__present__0",
     "text": "bebo",
     "kind": "form"
@@ -1797,6 +2897,106 @@
   {
     "id": "beber__future__4__s",
     "text": "Ellos beberán refrescos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__imperfect__0",
+    "text": "bebía",
+    "kind": "form"
+  },
+  {
+    "id": "beber__imperfect__0__s",
+    "text": "Cuando era niño, yo bebía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__imperfect__1",
+    "text": "bebías",
+    "kind": "form"
+  },
+  {
+    "id": "beber__imperfect__1__s",
+    "text": "Tú bebías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__imperfect__2",
+    "text": "bebía",
+    "kind": "form"
+  },
+  {
+    "id": "beber__imperfect__2__s",
+    "text": "Ella bebía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__imperfect__3",
+    "text": "bebíamos",
+    "kind": "form"
+  },
+  {
+    "id": "beber__imperfect__3__s",
+    "text": "Nosotros bebíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__imperfect__4",
+    "text": "bebían",
+    "kind": "form"
+  },
+  {
+    "id": "beber__imperfect__4__s",
+    "text": "Ellos bebían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__subjunctive_present__0",
+    "text": "beba",
+    "kind": "form"
+  },
+  {
+    "id": "beber__subjunctive_present__0__s",
+    "text": "Quieren que yo beba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__subjunctive_present__1",
+    "text": "bebas",
+    "kind": "form"
+  },
+  {
+    "id": "beber__subjunctive_present__1__s",
+    "text": "Espero que tú bebas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__subjunctive_present__2",
+    "text": "beba",
+    "kind": "form"
+  },
+  {
+    "id": "beber__subjunctive_present__2__s",
+    "text": "Es importante que ella beba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__subjunctive_present__3",
+    "text": "bebamos",
+    "kind": "form"
+  },
+  {
+    "id": "beber__subjunctive_present__3__s",
+    "text": "Dudo que nosotros bebamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "beber__subjunctive_present__4",
+    "text": "beban",
+    "kind": "form"
+  },
+  {
+    "id": "beber__subjunctive_present__4__s",
+    "text": "Ojalá que ellos beban bien.",
     "kind": "sentence"
   },
   {
@@ -1950,6 +3150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "aprender__imperfect__0",
+    "text": "aprendía",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__imperfect__0__s",
+    "text": "Cuando era niño, yo aprendía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__imperfect__1",
+    "text": "aprendías",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__imperfect__1__s",
+    "text": "Tú aprendías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__imperfect__2",
+    "text": "aprendía",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__imperfect__2__s",
+    "text": "Ella aprendía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__imperfect__3",
+    "text": "aprendíamos",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__imperfect__3__s",
+    "text": "Nosotros aprendíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__imperfect__4",
+    "text": "aprendían",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__imperfect__4__s",
+    "text": "Ellos aprendían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__subjunctive_present__0",
+    "text": "aprenda",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__subjunctive_present__0__s",
+    "text": "Quieren que yo aprenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__subjunctive_present__1",
+    "text": "aprendas",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__subjunctive_present__1__s",
+    "text": "Espero que tú aprendas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__subjunctive_present__2",
+    "text": "aprenda",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__subjunctive_present__2__s",
+    "text": "Es importante que ella aprenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__subjunctive_present__3",
+    "text": "aprendamos",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__subjunctive_present__3__s",
+    "text": "Dudo que nosotros aprendamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "aprender__subjunctive_present__4",
+    "text": "aprendan",
+    "kind": "form"
+  },
+  {
+    "id": "aprender__subjunctive_present__4__s",
+    "text": "Ojalá que ellos aprendan bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "leer__present__0",
     "text": "leo",
     "kind": "form"
@@ -2097,6 +3397,106 @@
   {
     "id": "leer__future__4__s",
     "text": "Ellos leerán los resultados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__imperfect__0",
+    "text": "leía",
+    "kind": "form"
+  },
+  {
+    "id": "leer__imperfect__0__s",
+    "text": "Cuando era niño, yo leía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__imperfect__1",
+    "text": "leías",
+    "kind": "form"
+  },
+  {
+    "id": "leer__imperfect__1__s",
+    "text": "Tú leías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__imperfect__2",
+    "text": "leía",
+    "kind": "form"
+  },
+  {
+    "id": "leer__imperfect__2__s",
+    "text": "Ella leía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__imperfect__3",
+    "text": "leíamos",
+    "kind": "form"
+  },
+  {
+    "id": "leer__imperfect__3__s",
+    "text": "Nosotros leíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__imperfect__4",
+    "text": "leían",
+    "kind": "form"
+  },
+  {
+    "id": "leer__imperfect__4__s",
+    "text": "Ellos leían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__subjunctive_present__0",
+    "text": "lea",
+    "kind": "form"
+  },
+  {
+    "id": "leer__subjunctive_present__0__s",
+    "text": "Quieren que yo lea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__subjunctive_present__1",
+    "text": "leas",
+    "kind": "form"
+  },
+  {
+    "id": "leer__subjunctive_present__1__s",
+    "text": "Espero que tú leas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__subjunctive_present__2",
+    "text": "lea",
+    "kind": "form"
+  },
+  {
+    "id": "leer__subjunctive_present__2__s",
+    "text": "Es importante que ella lea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__subjunctive_present__3",
+    "text": "leamos",
+    "kind": "form"
+  },
+  {
+    "id": "leer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros leamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "leer__subjunctive_present__4",
+    "text": "lean",
+    "kind": "form"
+  },
+  {
+    "id": "leer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos lean bien.",
     "kind": "sentence"
   },
   {
@@ -2250,6 +3650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "correr__imperfect__0",
+    "text": "corría",
+    "kind": "form"
+  },
+  {
+    "id": "correr__imperfect__0__s",
+    "text": "Cuando era niño, yo corría mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__imperfect__1",
+    "text": "corrías",
+    "kind": "form"
+  },
+  {
+    "id": "correr__imperfect__1__s",
+    "text": "Tú corrías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__imperfect__2",
+    "text": "corría",
+    "kind": "form"
+  },
+  {
+    "id": "correr__imperfect__2__s",
+    "text": "Ella corría de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__imperfect__3",
+    "text": "corríamos",
+    "kind": "form"
+  },
+  {
+    "id": "correr__imperfect__3__s",
+    "text": "Nosotros corríamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__imperfect__4",
+    "text": "corrían",
+    "kind": "form"
+  },
+  {
+    "id": "correr__imperfect__4__s",
+    "text": "Ellos corrían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__subjunctive_present__0",
+    "text": "corra",
+    "kind": "form"
+  },
+  {
+    "id": "correr__subjunctive_present__0__s",
+    "text": "Quieren que yo corra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__subjunctive_present__1",
+    "text": "corras",
+    "kind": "form"
+  },
+  {
+    "id": "correr__subjunctive_present__1__s",
+    "text": "Espero que tú corras pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__subjunctive_present__2",
+    "text": "corra",
+    "kind": "form"
+  },
+  {
+    "id": "correr__subjunctive_present__2__s",
+    "text": "Es importante que ella corra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__subjunctive_present__3",
+    "text": "corramos",
+    "kind": "form"
+  },
+  {
+    "id": "correr__subjunctive_present__3__s",
+    "text": "Dudo que nosotros corramos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "correr__subjunctive_present__4",
+    "text": "corran",
+    "kind": "form"
+  },
+  {
+    "id": "correr__subjunctive_present__4__s",
+    "text": "Ojalá que ellos corran bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "vender__present__0",
     "text": "vendo",
     "kind": "form"
@@ -2397,6 +3897,106 @@
   {
     "id": "vender__future__4__s",
     "text": "Ellos venderán las pinturas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__imperfect__0",
+    "text": "vendía",
+    "kind": "form"
+  },
+  {
+    "id": "vender__imperfect__0__s",
+    "text": "Cuando era niño, yo vendía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__imperfect__1",
+    "text": "vendías",
+    "kind": "form"
+  },
+  {
+    "id": "vender__imperfect__1__s",
+    "text": "Tú vendías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__imperfect__2",
+    "text": "vendía",
+    "kind": "form"
+  },
+  {
+    "id": "vender__imperfect__2__s",
+    "text": "Ella vendía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__imperfect__3",
+    "text": "vendíamos",
+    "kind": "form"
+  },
+  {
+    "id": "vender__imperfect__3__s",
+    "text": "Nosotros vendíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__imperfect__4",
+    "text": "vendían",
+    "kind": "form"
+  },
+  {
+    "id": "vender__imperfect__4__s",
+    "text": "Ellos vendían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__subjunctive_present__0",
+    "text": "venda",
+    "kind": "form"
+  },
+  {
+    "id": "vender__subjunctive_present__0__s",
+    "text": "Quieren que yo venda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__subjunctive_present__1",
+    "text": "vendas",
+    "kind": "form"
+  },
+  {
+    "id": "vender__subjunctive_present__1__s",
+    "text": "Espero que tú vendas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__subjunctive_present__2",
+    "text": "venda",
+    "kind": "form"
+  },
+  {
+    "id": "vender__subjunctive_present__2__s",
+    "text": "Es importante que ella venda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__subjunctive_present__3",
+    "text": "vendamos",
+    "kind": "form"
+  },
+  {
+    "id": "vender__subjunctive_present__3__s",
+    "text": "Dudo que nosotros vendamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vender__subjunctive_present__4",
+    "text": "vendan",
+    "kind": "form"
+  },
+  {
+    "id": "vender__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vendan bien.",
     "kind": "sentence"
   },
   {
@@ -2550,6 +4150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "comprender__imperfect__0",
+    "text": "comprendía",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__imperfect__0__s",
+    "text": "Cuando era niño, yo comprendía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__imperfect__1",
+    "text": "comprendías",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__imperfect__1__s",
+    "text": "Tú comprendías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__imperfect__2",
+    "text": "comprendía",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__imperfect__2__s",
+    "text": "Ella comprendía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__imperfect__3",
+    "text": "comprendíamos",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__imperfect__3__s",
+    "text": "Nosotros comprendíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__imperfect__4",
+    "text": "comprendían",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__imperfect__4__s",
+    "text": "Ellos comprendían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__subjunctive_present__0",
+    "text": "comprenda",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__subjunctive_present__0__s",
+    "text": "Quieren que yo comprenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__subjunctive_present__1",
+    "text": "comprendas",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__subjunctive_present__1__s",
+    "text": "Espero que tú comprendas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__subjunctive_present__2",
+    "text": "comprenda",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__subjunctive_present__2__s",
+    "text": "Es importante que ella comprenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__subjunctive_present__3",
+    "text": "comprendamos",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__subjunctive_present__3__s",
+    "text": "Dudo que nosotros comprendamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "comprender__subjunctive_present__4",
+    "text": "comprendan",
+    "kind": "form"
+  },
+  {
+    "id": "comprender__subjunctive_present__4__s",
+    "text": "Ojalá que ellos comprendan bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "vivir__present__0",
     "text": "vivo",
     "kind": "form"
@@ -2697,6 +4397,106 @@
   {
     "id": "vivir__future__4__s",
     "text": "Ellos vivirán cerca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__imperfect__0",
+    "text": "vivía",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__imperfect__0__s",
+    "text": "Cuando era niño, yo vivía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__imperfect__1",
+    "text": "vivías",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__imperfect__1__s",
+    "text": "Tú vivías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__imperfect__2",
+    "text": "vivía",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__imperfect__2__s",
+    "text": "Ella vivía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__imperfect__3",
+    "text": "vivíamos",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__imperfect__3__s",
+    "text": "Nosotros vivíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__imperfect__4",
+    "text": "vivían",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__imperfect__4__s",
+    "text": "Ellos vivían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__subjunctive_present__0",
+    "text": "viva",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__subjunctive_present__0__s",
+    "text": "Quieren que yo viva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__subjunctive_present__1",
+    "text": "vivas",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__subjunctive_present__1__s",
+    "text": "Espero que tú vivas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__subjunctive_present__2",
+    "text": "viva",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__subjunctive_present__2__s",
+    "text": "Es importante que ella viva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__subjunctive_present__3",
+    "text": "vivamos",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros vivamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "vivir__subjunctive_present__4",
+    "text": "vivan",
+    "kind": "form"
+  },
+  {
+    "id": "vivir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vivan bien.",
     "kind": "sentence"
   },
   {
@@ -2850,6 +4650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "escribir__imperfect__0",
+    "text": "escribía",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__imperfect__0__s",
+    "text": "Cuando era niño, yo escribía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__imperfect__1",
+    "text": "escribías",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__imperfect__1__s",
+    "text": "Tú escribías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__imperfect__2",
+    "text": "escribía",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__imperfect__2__s",
+    "text": "Ella escribía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__imperfect__3",
+    "text": "escribíamos",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__imperfect__3__s",
+    "text": "Nosotros escribíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__imperfect__4",
+    "text": "escribían",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__imperfect__4__s",
+    "text": "Ellos escribían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__subjunctive_present__0",
+    "text": "escriba",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__subjunctive_present__0__s",
+    "text": "Quieren que yo escriba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__subjunctive_present__1",
+    "text": "escribas",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__subjunctive_present__1__s",
+    "text": "Espero que tú escribas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__subjunctive_present__2",
+    "text": "escriba",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__subjunctive_present__2__s",
+    "text": "Es importante que ella escriba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__subjunctive_present__3",
+    "text": "escribamos",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros escribamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "escribir__subjunctive_present__4",
+    "text": "escriban",
+    "kind": "form"
+  },
+  {
+    "id": "escribir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos escriban bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "abrir__present__0",
     "text": "abro",
     "kind": "form"
@@ -2997,6 +4897,106 @@
   {
     "id": "abrir__future__4__s",
     "text": "Ellos abrirán la puerta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__imperfect__0",
+    "text": "abría",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__imperfect__0__s",
+    "text": "Cuando era niño, yo abría mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__imperfect__1",
+    "text": "abrías",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__imperfect__1__s",
+    "text": "Tú abrías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__imperfect__2",
+    "text": "abría",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__imperfect__2__s",
+    "text": "Ella abría de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__imperfect__3",
+    "text": "abríamos",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__imperfect__3__s",
+    "text": "Nosotros abríamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__imperfect__4",
+    "text": "abrían",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__imperfect__4__s",
+    "text": "Ellos abrían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__subjunctive_present__0",
+    "text": "abra",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__subjunctive_present__0__s",
+    "text": "Quieren que yo abra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__subjunctive_present__1",
+    "text": "abras",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__subjunctive_present__1__s",
+    "text": "Espero que tú abras pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__subjunctive_present__2",
+    "text": "abra",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__subjunctive_present__2__s",
+    "text": "Es importante que ella abra.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__subjunctive_present__3",
+    "text": "abramos",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros abramos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "abrir__subjunctive_present__4",
+    "text": "abran",
+    "kind": "form"
+  },
+  {
+    "id": "abrir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos abran bien.",
     "kind": "sentence"
   },
   {
@@ -3150,6 +5150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "recibir__imperfect__0",
+    "text": "recibía",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__imperfect__0__s",
+    "text": "Cuando era niño, yo recibía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__imperfect__1",
+    "text": "recibías",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__imperfect__1__s",
+    "text": "Tú recibías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__imperfect__2",
+    "text": "recibía",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__imperfect__2__s",
+    "text": "Ella recibía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__imperfect__3",
+    "text": "recibíamos",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__imperfect__3__s",
+    "text": "Nosotros recibíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__imperfect__4",
+    "text": "recibían",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__imperfect__4__s",
+    "text": "Ellos recibían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__subjunctive_present__0",
+    "text": "reciba",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__subjunctive_present__0__s",
+    "text": "Quieren que yo reciba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__subjunctive_present__1",
+    "text": "recibas",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__subjunctive_present__1__s",
+    "text": "Espero que tú recibas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__subjunctive_present__2",
+    "text": "reciba",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__subjunctive_present__2__s",
+    "text": "Es importante que ella reciba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__subjunctive_present__3",
+    "text": "recibamos",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros recibamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "recibir__subjunctive_present__4",
+    "text": "reciban",
+    "kind": "form"
+  },
+  {
+    "id": "recibir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos reciban bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "subir__present__0",
     "text": "subo",
     "kind": "form"
@@ -3297,6 +5397,106 @@
   {
     "id": "subir__future__4__s",
     "text": "Ellos subirán al escenario.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__imperfect__0",
+    "text": "subía",
+    "kind": "form"
+  },
+  {
+    "id": "subir__imperfect__0__s",
+    "text": "Cuando era niño, yo subía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__imperfect__1",
+    "text": "subías",
+    "kind": "form"
+  },
+  {
+    "id": "subir__imperfect__1__s",
+    "text": "Tú subías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__imperfect__2",
+    "text": "subía",
+    "kind": "form"
+  },
+  {
+    "id": "subir__imperfect__2__s",
+    "text": "Ella subía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__imperfect__3",
+    "text": "subíamos",
+    "kind": "form"
+  },
+  {
+    "id": "subir__imperfect__3__s",
+    "text": "Nosotros subíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__imperfect__4",
+    "text": "subían",
+    "kind": "form"
+  },
+  {
+    "id": "subir__imperfect__4__s",
+    "text": "Ellos subían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__subjunctive_present__0",
+    "text": "suba",
+    "kind": "form"
+  },
+  {
+    "id": "subir__subjunctive_present__0__s",
+    "text": "Quieren que yo suba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__subjunctive_present__1",
+    "text": "subas",
+    "kind": "form"
+  },
+  {
+    "id": "subir__subjunctive_present__1__s",
+    "text": "Espero que tú subas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__subjunctive_present__2",
+    "text": "suba",
+    "kind": "form"
+  },
+  {
+    "id": "subir__subjunctive_present__2__s",
+    "text": "Es importante que ella suba.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__subjunctive_present__3",
+    "text": "subamos",
+    "kind": "form"
+  },
+  {
+    "id": "subir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros subamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "subir__subjunctive_present__4",
+    "text": "suban",
+    "kind": "form"
+  },
+  {
+    "id": "subir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos suban bien.",
     "kind": "sentence"
   },
   {
@@ -3450,6 +5650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "partir__imperfect__0",
+    "text": "partía",
+    "kind": "form"
+  },
+  {
+    "id": "partir__imperfect__0__s",
+    "text": "Cuando era niño, yo partía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__imperfect__1",
+    "text": "partías",
+    "kind": "form"
+  },
+  {
+    "id": "partir__imperfect__1__s",
+    "text": "Tú partías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__imperfect__2",
+    "text": "partía",
+    "kind": "form"
+  },
+  {
+    "id": "partir__imperfect__2__s",
+    "text": "Ella partía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__imperfect__3",
+    "text": "partíamos",
+    "kind": "form"
+  },
+  {
+    "id": "partir__imperfect__3__s",
+    "text": "Nosotros partíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__imperfect__4",
+    "text": "partían",
+    "kind": "form"
+  },
+  {
+    "id": "partir__imperfect__4__s",
+    "text": "Ellos partían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__subjunctive_present__0",
+    "text": "parta",
+    "kind": "form"
+  },
+  {
+    "id": "partir__subjunctive_present__0__s",
+    "text": "Quieren que yo parta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__subjunctive_present__1",
+    "text": "partas",
+    "kind": "form"
+  },
+  {
+    "id": "partir__subjunctive_present__1__s",
+    "text": "Espero que tú partas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__subjunctive_present__2",
+    "text": "parta",
+    "kind": "form"
+  },
+  {
+    "id": "partir__subjunctive_present__2__s",
+    "text": "Es importante que ella parta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__subjunctive_present__3",
+    "text": "partamos",
+    "kind": "form"
+  },
+  {
+    "id": "partir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros partamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "partir__subjunctive_present__4",
+    "text": "partan",
+    "kind": "form"
+  },
+  {
+    "id": "partir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos partan bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "ser__present__0",
     "text": "soy",
     "kind": "form"
@@ -3597,6 +5897,106 @@
   {
     "id": "ser__future__4__s",
     "text": "Ellos serán nuestros vecinos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__imperfect__0",
+    "text": "era",
+    "kind": "form"
+  },
+  {
+    "id": "ser__imperfect__0__s",
+    "text": "Cuando era niño, yo era mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__imperfect__1",
+    "text": "eras",
+    "kind": "form"
+  },
+  {
+    "id": "ser__imperfect__1__s",
+    "text": "Tú eras todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__imperfect__2",
+    "text": "era",
+    "kind": "form"
+  },
+  {
+    "id": "ser__imperfect__2__s",
+    "text": "Ella era de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__imperfect__3",
+    "text": "éramos",
+    "kind": "form"
+  },
+  {
+    "id": "ser__imperfect__3__s",
+    "text": "Nosotros éramos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__imperfect__4",
+    "text": "eran",
+    "kind": "form"
+  },
+  {
+    "id": "ser__imperfect__4__s",
+    "text": "Ellos eran cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__subjunctive_present__0",
+    "text": "sea",
+    "kind": "form"
+  },
+  {
+    "id": "ser__subjunctive_present__0__s",
+    "text": "Quieren que yo sea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__subjunctive_present__1",
+    "text": "seas",
+    "kind": "form"
+  },
+  {
+    "id": "ser__subjunctive_present__1__s",
+    "text": "Espero que tú seas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__subjunctive_present__2",
+    "text": "sea",
+    "kind": "form"
+  },
+  {
+    "id": "ser__subjunctive_present__2__s",
+    "text": "Es importante que ella sea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__subjunctive_present__3",
+    "text": "seamos",
+    "kind": "form"
+  },
+  {
+    "id": "ser__subjunctive_present__3__s",
+    "text": "Dudo que nosotros seamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ser__subjunctive_present__4",
+    "text": "sean",
+    "kind": "form"
+  },
+  {
+    "id": "ser__subjunctive_present__4__s",
+    "text": "Ojalá que ellos sean bien.",
     "kind": "sentence"
   },
   {
@@ -3750,6 +6150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "estar__imperfect__0",
+    "text": "estaba",
+    "kind": "form"
+  },
+  {
+    "id": "estar__imperfect__0__s",
+    "text": "Cuando era niño, yo estaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__imperfect__1",
+    "text": "estabas",
+    "kind": "form"
+  },
+  {
+    "id": "estar__imperfect__1__s",
+    "text": "Tú estabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__imperfect__2",
+    "text": "estaba",
+    "kind": "form"
+  },
+  {
+    "id": "estar__imperfect__2__s",
+    "text": "Ella estaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__imperfect__3",
+    "text": "estábamos",
+    "kind": "form"
+  },
+  {
+    "id": "estar__imperfect__3__s",
+    "text": "Nosotros estábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__imperfect__4",
+    "text": "estaban",
+    "kind": "form"
+  },
+  {
+    "id": "estar__imperfect__4__s",
+    "text": "Ellos estaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__subjunctive_present__0",
+    "text": "esté",
+    "kind": "form"
+  },
+  {
+    "id": "estar__subjunctive_present__0__s",
+    "text": "Quieren que yo esté.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__subjunctive_present__1",
+    "text": "estés",
+    "kind": "form"
+  },
+  {
+    "id": "estar__subjunctive_present__1__s",
+    "text": "Espero que tú estés pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__subjunctive_present__2",
+    "text": "esté",
+    "kind": "form"
+  },
+  {
+    "id": "estar__subjunctive_present__2__s",
+    "text": "Es importante que ella esté.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__subjunctive_present__3",
+    "text": "estemos",
+    "kind": "form"
+  },
+  {
+    "id": "estar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros estemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "estar__subjunctive_present__4",
+    "text": "estén",
+    "kind": "form"
+  },
+  {
+    "id": "estar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos estén bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "ir__present__0",
     "text": "voy",
     "kind": "form"
@@ -3897,6 +6397,106 @@
   {
     "id": "ir__future__4__s",
     "text": "Ellos irán al concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__imperfect__0",
+    "text": "iba",
+    "kind": "form"
+  },
+  {
+    "id": "ir__imperfect__0__s",
+    "text": "Cuando era niño, yo iba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__imperfect__1",
+    "text": "ibas",
+    "kind": "form"
+  },
+  {
+    "id": "ir__imperfect__1__s",
+    "text": "Tú ibas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__imperfect__2",
+    "text": "iba",
+    "kind": "form"
+  },
+  {
+    "id": "ir__imperfect__2__s",
+    "text": "Ella iba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__imperfect__3",
+    "text": "íbamos",
+    "kind": "form"
+  },
+  {
+    "id": "ir__imperfect__3__s",
+    "text": "Nosotros íbamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__imperfect__4",
+    "text": "iban",
+    "kind": "form"
+  },
+  {
+    "id": "ir__imperfect__4__s",
+    "text": "Ellos iban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__subjunctive_present__0",
+    "text": "vaya",
+    "kind": "form"
+  },
+  {
+    "id": "ir__subjunctive_present__0__s",
+    "text": "Quieren que yo vaya.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__subjunctive_present__1",
+    "text": "vayas",
+    "kind": "form"
+  },
+  {
+    "id": "ir__subjunctive_present__1__s",
+    "text": "Espero que tú vayas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__subjunctive_present__2",
+    "text": "vaya",
+    "kind": "form"
+  },
+  {
+    "id": "ir__subjunctive_present__2__s",
+    "text": "Es importante que ella vaya.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__subjunctive_present__3",
+    "text": "vayamos",
+    "kind": "form"
+  },
+  {
+    "id": "ir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros vayamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ir__subjunctive_present__4",
+    "text": "vayan",
+    "kind": "form"
+  },
+  {
+    "id": "ir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vayan bien.",
     "kind": "sentence"
   },
   {
@@ -4050,6 +6650,106 @@
     "kind": "sentence"
   },
   {
+    "id": "tener__imperfect__0",
+    "text": "tenía",
+    "kind": "form"
+  },
+  {
+    "id": "tener__imperfect__0__s",
+    "text": "Cuando era niño, yo tenía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__imperfect__1",
+    "text": "tenías",
+    "kind": "form"
+  },
+  {
+    "id": "tener__imperfect__1__s",
+    "text": "Tú tenías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__imperfect__2",
+    "text": "tenía",
+    "kind": "form"
+  },
+  {
+    "id": "tener__imperfect__2__s",
+    "text": "Ella tenía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__imperfect__3",
+    "text": "teníamos",
+    "kind": "form"
+  },
+  {
+    "id": "tener__imperfect__3__s",
+    "text": "Nosotros teníamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__imperfect__4",
+    "text": "tenían",
+    "kind": "form"
+  },
+  {
+    "id": "tener__imperfect__4__s",
+    "text": "Ellos tenían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__subjunctive_present__0",
+    "text": "tenga",
+    "kind": "form"
+  },
+  {
+    "id": "tener__subjunctive_present__0__s",
+    "text": "Quieren que yo tenga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__subjunctive_present__1",
+    "text": "tengas",
+    "kind": "form"
+  },
+  {
+    "id": "tener__subjunctive_present__1__s",
+    "text": "Espero que tú tengas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__subjunctive_present__2",
+    "text": "tenga",
+    "kind": "form"
+  },
+  {
+    "id": "tener__subjunctive_present__2__s",
+    "text": "Es importante que ella tenga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__subjunctive_present__3",
+    "text": "tengamos",
+    "kind": "form"
+  },
+  {
+    "id": "tener__subjunctive_present__3__s",
+    "text": "Dudo que nosotros tengamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "tener__subjunctive_present__4",
+    "text": "tengan",
+    "kind": "form"
+  },
+  {
+    "id": "tener__subjunctive_present__4__s",
+    "text": "Ojalá que ellos tengan bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "hacer__present__0",
     "text": "hago",
     "kind": "form"
@@ -4197,6 +6897,106 @@
   {
     "id": "hacer__future__4__s",
     "text": "Ellos harán lo posible.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__imperfect__0",
+    "text": "hacía",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__imperfect__0__s",
+    "text": "Cuando era niño, yo hacía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__imperfect__1",
+    "text": "hacías",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__imperfect__1__s",
+    "text": "Tú hacías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__imperfect__2",
+    "text": "hacía",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__imperfect__2__s",
+    "text": "Ella hacía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__imperfect__3",
+    "text": "hacíamos",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__imperfect__3__s",
+    "text": "Nosotros hacíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__imperfect__4",
+    "text": "hacían",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__imperfect__4__s",
+    "text": "Ellos hacían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__subjunctive_present__0",
+    "text": "haga",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__subjunctive_present__0__s",
+    "text": "Quieren que yo haga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__subjunctive_present__1",
+    "text": "hagas",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__subjunctive_present__1__s",
+    "text": "Espero que tú hagas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__subjunctive_present__2",
+    "text": "haga",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__subjunctive_present__2__s",
+    "text": "Es importante que ella haga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__subjunctive_present__3",
+    "text": "hagamos",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros hagamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "hacer__subjunctive_present__4",
+    "text": "hagan",
+    "kind": "form"
+  },
+  {
+    "id": "hacer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos hagan bien.",
     "kind": "sentence"
   },
   {
@@ -4350,6 +7150,106 @@
     "kind": "sentence"
   },
   {
+    "id": "querer__imperfect__0",
+    "text": "quería",
+    "kind": "form"
+  },
+  {
+    "id": "querer__imperfect__0__s",
+    "text": "Cuando era niño, yo quería mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__imperfect__1",
+    "text": "querías",
+    "kind": "form"
+  },
+  {
+    "id": "querer__imperfect__1__s",
+    "text": "Tú querías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__imperfect__2",
+    "text": "quería",
+    "kind": "form"
+  },
+  {
+    "id": "querer__imperfect__2__s",
+    "text": "Ella quería de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__imperfect__3",
+    "text": "queríamos",
+    "kind": "form"
+  },
+  {
+    "id": "querer__imperfect__3__s",
+    "text": "Nosotros queríamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__imperfect__4",
+    "text": "querían",
+    "kind": "form"
+  },
+  {
+    "id": "querer__imperfect__4__s",
+    "text": "Ellos querían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__subjunctive_present__0",
+    "text": "quiera",
+    "kind": "form"
+  },
+  {
+    "id": "querer__subjunctive_present__0__s",
+    "text": "Quieren que yo quiera.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__subjunctive_present__1",
+    "text": "quieras",
+    "kind": "form"
+  },
+  {
+    "id": "querer__subjunctive_present__1__s",
+    "text": "Espero que tú quieras pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__subjunctive_present__2",
+    "text": "quiera",
+    "kind": "form"
+  },
+  {
+    "id": "querer__subjunctive_present__2__s",
+    "text": "Es importante que ella quiera.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__subjunctive_present__3",
+    "text": "queramos",
+    "kind": "form"
+  },
+  {
+    "id": "querer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros queramos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "querer__subjunctive_present__4",
+    "text": "quieran",
+    "kind": "form"
+  },
+  {
+    "id": "querer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos quieran bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "poder__present__0",
     "text": "puedo",
     "kind": "form"
@@ -4500,6 +7400,106 @@
     "kind": "sentence"
   },
   {
+    "id": "poder__imperfect__0",
+    "text": "podía",
+    "kind": "form"
+  },
+  {
+    "id": "poder__imperfect__0__s",
+    "text": "Cuando era niño, yo podía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__imperfect__1",
+    "text": "podías",
+    "kind": "form"
+  },
+  {
+    "id": "poder__imperfect__1__s",
+    "text": "Tú podías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__imperfect__2",
+    "text": "podía",
+    "kind": "form"
+  },
+  {
+    "id": "poder__imperfect__2__s",
+    "text": "Ella podía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__imperfect__3",
+    "text": "podíamos",
+    "kind": "form"
+  },
+  {
+    "id": "poder__imperfect__3__s",
+    "text": "Nosotros podíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__imperfect__4",
+    "text": "podían",
+    "kind": "form"
+  },
+  {
+    "id": "poder__imperfect__4__s",
+    "text": "Ellos podían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__subjunctive_present__0",
+    "text": "pueda",
+    "kind": "form"
+  },
+  {
+    "id": "poder__subjunctive_present__0__s",
+    "text": "Quieren que yo pueda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__subjunctive_present__1",
+    "text": "puedas",
+    "kind": "form"
+  },
+  {
+    "id": "poder__subjunctive_present__1__s",
+    "text": "Espero que tú puedas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__subjunctive_present__2",
+    "text": "pueda",
+    "kind": "form"
+  },
+  {
+    "id": "poder__subjunctive_present__2__s",
+    "text": "Es importante que ella pueda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__subjunctive_present__3",
+    "text": "podamos",
+    "kind": "form"
+  },
+  {
+    "id": "poder__subjunctive_present__3__s",
+    "text": "Dudo que nosotros podamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "poder__subjunctive_present__4",
+    "text": "puedan",
+    "kind": "form"
+  },
+  {
+    "id": "poder__subjunctive_present__4__s",
+    "text": "Ojalá que ellos puedan bien.",
+    "kind": "sentence"
+  },
+  {
     "id": "ver__present__0",
     "text": "veo",
     "kind": "form"
@@ -4647,6 +7647,4856 @@
   {
     "id": "ver__future__4__s",
     "text": "Ellos verán la verdad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__imperfect__0",
+    "text": "veía",
+    "kind": "form"
+  },
+  {
+    "id": "ver__imperfect__0__s",
+    "text": "Cuando era niño, yo veía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__imperfect__1",
+    "text": "veías",
+    "kind": "form"
+  },
+  {
+    "id": "ver__imperfect__1__s",
+    "text": "Tú veías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__imperfect__2",
+    "text": "veía",
+    "kind": "form"
+  },
+  {
+    "id": "ver__imperfect__2__s",
+    "text": "Ella veía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__imperfect__3",
+    "text": "veíamos",
+    "kind": "form"
+  },
+  {
+    "id": "ver__imperfect__3__s",
+    "text": "Nosotros veíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__imperfect__4",
+    "text": "veían",
+    "kind": "form"
+  },
+  {
+    "id": "ver__imperfect__4__s",
+    "text": "Ellos veían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__subjunctive_present__0",
+    "text": "vea",
+    "kind": "form"
+  },
+  {
+    "id": "ver__subjunctive_present__0__s",
+    "text": "Quieren que yo vea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__subjunctive_present__1",
+    "text": "veas",
+    "kind": "form"
+  },
+  {
+    "id": "ver__subjunctive_present__1__s",
+    "text": "Espero que tú veas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__subjunctive_present__2",
+    "text": "vea",
+    "kind": "form"
+  },
+  {
+    "id": "ver__subjunctive_present__2__s",
+    "text": "Es importante que ella vea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__subjunctive_present__3",
+    "text": "veamos",
+    "kind": "form"
+  },
+  {
+    "id": "ver__subjunctive_present__3__s",
+    "text": "Dudo que nosotros veamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "ver__subjunctive_present__4",
+    "text": "vean",
+    "kind": "form"
+  },
+  {
+    "id": "ver__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vean bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__present__0",
+    "text": "digo",
+    "kind": "form"
+  },
+  {
+    "id": "decir__present__0__s",
+    "text": "Yo digo la verdad siempre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__present__1",
+    "text": "dices",
+    "kind": "form"
+  },
+  {
+    "id": "decir__present__1__s",
+    "text": "Tú dices muchas cosas interesantes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__present__2",
+    "text": "dice",
+    "kind": "form"
+  },
+  {
+    "id": "decir__present__2__s",
+    "text": "Ella dice que viene a las ocho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__present__3",
+    "text": "decimos",
+    "kind": "form"
+  },
+  {
+    "id": "decir__present__3__s",
+    "text": "Nosotros decimos lo que pensamos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__present__4",
+    "text": "dicen",
+    "kind": "form"
+  },
+  {
+    "id": "decir__present__4__s",
+    "text": "Ellos dicen que el examen es fácil.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__preterite__0",
+    "text": "dije",
+    "kind": "form"
+  },
+  {
+    "id": "decir__preterite__0__s",
+    "text": "Yo dije adiós a mis amigos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__preterite__1",
+    "text": "dijiste",
+    "kind": "form"
+  },
+  {
+    "id": "decir__preterite__1__s",
+    "text": "Tú dijiste algo importante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__preterite__2",
+    "text": "dijo",
+    "kind": "form"
+  },
+  {
+    "id": "decir__preterite__2__s",
+    "text": "Ella dijo la respuesta correcta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__preterite__3",
+    "text": "dijimos",
+    "kind": "form"
+  },
+  {
+    "id": "decir__preterite__3__s",
+    "text": "Nosotros dijimos la verdad al juez.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__preterite__4",
+    "text": "dijeron",
+    "kind": "form"
+  },
+  {
+    "id": "decir__preterite__4__s",
+    "text": "Ellos dijeron muchas mentiras.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__future__0",
+    "text": "diré",
+    "kind": "form"
+  },
+  {
+    "id": "decir__future__0__s",
+    "text": "Yo diré lo que pienso.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__future__1",
+    "text": "dirás",
+    "kind": "form"
+  },
+  {
+    "id": "decir__future__1__s",
+    "text": "Tú dirás la respuesta correcta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__future__2",
+    "text": "dirá",
+    "kind": "form"
+  },
+  {
+    "id": "decir__future__2__s",
+    "text": "Ella dirá su opinión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__future__3",
+    "text": "diremos",
+    "kind": "form"
+  },
+  {
+    "id": "decir__future__3__s",
+    "text": "Nosotros diremos sí o no.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__future__4",
+    "text": "dirán",
+    "kind": "form"
+  },
+  {
+    "id": "decir__future__4__s",
+    "text": "Ellos dirán algo importante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__imperfect__0",
+    "text": "decía",
+    "kind": "form"
+  },
+  {
+    "id": "decir__imperfect__0__s",
+    "text": "Cuando era niño, yo decía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__imperfect__1",
+    "text": "decías",
+    "kind": "form"
+  },
+  {
+    "id": "decir__imperfect__1__s",
+    "text": "Tú decías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__imperfect__2",
+    "text": "decía",
+    "kind": "form"
+  },
+  {
+    "id": "decir__imperfect__2__s",
+    "text": "Ella decía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__imperfect__3",
+    "text": "decíamos",
+    "kind": "form"
+  },
+  {
+    "id": "decir__imperfect__3__s",
+    "text": "Nosotros decíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__imperfect__4",
+    "text": "decían",
+    "kind": "form"
+  },
+  {
+    "id": "decir__imperfect__4__s",
+    "text": "Ellos decían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__subjunctive_present__0",
+    "text": "diga",
+    "kind": "form"
+  },
+  {
+    "id": "decir__subjunctive_present__0__s",
+    "text": "Quieren que yo diga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__subjunctive_present__1",
+    "text": "digas",
+    "kind": "form"
+  },
+  {
+    "id": "decir__subjunctive_present__1__s",
+    "text": "Espero que tú digas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__subjunctive_present__2",
+    "text": "diga",
+    "kind": "form"
+  },
+  {
+    "id": "decir__subjunctive_present__2__s",
+    "text": "Es importante que ella diga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__subjunctive_present__3",
+    "text": "digamos",
+    "kind": "form"
+  },
+  {
+    "id": "decir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros digamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "decir__subjunctive_present__4",
+    "text": "digan",
+    "kind": "form"
+  },
+  {
+    "id": "decir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos digan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__present__0",
+    "text": "doy",
+    "kind": "form"
+  },
+  {
+    "id": "dar__present__0__s",
+    "text": "Yo doy regalos en Navidad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__present__1",
+    "text": "das",
+    "kind": "form"
+  },
+  {
+    "id": "dar__present__1__s",
+    "text": "Tú das buenos consejos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__present__2",
+    "text": "da",
+    "kind": "form"
+  },
+  {
+    "id": "dar__present__2__s",
+    "text": "Ella da clases de piano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__present__3",
+    "text": "damos",
+    "kind": "form"
+  },
+  {
+    "id": "dar__present__3__s",
+    "text": "Nosotros damos dinero a la caridad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__present__4",
+    "text": "dan",
+    "kind": "form"
+  },
+  {
+    "id": "dar__present__4__s",
+    "text": "Ellos dan flores a su madre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__preterite__0",
+    "text": "di",
+    "kind": "form"
+  },
+  {
+    "id": "dar__preterite__0__s",
+    "text": "Yo di mi opinión en la reunión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__preterite__1",
+    "text": "diste",
+    "kind": "form"
+  },
+  {
+    "id": "dar__preterite__1__s",
+    "text": "Tú diste un buen discurso.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__preterite__2",
+    "text": "dio",
+    "kind": "form"
+  },
+  {
+    "id": "dar__preterite__2__s",
+    "text": "Ella dio una vuelta por el parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__preterite__3",
+    "text": "dimos",
+    "kind": "form"
+  },
+  {
+    "id": "dar__preterite__3__s",
+    "text": "Nosotros dimos las gracias al chef.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__preterite__4",
+    "text": "dieron",
+    "kind": "form"
+  },
+  {
+    "id": "dar__preterite__4__s",
+    "text": "Ellos dieron muchos regalos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__future__0",
+    "text": "daré",
+    "kind": "form"
+  },
+  {
+    "id": "dar__future__0__s",
+    "text": "Yo daré una fiesta el sábado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__future__1",
+    "text": "darás",
+    "kind": "form"
+  },
+  {
+    "id": "dar__future__1__s",
+    "text": "Tú darás el examen mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__future__2",
+    "text": "dará",
+    "kind": "form"
+  },
+  {
+    "id": "dar__future__2__s",
+    "text": "Ella dará una clase nueva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__future__3",
+    "text": "daremos",
+    "kind": "form"
+  },
+  {
+    "id": "dar__future__3__s",
+    "text": "Nosotros daremos lo mejor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__future__4",
+    "text": "darán",
+    "kind": "form"
+  },
+  {
+    "id": "dar__future__4__s",
+    "text": "Ellos darán las llaves al portero.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__imperfect__0",
+    "text": "daba",
+    "kind": "form"
+  },
+  {
+    "id": "dar__imperfect__0__s",
+    "text": "Cuando era niño, yo daba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__imperfect__1",
+    "text": "dabas",
+    "kind": "form"
+  },
+  {
+    "id": "dar__imperfect__1__s",
+    "text": "Tú dabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__imperfect__2",
+    "text": "daba",
+    "kind": "form"
+  },
+  {
+    "id": "dar__imperfect__2__s",
+    "text": "Ella daba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__imperfect__3",
+    "text": "dábamos",
+    "kind": "form"
+  },
+  {
+    "id": "dar__imperfect__3__s",
+    "text": "Nosotros dábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__imperfect__4",
+    "text": "daban",
+    "kind": "form"
+  },
+  {
+    "id": "dar__imperfect__4__s",
+    "text": "Ellos daban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__subjunctive_present__0",
+    "text": "dé",
+    "kind": "form"
+  },
+  {
+    "id": "dar__subjunctive_present__0__s",
+    "text": "Quieren que yo dé.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__subjunctive_present__1",
+    "text": "des",
+    "kind": "form"
+  },
+  {
+    "id": "dar__subjunctive_present__1__s",
+    "text": "Espero que tú des pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__subjunctive_present__2",
+    "text": "dé",
+    "kind": "form"
+  },
+  {
+    "id": "dar__subjunctive_present__2__s",
+    "text": "Es importante que ella dé.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__subjunctive_present__3",
+    "text": "demos",
+    "kind": "form"
+  },
+  {
+    "id": "dar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros demos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dar__subjunctive_present__4",
+    "text": "den",
+    "kind": "form"
+  },
+  {
+    "id": "dar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos den bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__present__0",
+    "text": "sé",
+    "kind": "form"
+  },
+  {
+    "id": "saber__present__0__s",
+    "text": "Yo sé hablar tres idiomas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__present__1",
+    "text": "sabes",
+    "kind": "form"
+  },
+  {
+    "id": "saber__present__1__s",
+    "text": "Tú sabes la respuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__present__2",
+    "text": "sabe",
+    "kind": "form"
+  },
+  {
+    "id": "saber__present__2__s",
+    "text": "Ella sabe cocinar muy bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__present__3",
+    "text": "sabemos",
+    "kind": "form"
+  },
+  {
+    "id": "saber__present__3__s",
+    "text": "Nosotros sabemos el camino.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__present__4",
+    "text": "saben",
+    "kind": "form"
+  },
+  {
+    "id": "saber__present__4__s",
+    "text": "Ellos saben mucho de historia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__preterite__0",
+    "text": "supe",
+    "kind": "form"
+  },
+  {
+    "id": "saber__preterite__0__s",
+    "text": "Yo supe la noticia ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__preterite__1",
+    "text": "supiste",
+    "kind": "form"
+  },
+  {
+    "id": "saber__preterite__1__s",
+    "text": "Tú supiste qué hacer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__preterite__2",
+    "text": "supo",
+    "kind": "form"
+  },
+  {
+    "id": "saber__preterite__2__s",
+    "text": "Ella supo la verdad anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__preterite__3",
+    "text": "supimos",
+    "kind": "form"
+  },
+  {
+    "id": "saber__preterite__3__s",
+    "text": "Nosotros supimos el resultado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__preterite__4",
+    "text": "supieron",
+    "kind": "form"
+  },
+  {
+    "id": "saber__preterite__4__s",
+    "text": "Ellos supieron del accidente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__future__0",
+    "text": "sabré",
+    "kind": "form"
+  },
+  {
+    "id": "saber__future__0__s",
+    "text": "Yo sabré la verdad pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__future__1",
+    "text": "sabrás",
+    "kind": "form"
+  },
+  {
+    "id": "saber__future__1__s",
+    "text": "Tú sabrás cómo resolverlo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__future__2",
+    "text": "sabrá",
+    "kind": "form"
+  },
+  {
+    "id": "saber__future__2__s",
+    "text": "Ella sabrá qué decir.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__future__3",
+    "text": "sabremos",
+    "kind": "form"
+  },
+  {
+    "id": "saber__future__3__s",
+    "text": "Nosotros sabremos los resultados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__future__4",
+    "text": "sabrán",
+    "kind": "form"
+  },
+  {
+    "id": "saber__future__4__s",
+    "text": "Ellos sabrán la decisión final.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__imperfect__0",
+    "text": "sabía",
+    "kind": "form"
+  },
+  {
+    "id": "saber__imperfect__0__s",
+    "text": "Cuando era niño, yo sabía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__imperfect__1",
+    "text": "sabías",
+    "kind": "form"
+  },
+  {
+    "id": "saber__imperfect__1__s",
+    "text": "Tú sabías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__imperfect__2",
+    "text": "sabía",
+    "kind": "form"
+  },
+  {
+    "id": "saber__imperfect__2__s",
+    "text": "Ella sabía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__imperfect__3",
+    "text": "sabíamos",
+    "kind": "form"
+  },
+  {
+    "id": "saber__imperfect__3__s",
+    "text": "Nosotros sabíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__imperfect__4",
+    "text": "sabían",
+    "kind": "form"
+  },
+  {
+    "id": "saber__imperfect__4__s",
+    "text": "Ellos sabían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__subjunctive_present__0",
+    "text": "sepa",
+    "kind": "form"
+  },
+  {
+    "id": "saber__subjunctive_present__0__s",
+    "text": "Quieren que yo sepa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__subjunctive_present__1",
+    "text": "sepas",
+    "kind": "form"
+  },
+  {
+    "id": "saber__subjunctive_present__1__s",
+    "text": "Espero que tú sepas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__subjunctive_present__2",
+    "text": "sepa",
+    "kind": "form"
+  },
+  {
+    "id": "saber__subjunctive_present__2__s",
+    "text": "Es importante que ella sepa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__subjunctive_present__3",
+    "text": "sepamos",
+    "kind": "form"
+  },
+  {
+    "id": "saber__subjunctive_present__3__s",
+    "text": "Dudo que nosotros sepamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "saber__subjunctive_present__4",
+    "text": "sepan",
+    "kind": "form"
+  },
+  {
+    "id": "saber__subjunctive_present__4__s",
+    "text": "Ojalá que ellos sepan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__present__0",
+    "text": "conozco",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__present__0__s",
+    "text": "Yo conozco a tu hermana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__present__1",
+    "text": "conoces",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__present__1__s",
+    "text": "Tú conoces la ciudad muy bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__present__2",
+    "text": "conoce",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__present__2__s",
+    "text": "Ella conoce a muchas personas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__present__3",
+    "text": "conocemos",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__present__3__s",
+    "text": "Nosotros conocemos un buen restaurante.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__present__4",
+    "text": "conocen",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__present__4__s",
+    "text": "Ellos conocen ese país.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__preterite__0",
+    "text": "conocí",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__preterite__0__s",
+    "text": "Yo conocí a mi esposa en la universidad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__preterite__1",
+    "text": "conociste",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__preterite__1__s",
+    "text": "Tú conociste a mi familia ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__preterite__2",
+    "text": "conoció",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__preterite__2__s",
+    "text": "Ella conoció Madrid el año pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__preterite__3",
+    "text": "conocimos",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__preterite__3__s",
+    "text": "Nosotros conocimos al nuevo profesor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__preterite__4",
+    "text": "conocieron",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__preterite__4__s",
+    "text": "Ellos conocieron París en verano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__future__0",
+    "text": "conoceré",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__future__0__s",
+    "text": "Yo conoceré a tu novio mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__future__1",
+    "text": "conocerás",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__future__1__s",
+    "text": "Tú conocerás un mundo nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__future__2",
+    "text": "conocerá",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__future__2__s",
+    "text": "Ella conocerá al jefe en la reunión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__future__3",
+    "text": "conoceremos",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__future__3__s",
+    "text": "Nosotros conoceremos la verdad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__future__4",
+    "text": "conocerán",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__future__4__s",
+    "text": "Ellos conocerán Barcelona pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__imperfect__0",
+    "text": "conocía",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__imperfect__0__s",
+    "text": "Cuando era niño, yo conocía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__imperfect__1",
+    "text": "conocías",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__imperfect__1__s",
+    "text": "Tú conocías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__imperfect__2",
+    "text": "conocía",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__imperfect__2__s",
+    "text": "Ella conocía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__imperfect__3",
+    "text": "conocíamos",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__imperfect__3__s",
+    "text": "Nosotros conocíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__imperfect__4",
+    "text": "conocían",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__imperfect__4__s",
+    "text": "Ellos conocían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__subjunctive_present__0",
+    "text": "conozca",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__subjunctive_present__0__s",
+    "text": "Quieren que yo conozca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__subjunctive_present__1",
+    "text": "conozcas",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__subjunctive_present__1__s",
+    "text": "Espero que tú conozcas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__subjunctive_present__2",
+    "text": "conozca",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__subjunctive_present__2__s",
+    "text": "Es importante que ella conozca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__subjunctive_present__3",
+    "text": "conozcamos",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros conozcamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "conocer__subjunctive_present__4",
+    "text": "conozcan",
+    "kind": "form"
+  },
+  {
+    "id": "conocer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos conozcan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__present__0",
+    "text": "vengo",
+    "kind": "form"
+  },
+  {
+    "id": "venir__present__0__s",
+    "text": "Yo vengo de Estados Unidos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__present__1",
+    "text": "vienes",
+    "kind": "form"
+  },
+  {
+    "id": "venir__present__1__s",
+    "text": "Tú vienes a casa después del trabajo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__present__2",
+    "text": "viene",
+    "kind": "form"
+  },
+  {
+    "id": "venir__present__2__s",
+    "text": "Ella viene a vernos cada semana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__present__3",
+    "text": "venimos",
+    "kind": "form"
+  },
+  {
+    "id": "venir__present__3__s",
+    "text": "Nosotros venimos en autobús.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__present__4",
+    "text": "vienen",
+    "kind": "form"
+  },
+  {
+    "id": "venir__present__4__s",
+    "text": "Ellos vienen de una familia grande.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__preterite__0",
+    "text": "vine",
+    "kind": "form"
+  },
+  {
+    "id": "venir__preterite__0__s",
+    "text": "Yo vine en avión desde Nueva York.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__preterite__1",
+    "text": "viniste",
+    "kind": "form"
+  },
+  {
+    "id": "venir__preterite__1__s",
+    "text": "Tú viniste a la fiesta anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__preterite__2",
+    "text": "vino",
+    "kind": "form"
+  },
+  {
+    "id": "venir__preterite__2__s",
+    "text": "Ella vino sin avisar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__preterite__3",
+    "text": "vinimos",
+    "kind": "form"
+  },
+  {
+    "id": "venir__preterite__3__s",
+    "text": "Nosotros vinimos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__preterite__4",
+    "text": "vinieron",
+    "kind": "form"
+  },
+  {
+    "id": "venir__preterite__4__s",
+    "text": "Ellos vinieron tarde a la reunión.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__future__0",
+    "text": "vendré",
+    "kind": "form"
+  },
+  {
+    "id": "venir__future__0__s",
+    "text": "Yo vendré temprano mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__future__1",
+    "text": "vendrás",
+    "kind": "form"
+  },
+  {
+    "id": "venir__future__1__s",
+    "text": "Tú vendrás con nosotros al cine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__future__2",
+    "text": "vendrá",
+    "kind": "form"
+  },
+  {
+    "id": "venir__future__2__s",
+    "text": "Ella vendrá a la boda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__future__3",
+    "text": "vendremos",
+    "kind": "form"
+  },
+  {
+    "id": "venir__future__3__s",
+    "text": "Nosotros vendremos en tren.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__future__4",
+    "text": "vendrán",
+    "kind": "form"
+  },
+  {
+    "id": "venir__future__4__s",
+    "text": "Ellos vendrán al concierto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__imperfect__0",
+    "text": "venía",
+    "kind": "form"
+  },
+  {
+    "id": "venir__imperfect__0__s",
+    "text": "Cuando era niño, yo venía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__imperfect__1",
+    "text": "venías",
+    "kind": "form"
+  },
+  {
+    "id": "venir__imperfect__1__s",
+    "text": "Tú venías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__imperfect__2",
+    "text": "venía",
+    "kind": "form"
+  },
+  {
+    "id": "venir__imperfect__2__s",
+    "text": "Ella venía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__imperfect__3",
+    "text": "veníamos",
+    "kind": "form"
+  },
+  {
+    "id": "venir__imperfect__3__s",
+    "text": "Nosotros veníamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__imperfect__4",
+    "text": "venían",
+    "kind": "form"
+  },
+  {
+    "id": "venir__imperfect__4__s",
+    "text": "Ellos venían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__subjunctive_present__0",
+    "text": "venga",
+    "kind": "form"
+  },
+  {
+    "id": "venir__subjunctive_present__0__s",
+    "text": "Quieren que yo venga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__subjunctive_present__1",
+    "text": "vengas",
+    "kind": "form"
+  },
+  {
+    "id": "venir__subjunctive_present__1__s",
+    "text": "Espero que tú vengas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__subjunctive_present__2",
+    "text": "venga",
+    "kind": "form"
+  },
+  {
+    "id": "venir__subjunctive_present__2__s",
+    "text": "Es importante que ella venga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__subjunctive_present__3",
+    "text": "vengamos",
+    "kind": "form"
+  },
+  {
+    "id": "venir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros vengamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "venir__subjunctive_present__4",
+    "text": "vengan",
+    "kind": "form"
+  },
+  {
+    "id": "venir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vengan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__present__0",
+    "text": "duermo",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__present__0__s",
+    "text": "Yo duermo ocho horas cada noche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__present__1",
+    "text": "duermes",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__present__1__s",
+    "text": "Tú duermes muy poco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__present__2",
+    "text": "duerme",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__present__2__s",
+    "text": "Ella duerme con su gato.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__present__3",
+    "text": "dormimos",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__present__3__s",
+    "text": "Nosotros dormimos en el hotel.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__present__4",
+    "text": "duermen",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__present__4__s",
+    "text": "Ellos duermen toda la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__preterite__0",
+    "text": "dormí",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__preterite__0__s",
+    "text": "Yo dormí muy bien anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__preterite__1",
+    "text": "dormiste",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__preterite__1__s",
+    "text": "Tú dormiste hasta las diez.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__preterite__2",
+    "text": "durmió",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__preterite__2__s",
+    "text": "Ella durmió en el sofá.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__preterite__3",
+    "text": "dormimos",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__preterite__3__s",
+    "text": "Nosotros dormimos en la playa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__preterite__4",
+    "text": "durmieron",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__preterite__4__s",
+    "text": "Ellos durmieron poco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__future__0",
+    "text": "dormiré",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__future__0__s",
+    "text": "Yo dormiré temprano hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__future__1",
+    "text": "dormirás",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__future__1__s",
+    "text": "Tú dormirás mejor con esta almohada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__future__2",
+    "text": "dormirá",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__future__2__s",
+    "text": "Ella dormirá en el cuarto de invitados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__future__3",
+    "text": "dormiremos",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__future__3__s",
+    "text": "Nosotros dormiremos en la tienda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__future__4",
+    "text": "dormirán",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__future__4__s",
+    "text": "Ellos dormirán todo el día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__imperfect__0",
+    "text": "dormía",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__imperfect__0__s",
+    "text": "Cuando era niño, yo dormía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__imperfect__1",
+    "text": "dormías",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__imperfect__1__s",
+    "text": "Tú dormías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__imperfect__2",
+    "text": "dormía",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__imperfect__2__s",
+    "text": "Ella dormía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__imperfect__3",
+    "text": "dormíamos",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__imperfect__3__s",
+    "text": "Nosotros dormíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__imperfect__4",
+    "text": "dormían",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__imperfect__4__s",
+    "text": "Ellos dormían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__subjunctive_present__0",
+    "text": "duerma",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__subjunctive_present__0__s",
+    "text": "Quieren que yo duerma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__subjunctive_present__1",
+    "text": "duermas",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__subjunctive_present__1__s",
+    "text": "Espero que tú duermas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__subjunctive_present__2",
+    "text": "duerma",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__subjunctive_present__2__s",
+    "text": "Es importante que ella duerma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__subjunctive_present__3",
+    "text": "durmamos",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros durmamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "dormir__subjunctive_present__4",
+    "text": "duerman",
+    "kind": "form"
+  },
+  {
+    "id": "dormir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos duerman bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__present__0",
+    "text": "juego",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__present__0__s",
+    "text": "Yo juego al fútbol los sábados.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__present__1",
+    "text": "juegas",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__present__1__s",
+    "text": "Tú juegas muy bien al tenis.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__present__2",
+    "text": "juega",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__present__2__s",
+    "text": "Ella juega con sus muñecas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__present__3",
+    "text": "jugamos",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__present__3__s",
+    "text": "Nosotros jugamos a las cartas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__present__4",
+    "text": "juegan",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__present__4__s",
+    "text": "Ellos juegan en el parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__preterite__0",
+    "text": "jugué",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__preterite__0__s",
+    "text": "Yo jugué al ajedrez con mi abuelo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__preterite__1",
+    "text": "jugaste",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__preterite__1__s",
+    "text": "Tú jugaste un partido fantástico.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__preterite__2",
+    "text": "jugó",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__preterite__2__s",
+    "text": "Ella jugó en el equipo nacional.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__preterite__3",
+    "text": "jugamos",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__preterite__3__s",
+    "text": "Nosotros jugamos toda la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__preterite__4",
+    "text": "jugaron",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__preterite__4__s",
+    "text": "Ellos jugaron mejor que nunca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__future__0",
+    "text": "jugaré",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__future__0__s",
+    "text": "Yo jugaré al baloncesto mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__future__1",
+    "text": "jugarás",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__future__1__s",
+    "text": "Tú jugarás en el torneo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__future__2",
+    "text": "jugará",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__future__2__s",
+    "text": "Ella jugará el papel principal.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__future__3",
+    "text": "jugaremos",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__future__3__s",
+    "text": "Nosotros jugaremos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__future__4",
+    "text": "jugarán",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__future__4__s",
+    "text": "Ellos jugarán contra el campeón.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__imperfect__0",
+    "text": "jugaba",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__imperfect__0__s",
+    "text": "Cuando era niño, yo jugaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__imperfect__1",
+    "text": "jugabas",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__imperfect__1__s",
+    "text": "Tú jugabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__imperfect__2",
+    "text": "jugaba",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__imperfect__2__s",
+    "text": "Ella jugaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__imperfect__3",
+    "text": "jugábamos",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__imperfect__3__s",
+    "text": "Nosotros jugábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__imperfect__4",
+    "text": "jugaban",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__imperfect__4__s",
+    "text": "Ellos jugaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__subjunctive_present__0",
+    "text": "juegue",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__subjunctive_present__0__s",
+    "text": "Quieren que yo juegue.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__subjunctive_present__1",
+    "text": "juegues",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__subjunctive_present__1__s",
+    "text": "Espero que tú juegues pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__subjunctive_present__2",
+    "text": "juegue",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__subjunctive_present__2__s",
+    "text": "Es importante que ella juegue.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__subjunctive_present__3",
+    "text": "juguemos",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros juguemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "jugar__subjunctive_present__4",
+    "text": "jueguen",
+    "kind": "form"
+  },
+  {
+    "id": "jugar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos jueguen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__present__0",
+    "text": "pienso",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__present__0__s",
+    "text": "Yo pienso mucho en el futuro.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__present__1",
+    "text": "piensas",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__present__1__s",
+    "text": "Tú piensas demasiado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__present__2",
+    "text": "piensa",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__present__2__s",
+    "text": "Ella piensa en su familia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__present__3",
+    "text": "pensamos",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__present__3__s",
+    "text": "Nosotros pensamos lo mismo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__present__4",
+    "text": "piensan",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__present__4__s",
+    "text": "Ellos piensan que es injusto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__preterite__0",
+    "text": "pensé",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__preterite__0__s",
+    "text": "Yo pensé en ti todo el día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__preterite__1",
+    "text": "pensaste",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__preterite__1__s",
+    "text": "Tú pensaste rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__preterite__2",
+    "text": "pensó",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__preterite__2__s",
+    "text": "Ella pensó en la solución.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__preterite__3",
+    "text": "pensamos",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__preterite__3__s",
+    "text": "Nosotros pensamos mucho antes de decidir.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__preterite__4",
+    "text": "pensaron",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__preterite__4__s",
+    "text": "Ellos pensaron que era una broma.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__future__0",
+    "text": "pensaré",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__future__0__s",
+    "text": "Yo pensaré en tu propuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__future__1",
+    "text": "pensarás",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__future__1__s",
+    "text": "Tú pensarás mejor mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__future__2",
+    "text": "pensará",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__future__2__s",
+    "text": "Ella pensará en la respuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__future__3",
+    "text": "pensaremos",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__future__3__s",
+    "text": "Nosotros pensaremos en el plan.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__future__4",
+    "text": "pensarán",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__future__4__s",
+    "text": "Ellos pensarán antes de actuar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__imperfect__0",
+    "text": "pensaba",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__imperfect__0__s",
+    "text": "Cuando era niño, yo pensaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__imperfect__1",
+    "text": "pensabas",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__imperfect__1__s",
+    "text": "Tú pensabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__imperfect__2",
+    "text": "pensaba",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__imperfect__2__s",
+    "text": "Ella pensaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__imperfect__3",
+    "text": "pensábamos",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__imperfect__3__s",
+    "text": "Nosotros pensábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__imperfect__4",
+    "text": "pensaban",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__imperfect__4__s",
+    "text": "Ellos pensaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__subjunctive_present__0",
+    "text": "piense",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__subjunctive_present__0__s",
+    "text": "Quieren que yo piense.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__subjunctive_present__1",
+    "text": "pienses",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__subjunctive_present__1__s",
+    "text": "Espero que tú pienses pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__subjunctive_present__2",
+    "text": "piense",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__subjunctive_present__2__s",
+    "text": "Es importante que ella piense.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__subjunctive_present__3",
+    "text": "pensemos",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros pensemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pensar__subjunctive_present__4",
+    "text": "piensen",
+    "kind": "form"
+  },
+  {
+    "id": "pensar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos piensen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__present__0",
+    "text": "creo",
+    "kind": "form"
+  },
+  {
+    "id": "creer__present__0__s",
+    "text": "Yo creo en la magia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__present__1",
+    "text": "crees",
+    "kind": "form"
+  },
+  {
+    "id": "creer__present__1__s",
+    "text": "Tú crees todo lo que ves.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__present__2",
+    "text": "cree",
+    "kind": "form"
+  },
+  {
+    "id": "creer__present__2__s",
+    "text": "Ella cree en sus sueños.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__present__3",
+    "text": "creemos",
+    "kind": "form"
+  },
+  {
+    "id": "creer__present__3__s",
+    "text": "Nosotros creemos en el amor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__present__4",
+    "text": "creen",
+    "kind": "form"
+  },
+  {
+    "id": "creer__present__4__s",
+    "text": "Ellos creen en Dios.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__preterite__0",
+    "text": "creí",
+    "kind": "form"
+  },
+  {
+    "id": "creer__preterite__0__s",
+    "text": "Yo creí su historia.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__preterite__1",
+    "text": "creíste",
+    "kind": "form"
+  },
+  {
+    "id": "creer__preterite__1__s",
+    "text": "Tú creíste demasiado pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__preterite__2",
+    "text": "creyó",
+    "kind": "form"
+  },
+  {
+    "id": "creer__preterite__2__s",
+    "text": "Ella creyó en mí desde el principio.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__preterite__3",
+    "text": "creímos",
+    "kind": "form"
+  },
+  {
+    "id": "creer__preterite__3__s",
+    "text": "Nosotros creímos la mentira.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__preterite__4",
+    "text": "creyeron",
+    "kind": "form"
+  },
+  {
+    "id": "creer__preterite__4__s",
+    "text": "Ellos creyeron en el milagro.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__future__0",
+    "text": "creeré",
+    "kind": "form"
+  },
+  {
+    "id": "creer__future__0__s",
+    "text": "Yo creeré cuando lo vea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__future__1",
+    "text": "creerás",
+    "kind": "form"
+  },
+  {
+    "id": "creer__future__1__s",
+    "text": "Tú creerás en ti mismo algún día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__future__2",
+    "text": "creerá",
+    "kind": "form"
+  },
+  {
+    "id": "creer__future__2__s",
+    "text": "Ella creerá la verdad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__future__3",
+    "text": "creeremos",
+    "kind": "form"
+  },
+  {
+    "id": "creer__future__3__s",
+    "text": "Nosotros creeremos en el plan.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__future__4",
+    "text": "creerán",
+    "kind": "form"
+  },
+  {
+    "id": "creer__future__4__s",
+    "text": "Ellos creerán en la causa.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__imperfect__0",
+    "text": "creía",
+    "kind": "form"
+  },
+  {
+    "id": "creer__imperfect__0__s",
+    "text": "Cuando era niño, yo creía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__imperfect__1",
+    "text": "creías",
+    "kind": "form"
+  },
+  {
+    "id": "creer__imperfect__1__s",
+    "text": "Tú creías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__imperfect__2",
+    "text": "creía",
+    "kind": "form"
+  },
+  {
+    "id": "creer__imperfect__2__s",
+    "text": "Ella creía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__imperfect__3",
+    "text": "creíamos",
+    "kind": "form"
+  },
+  {
+    "id": "creer__imperfect__3__s",
+    "text": "Nosotros creíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__imperfect__4",
+    "text": "creían",
+    "kind": "form"
+  },
+  {
+    "id": "creer__imperfect__4__s",
+    "text": "Ellos creían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__subjunctive_present__0",
+    "text": "crea",
+    "kind": "form"
+  },
+  {
+    "id": "creer__subjunctive_present__0__s",
+    "text": "Quieren que yo crea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__subjunctive_present__1",
+    "text": "creas",
+    "kind": "form"
+  },
+  {
+    "id": "creer__subjunctive_present__1__s",
+    "text": "Espero que tú creas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__subjunctive_present__2",
+    "text": "crea",
+    "kind": "form"
+  },
+  {
+    "id": "creer__subjunctive_present__2__s",
+    "text": "Es importante que ella crea.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__subjunctive_present__3",
+    "text": "creamos",
+    "kind": "form"
+  },
+  {
+    "id": "creer__subjunctive_present__3__s",
+    "text": "Dudo que nosotros creamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "creer__subjunctive_present__4",
+    "text": "crean",
+    "kind": "form"
+  },
+  {
+    "id": "creer__subjunctive_present__4__s",
+    "text": "Ojalá que ellos crean bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__present__0",
+    "text": "entiendo",
+    "kind": "form"
+  },
+  {
+    "id": "entender__present__0__s",
+    "text": "Yo entiendo español perfectamente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__present__1",
+    "text": "entiendes",
+    "kind": "form"
+  },
+  {
+    "id": "entender__present__1__s",
+    "text": "Tú entiendes la situación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__present__2",
+    "text": "entiende",
+    "kind": "form"
+  },
+  {
+    "id": "entender__present__2__s",
+    "text": "Ella entiende cómo funciona.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__present__3",
+    "text": "entendemos",
+    "kind": "form"
+  },
+  {
+    "id": "entender__present__3__s",
+    "text": "Nosotros entendemos el problema.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__present__4",
+    "text": "entienden",
+    "kind": "form"
+  },
+  {
+    "id": "entender__present__4__s",
+    "text": "Ellos entienden la lección.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__preterite__0",
+    "text": "entendí",
+    "kind": "form"
+  },
+  {
+    "id": "entender__preterite__0__s",
+    "text": "Yo entendí la pregunta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__preterite__1",
+    "text": "entendiste",
+    "kind": "form"
+  },
+  {
+    "id": "entender__preterite__1__s",
+    "text": "Tú entendiste rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__preterite__2",
+    "text": "entendió",
+    "kind": "form"
+  },
+  {
+    "id": "entender__preterite__2__s",
+    "text": "Ella entendió la indirecta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__preterite__3",
+    "text": "entendimos",
+    "kind": "form"
+  },
+  {
+    "id": "entender__preterite__3__s",
+    "text": "Nosotros entendimos su preocupación.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__preterite__4",
+    "text": "entendieron",
+    "kind": "form"
+  },
+  {
+    "id": "entender__preterite__4__s",
+    "text": "Ellos entendieron al final.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__future__0",
+    "text": "entenderé",
+    "kind": "form"
+  },
+  {
+    "id": "entender__future__0__s",
+    "text": "Yo entenderé con el tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__future__1",
+    "text": "entenderás",
+    "kind": "form"
+  },
+  {
+    "id": "entender__future__1__s",
+    "text": "Tú entenderás cuando seas mayor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__future__2",
+    "text": "entenderá",
+    "kind": "form"
+  },
+  {
+    "id": "entender__future__2__s",
+    "text": "Ella entenderá tu punto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__future__3",
+    "text": "entenderemos",
+    "kind": "form"
+  },
+  {
+    "id": "entender__future__3__s",
+    "text": "Nosotros entenderemos algún día.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__future__4",
+    "text": "entenderán",
+    "kind": "form"
+  },
+  {
+    "id": "entender__future__4__s",
+    "text": "Ellos entenderán el motivo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__imperfect__0",
+    "text": "entendía",
+    "kind": "form"
+  },
+  {
+    "id": "entender__imperfect__0__s",
+    "text": "Cuando era niño, yo entendía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__imperfect__1",
+    "text": "entendías",
+    "kind": "form"
+  },
+  {
+    "id": "entender__imperfect__1__s",
+    "text": "Tú entendías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__imperfect__2",
+    "text": "entendía",
+    "kind": "form"
+  },
+  {
+    "id": "entender__imperfect__2__s",
+    "text": "Ella entendía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__imperfect__3",
+    "text": "entendíamos",
+    "kind": "form"
+  },
+  {
+    "id": "entender__imperfect__3__s",
+    "text": "Nosotros entendíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__imperfect__4",
+    "text": "entendían",
+    "kind": "form"
+  },
+  {
+    "id": "entender__imperfect__4__s",
+    "text": "Ellos entendían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__subjunctive_present__0",
+    "text": "entenda",
+    "kind": "form"
+  },
+  {
+    "id": "entender__subjunctive_present__0__s",
+    "text": "Quieren que yo entenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__subjunctive_present__1",
+    "text": "entendas",
+    "kind": "form"
+  },
+  {
+    "id": "entender__subjunctive_present__1__s",
+    "text": "Espero que tú entendas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__subjunctive_present__2",
+    "text": "entenda",
+    "kind": "form"
+  },
+  {
+    "id": "entender__subjunctive_present__2__s",
+    "text": "Es importante que ella entenda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__subjunctive_present__3",
+    "text": "entendamos",
+    "kind": "form"
+  },
+  {
+    "id": "entender__subjunctive_present__3__s",
+    "text": "Dudo que nosotros entendamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "entender__subjunctive_present__4",
+    "text": "entendan",
+    "kind": "form"
+  },
+  {
+    "id": "entender__subjunctive_present__4__s",
+    "text": "Ojalá que ellos entendan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__present__0",
+    "text": "llego",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__present__0__s",
+    "text": "Yo llego al trabajo a las nueve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__present__1",
+    "text": "llegas",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__present__1__s",
+    "text": "Tú llegas siempre tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__present__2",
+    "text": "llega",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__present__2__s",
+    "text": "Ella llega en tren.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__present__3",
+    "text": "llegamos",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__present__3__s",
+    "text": "Nosotros llegamos a tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__present__4",
+    "text": "llegan",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__present__4__s",
+    "text": "Ellos llegan del aeropuerto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__preterite__0",
+    "text": "llegué",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__preterite__0__s",
+    "text": "Yo llegué muy temprano hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__preterite__1",
+    "text": "llegaste",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__preterite__1__s",
+    "text": "Tú llegaste justo a tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__preterite__2",
+    "text": "llegó",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__preterite__2__s",
+    "text": "Ella llegó con un regalo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__preterite__3",
+    "text": "llegamos",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__preterite__3__s",
+    "text": "Nosotros llegamos sin problemas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__preterite__4",
+    "text": "llegaron",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__preterite__4__s",
+    "text": "Ellos llegaron al hotel anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__future__0",
+    "text": "llegaré",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__future__0__s",
+    "text": "Yo llegaré antes del mediodía.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__future__1",
+    "text": "llegarás",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__future__1__s",
+    "text": "Tú llegarás cansado del viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__future__2",
+    "text": "llegará",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__future__2__s",
+    "text": "Ella llegará el viernes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__future__3",
+    "text": "llegaremos",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__future__3__s",
+    "text": "Nosotros llegaremos en una hora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__future__4",
+    "text": "llegarán",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__future__4__s",
+    "text": "Ellos llegarán por la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__imperfect__0",
+    "text": "llegaba",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__imperfect__0__s",
+    "text": "Cuando era niño, yo llegaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__imperfect__1",
+    "text": "llegabas",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__imperfect__1__s",
+    "text": "Tú llegabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__imperfect__2",
+    "text": "llegaba",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__imperfect__2__s",
+    "text": "Ella llegaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__imperfect__3",
+    "text": "llegábamos",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__imperfect__3__s",
+    "text": "Nosotros llegábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__imperfect__4",
+    "text": "llegaban",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__imperfect__4__s",
+    "text": "Ellos llegaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__subjunctive_present__0",
+    "text": "llegue",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__subjunctive_present__0__s",
+    "text": "Quieren que yo llegue.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__subjunctive_present__1",
+    "text": "llegues",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__subjunctive_present__1__s",
+    "text": "Espero que tú llegues pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__subjunctive_present__2",
+    "text": "llegue",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__subjunctive_present__2__s",
+    "text": "Es importante que ella llegue.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__subjunctive_present__3",
+    "text": "lleguemos",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros lleguemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llegar__subjunctive_present__4",
+    "text": "lleguen",
+    "kind": "form"
+  },
+  {
+    "id": "llegar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos lleguen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__present__0",
+    "text": "salgo",
+    "kind": "form"
+  },
+  {
+    "id": "salir__present__0__s",
+    "text": "Yo salgo de casa a las ocho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__present__1",
+    "text": "sales",
+    "kind": "form"
+  },
+  {
+    "id": "salir__present__1__s",
+    "text": "Tú sales con tus amigos los viernes.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__present__2",
+    "text": "sale",
+    "kind": "form"
+  },
+  {
+    "id": "salir__present__2__s",
+    "text": "Ella sale del trabajo a las cinco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__present__3",
+    "text": "salimos",
+    "kind": "form"
+  },
+  {
+    "id": "salir__present__3__s",
+    "text": "Nosotros salimos a cenar fuera.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__present__4",
+    "text": "salen",
+    "kind": "form"
+  },
+  {
+    "id": "salir__present__4__s",
+    "text": "Ellos salen del cine muy tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__preterite__0",
+    "text": "salí",
+    "kind": "form"
+  },
+  {
+    "id": "salir__preterite__0__s",
+    "text": "Yo salí temprano ayer.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__preterite__1",
+    "text": "saliste",
+    "kind": "form"
+  },
+  {
+    "id": "salir__preterite__1__s",
+    "text": "Tú saliste sin chaqueta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__preterite__2",
+    "text": "salió",
+    "kind": "form"
+  },
+  {
+    "id": "salir__preterite__2__s",
+    "text": "Ella salió a las seis.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__preterite__3",
+    "text": "salimos",
+    "kind": "form"
+  },
+  {
+    "id": "salir__preterite__3__s",
+    "text": "Nosotros salimos del bar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__preterite__4",
+    "text": "salieron",
+    "kind": "form"
+  },
+  {
+    "id": "salir__preterite__4__s",
+    "text": "Ellos salieron sin decir nada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__future__0",
+    "text": "saldré",
+    "kind": "form"
+  },
+  {
+    "id": "salir__future__0__s",
+    "text": "Yo saldré pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__future__1",
+    "text": "saldrás",
+    "kind": "form"
+  },
+  {
+    "id": "salir__future__1__s",
+    "text": "Tú saldrás bien en el examen.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__future__2",
+    "text": "saldrá",
+    "kind": "form"
+  },
+  {
+    "id": "salir__future__2__s",
+    "text": "Ella saldrá de la oficina a las seis.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__future__3",
+    "text": "saldremos",
+    "kind": "form"
+  },
+  {
+    "id": "salir__future__3__s",
+    "text": "Nosotros saldremos juntos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__future__4",
+    "text": "saldrán",
+    "kind": "form"
+  },
+  {
+    "id": "salir__future__4__s",
+    "text": "Ellos saldrán de viaje mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__imperfect__0",
+    "text": "salía",
+    "kind": "form"
+  },
+  {
+    "id": "salir__imperfect__0__s",
+    "text": "Cuando era niño, yo salía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__imperfect__1",
+    "text": "salías",
+    "kind": "form"
+  },
+  {
+    "id": "salir__imperfect__1__s",
+    "text": "Tú salías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__imperfect__2",
+    "text": "salía",
+    "kind": "form"
+  },
+  {
+    "id": "salir__imperfect__2__s",
+    "text": "Ella salía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__imperfect__3",
+    "text": "salíamos",
+    "kind": "form"
+  },
+  {
+    "id": "salir__imperfect__3__s",
+    "text": "Nosotros salíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__imperfect__4",
+    "text": "salían",
+    "kind": "form"
+  },
+  {
+    "id": "salir__imperfect__4__s",
+    "text": "Ellos salían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__subjunctive_present__0",
+    "text": "salga",
+    "kind": "form"
+  },
+  {
+    "id": "salir__subjunctive_present__0__s",
+    "text": "Quieren que yo salga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__subjunctive_present__1",
+    "text": "salgas",
+    "kind": "form"
+  },
+  {
+    "id": "salir__subjunctive_present__1__s",
+    "text": "Espero que tú salgas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__subjunctive_present__2",
+    "text": "salga",
+    "kind": "form"
+  },
+  {
+    "id": "salir__subjunctive_present__2__s",
+    "text": "Es importante que ella salga.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__subjunctive_present__3",
+    "text": "salgamos",
+    "kind": "form"
+  },
+  {
+    "id": "salir__subjunctive_present__3__s",
+    "text": "Dudo que nosotros salgamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "salir__subjunctive_present__4",
+    "text": "salgan",
+    "kind": "form"
+  },
+  {
+    "id": "salir__subjunctive_present__4__s",
+    "text": "Ojalá que ellos salgan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__present__0",
+    "text": "espero",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__present__0__s",
+    "text": "Yo espero el autobús.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__present__1",
+    "text": "esperas",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__present__1__s",
+    "text": "Tú esperas demasiado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__present__2",
+    "text": "espera",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__present__2__s",
+    "text": "Ella espera buenas noticias.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__present__3",
+    "text": "esperamos",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__present__3__s",
+    "text": "Nosotros esperamos al doctor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__present__4",
+    "text": "esperan",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__present__4__s",
+    "text": "Ellos esperan el tren.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__preterite__0",
+    "text": "esperé",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__preterite__0__s",
+    "text": "Yo esperé una hora.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__preterite__1",
+    "text": "esperaste",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__preterite__1__s",
+    "text": "Tú esperaste pacientemente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__preterite__2",
+    "text": "esperó",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__preterite__2__s",
+    "text": "Ella esperó toda la tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__preterite__3",
+    "text": "esperamos",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__preterite__3__s",
+    "text": "Nosotros esperamos en la cola.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__preterite__4",
+    "text": "esperaron",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__preterite__4__s",
+    "text": "Ellos esperaron el resultado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__future__0",
+    "text": "esperaré",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__future__0__s",
+    "text": "Yo esperaré tu llamada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__future__1",
+    "text": "esperarás",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__future__1__s",
+    "text": "Tú esperarás tu turno.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__future__2",
+    "text": "esperará",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__future__2__s",
+    "text": "Ella esperará a su esposo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__future__3",
+    "text": "esperaremos",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__future__3__s",
+    "text": "Nosotros esperaremos noticias.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__future__4",
+    "text": "esperarán",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__future__4__s",
+    "text": "Ellos esperarán hasta mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__imperfect__0",
+    "text": "esperaba",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__imperfect__0__s",
+    "text": "Cuando era niño, yo esperaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__imperfect__1",
+    "text": "esperabas",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__imperfect__1__s",
+    "text": "Tú esperabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__imperfect__2",
+    "text": "esperaba",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__imperfect__2__s",
+    "text": "Ella esperaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__imperfect__3",
+    "text": "esperábamos",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__imperfect__3__s",
+    "text": "Nosotros esperábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__imperfect__4",
+    "text": "esperaban",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__imperfect__4__s",
+    "text": "Ellos esperaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__subjunctive_present__0",
+    "text": "espere",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__subjunctive_present__0__s",
+    "text": "Quieren que yo espere.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__subjunctive_present__1",
+    "text": "esperes",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__subjunctive_present__1__s",
+    "text": "Espero que tú esperes pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__subjunctive_present__2",
+    "text": "espere",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__subjunctive_present__2__s",
+    "text": "Es importante que ella espere.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__subjunctive_present__3",
+    "text": "esperemos",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros esperemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "esperar__subjunctive_present__4",
+    "text": "esperen",
+    "kind": "form"
+  },
+  {
+    "id": "esperar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos esperen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__present__0",
+    "text": "pago",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__present__0__s",
+    "text": "Yo pago la cuenta hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__present__1",
+    "text": "pagas",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__present__1__s",
+    "text": "Tú pagas mucho de alquiler.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__present__2",
+    "text": "paga",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__present__2__s",
+    "text": "Ella paga con tarjeta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__present__3",
+    "text": "pagamos",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__present__3__s",
+    "text": "Nosotros pagamos en efectivo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__present__4",
+    "text": "pagan",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__present__4__s",
+    "text": "Ellos pagan los impuestos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__preterite__0",
+    "text": "pagué",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__preterite__0__s",
+    "text": "Yo pagué la cena.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__preterite__1",
+    "text": "pagaste",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__preterite__1__s",
+    "text": "Tú pagaste poco por eso.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__preterite__2",
+    "text": "pagó",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__preterite__2__s",
+    "text": "Ella pagó el doble.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__preterite__3",
+    "text": "pagamos",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__preterite__3__s",
+    "text": "Nosotros pagamos al camarero.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__preterite__4",
+    "text": "pagaron",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__preterite__4__s",
+    "text": "Ellos pagaron las entradas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__future__0",
+    "text": "pagaré",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__future__0__s",
+    "text": "Yo pagaré mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__future__1",
+    "text": "pagarás",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__future__1__s",
+    "text": "Tú pagarás el viaje.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__future__2",
+    "text": "pagará",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__future__2__s",
+    "text": "Ella pagará en plazos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__future__3",
+    "text": "pagaremos",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__future__3__s",
+    "text": "Nosotros pagaremos la deuda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__future__4",
+    "text": "pagarán",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__future__4__s",
+    "text": "Ellos pagarán el daño.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__imperfect__0",
+    "text": "pagaba",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__imperfect__0__s",
+    "text": "Cuando era niño, yo pagaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__imperfect__1",
+    "text": "pagabas",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__imperfect__1__s",
+    "text": "Tú pagabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__imperfect__2",
+    "text": "pagaba",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__imperfect__2__s",
+    "text": "Ella pagaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__imperfect__3",
+    "text": "pagábamos",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__imperfect__3__s",
+    "text": "Nosotros pagábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__imperfect__4",
+    "text": "pagaban",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__imperfect__4__s",
+    "text": "Ellos pagaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__subjunctive_present__0",
+    "text": "pague",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__subjunctive_present__0__s",
+    "text": "Quieren que yo pague.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__subjunctive_present__1",
+    "text": "pagues",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__subjunctive_present__1__s",
+    "text": "Espero que tú pagues pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__subjunctive_present__2",
+    "text": "pague",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__subjunctive_present__2__s",
+    "text": "Es importante que ella pague.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__subjunctive_present__3",
+    "text": "paguemos",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros paguemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "pagar__subjunctive_present__4",
+    "text": "paguen",
+    "kind": "form"
+  },
+  {
+    "id": "pagar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos paguen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__present__0",
+    "text": "llevo",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__present__0__s",
+    "text": "Yo llevo mi mochila a clase.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__present__1",
+    "text": "llevas",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__present__1__s",
+    "text": "Tú llevas una camisa blanca.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__present__2",
+    "text": "lleva",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__present__2__s",
+    "text": "Ella lleva el bebé en brazos.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__present__3",
+    "text": "llevamos",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__present__3__s",
+    "text": "Nosotros llevamos comida al picnic.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__present__4",
+    "text": "llevan",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__present__4__s",
+    "text": "Ellos llevan regalos a la fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__preterite__0",
+    "text": "llevé",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__preterite__0__s",
+    "text": "Yo llevé la maleta al hotel.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__preterite__1",
+    "text": "llevaste",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__preterite__1__s",
+    "text": "Tú llevaste a los niños al parque.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__preterite__2",
+    "text": "llevó",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__preterite__2__s",
+    "text": "Ella llevó flores al hospital.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__preterite__3",
+    "text": "llevamos",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__preterite__3__s",
+    "text": "Nosotros llevamos vino a la cena.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__preterite__4",
+    "text": "llevaron",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__preterite__4__s",
+    "text": "Ellos llevaron la torta a la fiesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__future__0",
+    "text": "llevaré",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__future__0__s",
+    "text": "Yo llevaré paraguas por si llueve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__future__1",
+    "text": "llevarás",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__future__1__s",
+    "text": "Tú llevarás el almuerzo al trabajo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__future__2",
+    "text": "llevará",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__future__2__s",
+    "text": "Ella llevará un vestido nuevo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__future__3",
+    "text": "llevaremos",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__future__3__s",
+    "text": "Nosotros llevaremos el coche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__future__4",
+    "text": "llevarán",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__future__4__s",
+    "text": "Ellos llevarán a sus hijos al cine.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__imperfect__0",
+    "text": "llevaba",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__imperfect__0__s",
+    "text": "Cuando era niño, yo llevaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__imperfect__1",
+    "text": "llevabas",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__imperfect__1__s",
+    "text": "Tú llevabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__imperfect__2",
+    "text": "llevaba",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__imperfect__2__s",
+    "text": "Ella llevaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__imperfect__3",
+    "text": "llevábamos",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__imperfect__3__s",
+    "text": "Nosotros llevábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__imperfect__4",
+    "text": "llevaban",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__imperfect__4__s",
+    "text": "Ellos llevaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__subjunctive_present__0",
+    "text": "lleve",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__subjunctive_present__0__s",
+    "text": "Quieren que yo lleve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__subjunctive_present__1",
+    "text": "lleves",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__subjunctive_present__1__s",
+    "text": "Espero que tú lleves pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__subjunctive_present__2",
+    "text": "lleve",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__subjunctive_present__2__s",
+    "text": "Es importante que ella lleve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__subjunctive_present__3",
+    "text": "llevemos",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros llevemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "llevar__subjunctive_present__4",
+    "text": "lleven",
+    "kind": "form"
+  },
+  {
+    "id": "llevar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos lleven bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__present__0",
+    "text": "encuentro",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__present__0__s",
+    "text": "Yo encuentro mis llaves siempre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__present__1",
+    "text": "encuentras",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__present__1__s",
+    "text": "Tú encuentras buenas ofertas.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__present__2",
+    "text": "encuentra",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__present__2__s",
+    "text": "Ella encuentra paz en la naturaleza.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__present__3",
+    "text": "encontramos",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__present__3__s",
+    "text": "Nosotros encontramos una solución.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__present__4",
+    "text": "encuentran",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__present__4__s",
+    "text": "Ellos encuentran trabajos rápidamente.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__preterite__0",
+    "text": "encontré",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__preterite__0__s",
+    "text": "Yo encontré dinero en la calle.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__preterite__1",
+    "text": "encontraste",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__preterite__1__s",
+    "text": "Tú encontraste el libro perdido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__preterite__2",
+    "text": "encontró",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__preterite__2__s",
+    "text": "Ella encontró su anillo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__preterite__3",
+    "text": "encontramos",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__preterite__3__s",
+    "text": "Nosotros encontramos un buen hotel.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__preterite__4",
+    "text": "encontraron",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__preterite__4__s",
+    "text": "Ellos encontraron el camino correcto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__future__0",
+    "text": "encontraré",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__future__0__s",
+    "text": "Yo encontraré la respuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__future__1",
+    "text": "encontrarás",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__future__1__s",
+    "text": "Tú encontrarás el amor.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__future__2",
+    "text": "encontrará",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__future__2__s",
+    "text": "Ella encontrará un nuevo apartamento.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__future__3",
+    "text": "encontraremos",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__future__3__s",
+    "text": "Nosotros encontraremos la verdad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__future__4",
+    "text": "encontrarán",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__future__4__s",
+    "text": "Ellos encontrarán una manera.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__imperfect__0",
+    "text": "encontraba",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__imperfect__0__s",
+    "text": "Cuando era niño, yo encontraba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__imperfect__1",
+    "text": "encontrabas",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__imperfect__1__s",
+    "text": "Tú encontrabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__imperfect__2",
+    "text": "encontraba",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__imperfect__2__s",
+    "text": "Ella encontraba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__imperfect__3",
+    "text": "encontrábamos",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__imperfect__3__s",
+    "text": "Nosotros encontrábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__imperfect__4",
+    "text": "encontraban",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__imperfect__4__s",
+    "text": "Ellos encontraban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__subjunctive_present__0",
+    "text": "encontre",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__subjunctive_present__0__s",
+    "text": "Quieren que yo encontre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__subjunctive_present__1",
+    "text": "encontres",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__subjunctive_present__1__s",
+    "text": "Espero que tú encontres pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__subjunctive_present__2",
+    "text": "encontre",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__subjunctive_present__2__s",
+    "text": "Es importante que ella encontre.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__subjunctive_present__3",
+    "text": "encontremos",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros encontremos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "encontrar__subjunctive_present__4",
+    "text": "encontren",
+    "kind": "form"
+  },
+  {
+    "id": "encontrar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos encontren bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__present__0",
+    "text": "vuelvo",
+    "kind": "form"
+  },
+  {
+    "id": "volver__present__0__s",
+    "text": "Yo vuelvo a casa a las seis.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__present__1",
+    "text": "vuelves",
+    "kind": "form"
+  },
+  {
+    "id": "volver__present__1__s",
+    "text": "Tú vuelves siempre tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__present__2",
+    "text": "vuelve",
+    "kind": "form"
+  },
+  {
+    "id": "volver__present__2__s",
+    "text": "Ella vuelve del trabajo cansada.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__present__3",
+    "text": "volvemos",
+    "kind": "form"
+  },
+  {
+    "id": "volver__present__3__s",
+    "text": "Nosotros volvemos en autobús.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__present__4",
+    "text": "vuelven",
+    "kind": "form"
+  },
+  {
+    "id": "volver__present__4__s",
+    "text": "Ellos vuelven a verla cada año.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__preterite__0",
+    "text": "volví",
+    "kind": "form"
+  },
+  {
+    "id": "volver__preterite__0__s",
+    "text": "Yo volví a Madrid el año pasado.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__preterite__1",
+    "text": "volviste",
+    "kind": "form"
+  },
+  {
+    "id": "volver__preterite__1__s",
+    "text": "Tú volviste sano y salvo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__preterite__2",
+    "text": "volvió",
+    "kind": "form"
+  },
+  {
+    "id": "volver__preterite__2__s",
+    "text": "Ella volvió a llamarme.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__preterite__3",
+    "text": "volvimos",
+    "kind": "form"
+  },
+  {
+    "id": "volver__preterite__3__s",
+    "text": "Nosotros volvimos por el mismo camino.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__preterite__4",
+    "text": "volvieron",
+    "kind": "form"
+  },
+  {
+    "id": "volver__preterite__4__s",
+    "text": "Ellos volvieron de las vacaciones.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__future__0",
+    "text": "volveré",
+    "kind": "form"
+  },
+  {
+    "id": "volver__future__0__s",
+    "text": "Yo volveré mañana por la mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__future__1",
+    "text": "volverás",
+    "kind": "form"
+  },
+  {
+    "id": "volver__future__1__s",
+    "text": "Tú volverás a intentarlo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__future__2",
+    "text": "volverá",
+    "kind": "form"
+  },
+  {
+    "id": "volver__future__2__s",
+    "text": "Ella volverá a su país.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__future__3",
+    "text": "volveremos",
+    "kind": "form"
+  },
+  {
+    "id": "volver__future__3__s",
+    "text": "Nosotros volveremos pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__future__4",
+    "text": "volverán",
+    "kind": "form"
+  },
+  {
+    "id": "volver__future__4__s",
+    "text": "Ellos volverán a ganar este año.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__imperfect__0",
+    "text": "volvía",
+    "kind": "form"
+  },
+  {
+    "id": "volver__imperfect__0__s",
+    "text": "Cuando era niño, yo volvía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__imperfect__1",
+    "text": "volvías",
+    "kind": "form"
+  },
+  {
+    "id": "volver__imperfect__1__s",
+    "text": "Tú volvías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__imperfect__2",
+    "text": "volvía",
+    "kind": "form"
+  },
+  {
+    "id": "volver__imperfect__2__s",
+    "text": "Ella volvía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__imperfect__3",
+    "text": "volvíamos",
+    "kind": "form"
+  },
+  {
+    "id": "volver__imperfect__3__s",
+    "text": "Nosotros volvíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__imperfect__4",
+    "text": "volvían",
+    "kind": "form"
+  },
+  {
+    "id": "volver__imperfect__4__s",
+    "text": "Ellos volvían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__subjunctive_present__0",
+    "text": "vuelva",
+    "kind": "form"
+  },
+  {
+    "id": "volver__subjunctive_present__0__s",
+    "text": "Quieren que yo vuelva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__subjunctive_present__1",
+    "text": "vuelvas",
+    "kind": "form"
+  },
+  {
+    "id": "volver__subjunctive_present__1__s",
+    "text": "Espero que tú vuelvas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__subjunctive_present__2",
+    "text": "vuelva",
+    "kind": "form"
+  },
+  {
+    "id": "volver__subjunctive_present__2__s",
+    "text": "Es importante que ella vuelva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__subjunctive_present__3",
+    "text": "volvamos",
+    "kind": "form"
+  },
+  {
+    "id": "volver__subjunctive_present__3__s",
+    "text": "Dudo que nosotros volvamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "volver__subjunctive_present__4",
+    "text": "vuelvan",
+    "kind": "form"
+  },
+  {
+    "id": "volver__subjunctive_present__4__s",
+    "text": "Ojalá que ellos vuelvan bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__present__0",
+    "text": "empiezo",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__present__0__s",
+    "text": "Yo empiezo a trabajar a las ocho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__present__1",
+    "text": "empiezas",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__present__1__s",
+    "text": "Tú empiezas con buen ánimo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__present__2",
+    "text": "empieza",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__present__2__s",
+    "text": "Ella empieza el curso en otoño.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__present__3",
+    "text": "empezamos",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__present__3__s",
+    "text": "Nosotros empezamos a las nueve.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__present__4",
+    "text": "empiezan",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__present__4__s",
+    "text": "Ellos empiezan el proyecto hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__preterite__0",
+    "text": "empecé",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__preterite__0__s",
+    "text": "Yo empecé el libro anoche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__preterite__1",
+    "text": "empezaste",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__preterite__1__s",
+    "text": "Tú empezaste muy temprano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__preterite__2",
+    "text": "empezó",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__preterite__2__s",
+    "text": "Ella empezó a llorar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__preterite__3",
+    "text": "empezamos",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__preterite__3__s",
+    "text": "Nosotros empezamos a estudiar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__preterite__4",
+    "text": "empezaron",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__preterite__4__s",
+    "text": "Ellos empezaron la reunión a tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__future__0",
+    "text": "empezaré",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__future__0__s",
+    "text": "Yo empezaré una dieta nueva.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__future__1",
+    "text": "empezarás",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__future__1__s",
+    "text": "Tú empezarás de cero.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__future__2",
+    "text": "empezará",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__future__2__s",
+    "text": "Ella empezará a estudiar pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__future__3",
+    "text": "empezaremos",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__future__3__s",
+    "text": "Nosotros empezaremos en enero.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__future__4",
+    "text": "empezarán",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__future__4__s",
+    "text": "Ellos empezarán la obra mañana.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__imperfect__0",
+    "text": "empezaba",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__imperfect__0__s",
+    "text": "Cuando era niño, yo empezaba mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__imperfect__1",
+    "text": "empezabas",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__imperfect__1__s",
+    "text": "Tú empezabas todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__imperfect__2",
+    "text": "empezaba",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__imperfect__2__s",
+    "text": "Ella empezaba de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__imperfect__3",
+    "text": "empezábamos",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__imperfect__3__s",
+    "text": "Nosotros empezábamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__imperfect__4",
+    "text": "empezaban",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__imperfect__4__s",
+    "text": "Ellos empezaban cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__subjunctive_present__0",
+    "text": "empiece",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__subjunctive_present__0__s",
+    "text": "Quieren que yo empiece.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__subjunctive_present__1",
+    "text": "empieces",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__subjunctive_present__1__s",
+    "text": "Espero que tú empieces pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__subjunctive_present__2",
+    "text": "empiece",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__subjunctive_present__2__s",
+    "text": "Es importante que ella empiece.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__subjunctive_present__3",
+    "text": "empecemos",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__subjunctive_present__3__s",
+    "text": "Dudo que nosotros empecemos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "empezar__subjunctive_present__4",
+    "text": "empiecen",
+    "kind": "form"
+  },
+  {
+    "id": "empezar__subjunctive_present__4__s",
+    "text": "Ojalá que ellos empiecen bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__present__0",
+    "text": "pierdo",
+    "kind": "form"
+  },
+  {
+    "id": "perder__present__0__s",
+    "text": "Yo pierdo las llaves a menudo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__present__1",
+    "text": "pierdes",
+    "kind": "form"
+  },
+  {
+    "id": "perder__present__1__s",
+    "text": "Tú pierdes la paciencia rápido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__present__2",
+    "text": "pierde",
+    "kind": "form"
+  },
+  {
+    "id": "perder__present__2__s",
+    "text": "Ella pierde peso poco a poco.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__present__3",
+    "text": "perdemos",
+    "kind": "form"
+  },
+  {
+    "id": "perder__present__3__s",
+    "text": "Nosotros perdemos tiempo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__present__4",
+    "text": "pierden",
+    "kind": "form"
+  },
+  {
+    "id": "perder__present__4__s",
+    "text": "Ellos pierden el partido.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__preterite__0",
+    "text": "perdí",
+    "kind": "form"
+  },
+  {
+    "id": "perder__preterite__0__s",
+    "text": "Yo perdí mi cartera en el bar.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__preterite__1",
+    "text": "perdiste",
+    "kind": "form"
+  },
+  {
+    "id": "perder__preterite__1__s",
+    "text": "Tú perdiste tu oportunidad.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__preterite__2",
+    "text": "perdió",
+    "kind": "form"
+  },
+  {
+    "id": "perder__preterite__2__s",
+    "text": "Ella perdió las llaves del coche.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__preterite__3",
+    "text": "perdimos",
+    "kind": "form"
+  },
+  {
+    "id": "perder__preterite__3__s",
+    "text": "Nosotros perdimos el vuelo.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__preterite__4",
+    "text": "perdieron",
+    "kind": "form"
+  },
+  {
+    "id": "perder__preterite__4__s",
+    "text": "Ellos perdieron la final.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__future__0",
+    "text": "perderé",
+    "kind": "form"
+  },
+  {
+    "id": "perder__future__0__s",
+    "text": "Yo perderé peso este verano.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__future__1",
+    "text": "perderás",
+    "kind": "form"
+  },
+  {
+    "id": "perder__future__1__s",
+    "text": "Tú perderás la apuesta.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__future__2",
+    "text": "perderá",
+    "kind": "form"
+  },
+  {
+    "id": "perder__future__2__s",
+    "text": "Ella perderá el tren.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__future__3",
+    "text": "perderemos",
+    "kind": "form"
+  },
+  {
+    "id": "perder__future__3__s",
+    "text": "Nosotros perderemos si no jugamos bien.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__future__4",
+    "text": "perderán",
+    "kind": "form"
+  },
+  {
+    "id": "perder__future__4__s",
+    "text": "Ellos perderán esta vez.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__imperfect__0",
+    "text": "perdía",
+    "kind": "form"
+  },
+  {
+    "id": "perder__imperfect__0__s",
+    "text": "Cuando era niño, yo perdía mucho.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__imperfect__1",
+    "text": "perdías",
+    "kind": "form"
+  },
+  {
+    "id": "perder__imperfect__1__s",
+    "text": "Tú perdías todos los días.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__imperfect__2",
+    "text": "perdía",
+    "kind": "form"
+  },
+  {
+    "id": "perder__imperfect__2__s",
+    "text": "Ella perdía de joven.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__imperfect__3",
+    "text": "perdíamos",
+    "kind": "form"
+  },
+  {
+    "id": "perder__imperfect__3__s",
+    "text": "Nosotros perdíamos juntos en aquellos años.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__imperfect__4",
+    "text": "perdían",
+    "kind": "form"
+  },
+  {
+    "id": "perder__imperfect__4__s",
+    "text": "Ellos perdían cada tarde.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__subjunctive_present__0",
+    "text": "perda",
+    "kind": "form"
+  },
+  {
+    "id": "perder__subjunctive_present__0__s",
+    "text": "Quieren que yo perda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__subjunctive_present__1",
+    "text": "perdas",
+    "kind": "form"
+  },
+  {
+    "id": "perder__subjunctive_present__1__s",
+    "text": "Espero que tú perdas pronto.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__subjunctive_present__2",
+    "text": "perda",
+    "kind": "form"
+  },
+  {
+    "id": "perder__subjunctive_present__2__s",
+    "text": "Es importante que ella perda.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__subjunctive_present__3",
+    "text": "perdamos",
+    "kind": "form"
+  },
+  {
+    "id": "perder__subjunctive_present__3__s",
+    "text": "Dudo que nosotros perdamos hoy.",
+    "kind": "sentence"
+  },
+  {
+    "id": "perder__subjunctive_present__4",
+    "text": "perdan",
+    "kind": "form"
+  },
+  {
+    "id": "perder__subjunctive_present__4__s",
+    "text": "Ojalá que ellos perdan bien.",
     "kind": "sentence"
   }
 ]
