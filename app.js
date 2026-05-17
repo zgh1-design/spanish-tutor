@@ -72,15 +72,15 @@ function saveJSON(key, data) {
 }
 
 function loadProgress()       { return loadJSON(STORAGE_KEYS.progress, {}); }
-function saveProgress(p)      { saveJSON(STORAGE_KEYS.progress, p); }
+function saveProgress(p)      { saveJSON(STORAGE_KEYS.progress, p); cloudSyncSchedule(); }
 function loadCustomizations() { return loadJSON(STORAGE_KEYS.customizations, {}); }
-function saveCustomizations(c){ saveJSON(STORAGE_KEYS.customizations, c); }
+function saveCustomizations(c){ saveJSON(STORAGE_KEYS.customizations, c); cloudSyncSchedule(); }
 function loadSettings()       { return loadJSON(STORAGE_KEYS.settings, {}); }
-function saveSettings(s)      { saveJSON(STORAGE_KEYS.settings, s); }
+function saveSettings(s)      { saveJSON(STORAGE_KEYS.settings, s); cloudSyncSchedule(); }
 function loadConjProgress()   { return loadJSON(STORAGE_KEYS.conjProgress, {}); }
-function saveConjProgress(p)  { saveJSON(STORAGE_KEYS.conjProgress, p); }
+function saveConjProgress(p)  { saveJSON(STORAGE_KEYS.conjProgress, p); cloudSyncSchedule(); }
 function loadConjUnlocks()    { return loadJSON(STORAGE_KEYS.conjUnlocks, {}); }
-function saveConjUnlocks(u)   { saveJSON(STORAGE_KEYS.conjUnlocks, u); }
+function saveConjUnlocks(u)   { saveJSON(STORAGE_KEYS.conjUnlocks, u); cloudSyncSchedule(); }
 
 
 function defaultCardState() {
@@ -1568,6 +1568,225 @@ function importProgress(file) {
 
 
 // ═══════════════════════════════════════════════════════════════════════════
+// CLOUD SYNC (Firebase Realtime Database + Google sign-in)
+// ═══════════════════════════════════════════════════════════════════════════
+// One source of truth lives at /users/{uid}/state. Both devices push their
+// local changes there and subscribe to it for incoming changes. Last write
+// wins, ordered by Firebase's server timestamp. The sync UI shows
+// "Saving…" / "Synced 3s ago" / "Offline" / "Sign in to sync".
+
+const CLOUD_DEBOUNCE_MS = 2000;     // wait this long after a change to batch pushes
+const CLOUD_TS_KEY      = 'spanishTutor:lastSyncTs';
+const CLOUD_REMOTE_KEY  = 'spanishTutor:lastSeenRemoteTs';
+
+let _fb       = null;       // initialized firebase app
+let _fbAuth   = null;
+let _fbDb     = null;
+let _fbUser   = null;       // currently signed-in user
+let _fbRef    = null;       // ref to /users/{uid}/state
+let _pushTimer = null;
+let _pulling  = false;       // true while applying a remote snapshot (suppresses push)
+let _lastPushAt = 0;
+
+function cloudInit() {
+  if (typeof firebase === 'undefined' || typeof FIREBASE_CONFIG === 'undefined') {
+    console.warn('Firebase SDK not loaded — cloud sync disabled.');
+    return;
+  }
+  try {
+    _fb = firebase.initializeApp(FIREBASE_CONFIG);
+  } catch (e) {
+    // Already initialized (e.g. from a hot reload) — fine
+    _fb = firebase.app();
+  }
+  _fbAuth = firebase.auth();
+  _fbDb   = firebase.database();
+
+  // Persist auth across page reloads so the user doesn't sign in every time.
+  _fbAuth.setPersistence(firebase.auth.Auth.Persistence.LOCAL).catch(()=>{});
+
+  _fbAuth.onAuthStateChanged(onAuthStateChanged);
+
+  // Reflect online/offline state in the indicator
+  window.addEventListener('online',  () => setSyncStatus('online'));
+  window.addEventListener('offline', () => setSyncStatus('offline'));
+}
+
+function onAuthStateChanged(user) {
+  if (_fbRef) { try { _fbRef.off(); } catch (_) {} _fbRef = null; }
+  _fbUser = user;
+  renderCloudUI();
+  if (user) {
+    _fbRef = _fbDb.ref(`users/${user.uid}/state`);
+    cloudInitialSync();
+  }
+}
+
+async function cloudSignIn() {
+  if (!_fbAuth) return;
+  const provider = new firebase.auth.GoogleAuthProvider();
+  try {
+    setSyncStatus('signing-in');
+    await _fbAuth.signInWithPopup(provider);
+  } catch (e) {
+    setSyncStatus('error');
+    if (e.code !== 'auth/popup-closed-by-user') {
+      alert('Sign-in failed:\n\n' + (e.message || e.code));
+    } else {
+      renderCloudUI();
+    }
+  }
+}
+
+async function cloudSignOut() {
+  if (!_fbAuth) return;
+  if (!confirm('Sign out of cloud sync?\n\nYour data stays on this device. ' +
+               'Re-sign in (here or on another device) anytime to resume.')) return;
+  await _fbAuth.signOut();
+}
+
+/** Initial 2-way reconciliation on sign-in. */
+async function cloudInitialSync() {
+  if (!_fbRef) return;
+  setSyncStatus('saving');
+  try {
+    const snap = await _fbRef.once('value');
+    const remote = snap.val();
+    const localTs = parseInt(localStorage.getItem(CLOUD_TS_KEY) || '0', 10);
+
+    if (!remote || !remote.updated_at) {
+      // Nothing in the cloud yet — push our current local state up.
+      await cloudPushNow();
+    } else if (remote.updated_at > localTs) {
+      // Remote is newer — pull it down.
+      applyCloudSnapshot(remote);
+    } else {
+      // Local is at least as new — push.
+      await cloudPushNow();
+    }
+
+    // Subscribe to live changes from other devices going forward.
+    _fbRef.on('value', snap2 => {
+      const r = snap2.val();
+      if (!r || !r.updated_at) return;
+      const lastSeen = parseInt(localStorage.getItem(CLOUD_REMOTE_KEY) || '0', 10);
+      // Only apply if newer than what we last absorbed.
+      // Suppress if we just pushed ourselves (avoid feedback loop).
+      if (r.updated_at <= lastSeen) return;
+      if (Math.abs(r.updated_at - _lastPushAt) < 1500) return;
+      applyCloudSnapshot(r);
+    });
+    setSyncStatus('synced');
+  } catch (e) {
+    console.error('Initial sync failed:', e);
+    setSyncStatus('error');
+  }
+}
+
+/** Schedule a debounced push. Called by every save* function. */
+function cloudSyncSchedule() {
+  if (!_fbRef || _pulling) return;
+  if (_pushTimer) clearTimeout(_pushTimer);
+  setSyncStatus('pending');
+  _pushTimer = setTimeout(cloudPushNow, CLOUD_DEBOUNCE_MS);
+}
+
+/** Push the current local state to the cloud immediately. */
+async function cloudPushNow() {
+  if (!_fbRef || _pulling) return;
+  if (_pushTimer) { clearTimeout(_pushTimer); _pushTimer = null; }
+  setSyncStatus('saving');
+  const payload = {
+    version:        2,
+    updated_at:     firebase.database.ServerValue.TIMESTAMP,
+    progress:       state.progress,
+    customizations: state.customizations,
+    settings:       state.settings,
+    conj_progress:  loadConjProgress(),
+    conj_unlocks:   loadConjUnlocks(),
+  };
+  try {
+    await _fbRef.set(payload);
+    const ts = Date.now();
+    _lastPushAt = ts;
+    localStorage.setItem(CLOUD_TS_KEY, String(ts));
+    localStorage.setItem(CLOUD_REMOTE_KEY, String(ts));
+    setSyncStatus('synced');
+  } catch (e) {
+    console.error('Push failed:', e);
+    setSyncStatus('error');
+  }
+}
+
+/** Replace local state with a remote snapshot. Suppresses the resulting saves
+    from triggering another push so we don't loop. */
+function applyCloudSnapshot(remote) {
+  _pulling = true;
+  try {
+    state.progress       = remote.progress       || {};
+    state.customizations = remote.customizations || {};
+    state.settings       = remote.settings       || {};
+    // Write to localStorage directly so save*() doesn't trigger a fresh push.
+    saveJSON(STORAGE_KEYS.progress,       state.progress);
+    saveJSON(STORAGE_KEYS.customizations, state.customizations);
+    saveJSON(STORAGE_KEYS.settings,       state.settings);
+    saveJSON(STORAGE_KEYS.conjProgress,   remote.conj_progress || {});
+    saveJSON(STORAGE_KEYS.conjUnlocks,    remote.conj_unlocks  || {});
+    localStorage.setItem(CLOUD_TS_KEY,     String(remote.updated_at));
+    localStorage.setItem(CLOUD_REMOTE_KEY, String(remote.updated_at));
+    cachedVoice = null;
+  } finally {
+    _pulling = false;
+  }
+  // Re-render whatever screen is visible so the user sees fresh data.
+  if (!$('screen-home').hidden)  renderHome();
+  if (!$('screen-study').hidden) renderCard();
+}
+
+/** Update the sync-status badge UI. */
+function setSyncStatus(kind) {
+  const el = $('cloud-status');
+  if (!el) return;
+  const map = {
+    'signing-in': ['Signing in…', 'pending'],
+    'pending':    ['Pending…',    'pending'],
+    'saving':     ['Saving…',     'pending'],
+    'synced':     ['✓ Synced',    'good'],
+    'online':     ['✓ Online',    'good'],
+    'offline':    ['⚠ Offline',   'warn'],
+    'error':      ['⚠ Sync error','warn'],
+  };
+  const [text, cls] = map[kind] || ['', ''];
+  el.textContent = text;
+  el.className = 'cloud-status ' + cls;
+}
+
+/** Show/hide the sign-in vs signed-in UI based on auth state. */
+function renderCloudUI() {
+  const inBtn   = $('btn-cloud-signin');
+  const inWrap  = $('cloud-signed-in');
+  const email   = $('cloud-email');
+  if (!inBtn) return;
+
+  // Hide everything if Firebase didn't load (offline-only mode)
+  if (!_fb) {
+    inBtn.hidden = true;
+    inWrap.hidden = true;
+    return;
+  }
+
+  if (_fbUser) {
+    inBtn.hidden  = true;
+    inWrap.hidden = false;
+    email.textContent = _fbUser.email || 'signed in';
+  } else {
+    inBtn.hidden  = false;
+    inWrap.hidden = true;
+  }
+}
+
+
+// ═══════════════════════════════════════════════════════════════════════════
 // 8. WIRING
 // ═══════════════════════════════════════════════════════════════════════════
 
@@ -1588,6 +1807,8 @@ function bind() {
   $('btn-unlock-adv').addEventListener('click', manualUnlockAdvanced);
   $('btn-relock-adv').addEventListener('click', relockAdvanced);
   $('btn-voice'  ).addEventListener('click', openVoiceSettings);
+  $('btn-cloud-signin' ).addEventListener('click', cloudSignIn);
+  $('btn-cloud-signout').addEventListener('click', cloudSignOut);
   $('btn-export' ).addEventListener('click', exportProgress);
   $('btn-import' ).addEventListener('click', () => $('file-import').click());
   $('file-import').addEventListener('change', e => {
@@ -1707,4 +1928,7 @@ window.addEventListener('DOMContentLoaded', () => {
   showScreen('home');
   // Warm up the voice list (Chrome populates it lazily)
   if ('speechSynthesis' in window) speechSynthesis.getVoices();
+  // Initialize Firebase (async — auth state arrives via callback once ready)
+  cloudInit();
+  renderCloudUI();
 });

@@ -62,6 +62,16 @@
     <button id="btn-review-all" class="btn btn-secondary">🔁 Review All Words</button>
     <button id="btn-browse"     class="btn btn-ghost">📚 Browse Vocabulary</button>
     <button id="btn-voice"      class="btn btn-ghost">🔊 Voice Settings</button>
+
+    <!-- Cloud sync (Firebase). When signed out, shows the sign-in button.
+         When signed in, replaces with status + sign-out. -->
+    <button id="btn-cloud-signin"  class="btn btn-ghost" hidden>☁️ Sign in to sync</button>
+    <div    id="cloud-signed-in"   class="cloud-signed-in" hidden>
+      <span class="cloud-email" id="cloud-email"></span>
+      <span class="cloud-status" id="cloud-status">Synced</span>
+      <button id="btn-cloud-signout" class="cloud-signout-btn">Sign out</button>
+    </div>
+
     <button id="btn-export"     class="btn btn-ghost">⇣ Export Progress</button>
     <button id="btn-import"     class="btn btn-ghost">⇡ Import Progress</button>
     <input  id="file-import" type="file" accept=".json" hidden>
@@ -308,6 +318,12 @@
 <!-- ────────────────────────────────────────────────────────────────────────
      SCRIPTS
 ─────────────────────────────────────────────────────────────────────────── -->
+<!-- Firebase SDK (compat build, exposes a global `firebase` for easy use) -->
+<script src="https://www.gstatic.com/firebasejs/10.13.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.13.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.13.2/firebase-database-compat.js"></script>
+<script src="firebase-config.js"></script>
+
 <script src="data.js"></script>
 <script src="conjugations.js"></script>
 <script src="app.js"></script>

@@ -770,3 +770,42 @@ input  { font-family: inherit; font-size: inherit; }
   margin: 0 0 8px;
 }
 .adv-tenses-panel .btn { padding: 8px 12px; font-size: 13px; }
+
+/* ── Cloud sync (Firebase Google sign-in) ──────────────────────────── */
+.cloud-signed-in {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 13px;
+  flex-wrap: wrap;
+}
+.cloud-email {
+  font-weight: 600;
+  color: var(--header);
+  flex: 1;
+  min-width: 140px;
+  word-break: break-word;
+}
+.cloud-status {
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.cloud-status.good    { background: #E8F5E9; color: #2E7D32; }
+.cloud-status.pending { background: #FFF8E1; color: #F9A825; }
+.cloud-status.warn    { background: #FFEBEE; color: #C62828; }
+.cloud-signout-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 12px;
+  color: var(--subtext);
+  cursor: pointer;
+}
+.cloud-signout-btn:active { background: var(--border); }
