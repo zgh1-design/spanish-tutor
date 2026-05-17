@@ -40597,6 +40597,11229 @@ const VOCABULARY = [
     "photo",
     "",
     "el"
+  ],
+  [
+    "analgésico",
+    "painkiller",
+    "health",
+    "painkiller pills",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "anamnesis",
+    "medical history",
+    "health",
+    "medical chart history",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "antihistamínico",
+    "antihistamine",
+    "health",
+    "antihistamine pills",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "antiinflamatorio",
+    "anti-inflammatory",
+    "health",
+    "anti inflammatory pills",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "antiséptico",
+    "antiseptic",
+    "health",
+    "antiseptic bottle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aparato ortopédico",
+    "orthopedic appliance",
+    "health",
+    "orthopedic brace",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arritmia",
+    "arrhythmia",
+    "health",
+    "ekg arrhythmia",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "asma",
+    "asthma",
+    "health",
+    "asthma inhaler",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "audiograma",
+    "audiogram",
+    "health",
+    "hearing test chart",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "autoinmune",
+    "autoimmune",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "aviso médico",
+    "medical advisory",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "balanza médica",
+    "medical scale",
+    "health",
+    "doctor scale",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bastón ortopédico",
+    "walking cane",
+    "health",
+    "walking cane",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "biopsia",
+    "biopsy",
+    "health",
+    "biopsy needle medical",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "broncoscopia",
+    "bronchoscopy",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "bronquitis",
+    "bronchitis",
+    "health",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "cama hospitalaria",
+    "hospital bed",
+    "health",
+    "hospital bed",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "camilla",
+    "stretcher",
+    "health",
+    "ambulance stretcher",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cánula",
+    "cannula",
+    "health",
+    "iv cannula",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cápsula",
+    "capsule",
+    "health",
+    "medicine capsule",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cardiología",
+    "cardiology",
+    "health",
+    "cardiologist heart",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cardiólogo",
+    "cardiologist",
+    "work",
+    "cardiologist doctor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "catéter",
+    "catheter",
+    "health",
+    "medical catheter",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "centro médico",
+    "medical center",
+    "places",
+    "medical center building",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "chequeo",
+    "checkup",
+    "health",
+    "doctor checkup stethoscope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cirugía",
+    "surgery",
+    "health",
+    "surgeons operating",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cistoscopia",
+    "cystoscopy",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "clave de paciente",
+    "patient code",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "cólico",
+    "colic",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "compresor de pecho",
+    "chest compressor",
+    "health",
+    "cpr chest compression",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "congénito",
+    "congenital",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "consultorio",
+    "doctor's office",
+    "health",
+    "doctors office exam",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "contraindicación",
+    "contraindication",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "convalecer",
+    "to convalesce",
+    "verbs",
+    "resting recovery",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "coronario",
+    "coronary",
+    "adjectives",
+    "heart artery medical",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "coronavirus",
+    "coronavirus",
+    "health",
+    "coronavirus virus",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "corticoide",
+    "corticosteroid",
+    "health",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "crónico",
+    "chronic",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "crup",
+    "croup",
+    "health",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "cuidados intensivos",
+    "intensive care",
+    "health",
+    "icu hospital",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "defibrilador",
+    "defibrillator",
+    "health",
+    "defibrillator aed",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "dengue hemorrágico",
+    "hemorrhagic dengue",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "desfibrilación",
+    "defibrillation",
+    "health",
+    "defibrillator paddles",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "desinfectante",
+    "disinfectant",
+    "health",
+    "disinfectant spray",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "desinfección",
+    "disinfection",
+    "health",
+    "disinfecting surface",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "desmayo",
+    "fainting",
+    "health",
+    "fainting person",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "diafragma médico",
+    "diaphragm (medical)",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "diálisis",
+    "dialysis",
+    "health",
+    "dialysis machine",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "disfagia",
+    "dysphagia",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "disnea",
+    "dyspnea",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "dolor de cabeza",
+    "headache",
+    "health",
+    "headache pain",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dosificador",
+    "dispenser",
+    "health",
+    "pill dispenser",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "edema",
+    "edema",
+    "health",
+    "swollen leg edema",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ecografía",
+    "ultrasound",
+    "health",
+    "ultrasound machine pregnancy",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "electrocardiograma",
+    "electrocardiogram",
+    "health",
+    "ekg readout",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "electroencefalograma",
+    "electroencephalogram",
+    "health",
+    "brain eeg",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "embarazo",
+    "pregnancy",
+    "health",
+    "pregnant woman belly",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "emergencia médica",
+    "medical emergency",
+    "health",
+    "ambulance emergency",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "endocrinología",
+    "endocrinology",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "endoscopio",
+    "endoscope",
+    "health",
+    "endoscopy procedure",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "enfermedad",
+    "illness",
+    "health",
+    "sick person bed",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "enyesado",
+    "cast (plaster)",
+    "health",
+    "plaster cast arm",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "episodio",
+    "episode (medical)",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "epinefrina",
+    "epinephrine",
+    "health",
+    "epipen autoinjector",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "erupción cutánea",
+    "skin rash",
+    "health",
+    "skin rash red",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "esfigmomanómetro",
+    "sphygmomanometer",
+    "health",
+    "blood pressure cuff",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "espéculo",
+    "speculum",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "espirómetro",
+    "spirometer",
+    "health",
+    "spirometer lung test",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estetoscopio",
+    "stethoscope",
+    "health",
+    "stethoscope doctor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "examen físico",
+    "physical exam",
+    "health",
+    "physical exam doctor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "expectoración",
+    "expectoration",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "férula",
+    "splint",
+    "health",
+    "arm splint",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fibrilación",
+    "fibrillation",
+    "health",
+    "ekg fibrillation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fisioterapeuta",
+    "physiotherapist",
+    "work",
+    "physical therapist",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fonendoscopio",
+    "stethoscope",
+    "health",
+    "stethoscope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "frasco",
+    "vial",
+    "health",
+    "medicine vials",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fumigador",
+    "fumigator",
+    "health",
+    "fumigation spraying",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "gargarismo",
+    "gargle",
+    "health",
+    "gargling water",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "gasa",
+    "gauze",
+    "health",
+    "gauze bandage",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "gastroenterología",
+    "gastroenterology",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "genecólogo",
+    "gynecologist",
+    "work",
+    "gynecologist doctor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "geriatra",
+    "geriatrician",
+    "work",
+    "elderly doctor patient",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "gota nasal",
+    "nasal drop",
+    "health",
+    "nasal spray",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hematología",
+    "hematology",
+    "health",
+    "blood test tube",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "hemiplejía",
+    "hemiplegia",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "hipoxia",
+    "hypoxia",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "hospitalización",
+    "hospitalization",
+    "health",
+    "hospital patient room",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "impulso eléctrico",
+    "electrical impulse",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "impronta dental",
+    "dental impression",
+    "health",
+    "dental mold",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "incubadora",
+    "incubator",
+    "health",
+    "baby incubator hospital",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "inhalador",
+    "inhaler",
+    "health",
+    "asthma inhaler",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "instrumental",
+    "surgical instruments",
+    "health",
+    "surgical tools tray",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "intubación",
+    "intubation",
+    "health",
+    "intubation tube",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "jeringuilla",
+    "syringe",
+    "health",
+    "syringe needle",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "jugo gástrico",
+    "gastric juice",
+    "body",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "lactante",
+    "infant / breastfed",
+    "health",
+    "breastfeeding baby",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "laringitis",
+    "laryngitis",
+    "health",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "laxitud",
+    "laxity",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "lente intraocular",
+    "intraocular lens",
+    "health",
+    "eye lens medical",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lupa",
+    "magnifying glass",
+    "tools",
+    "magnifying glass",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mamografía",
+    "mammography",
+    "health",
+    "mammography machine",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "marcapasos",
+    "pacemaker",
+    "health",
+    "pacemaker device",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "mascarilla",
+    "mask (medical)",
+    "health",
+    "surgical mask",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "matrona",
+    "midwife",
+    "work",
+    "midwife mother baby",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "microcirugía",
+    "microsurgery",
+    "health",
+    "microsurgery doctors",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "miembro fantasma",
+    "phantom limb",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "monitor cardíaco",
+    "heart monitor",
+    "health",
+    "heart monitor ekg",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nebulizador",
+    "nebulizer",
+    "health",
+    "nebulizer mask",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "neurocirugía",
+    "neurosurgery",
+    "health",
+    "neurosurgery brain",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "neurología",
+    "neurology",
+    "health",
+    "brain mri scan",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "neurólogo",
+    "neurologist",
+    "work",
+    "neurologist brain",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "obstetricia",
+    "obstetrics",
+    "health",
+    "obstetrician delivery",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "ocular",
+    "ocular",
+    "adjectives",
+    "eye examination",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "odontólogo",
+    "dentist",
+    "work",
+    "dentist patient",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "oftalmólogo",
+    "ophthalmologist",
+    "work",
+    "ophthalmologist eye",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "oncólogo",
+    "oncologist",
+    "work",
+    "oncologist patient",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "operación quirúrgica",
+    "surgical operation",
+    "health",
+    "surgery operating",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "oxigenoterapia",
+    "oxygen therapy",
+    "health",
+    "oxygen mask patient",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "paciente",
+    "patient",
+    "health",
+    "patient hospital bed",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "palpitación",
+    "palpitation",
+    "health",
+    "heart hand chest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "parálisis",
+    "paralysis",
+    "health",
+    "wheelchair person",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "paramédico",
+    "paramedic",
+    "work",
+    "paramedic ambulance",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "pediatría",
+    "pediatrics",
+    "health",
+    "pediatrician child",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pinza",
+    "forceps / clip",
+    "health",
+    "surgical forceps",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "placas",
+    "x-rays / plates",
+    "health",
+    "xray scan medical",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "plasma",
+    "plasma",
+    "health",
+    "plasma donation bag",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "postoperatorio",
+    "postoperative",
+    "adjectives",
+    "postop recovery",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "preoperatorio",
+    "preoperative",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "prescripción",
+    "prescription",
+    "health",
+    "prescription pad",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "prevención",
+    "prevention",
+    "health",
+    "prevention shield",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "prótesis",
+    "prosthesis",
+    "health",
+    "prosthetic limb",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "prurito",
+    "itching",
+    "health",
+    "scratching arm",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "psicoanálisis",
+    "psychoanalysis",
+    "health",
+    "therapy session couch",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "psiquiatra",
+    "psychiatrist",
+    "work",
+    "psychiatrist patient",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "quemadura",
+    "burn",
+    "health",
+    "burn injury arm",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "quimioterapia",
+    "chemotherapy",
+    "health",
+    "chemo iv hospital",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "radiología",
+    "radiology",
+    "health",
+    "radiology xray",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "radiólogo",
+    "radiologist",
+    "work",
+    "radiologist scan",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "radioterapia",
+    "radiotherapy",
+    "health",
+    "radiation therapy machine",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "reanimación",
+    "resuscitation",
+    "health",
+    "cpr resuscitation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "receta médica",
+    "prescription",
+    "health",
+    "prescription paper",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "recetario",
+    "prescription pad",
+    "health",
+    "prescription pad",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "rehabilitación",
+    "rehabilitation",
+    "health",
+    "physical rehab",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "resonancia magnética",
+    "mri scan",
+    "health",
+    "mri machine",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "respirador",
+    "ventilator",
+    "health",
+    "ventilator hospital",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sala de espera",
+    "waiting room",
+    "health",
+    "waiting room chairs",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sala de operaciones",
+    "operating room",
+    "health",
+    "operating room",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "sala de partos",
+    "delivery room",
+    "health",
+    "delivery room",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "sangrado",
+    "bleeding",
+    "health",
+    "bandage blood",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "scanner",
+    "scanner (medical)",
+    "health",
+    "ct scan machine",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "secuela",
+    "sequela",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "sedación",
+    "sedation",
+    "health",
+    "sedation iv",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sensor de oxígeno",
+    "oxygen sensor",
+    "health",
+    "pulse oximeter finger",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sertralina",
+    "sertraline",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "seudónimo",
+    "pseudonym",
+    "abstract",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sífoma",
+    "syphilis",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "silla de ruedas",
+    "wheelchair",
+    "health",
+    "wheelchair",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "síncope",
+    "syncope / fainting",
+    "health",
+    "fainting collapse",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "síntoma",
+    "symptom",
+    "health",
+    "symptoms checklist",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sismología",
+    "seismology",
+    "science",
+    "seismograph",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sonograma",
+    "sonogram",
+    "health",
+    "sonogram baby ultrasound",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sutura",
+    "suture",
+    "health",
+    "stitches sutures",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tablilla",
+    "splint",
+    "health",
+    "arm splint",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "terapia génica",
+    "gene therapy",
+    "health",
+    "dna helix",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "terapia ocupacional",
+    "occupational therapy",
+    "health",
+    "occupational therapy hands",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "termómetro",
+    "thermometer",
+    "health",
+    "thermometer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "test",
+    "test",
+    "health",
+    "medical test tubes",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tomografía",
+    "tomography",
+    "health",
+    "ct scan tomography",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "torniquete",
+    "tourniquet",
+    "health",
+    "tourniquet arm",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tos ferina",
+    "whooping cough",
+    "health",
+    "coughing person",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tracción",
+    "traction",
+    "health",
+    "leg traction hospital",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "transplante",
+    "transplant",
+    "health",
+    "organ transplant surgery",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "transfusión",
+    "transfusion",
+    "health",
+    "blood transfusion bag",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "traumatología",
+    "traumatology",
+    "health",
+    "emergency trauma",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "triage",
+    "triage",
+    "health",
+    "triage emergency hospital",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ungüento",
+    "ointment",
+    "health",
+    "ointment tube cream",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "urólogo",
+    "urologist",
+    "work",
+    "urologist office",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "uvuloplastia",
+    "uvuloplasty",
+    "health",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "vacunación",
+    "vaccination",
+    "health",
+    "vaccine injection arm",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "vasodilatador",
+    "vasodilator",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "ventricular",
+    "ventricular",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "virología",
+    "virology",
+    "science",
+    "virus microscope",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "yoduro",
+    "iodide",
+    "health",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "abstención",
+    "abstention",
+    "politics",
+    "empty ballot box",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "acta",
+    "minutes / record",
+    "politics",
+    "meeting minutes paper",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "administración pública",
+    "public administration",
+    "politics",
+    "government building",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "agencia gubernamental",
+    "government agency",
+    "politics",
+    "government office",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "alianza política",
+    "political alliance",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "amnistía",
+    "amnesty",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "anarquismo",
+    "anarchism",
+    "politics",
+    "anarchy symbol",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "anexión",
+    "annexation",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "ataque cibernético",
+    "cyberattack",
+    "politics",
+    "cyberattack hacker",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "autocracia",
+    "autocracy",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "autoritarismo",
+    "authoritarianism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "ayuntamiento",
+    "city hall",
+    "politics",
+    "city hall building",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bloqueo",
+    "blockade",
+    "politics",
+    "blockade barrier",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "boicot",
+    "boycott",
+    "politics",
+    "boycott protest",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bombardeo",
+    "bombing",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "bipartidismo",
+    "two-party system",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "cabildo",
+    "council / chapter",
+    "politics",
+    "council meeting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cámara baja",
+    "lower house",
+    "politics",
+    "congress chamber",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cámara alta",
+    "upper house",
+    "politics",
+    "senate chamber",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "candidato presidencial",
+    "presidential candidate",
+    "politics",
+    "presidential candidate",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "capitalismo",
+    "capitalism",
+    "politics",
+    "wall street stocks",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "censo",
+    "census",
+    "politics",
+    "census form paper",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "centrismo",
+    "centrism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "ciudadanía",
+    "citizenship",
+    "politics",
+    "passport citizenship",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "civil",
+    "civil",
+    "adjectives",
+    "civilian people",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "coalición",
+    "coalition",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "código penal",
+    "penal code",
+    "politics",
+    "law book",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "colectivismo",
+    "collectivism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "comicio",
+    "election",
+    "politics",
+    "ballot voting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "comunismo",
+    "communism",
+    "politics",
+    "communist flag",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "conservadurismo",
+    "conservatism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "consulado",
+    "consulate",
+    "politics",
+    "consulate building flag",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "coronación",
+    "coronation",
+    "politics",
+    "royal coronation crown",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "corte suprema",
+    "supreme court",
+    "politics",
+    "supreme court building",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "debate político",
+    "political debate",
+    "politics",
+    "political debate stage",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "decreto",
+    "decree",
+    "politics",
+    "official decree document",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "delegación",
+    "delegation",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "delito",
+    "crime",
+    "politics",
+    "crime scene tape",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "democracia directa",
+    "direct democracy",
+    "politics",
+    "ballot vote",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "derecha",
+    "right (politics)",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "dictador",
+    "dictator",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "diplomacia",
+    "diplomacy",
+    "politics",
+    "diplomats meeting",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "disenso",
+    "dissent",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "doctrina",
+    "doctrine",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "enmienda",
+    "amendment",
+    "politics",
+    "constitution document",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "escudo nacional",
+    "national coat of arms",
+    "politics",
+    "national coat arms",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "escrutinio",
+    "ballot count",
+    "politics",
+    "ballot counting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "espionaje",
+    "espionage",
+    "politics",
+    "spy silhouette binoculars",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estadista",
+    "statesman",
+    "politics",
+    "statesman podium",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "evasión fiscal",
+    "tax evasion",
+    "politics",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "facción",
+    "faction",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "fascismo",
+    "fascism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "federación",
+    "federation",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "feudalismo",
+    "feudalism",
+    "politics",
+    "medieval castle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fiscal",
+    "prosecutor",
+    "work",
+    "prosecutor courtroom",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fronterizo",
+    "border (adj)",
+    "adjectives",
+    "border fence",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fuga de cerebros",
+    "brain drain",
+    "politics",
+    "",
+    "text",
+    "",
+    "los"
+  ],
+  [
+    "funcionario",
+    "civil servant",
+    "work",
+    "civil servant office",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "gobernación",
+    "government / governing",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "golpe de estado",
+    "coup d'état",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "herejía",
+    "heresy",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "ideario",
+    "ideology / manifesto",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "imperialismo",
+    "imperialism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "impugnación",
+    "impeachment",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "independencia política",
+    "political independence",
+    "politics",
+    "independence flag",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "insurgente",
+    "insurgent",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "intercambio cultural",
+    "cultural exchange",
+    "politics",
+    "cultural exchange world",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "intervención militar",
+    "military intervention",
+    "politics",
+    "soldiers military",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "izquierda",
+    "left (politics)",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "jefe de estado",
+    "head of state",
+    "politics",
+    "president podium flag",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "junta militar",
+    "military junta",
+    "politics",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "legislatura",
+    "legislature",
+    "politics",
+    "legislature building",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "legitimidad",
+    "legitimacy",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "lobista",
+    "lobbyist",
+    "work",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "mandatario",
+    "leader / president",
+    "politics",
+    "president podium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "mandato",
+    "mandate / term",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "manifestante",
+    "protester",
+    "politics",
+    "protester sign",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "marcha",
+    "march / rally",
+    "politics",
+    "protest march crowd",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "minoría",
+    "minority",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "monarca",
+    "monarch",
+    "politics",
+    "king crown throne",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "nacionalismo",
+    "nationalism",
+    "politics",
+    "national flag",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "oligarquía",
+    "oligarchy",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "opositor",
+    "opponent",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "pacto",
+    "pact",
+    "politics",
+    "handshake agreement",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "parlamentario",
+    "parliamentary",
+    "adjectives",
+    "parliament building",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "partido oficialista",
+    "ruling party",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "plebiscito",
+    "plebiscite",
+    "politics",
+    "ballot vote",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "política exterior",
+    "foreign policy",
+    "politics",
+    "world map flags",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "presidir",
+    "to preside",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "primer ministro",
+    "prime minister",
+    "politics",
+    "prime minister podium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "procurador",
+    "attorney",
+    "work",
+    "attorney suit briefcase",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "promulgar",
+    "to promulgate",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "proselitismo",
+    "proselytism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "protocolo",
+    "protocol",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "ratificar",
+    "to ratify",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "reelección",
+    "reelection",
+    "politics",
+    "reelection campaign",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "referéndum",
+    "referendum",
+    "politics",
+    "ballot referendum",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "régimen totalitario",
+    "totalitarian regime",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "regulación",
+    "regulation",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "repúblicano",
+    "republican",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "revolucionario",
+    "revolutionary",
+    "politics",
+    "revolution flag",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sabotaje",
+    "sabotage",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sacerdocio",
+    "priesthood",
+    "politics",
+    "priest robes",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "secesión",
+    "secession",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "séquito",
+    "entourage",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "socialismo",
+    "socialism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sufragio",
+    "suffrage",
+    "politics",
+    "ballot voting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "suplente",
+    "substitute",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "terrorismo",
+    "terrorism",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "tirano",
+    "tyrant",
+    "politics",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "tratado",
+    "treaty",
+    "politics",
+    "treaty signing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "urbanismo",
+    "urban planning",
+    "politics",
+    "city planning blueprint",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "vacante",
+    "vacancy",
+    "politics",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "veredicto",
+    "verdict",
+    "politics",
+    "gavel verdict",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "veterano",
+    "veteran",
+    "politics",
+    "veteran military uniform",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "xenofobia",
+    "xenophobia",
+    "politics",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "acampada",
+    "camping trip",
+    "sports",
+    "camping tent forest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "aceituna silvestre",
+    "wild olive",
+    "nature",
+    "wild olives",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "aguilar",
+    "eagles' nest",
+    "nature",
+    "eagle nest cliff",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "alud",
+    "avalanche",
+    "nature",
+    "avalanche mountain snow",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ardilla",
+    "squirrel",
+    "animals",
+    "squirrel forest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "arroyuelo",
+    "brook",
+    "nature",
+    "small brook stream",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "badana",
+    "sheepskin",
+    "tools",
+    "sheepskin pelt",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bañado",
+    "wetland",
+    "nature",
+    "wetland reeds",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "barranquismo",
+    "canyoneering",
+    "sports",
+    "canyoning rappel",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "batido",
+    "trail / beaten path",
+    "nature",
+    "trail forest",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bisonte",
+    "bison",
+    "animals",
+    "bison american prairie",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bivouac",
+    "bivouac",
+    "sports",
+    "bivouac tent mountain",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bolsa de dormir",
+    "sleeping bag",
+    "sports",
+    "sleeping bag tent",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "botas de montaña",
+    "hiking boots",
+    "sports",
+    "hiking boots dirty",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "botiquín de primeros auxilios",
+    "first aid kit",
+    "sports",
+    "first aid kit",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "brújula magnética",
+    "magnetic compass",
+    "sports",
+    "compass map outdoors",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "caballerizas",
+    "stables",
+    "agriculture",
+    "horse stable",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "caleta",
+    "cove",
+    "geography",
+    "cove beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "camping",
+    "campsite",
+    "sports",
+    "campsite tents fire",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "camuflaje",
+    "camouflage",
+    "tools",
+    "camouflage pattern",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cantimplora",
+    "canteen",
+    "sports",
+    "water canteen hiking",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "caña de pescar",
+    "fishing rod",
+    "sports",
+    "fishing rod reel",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "capa de lluvia",
+    "rain cape",
+    "sports",
+    "raincoat hiker",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "caracola marina",
+    "conch shell",
+    "nature",
+    "conch shell beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "carpa (animal)",
+    "carp",
+    "animals",
+    "carp fish",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cayuco",
+    "dugout canoe",
+    "transport",
+    "dugout canoe",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "caza mayor",
+    "big game hunting",
+    "sports",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "caza menor",
+    "small game hunting",
+    "sports",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "chubasquero",
+    "raincoat",
+    "home",
+    "raincoat yellow",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ciervo",
+    "deer",
+    "animals",
+    "deer forest",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "clavija de tienda",
+    "tent peg",
+    "sports",
+    "tent peg",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "colmillo de jabalí",
+    "boar tusk",
+    "animals",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "comba",
+    "jump rope / arc",
+    "sports",
+    "jump rope",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cordada",
+    "roped team (climbing)",
+    "sports",
+    "climbing roped team",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cordón umbilical (montaña)",
+    "crampons rope",
+    "sports",
+    "climbing rope",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "corteza arbórea",
+    "tree bark",
+    "nature",
+    "tree bark texture",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "crampones",
+    "crampons",
+    "sports",
+    "crampons ice climbing",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "crujido (rama)",
+    "branch crack",
+    "nature",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "cumbre rocosa",
+    "rocky summit",
+    "geography",
+    "rocky summit",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "depredador",
+    "predator",
+    "animals",
+    "predator wolf hunting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "desfiladero",
+    "gorge",
+    "geography",
+    "gorge canyon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "disparo de fogata",
+    "campfire spark",
+    "sports",
+    "campfire sparks",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "enebro",
+    "juniper",
+    "nature",
+    "juniper berries tree",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "escalada en hielo",
+    "ice climbing",
+    "sports",
+    "ice climber",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "espadín",
+    "short sword / spar",
+    "sports",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "espeleología",
+    "caving",
+    "sports",
+    "caving spelunking",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estepa",
+    "steppe",
+    "geography",
+    "steppe grassland",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "faro",
+    "lighthouse",
+    "geography",
+    "lighthouse coast",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fauna",
+    "fauna",
+    "nature",
+    "wildlife animals",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fauces",
+    "jaws (animal)",
+    "animals",
+    "wolf jaws",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "fiordo",
+    "fjord",
+    "geography",
+    "fjord norway",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "flora",
+    "flora",
+    "nature",
+    "flora flowers plants",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fogata",
+    "campfire",
+    "sports",
+    "campfire night",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "foresta",
+    "forest",
+    "nature",
+    "dense forest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "frondoso",
+    "leafy",
+    "adjectives",
+    "leafy tree",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fuente termal",
+    "hot spring",
+    "nature",
+    "hot spring steam",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fungus",
+    "fungus",
+    "nature",
+    "mushrooms fungus",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "garrocha",
+    "pole / staff",
+    "sports",
+    "walking staff",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "gaviota",
+    "seagull",
+    "animals",
+    "seagull beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "geiser",
+    "geyser",
+    "geography",
+    "geyser eruption",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "glaciar de montaña",
+    "mountain glacier",
+    "geography",
+    "mountain glacier",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "guarida",
+    "den / lair",
+    "nature",
+    "wolf den",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "halcón",
+    "falcon",
+    "animals",
+    "falcon flying",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "hamaca",
+    "hammock",
+    "sports",
+    "hammock relaxing",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "hervidor",
+    "kettle",
+    "kitchen",
+    "camping kettle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "hoguera",
+    "bonfire",
+    "sports",
+    "bonfire night",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "hozadero",
+    "wild boar wallow",
+    "nature",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "huellas",
+    "tracks / footprints",
+    "nature",
+    "animal tracks snow",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "hurón",
+    "ferret",
+    "animals",
+    "ferret pet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ibex",
+    "ibex",
+    "animals",
+    "ibex mountain goat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "isla desierta",
+    "desert island",
+    "geography",
+    "desert island palm",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "jabalí",
+    "wild boar",
+    "animals",
+    "wild boar forest",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lapa",
+    "limpet",
+    "nature",
+    "limpet rock",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "latitud",
+    "latitude",
+    "science",
+    "latitude lines globe",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "leña",
+    "firewood",
+    "sports",
+    "firewood pile",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "liebre",
+    "hare",
+    "animals",
+    "hare brown field",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "linterna frontal",
+    "headlamp",
+    "sports",
+    "headlamp hiking",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lobato",
+    "wolf cub",
+    "animals",
+    "wolf cub",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "lubricar",
+    "to lubricate",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "luminoso",
+    "luminous",
+    "adjectives",
+    "luminous glow night",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "machete",
+    "machete",
+    "tools",
+    "machete knife",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "malla mosquitera",
+    "mosquito net",
+    "sports",
+    "mosquito net camping",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mapa topográfico",
+    "topographic map",
+    "sports",
+    "topographic map",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "marmota",
+    "marmot",
+    "animals",
+    "marmot rocks",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "meandro",
+    "meander (river)",
+    "nature",
+    "meandering river",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "medusa",
+    "jellyfish",
+    "animals",
+    "jellyfish ocean",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mochila grande",
+    "backpack large",
+    "sports",
+    "backpacking large pack",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "mosquetón",
+    "carabiner",
+    "sports",
+    "climbing carabiner",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nevera portátil",
+    "cooler",
+    "sports",
+    "cooler ice cold",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "nutria",
+    "otter",
+    "animals",
+    "otter river",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "odre",
+    "wineskin / waterskin",
+    "sports",
+    "wineskin leather",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "oso pardo",
+    "brown bear",
+    "animals",
+    "brown bear forest",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ostra",
+    "oyster",
+    "animals",
+    "oysters shells",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pajarita",
+    "bow tie / origami bird",
+    "arts",
+    "origami bird paper",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "paisajismo",
+    "landscaping",
+    "arts",
+    "landscaped garden",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "pala plegable",
+    "folding shovel",
+    "tools",
+    "folding shovel",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pantano",
+    "swamp / marsh",
+    "nature",
+    "swamp wetlands",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "parapente",
+    "paragliding",
+    "sports",
+    "paraglider sky",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "pasarela",
+    "walkway",
+    "tools",
+    "wooden walkway",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pegamento de tienda",
+    "tent glue",
+    "tools",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "pinza para tienda",
+    "tent clip",
+    "tools",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "pisada",
+    "footprint / step",
+    "nature",
+    "footprint sand",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "promontorio",
+    "headland / promontory",
+    "geography",
+    "headland cliff",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "quebrada",
+    "ravine / creek",
+    "geography",
+    "ravine stream",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "rama caída",
+    "fallen branch",
+    "nature",
+    "fallen branch ground",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "rampa",
+    "ramp",
+    "tools",
+    "skateboard ramp",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "raqueta de nieve",
+    "snowshoe",
+    "sports",
+    "snowshoes",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "refugio",
+    "shelter / refuge",
+    "sports",
+    "mountain refuge cabin",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "repelente",
+    "repellent",
+    "sports",
+    "insect repellent spray",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "reptil",
+    "reptile",
+    "animals",
+    "reptile lizard",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "riachuelo",
+    "stream",
+    "nature",
+    "small stream",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ribera",
+    "riverbank",
+    "nature",
+    "river bank green",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "risco",
+    "crag / cliff",
+    "geography",
+    "craggy cliff",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "roedor",
+    "rodent",
+    "animals",
+    "mouse rodent",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sabandija",
+    "vermin",
+    "animals",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "saco de dormir",
+    "sleeping bag",
+    "sports",
+    "sleeping bag",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "salamandra",
+    "salamander",
+    "animals",
+    "salamander wet",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sendero",
+    "trail",
+    "sports",
+    "forest trail path",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "senderismo",
+    "hiking",
+    "sports",
+    "hikers mountain trail",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "serpentín",
+    "coil / serpentine",
+    "tools",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "silbato",
+    "whistle",
+    "sports",
+    "whistle emergency",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "soga",
+    "rope",
+    "tools",
+    "thick rope",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "taiga",
+    "taiga",
+    "geography",
+    "taiga forest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "temporal",
+    "storm / temporary",
+    "weather",
+    "stormy weather",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tienda de campaña",
+    "tent",
+    "sports",
+    "tent camping",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tropezón",
+    "stumble",
+    "abstract",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "tundra",
+    "tundra",
+    "geography",
+    "tundra cold landscape",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "túnel",
+    "tunnel",
+    "tools",
+    "tunnel road",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vado",
+    "ford (river crossing)",
+    "nature",
+    "river crossing shallow",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "vapor (campamento)",
+    "steam",
+    "nature",
+    "steam mist",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "vega",
+    "fertile lowland",
+    "geography",
+    "fertile valley green",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "zarza",
+    "bramble",
+    "nature",
+    "bramble berries",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "abstracción",
+    "abstraction",
+    "arts",
+    "abstract art painting",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "acorde",
+    "chord",
+    "music",
+    "piano chord",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "acordeón",
+    "accordion",
+    "music",
+    "accordion player",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "acrílico",
+    "acrylic",
+    "arts",
+    "acrylic paint tubes",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "acuarela",
+    "watercolor",
+    "arts",
+    "watercolor painting",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "aforismo",
+    "aphorism",
+    "arts",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "aglutinar",
+    "to bind / agglutinate",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "agudo",
+    "sharp / high (sound)",
+    "adjectives",
+    "high note music",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "alabar",
+    "to praise",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "alegoría",
+    "allegory",
+    "arts",
+    "allegorical painting",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "altavoz",
+    "loudspeaker",
+    "music",
+    "loudspeaker concert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ámbito",
+    "scope / range",
+    "abstract",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "antiguo (estilo)",
+    "ancient (style)",
+    "arts",
+    "ancient art statue",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aprendiz",
+    "apprentice",
+    "work",
+    "apprentice workshop",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "aria",
+    "aria",
+    "music",
+    "opera singer aria",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "arpegio",
+    "arpeggio",
+    "music",
+    "piano arpeggio",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arpista",
+    "harpist",
+    "work",
+    "harpist playing",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "arquero (música)",
+    "bow (string instrument)",
+    "music",
+    "violin bow",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arquitectura",
+    "architecture",
+    "arts",
+    "modern architecture",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "arte abstracto",
+    "abstract art",
+    "arts",
+    "abstract art",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arte conceptual",
+    "conceptual art",
+    "arts",
+    "conceptual art installation",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "arte digital",
+    "digital art",
+    "arts",
+    "digital art tablet",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "arte popular",
+    "folk art",
+    "arts",
+    "folk art mexican",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "arte rupestre",
+    "cave art",
+    "arts",
+    "cave art painting",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "artesanía",
+    "handicraft",
+    "arts",
+    "handcrafted pottery",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "artista plástico",
+    "visual artist",
+    "work",
+    "artist studio painting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "balada",
+    "ballad",
+    "music",
+    "singer ballad guitar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bambolear",
+    "to sway",
+    "verbs",
+    "swaying tree wind",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bandoneón",
+    "bandoneon",
+    "music",
+    "bandoneon argentine tango",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bandurria",
+    "bandurria",
+    "music",
+    "bandurria spanish instrument",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "banjo",
+    "banjo",
+    "music",
+    "banjo instrument",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "barroquismo",
+    "baroque style",
+    "arts",
+    "baroque interior",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bastidor",
+    "stretcher (canvas)",
+    "arts",
+    "stretched canvas",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "batuta",
+    "baton",
+    "music",
+    "conductor baton",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "beat",
+    "beat (music)",
+    "music",
+    "drum beat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bel canto",
+    "bel canto",
+    "music",
+    "opera singing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bemol",
+    "flat (musical)",
+    "music",
+    "music score flat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "blues",
+    "blues",
+    "music",
+    "blues guitar player",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "bocina",
+    "horn / loudspeaker",
+    "music",
+    "horn instrument",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bohemio",
+    "bohemian",
+    "abstract",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "bombo",
+    "bass drum",
+    "music",
+    "bass drum",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bossa nova",
+    "bossa nova",
+    "music",
+    "brazilian guitar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bronce (arte)",
+    "bronze (art)",
+    "arts",
+    "bronze sculpture",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "caligrafía",
+    "calligraphy",
+    "arts",
+    "calligraphy ink",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "canon",
+    "canon (music)",
+    "music",
+    "sheet music canon",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cantata",
+    "cantata",
+    "music",
+    "choir performance",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "carboncillo",
+    "charcoal (art)",
+    "arts",
+    "charcoal sketch",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cartel publicitario",
+    "poster",
+    "arts",
+    "movie poster",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "catedrático (música)",
+    "music professor",
+    "work",
+    "music professor teaching",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "caja china",
+    "claves",
+    "music",
+    "claves percussion",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cerámica artesanal",
+    "handmade ceramics",
+    "arts",
+    "handmade pottery",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cifra",
+    "figure / number",
+    "abstract",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "claqueta",
+    "clapperboard",
+    "arts",
+    "film clapperboard",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "clavicordio",
+    "clavichord",
+    "music",
+    "clavichord instrument",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "coloratura",
+    "coloratura",
+    "music",
+    "opera singing coloratura",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "compás (música)",
+    "measure / time signature",
+    "music",
+    "music score measure",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "concierto sinfónico",
+    "symphony concert",
+    "music",
+    "symphony orchestra",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "coreografía",
+    "choreography",
+    "arts",
+    "dance choreography",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "corista",
+    "chorister",
+    "music",
+    "chorus singing",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "crescendo",
+    "crescendo",
+    "music",
+    "music dynamic crescendo",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cuarteto de cuerdas",
+    "string quartet",
+    "music",
+    "string quartet",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "cubismo",
+    "cubism",
+    "arts",
+    "cubist painting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "danza folclórica",
+    "folk dance",
+    "arts",
+    "folk dancers traditional",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "debutante",
+    "debutant",
+    "abstract",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "destreza",
+    "skill / dexterity",
+    "abstract",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "diapasón",
+    "tuning fork",
+    "music",
+    "tuning fork",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "dibujo a lápiz",
+    "pencil drawing",
+    "arts",
+    "pencil sketch",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "dieresis",
+    "umlaut",
+    "abstract",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "director de orquesta",
+    "orchestra conductor",
+    "work",
+    "conductor podium",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dúo",
+    "duo / duet",
+    "music",
+    "music duet two singers",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "enfocar (cámara)",
+    "to focus (camera)",
+    "verbs",
+    "camera focus",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ensayo (música)",
+    "rehearsal",
+    "music",
+    "band rehearsal",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "escala musical",
+    "musical scale",
+    "music",
+    "piano scale",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "escenario",
+    "stage",
+    "arts",
+    "theater stage",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "esculpido",
+    "sculpted",
+    "adjectives",
+    "sculpted marble",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estatuilla",
+    "figurine",
+    "arts",
+    "figurine porcelain",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estética",
+    "aesthetics",
+    "arts",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "estilo gótico",
+    "gothic style",
+    "arts",
+    "gothic cathedral",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estilo neoclásico",
+    "neoclassical style",
+    "arts",
+    "neoclassical building",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estilo románico",
+    "romanesque style",
+    "arts",
+    "romanesque arches",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estribillo",
+    "refrain / chorus",
+    "music",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "filarmónica",
+    "philharmonic",
+    "music",
+    "philharmonic hall",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "filete (arte)",
+    "fillet (art)",
+    "arts",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "flautín",
+    "piccolo",
+    "music",
+    "piccolo flute",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "floretista",
+    "fencer (foil)",
+    "sports",
+    "fencer foil mask",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "folk",
+    "folk music",
+    "music",
+    "folk guitar performance",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "forma sonata",
+    "sonata form",
+    "music",
+    "sheet music sonata",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fortísimo",
+    "fortissimo",
+    "music",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "fresco",
+    "fresco",
+    "arts",
+    "fresco ceiling painting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fuga (música)",
+    "fugue",
+    "music",
+    "baroque sheet music",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fundido",
+    "fade / cast",
+    "arts",
+    "fade out video",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fundir (escultura)",
+    "to cast (sculpture)",
+    "verbs",
+    "bronze casting",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "género musical",
+    "music genre",
+    "music",
+    "music notes records",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "góspel",
+    "gospel",
+    "music",
+    "gospel choir church",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "grabado",
+    "engraving",
+    "arts",
+    "engraved metal plate",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "guarnición (música)",
+    "fitting / accessory",
+    "music",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "guitarra acústica",
+    "acoustic guitar",
+    "music",
+    "acoustic guitar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "guitarra eléctrica",
+    "electric guitar",
+    "music",
+    "electric guitar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "heavy metal",
+    "heavy metal",
+    "music",
+    "heavy metal concert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "himno nacional",
+    "national anthem",
+    "music",
+    "national anthem flag",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hip hop",
+    "hip hop",
+    "music",
+    "hip hop dance",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "impresionismo",
+    "impressionism",
+    "arts",
+    "impressionist painting monet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "inspiración artística",
+    "artistic inspiration",
+    "arts",
+    "inspiration lightbulb art",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "interpretación",
+    "interpretation / performance",
+    "arts",
+    "performer stage",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "jazz",
+    "jazz",
+    "music",
+    "jazz saxophone player",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lazo (música)",
+    "slur (music)",
+    "music",
+    "sheet music slur",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "letras (música)",
+    "lyrics",
+    "music",
+    "handwritten lyrics",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "libreto",
+    "libretto",
+    "music",
+    "opera libretto",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "lienzo en blanco",
+    "blank canvas",
+    "arts",
+    "blank canvas easel",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "litografía",
+    "lithography",
+    "arts",
+    "lithograph print",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "líneas paralelas",
+    "parallel lines",
+    "arts",
+    "parallel lines abstract",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "luminaria",
+    "lighting fixture",
+    "arts",
+    "stage lighting",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "maestro de coro",
+    "choir master",
+    "music",
+    "choir master conducting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "maquetar",
+    "to lay out (design)",
+    "verbs",
+    "graphic design layout",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "marimba",
+    "marimba",
+    "music",
+    "marimba mallets",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "matiz",
+    "nuance / shade",
+    "abstract",
+    "color shades gradient",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "melodía",
+    "melody",
+    "music",
+    "melody notes",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mosaico",
+    "mosaic",
+    "arts",
+    "colorful mosaic",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "movimiento (sinfonía)",
+    "movement (symphony)",
+    "music",
+    "symphony score",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "mural",
+    "mural",
+    "arts",
+    "wall mural",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "musa",
+    "muse",
+    "abstract",
+    "greek muse statue",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "museo de arte",
+    "art museum",
+    "places",
+    "art museum interior",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "musicología",
+    "musicology",
+    "music",
+    "music study books",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "nocturno",
+    "nocturne",
+    "music",
+    "piano nocturne sheet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "octava",
+    "octave",
+    "music",
+    "piano octave",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "ópera",
+    "opera",
+    "arts",
+    "opera house performance",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "organillo",
+    "barrel organ",
+    "music",
+    "barrel organ street",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "pandereta",
+    "tambourine",
+    "music",
+    "tambourine",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pasodoble",
+    "paso doble",
+    "music",
+    "paso doble dance",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pastel (arte)",
+    "pastel (art)",
+    "arts",
+    "pastel chalk sticks",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "percutir",
+    "to percuss",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "pizzicato",
+    "pizzicato",
+    "music",
+    "violin pizzicato fingers",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "polifonía",
+    "polyphony",
+    "music",
+    "choir polyphonic",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pop",
+    "pop (music)",
+    "music",
+    "pop concert crowd",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "porcelana",
+    "porcelain",
+    "arts",
+    "porcelain china",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "preludio",
+    "prelude",
+    "music",
+    "music sheet prelude",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "punk",
+    "punk",
+    "music",
+    "punk rock band",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "quena",
+    "quena",
+    "music",
+    "andean quena flute",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "radioteatro",
+    "radio drama",
+    "arts",
+    "old radio",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "rapero",
+    "rapper",
+    "work",
+    "rapper microphone",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "raqueta (música)",
+    "clapper",
+    "music",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "realismo",
+    "realism",
+    "arts",
+    "realist painting portrait",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "reggae",
+    "reggae",
+    "music",
+    "reggae band concert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "renacentista",
+    "renaissance",
+    "adjectives",
+    "renaissance painting",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "répertoire",
+    "repertoire",
+    "music",
+    "music repertoire books",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "réquiem",
+    "requiem",
+    "music",
+    "funeral mass requiem",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "retablo",
+    "altarpiece",
+    "religion",
+    "altarpiece church",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "retoque",
+    "retouch",
+    "arts",
+    "photo retouching",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "rock",
+    "rock (music)",
+    "music",
+    "rock band concert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sample",
+    "sample (music)",
+    "music",
+    "music sampler",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "santero",
+    "santeria practitioner",
+    "religion",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "serenata",
+    "serenade",
+    "music",
+    "serenade window guitar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sinfonía",
+    "symphony",
+    "music",
+    "symphony hall",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "solo (música)",
+    "solo",
+    "music",
+    "saxophone solo spotlight",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "soneto",
+    "sonnet",
+    "arts",
+    "handwritten poetry",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "soprano",
+    "soprano",
+    "music",
+    "soprano opera singer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "suite (música)",
+    "suite",
+    "music",
+    "music suite score",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "surrealismo",
+    "surrealism",
+    "arts",
+    "surrealist painting dali",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tango",
+    "tango",
+    "music",
+    "tango dancers couple",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tapiz",
+    "tapestry",
+    "arts",
+    "medieval tapestry",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tatuaje",
+    "tattoo",
+    "arts",
+    "arm tattoo design",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tatuador",
+    "tattoo artist",
+    "work",
+    "tattoo artist working",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "temple",
+    "tempera",
+    "arts",
+    "tempera paint",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tenor",
+    "tenor",
+    "music",
+    "tenor opera singer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tonalidad",
+    "tonality",
+    "music",
+    "piano keyboard",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "transposición",
+    "transposition",
+    "music",
+    "music sheet transposed",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tríada",
+    "triad",
+    "music",
+    "music chord triad",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "triángulo musical",
+    "musical triangle",
+    "music",
+    "triangle percussion",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "trombón",
+    "trombone",
+    "music",
+    "trombone brass",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "trovador",
+    "troubadour",
+    "music",
+    "troubadour singing guitar",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tuba",
+    "tuba",
+    "music",
+    "tuba brass",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "ukelele",
+    "ukulele",
+    "music",
+    "ukulele small guitar",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vanguardia",
+    "avant-garde",
+    "arts",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "verso",
+    "verse",
+    "arts",
+    "handwritten verse poem",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "vibrato",
+    "vibrato",
+    "music",
+    "violin vibrato finger",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "villancico",
+    "Christmas carol",
+    "music",
+    "christmas carol singing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "viola",
+    "viola",
+    "music",
+    "viola string instrument",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "violonchelo",
+    "cello",
+    "music",
+    "cello cellist",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "virtuoso",
+    "virtuoso",
+    "music",
+    "virtuoso violinist",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "xilófono",
+    "xylophone",
+    "music",
+    "xylophone mallets",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "adobar",
+    "to marinate",
+    "verbs",
+    "marinating meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "agitador",
+    "stirrer",
+    "kitchen",
+    "cocktail stirrer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "agridulce",
+    "sweet and sour",
+    "food",
+    "sweet sour sauce",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ajo en polvo",
+    "garlic powder",
+    "food",
+    "garlic powder jar",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "alcaravea",
+    "caraway",
+    "food",
+    "caraway seeds",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "aliñador",
+    "salad dresser",
+    "kitchen",
+    "salad dressing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "almejas a la marinera",
+    "clams marinara",
+    "food",
+    "clams marinara dish",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "almuerzo del trabajo",
+    "work lunch",
+    "food",
+    "office lunch",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "amasador",
+    "kneading machine",
+    "kitchen",
+    "dough mixer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ansiar (comida)",
+    "to crave (food)",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "aperitivo",
+    "appetizer",
+    "food",
+    "appetizers tray",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arboleda gastronómica",
+    "gastronomic grove",
+    "food",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "arroz integral",
+    "brown rice",
+    "food",
+    "brown rice bowl",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "asadero argentino",
+    "argentinian grill",
+    "food",
+    "argentine asado",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "asar a la parrilla",
+    "to grill",
+    "verbs",
+    "grilling meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "asopao",
+    "asopao stew",
+    "food",
+    "puerto rican asopao",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bacalao a la vizcaína",
+    "biscay-style cod",
+    "food",
+    "biscay cod dish",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "batidor",
+    "whisk",
+    "kitchen",
+    "whisk metal",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "berenjena",
+    "eggplant",
+    "food",
+    "purple eggplant",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "birria",
+    "birria",
+    "food",
+    "birria mexican stew",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bisbiseo",
+    "whisper / sizzle",
+    "food",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "bizcochito",
+    "small cake",
+    "food",
+    "small sponge cake",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "blanquear",
+    "to blanch",
+    "verbs",
+    "blanching vegetables",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bocadillo (Spain)",
+    "baguette sandwich",
+    "food",
+    "spanish bocadillo",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "braisar",
+    "to braise",
+    "verbs",
+    "braising meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "brasero",
+    "brazier / grill",
+    "kitchen",
+    "brazier coals",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "brécol",
+    "broccoli",
+    "food",
+    "broccoli green",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "brûlée",
+    "brûlée",
+    "food",
+    "creme brulee dessert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bufet",
+    "buffet",
+    "food",
+    "buffet table food",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "caldo de res",
+    "beef broth",
+    "food",
+    "beef broth",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "caldo de verduras",
+    "vegetable broth",
+    "food",
+    "vegetable broth",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "calentar a fuego lento",
+    "to heat on low",
+    "verbs",
+    "slow cooking pot",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "caña de jamón",
+    "ham hock",
+    "food",
+    "ham hock",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "caramelizar",
+    "to caramelize",
+    "verbs",
+    "caramelizing onions",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "carbonero",
+    "charcoal burner",
+    "kitchen",
+    "charcoal grill",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "carne magra",
+    "lean meat",
+    "food",
+    "lean beef cut",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "carnero",
+    "mutton",
+    "food",
+    "mutton meat",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "carpaccio",
+    "carpaccio",
+    "food",
+    "carpaccio thin slices",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "caza (cocina)",
+    "game meat",
+    "food",
+    "venison game",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cazuela",
+    "casserole / earthen pot",
+    "kitchen",
+    "earthen casserole",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cebolla caramelizada",
+    "caramelized onion",
+    "food",
+    "caramelized onions",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cerdo agridulce",
+    "sweet and sour pork",
+    "food",
+    "sweet sour pork",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "chalota",
+    "shallot",
+    "food",
+    "shallots",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "chamusquear",
+    "to char / singe",
+    "verbs",
+    "charred meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "chichas (parrilla)",
+    "grilled meats",
+    "food",
+    "grilled meat platter",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "chimichurri",
+    "chimichurri",
+    "food",
+    "chimichurri sauce green",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "chorizo argentino",
+    "argentinian chorizo",
+    "food",
+    "argentine chorizo grill",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "clavo de olor",
+    "clove",
+    "food",
+    "cloves spice",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cocer al vapor",
+    "to steam",
+    "verbs",
+    "steaming vegetables",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "colado",
+    "strained",
+    "adjectives",
+    "strained sauce",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "colorante",
+    "food coloring",
+    "food",
+    "food coloring drops",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "comino molido",
+    "ground cumin",
+    "food",
+    "ground cumin",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "compota de manzana",
+    "apple compote",
+    "food",
+    "apple compote",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "condimentar",
+    "to season",
+    "verbs",
+    "seasoning food spices",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "congrio",
+    "conger eel",
+    "food",
+    "conger eel fish",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cordillera (comida)",
+    "spine cut (lamb)",
+    "food",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "coriandro",
+    "coriander",
+    "food",
+    "coriander seeds",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "costillas de cerdo",
+    "pork ribs",
+    "food",
+    "pork ribs barbecue",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "crujiente",
+    "crispy",
+    "adjectives",
+    "crispy fried food",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cucharón sopero",
+    "ladle",
+    "kitchen",
+    "soup ladle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "curry",
+    "curry",
+    "food",
+    "curry dish bowl",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "dátil",
+    "date (fruit)",
+    "food",
+    "dates dried",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "deshidratar",
+    "to dehydrate",
+    "verbs",
+    "dehydrated fruits",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "desmoldar",
+    "to unmold",
+    "verbs",
+    "unmolding flan",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "destilado",
+    "distilled",
+    "adjectives",
+    "distilled spirits",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "dorar",
+    "to brown / sear",
+    "verbs",
+    "searing meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ebullición",
+    "boiling",
+    "food",
+    "boiling water",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "empanar",
+    "to bread",
+    "verbs",
+    "breading chicken",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "enrollado",
+    "rolled",
+    "adjectives",
+    "rolled sushi",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "entremeses",
+    "hors d'oeuvres",
+    "food",
+    "hors doeuvres tray",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "escalfar",
+    "to poach",
+    "verbs",
+    "poaching egg",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "espolvorear",
+    "to sprinkle",
+    "verbs",
+    "sprinkling sugar",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "espuma",
+    "foam",
+    "food",
+    "cappuccino foam",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "esterilla de bambú",
+    "bamboo mat",
+    "kitchen",
+    "sushi bamboo mat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estofar",
+    "to stew",
+    "verbs",
+    "stewing pot beef",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "exprimir",
+    "to squeeze (juice)",
+    "verbs",
+    "squeezing orange",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fideos chinos",
+    "chinese noodles",
+    "food",
+    "chinese noodles",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "filo de cuchillo",
+    "knife edge",
+    "kitchen",
+    "knife sharp edge",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "flameado",
+    "flambé",
+    "food",
+    "flambe pan fire",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "flameante",
+    "flaming",
+    "adjectives",
+    "flaming dessert",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "foie gras",
+    "foie gras",
+    "food",
+    "foie gras gourmet",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "freidora",
+    "fryer",
+    "kitchen",
+    "deep fryer",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fritura",
+    "fritter",
+    "food",
+    "fried fritter",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fumet",
+    "fumet (broth)",
+    "food",
+    "seafood broth",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "garam masala",
+    "garam masala",
+    "food",
+    "garam masala spice",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "gastronomía",
+    "gastronomy",
+    "food",
+    "gourmet plated dish",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "girasol (semilla)",
+    "sunflower seed",
+    "food",
+    "sunflower seeds",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "glaseado",
+    "glazed",
+    "adjectives",
+    "glazed donut",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "gourmet",
+    "gourmet",
+    "adjectives",
+    "gourmet plate",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "gratinar",
+    "to gratin",
+    "verbs",
+    "au gratin baked",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "guacamole casero",
+    "homemade guacamole",
+    "food",
+    "homemade guacamole",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "guarnición",
+    "side dish / garnish",
+    "food",
+    "side dish garnish",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "guisar",
+    "to stew / cook",
+    "verbs",
+    "stewing pot",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hervir a fuego lento",
+    "to simmer",
+    "verbs",
+    "simmering pot",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "horneado",
+    "baked",
+    "adjectives",
+    "baked bread",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hornear",
+    "to bake",
+    "verbs",
+    "baking oven cake",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "humectar",
+    "to moisten",
+    "verbs",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "jengibre fresco",
+    "fresh ginger",
+    "food",
+    "fresh ginger root",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "kebab",
+    "kebab",
+    "food",
+    "grilled kebab",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "laurel",
+    "bay leaf",
+    "food",
+    "bay leaves",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "leudar",
+    "to leaven / rise",
+    "verbs",
+    "dough rising",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "levadura en polvo",
+    "baking powder",
+    "food",
+    "baking powder",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "levantamasas",
+    "dough proofer",
+    "kitchen",
+    "",
+    "text",
+    "",
+    "las"
+  ],
+  [
+    "licuado",
+    "liquefied / smoothie",
+    "food",
+    "smoothie blender",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "litografía culinaria",
+    "food art",
+    "food",
+    "food plating art",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "lomo de cerdo",
+    "pork loin",
+    "food",
+    "pork loin roast",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "macerar",
+    "to macerate",
+    "verbs",
+    "macerating berries",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "maíz blanco",
+    "white corn",
+    "food",
+    "white corn cob",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "majar",
+    "to mash / crush",
+    "verbs",
+    "mashing potatoes",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "mantel individual",
+    "placemat",
+    "kitchen",
+    "placemat dining",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "marinar",
+    "to marinate",
+    "verbs",
+    "marinating meat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "masala",
+    "masala",
+    "food",
+    "masala spice mix",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "medialuna",
+    "croissant",
+    "food",
+    "croissants",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mezclar",
+    "to mix",
+    "verbs",
+    "mixing batter",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "molienda",
+    "grind / milling",
+    "food",
+    "wheat milling",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mortero",
+    "mortar",
+    "kitchen",
+    "mortar pestle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "mostrador",
+    "counter",
+    "kitchen",
+    "kitchen counter",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "mousse",
+    "mousse",
+    "food",
+    "chocolate mousse",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "nuez moscada",
+    "nutmeg",
+    "food",
+    "nutmeg whole",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "olla a presión",
+    "pressure cooker",
+    "kitchen",
+    "pressure cooker",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pan de centeno",
+    "rye bread",
+    "food",
+    "rye bread loaf",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "panceta",
+    "bacon (cured pork belly)",
+    "food",
+    "bacon slices",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "panela",
+    "raw sugar",
+    "food",
+    "panela block",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "paneo",
+    "paneo (sauce)",
+    "food",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "paté",
+    "pâté",
+    "food",
+    "pate spread bread",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pavlova",
+    "pavlova",
+    "food",
+    "pavlova dessert berries",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pechuga",
+    "breast (chicken)",
+    "food",
+    "chicken breast cooked",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "picar",
+    "to chop / mince",
+    "verbs",
+    "chopping vegetables",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pinche de cocina",
+    "kitchen helper",
+    "work",
+    "kitchen helper",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pizca",
+    "pinch (of)",
+    "food",
+    "pinch of salt",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pochar",
+    "to poach",
+    "verbs",
+    "poaching egg",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "poro",
+    "leek",
+    "food",
+    "leeks",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "postre helado",
+    "frozen dessert",
+    "food",
+    "ice cream dessert",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "prensa de ajos",
+    "garlic press",
+    "kitchen",
+    "garlic press",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "receta secreta",
+    "secret recipe",
+    "food",
+    "secret recipe paper",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "reducir (cocina)",
+    "to reduce (sauce)",
+    "verbs",
+    "reducing sauce pan",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "rellenar",
+    "to stuff",
+    "verbs",
+    "stuffing turkey",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "robot de cocina",
+    "food processor",
+    "kitchen",
+    "food processor",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "romper huevos",
+    "crack eggs",
+    "verbs",
+    "cracking eggs",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "rostizar",
+    "to roast",
+    "verbs",
+    "roasting chicken",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sabroso",
+    "tasty",
+    "adjectives",
+    "delicious tasty food",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sabueso (comida)",
+    "food sleuth",
+    "food",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sal marina",
+    "sea salt",
+    "food",
+    "sea salt crystals",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "salami picante",
+    "spicy salami",
+    "food",
+    "spicy salami",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "salpicón",
+    "cold seafood salad",
+    "food",
+    "seafood cocktail",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "saltado",
+    "stir-fried",
+    "adjectives",
+    "stir fried vegetables",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "saltar",
+    "to stir-fry / jump",
+    "verbs",
+    "stir frying wok",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sancochar",
+    "to parboil",
+    "verbs",
+    "parboiling potatoes",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sazón",
+    "seasoning / flavor",
+    "food",
+    "seasoning spices",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sebo",
+    "tallow / suet",
+    "food",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sellar",
+    "to sear",
+    "verbs",
+    "searing steak",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sémola",
+    "semolina",
+    "food",
+    "semolina grain",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sidra",
+    "cider",
+    "food",
+    "apple cider glass",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sobremesa",
+    "after-meal chat",
+    "food",
+    "family table chat",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "soja",
+    "soy",
+    "food",
+    "soybeans",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sopapilla",
+    "sopapilla",
+    "food",
+    "sopapilla pastry",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sopera",
+    "tureen",
+    "kitchen",
+    "soup tureen",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "soya",
+    "soy (LATAM)",
+    "food",
+    "soybeans",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "suero de mantequilla",
+    "buttermilk",
+    "food",
+    "buttermilk glass",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tabla de quesos",
+    "cheese board",
+    "food",
+    "cheese board",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "tagine",
+    "tagine",
+    "food",
+    "tagine moroccan dish",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tamiz",
+    "sieve / strainer",
+    "kitchen",
+    "fine sieve",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tartaleta",
+    "tartlet",
+    "food",
+    "tartlets fruit",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tetera de plata",
+    "silver teapot",
+    "kitchen",
+    "silver teapot",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tofu",
+    "tofu",
+    "food",
+    "tofu cubes",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "torta de chocolate",
+    "chocolate cake",
+    "food",
+    "chocolate cake",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "trinchar",
+    "to carve (meat)",
+    "verbs",
+    "carving turkey",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "tostadora",
+    "toaster",
+    "kitchen",
+    "toaster bread",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tubérculo",
+    "tuber",
+    "food",
+    "potato tuber roots",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "umami",
+    "umami",
+    "food",
+    "umami flavor",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "untar",
+    "to spread / smear",
+    "verbs",
+    "spreading butter bread",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "uvas pasas",
+    "raisins",
+    "food",
+    "raisins handful",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "vaporera",
+    "steamer (kitchen)",
+    "kitchen",
+    "bamboo steamer",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "vegano",
+    "vegan",
+    "adjectives",
+    "vegan plate vegetables",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vegetariano",
+    "vegetarian",
+    "adjectives",
+    "vegetarian salad",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "verter",
+    "to pour",
+    "verbs",
+    "pouring water glass",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vinagre balsámico",
+    "balsamic vinegar",
+    "food",
+    "balsamic vinegar bottle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "wasabi",
+    "wasabi",
+    "food",
+    "wasabi paste green",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "wok",
+    "wok",
+    "kitchen",
+    "wok stir fry",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "aceleración",
+    "acceleration",
+    "science",
+    "acceleration arrow chart",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "ácido",
+    "acid",
+    "science",
+    "acid test ph",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "adn",
+    "DNA",
+    "science",
+    "dna double helix",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "aleación",
+    "alloy",
+    "science",
+    "metal alloy",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "alérgeno",
+    "allergen",
+    "science",
+    "pollen allergen",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aminoácido",
+    "amino acid",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "amoníaco",
+    "ammonia",
+    "science",
+    "ammonia bottle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "amperio",
+    "ampere",
+    "science",
+    "ammeter",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arcosa",
+    "arkose",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "argón",
+    "argon",
+    "science",
+    "periodic table argon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arsénico",
+    "arsenic",
+    "science",
+    "periodic table arsenic",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "atómico",
+    "atomic",
+    "adjectives",
+    "atom orbit",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "azufre",
+    "sulfur",
+    "science",
+    "yellow sulfur",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bacteriología",
+    "bacteriology",
+    "science",
+    "bacteria microscope",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "balanza analítica",
+    "analytical balance",
+    "science",
+    "analytical balance lab",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "barómetro",
+    "barometer",
+    "science",
+    "barometer instrument",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "base",
+    "base (chemistry)",
+    "science",
+    "base ph blue",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "beso de carbón",
+    "carbon kiss",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "bicarbonato",
+    "bicarbonate",
+    "science",
+    "baking soda box",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "binario",
+    "binary",
+    "science",
+    "binary code computer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bioluminiscencia",
+    "bioluminescence",
+    "science",
+    "bioluminescent ocean",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bromo",
+    "bromine",
+    "science",
+    "periodic table bromine",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "buchanita",
+    "buchanite",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "cadmio",
+    "cadmium",
+    "science",
+    "periodic table cadmium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cal",
+    "lime / calcium oxide",
+    "science",
+    "calcium hydroxide",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "calcáreo",
+    "calcareous",
+    "adjectives",
+    "limestone rock",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "calcificación",
+    "calcification",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "caloría",
+    "calorie",
+    "science",
+    "calorie label food",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "catalizador",
+    "catalyst",
+    "science",
+    "catalytic converter",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "catión",
+    "cation",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "centrífuga",
+    "centrifuge",
+    "science",
+    "laboratory centrifuge",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "centro de masa",
+    "center of mass",
+    "science",
+    "balance center mass",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cesio",
+    "cesium",
+    "science",
+    "periodic table cesium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "circuito eléctrico",
+    "electric circuit",
+    "science",
+    "electrical circuit diagram",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "citoplasma",
+    "cytoplasm",
+    "science",
+    "cell cytoplasm diagram",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "clorofila",
+    "chlorophyll",
+    "science",
+    "green leaf chlorophyll",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cloro",
+    "chlorine",
+    "science",
+    "chlorine pool",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "coagulación",
+    "coagulation",
+    "science",
+    "blood coagulation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "combustión",
+    "combustion",
+    "science",
+    "fire flames combustion",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "compuesto químico",
+    "chemical compound",
+    "science",
+    "molecular structure",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "conductor",
+    "conductor (physical)",
+    "science",
+    "copper wire",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "conducción térmica",
+    "thermal conduction",
+    "science",
+    "heat conduction metal",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "congelación",
+    "freezing",
+    "science",
+    "ice freezing",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "conservación de energía",
+    "conservation of energy",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "cromosoma",
+    "chromosome",
+    "science",
+    "chromosomes dna",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cuántico",
+    "quantum",
+    "adjectives",
+    "quantum physics atom",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "denatured",
+    "denatured",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "densidad",
+    "density",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "destilación",
+    "distillation",
+    "science",
+    "distillation apparatus",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dióxido de carbono",
+    "carbon dioxide",
+    "science",
+    "co2 carbon dioxide",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "diploide",
+    "diploid",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "disolución",
+    "solution / dissolution",
+    "science",
+    "dissolving water",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "disolvente",
+    "solvent",
+    "science",
+    "solvent bottle",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "ecosistema",
+    "ecosystem",
+    "science",
+    "forest ecosystem",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "efecto invernadero",
+    "greenhouse effect",
+    "science",
+    "earth greenhouse",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "electrón",
+    "electron",
+    "science",
+    "electron atom",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "elemento químico",
+    "chemical element",
+    "science",
+    "periodic table",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "embrión",
+    "embryo",
+    "science",
+    "embryo development",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "energía cinética",
+    "kinetic energy",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "energía nuclear",
+    "nuclear energy",
+    "science",
+    "nuclear power plant",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "energía potencial",
+    "potential energy",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "enzima",
+    "enzyme",
+    "science",
+    "enzyme molecule",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "espectrómetro",
+    "spectrometer",
+    "science",
+    "spectrometer lab",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "evaporación",
+    "evaporation",
+    "science",
+    "steam evaporation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "evolución biológica",
+    "biological evolution",
+    "science",
+    "evolution chart",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fauna y flora",
+    "fauna and flora",
+    "science",
+    "plants animals nature",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fenotipo",
+    "phenotype",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "fermentación (bio)",
+    "fermentation",
+    "science",
+    "fermentation bubbles",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fertilizante",
+    "fertilizer",
+    "science",
+    "fertilizer bag",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fisión nuclear",
+    "nuclear fission",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "fluorescencia",
+    "fluorescence",
+    "science",
+    "fluorescent light tubes",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "flúor",
+    "fluorine",
+    "science",
+    "periodic table fluorine",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fórmula química",
+    "chemical formula",
+    "science",
+    "chemical formula whiteboard",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fósil",
+    "fossil",
+    "science",
+    "fossil dinosaur bone",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fotosíntesis",
+    "photosynthesis",
+    "science",
+    "plant photosynthesis sun",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fricción",
+    "friction",
+    "science",
+    "tire skid friction",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fuerza centrípeta",
+    "centripetal force",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "fusión nuclear",
+    "nuclear fusion",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "gen",
+    "gene",
+    "science",
+    "dna gene",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "genoma",
+    "genome",
+    "science",
+    "dna genome",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "gravitacional",
+    "gravitational",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "gradiente",
+    "gradient",
+    "science",
+    "gradient color",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "hábitat",
+    "habitat",
+    "science",
+    "forest animal habitat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "haploide",
+    "haploid",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "helio",
+    "helium",
+    "science",
+    "helium balloons",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "herbívoro",
+    "herbivore",
+    "animals",
+    "herbivore deer eating",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "hertz",
+    "hertz",
+    "science",
+    "sound waves hertz",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hidrógeno",
+    "hydrogen",
+    "science",
+    "periodic table hydrogen",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "hidrólisis",
+    "hydrolysis",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "hipótesis",
+    "hypothesis",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "histología",
+    "histology",
+    "science",
+    "tissue microscope",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "homeostasis",
+    "homeostasis",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "incandescente",
+    "incandescent",
+    "adjectives",
+    "incandescent bulb",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "infrarrojo",
+    "infrared",
+    "science",
+    "infrared image",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "inorgánico",
+    "inorganic",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "ion",
+    "ion",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "isótopo",
+    "isotope",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "láser",
+    "laser",
+    "science",
+    "laser beam red",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lava",
+    "lava",
+    "science",
+    "volcano lava",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "litio",
+    "lithium",
+    "science",
+    "periodic table lithium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "magnetismo",
+    "magnetism",
+    "science",
+    "magnet attracting",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "magnitud",
+    "magnitude",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "mamífero",
+    "mammal",
+    "animals",
+    "mammal whale",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "masa atómica",
+    "atomic mass",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "materia",
+    "matter",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "mecánica cuántica",
+    "quantum mechanics",
+    "science",
+    "quantum equation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "meiosis",
+    "meiosis",
+    "science",
+    "cell meiosis diagram",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "mercurio",
+    "mercury",
+    "science",
+    "mercury liquid metal",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "meteorología",
+    "meteorology",
+    "science",
+    "weather radar",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "microbiología",
+    "microbiology",
+    "science",
+    "microbiology lab",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mitocondria",
+    "mitochondria",
+    "science",
+    "mitochondria cell",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mitosis",
+    "mitosis",
+    "science",
+    "cell mitosis",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "molécula",
+    "molecule",
+    "science",
+    "molecule model",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "movimiento browniano",
+    "Brownian motion",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "mutación",
+    "mutation",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "neón",
+    "neon",
+    "science",
+    "neon sign light",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "neutrón",
+    "neutron",
+    "science",
+    "neutron atom diagram",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nicotina",
+    "nicotine",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "nivel del mar",
+    "sea level",
+    "science",
+    "sea level ocean",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "núcleo (átomo)",
+    "nucleus (atom)",
+    "science",
+    "atom nucleus",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nucleótido",
+    "nucleotide",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "nutrición celular",
+    "cellular nutrition",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "onda",
+    "wave",
+    "science",
+    "ocean wave",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "orbital",
+    "orbital",
+    "science",
+    "electron orbital",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "organismo",
+    "organism",
+    "science",
+    "microorganism",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "óseo",
+    "osseous / bony",
+    "adjectives",
+    "skeleton bones",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "osmosis",
+    "osmosis",
+    "science",
+    "osmosis diagram",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "oxidación",
+    "oxidation",
+    "science",
+    "rust oxidation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "oxígeno",
+    "oxygen",
+    "science",
+    "oxygen molecule",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "parénquima",
+    "parenchyma",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "partícula",
+    "particle",
+    "science",
+    "particle collider",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pasteurización",
+    "pasteurization",
+    "science",
+    "milk carton pasteurized",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "péptido",
+    "peptide",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "período (físico)",
+    "period (physical)",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "pH",
+    "pH",
+    "science",
+    "ph scale colored",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pigmento",
+    "pigment",
+    "science",
+    "colorful pigments powder",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "plásmido",
+    "plasmid",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "polímero",
+    "polymer",
+    "science",
+    "plastic polymer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "polinización",
+    "pollination",
+    "science",
+    "bee pollination flower",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "potasio",
+    "potassium",
+    "science",
+    "banana potassium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "preservación",
+    "preservation",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "presión atmosférica",
+    "atmospheric pressure",
+    "science",
+    "barometer pressure",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "productor",
+    "producer (eco)",
+    "science",
+    "green plant producer",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "proteína",
+    "protein",
+    "science",
+    "protein molecules",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "protón",
+    "proton",
+    "science",
+    "proton atom",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "prueba ácida",
+    "acid test",
+    "science",
+    "acid test indicator",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "punto de ebullición",
+    "boiling point",
+    "science",
+    "boiling water bubbles",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "punto de fusión",
+    "melting point",
+    "science",
+    "melting ice",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "radiación",
+    "radiation",
+    "science",
+    "radiation symbol",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "radioactivo",
+    "radioactive",
+    "adjectives",
+    "radioactive symbol yellow",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "reacción química",
+    "chemical reaction",
+    "science",
+    "chemistry reaction tube",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "recombinación",
+    "recombination",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "reflexión",
+    "reflection (light)",
+    "science",
+    "reflection mirror water",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "refracción",
+    "refraction",
+    "science",
+    "prism refraction light",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "respiración celular",
+    "cellular respiration",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "ribosoma",
+    "ribosome",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sales minerales",
+    "mineral salts",
+    "science",
+    "mineral salt crystals",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "salinidad",
+    "salinity",
+    "science",
+    "salt water beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sedimento",
+    "sediment",
+    "science",
+    "sediment river",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "semiconductor",
+    "semiconductor",
+    "science",
+    "semiconductor chip",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sodio",
+    "sodium",
+    "science",
+    "salt sodium",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "solenoide",
+    "solenoid",
+    "science",
+    "solenoid coil",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "solución salina",
+    "saline solution",
+    "science",
+    "saline iv bag",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "soluto",
+    "solute",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "subatómico",
+    "subatomic",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "sulfato",
+    "sulfate",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "sustancia",
+    "substance",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "tabla periódica",
+    "periodic table",
+    "science",
+    "periodic table",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "taxonomía",
+    "taxonomy",
+    "science",
+    "taxonomy chart species",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tejido (bio)",
+    "tissue (bio)",
+    "science",
+    "tissue microscope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tensión superficial",
+    "surface tension",
+    "science",
+    "water drop surface",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "terapia génica",
+    "gene therapy",
+    "science",
+    "dna helix therapy",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "termodinámica",
+    "thermodynamics",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "torsión",
+    "torsion",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "transgénico",
+    "transgenic",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "umbral",
+    "threshold",
+    "abstract",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "vacuna recombinante",
+    "recombinant vaccine",
+    "science",
+    "vaccine vial",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "valencia",
+    "valence",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "vector (bio)",
+    "vector (biology)",
+    "science",
+    "mosquito vector",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "velocidad de la luz",
+    "speed of light",
+    "science",
+    "light speed beam",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vértebra",
+    "vertebra",
+    "body",
+    "spine vertebrae",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "vertebrado",
+    "vertebrate",
+    "animals",
+    "vertebrate fish skeleton",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "virus (bio)",
+    "virus",
+    "science",
+    "virus microscope",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "voltaje",
+    "voltage",
+    "science",
+    "multimeter voltage",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "voltio",
+    "volt",
+    "science",
+    "battery voltage",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "zigoto",
+    "zygote",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "zoología",
+    "zoology",
+    "science",
+    "zoology animals study",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Andalucía",
+    "Andalusia",
+    "geography",
+    "andalusia spain landscape",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Atacama",
+    "Atacama",
+    "geography",
+    "atacama desert",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "Bolivia",
+    "Bolivia",
+    "geography",
+    "bolivia salt flats",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Costa Rica",
+    "Costa Rica",
+    "geography",
+    "costa rica beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Ecuador",
+    "Ecuador",
+    "geography",
+    "ecuador andes",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "El Salvador",
+    "El Salvador",
+    "geography",
+    "el salvador volcano",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "Galápagos",
+    "Galapagos",
+    "geography",
+    "galapagos tortoise",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "Guatemala",
+    "Guatemala",
+    "geography",
+    "guatemala temple",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Honduras",
+    "Honduras",
+    "geography",
+    "honduras flag",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "Nicaragua",
+    "Nicaragua",
+    "geography",
+    "nicaragua volcano",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Panamá",
+    "Panama",
+    "geography",
+    "panama canal",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Paraguay",
+    "Paraguay",
+    "geography",
+    "paraguay flag",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Patagonia",
+    "Patagonia",
+    "geography",
+    "patagonia mountains",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Puerto Rico",
+    "Puerto Rico",
+    "geography",
+    "puerto rico beach",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "República Dominicana",
+    "Dominican Republic",
+    "geography",
+    "dominican beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Uruguay",
+    "Uruguay",
+    "geography",
+    "uruguay flag",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Venezuela",
+    "Venezuela",
+    "geography",
+    "venezuela angel falls",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Yucatán",
+    "Yucatan",
+    "geography",
+    "yucatan cenote",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "abismo",
+    "abyss",
+    "geography",
+    "deep abyss canyon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "acantilado",
+    "cliff",
+    "geography",
+    "ocean cliff",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "afluente",
+    "tributary",
+    "geography",
+    "river tributary",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "altiplano",
+    "high plateau",
+    "geography",
+    "altiplano andes",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aluvión",
+    "alluvium / flood",
+    "geography",
+    "alluvial fan river",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arrecife coralino",
+    "coral reef",
+    "geography",
+    "coral reef colorful",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "arroyo",
+    "creek",
+    "geography",
+    "forest creek",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "atolón",
+    "atoll",
+    "geography",
+    "atoll aerial",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "batiscafo",
+    "bathyscaphe",
+    "transport",
+    "deep sea submersible",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "caldera volcánica",
+    "volcanic caldera",
+    "geography",
+    "volcanic caldera lake",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "canal de panamá",
+    "panama canal",
+    "geography",
+    "panama canal locks",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cañón (geo)",
+    "canyon",
+    "geography",
+    "grand canyon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cardinal",
+    "cardinal (direction)",
+    "geography",
+    "compass cardinal",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "catarata",
+    "waterfall (large)",
+    "geography",
+    "large waterfall niagara",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cinturón de fuego",
+    "ring of fire",
+    "geography",
+    "ring of fire volcanoes",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cono volcánico",
+    "volcanic cone",
+    "geography",
+    "volcanic cone",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cordillera de los Andes",
+    "Andes mountain range",
+    "geography",
+    "andes mountains",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "cráter de impacto",
+    "impact crater",
+    "geography",
+    "meteor crater",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cuenca",
+    "basin",
+    "geography",
+    "river basin",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "delta",
+    "delta",
+    "geography",
+    "river delta aerial",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "depresión",
+    "depression / basin",
+    "geography",
+    "depression valley",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dolina",
+    "sinkhole",
+    "geography",
+    "sinkhole",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dorsal oceánica",
+    "oceanic ridge",
+    "geography",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "duna",
+    "dune",
+    "geography",
+    "sand dunes",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "epicentro",
+    "epicenter",
+    "geography",
+    "earthquake epicenter map",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "era glacial",
+    "ice age",
+    "geography",
+    "glacial landscape ice",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "erosión",
+    "erosion",
+    "geography",
+    "eroded rock",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estepa rusa",
+    "russian steppe",
+    "geography",
+    "steppe russia",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estrato",
+    "stratum",
+    "geography",
+    "rock strata layers",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "estrecho",
+    "strait",
+    "geography",
+    "strait sea",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "fauna marina",
+    "marine fauna",
+    "geography",
+    "ocean fish reef",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fosa marina",
+    "ocean trench",
+    "geography",
+    "ocean deep",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "geodesia",
+    "geodesy",
+    "science",
+    "earth measurement",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "glaciación",
+    "glaciation",
+    "geography",
+    "ice glacier",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "gradiente térmico",
+    "thermal gradient",
+    "geography",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "hidrografía",
+    "hydrography",
+    "geography",
+    "river map",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "huracán",
+    "hurricane",
+    "weather",
+    "hurricane satellite",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "istmo",
+    "isthmus",
+    "geography",
+    "isthmus aerial",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "llanura",
+    "plain (landform)",
+    "geography",
+    "grassland plain",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "macizo",
+    "massif",
+    "geography",
+    "mountain massif",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "magma",
+    "magma",
+    "geography",
+    "magma volcano lava",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "manantial",
+    "spring (water)",
+    "geography",
+    "natural spring water",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "meseta",
+    "plateau",
+    "geography",
+    "plateau mesa",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "meteorito",
+    "meteorite",
+    "science",
+    "meteorite rock",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "monzón",
+    "monsoon",
+    "weather",
+    "monsoon rain",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "morrena",
+    "moraine",
+    "geography",
+    "glacial moraine",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "nivel freático",
+    "water table",
+    "geography",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "oasis",
+    "oasis",
+    "geography",
+    "desert oasis palms",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "orogénesis",
+    "orogeny",
+    "geography",
+    "mountain formation",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pampa",
+    "pampas",
+    "geography",
+    "pampas argentina",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pantanal",
+    "wetland (large)",
+    "geography",
+    "pantanal wetland",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "paramo",
+    "high moor",
+    "geography",
+    "paramo highland",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "peninsular",
+    "peninsular",
+    "adjectives",
+    "peninsula coast",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pluviómetro",
+    "rain gauge",
+    "weather",
+    "rain gauge",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "polo Norte",
+    "North Pole",
+    "geography",
+    "north pole ice",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "polo Sur",
+    "South Pole",
+    "geography",
+    "antarctica south pole",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "precipitación",
+    "precipitation",
+    "weather",
+    "rain falling",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pumice",
+    "pumice stone",
+    "geography",
+    "pumice stone",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "pampa argentina",
+    "Argentine pampas",
+    "geography",
+    "pampas grassland",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "rapidez del viento",
+    "wind speed",
+    "weather",
+    "wind speed gauge",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sabana",
+    "savanna",
+    "geography",
+    "african savanna",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sequía",
+    "drought",
+    "weather",
+    "drought cracked earth",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sierra",
+    "mountain range",
+    "geography",
+    "mountain range sierra",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sismo",
+    "earthquake",
+    "geography",
+    "earthquake damage",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "solsticio",
+    "solstice",
+    "science",
+    "solstice sun",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "temperatura ambiente",
+    "ambient temperature",
+    "weather",
+    "thermometer outdoor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tifón",
+    "typhoon",
+    "weather",
+    "typhoon satellite",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "topografía",
+    "topography",
+    "geography",
+    "topographic map",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "tundra ártica",
+    "arctic tundra",
+    "geography",
+    "arctic tundra",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "valle glacial",
+    "glacial valley",
+    "geography",
+    "u shaped valley",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "vertiente",
+    "watershed",
+    "geography",
+    "mountain watershed",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "zona templada",
+    "temperate zone",
+    "geography",
+    "temperate forest",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "zona tórrida",
+    "torrid zone",
+    "geography",
+    "equator hot",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "abordar",
+    "to board (ship)",
+    "verbs",
+    "boarding ship",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "aleta (barco)",
+    "quarter (ship)",
+    "transport",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "amarrar",
+    "to moor",
+    "verbs",
+    "mooring boat dock",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ancla",
+    "anchor",
+    "transport",
+    "ship anchor",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "arrecife",
+    "reef",
+    "nature",
+    "coral reef",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "babor",
+    "port (left)",
+    "transport",
+    "port side ship",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "balandra",
+    "sloop",
+    "transport",
+    "sloop sailing",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "balsa",
+    "raft",
+    "transport",
+    "wooden raft",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "barco de pesca",
+    "fishing boat",
+    "transport",
+    "fishing boat sea",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "barco de vapor",
+    "steamboat",
+    "transport",
+    "steamboat historic",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "barco mercante",
+    "merchant ship",
+    "transport",
+    "cargo ship",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "batel",
+    "small boat",
+    "transport",
+    "small fishing boat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "bitácora",
+    "logbook",
+    "transport",
+    "ship logbook",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "boga",
+    "rowing",
+    "sports",
+    "rowing crew boat",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "botadura",
+    "launching (boat)",
+    "transport",
+    "ship launch",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bote salvavidas",
+    "lifeboat",
+    "transport",
+    "orange lifeboat",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "boya",
+    "buoy",
+    "nature",
+    "red buoy ocean",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "bravura del mar",
+    "fury of the sea",
+    "nature",
+    "stormy sea waves",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "buque",
+    "ship / vessel",
+    "transport",
+    "large ship",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "buque cisterna",
+    "tanker",
+    "transport",
+    "oil tanker ship",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cabotaje",
+    "coastal navigation",
+    "transport",
+    "coastal ship",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cabrestante",
+    "windlass",
+    "transport",
+    "ship windlass",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "calado",
+    "draft (ship)",
+    "transport",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "caleta",
+    "cove",
+    "geography",
+    "small cove",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "camarote",
+    "cabin (ship)",
+    "transport",
+    "ship cabin small",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "canoa",
+    "canoe",
+    "transport",
+    "wooden canoe lake",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "capitán",
+    "captain",
+    "work",
+    "ship captain",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "carena",
+    "careen / hull bottom",
+    "transport",
+    "ship hull bottom",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "carguero",
+    "cargo ship",
+    "transport",
+    "cargo container ship",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "casco",
+    "hull",
+    "transport",
+    "ship hull",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "catamarán",
+    "catamaran",
+    "transport",
+    "catamaran sailing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cayuco",
+    "dugout canoe",
+    "transport",
+    "dugout canoe",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cordada náutica",
+    "nautical knot work",
+    "transport",
+    "nautical knots",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cubierta",
+    "deck",
+    "transport",
+    "ship deck",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "dársena",
+    "dock",
+    "transport",
+    "dock harbor",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "embarcación",
+    "vessel",
+    "transport",
+    "vessel ship",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "embarcadero",
+    "pier",
+    "transport",
+    "wooden pier",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "empopada",
+    "stern wind",
+    "transport",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "escotilla",
+    "hatch",
+    "transport",
+    "ship hatch",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "espiral",
+    "spiral",
+    "abstract",
+    "spiral shell",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estela",
+    "wake",
+    "nature",
+    "ship wake water",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estribor",
+    "starboard (right)",
+    "transport",
+    "starboard side ship",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "faena",
+    "task / fishing",
+    "transport",
+    "fishermen working nets",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "faro de navegación",
+    "navigation lighthouse",
+    "transport",
+    "lighthouse light",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "foque",
+    "jib",
+    "transport",
+    "jib sail boat",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fragata",
+    "frigate",
+    "transport",
+    "frigate ship",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "galera",
+    "galley",
+    "transport",
+    "ancient galley ship",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "galón",
+    "galleon",
+    "transport",
+    "spanish galleon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "gangway",
+    "gangway",
+    "transport",
+    "ship gangway",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "grumete",
+    "cabin boy",
+    "transport",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "jarcias",
+    "rigging",
+    "transport",
+    "ship rigging ropes",
+    "photo",
+    "",
+    "las"
+  ],
+  [
+    "lancha",
+    "speedboat",
+    "transport",
+    "speedboat motor",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "malecón",
+    "breakwater / promenade",
+    "places",
+    "breakwater pier",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "marea alta",
+    "high tide",
+    "nature",
+    "high tide ocean",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "marea baja",
+    "low tide",
+    "nature",
+    "low tide beach",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "marinero",
+    "sailor",
+    "work",
+    "sailor uniform",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "mascarón de proa",
+    "figurehead",
+    "transport",
+    "ship figurehead",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "mástil",
+    "mast",
+    "transport",
+    "sailboat mast",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "motonáutica",
+    "motorboating",
+    "sports",
+    "motorboat fast",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "muelle",
+    "dock / wharf",
+    "places",
+    "boat dock",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "navegación",
+    "navigation",
+    "transport",
+    "map compass navigation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "náufrago",
+    "castaway",
+    "abstract",
+    "castaway island",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nudo (medida)",
+    "knot (speed)",
+    "transport",
+    "speed gauge knots",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "nudo marinero",
+    "sailing knot",
+    "transport",
+    "sailing knot rope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "palo mayor",
+    "mainmast",
+    "transport",
+    "mainmast tall ship",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "pesquero",
+    "fishing vessel",
+    "transport",
+    "fishing boat",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "popa",
+    "stern",
+    "transport",
+    "ship stern",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "proa",
+    "bow (boat)",
+    "transport",
+    "ship bow front",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "puente de mando",
+    "bridge (ship)",
+    "transport",
+    "ship bridge command",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "puerto deportivo",
+    "marina",
+    "places",
+    "marina yachts",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "radar náutico",
+    "nautical radar",
+    "transport",
+    "ship radar",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "regata",
+    "regatta",
+    "sports",
+    "sailing regatta boats",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "remero",
+    "rower",
+    "sports",
+    "rower oars",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "remo",
+    "oar",
+    "sports",
+    "wooden oar",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "rumbo",
+    "bearing / course",
+    "transport",
+    "compass bearing",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sextante",
+    "sextant",
+    "transport",
+    "sextant navigation",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "singladura",
+    "day's run",
+    "transport",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "sirena (mar)",
+    "mermaid",
+    "abstract",
+    "mermaid statue",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "sondaje",
+    "sounding",
+    "transport",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "timón",
+    "rudder / helm",
+    "transport",
+    "ship helm wheel",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "transbordador",
+    "ferry",
+    "transport",
+    "ferry boat",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "tripulación",
+    "crew",
+    "transport",
+    "ship crew uniform",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "vela latina",
+    "lateen sail",
+    "transport",
+    "lateen sail boat",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "velero",
+    "sailboat",
+    "transport",
+    "white sailboat",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "yate",
+    "yacht",
+    "transport",
+    "luxury yacht",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "zarpe",
+    "departure (ship)",
+    "transport",
+    "ship leaving harbor",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "agujero negro",
+    "black hole",
+    "science",
+    "black hole space",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aldebarán",
+    "Aldebaran",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "andromeda",
+    "Andromeda",
+    "science",
+    "andromeda galaxy",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "año luz",
+    "light year",
+    "science",
+    "stars distant",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "apogeo",
+    "apogee",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "asteroide",
+    "asteroid",
+    "science",
+    "asteroid space",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "astrolabio",
+    "astrolabe",
+    "science",
+    "ancient astrolabe",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "astronauta",
+    "astronaut",
+    "work",
+    "astronaut spacesuit",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "astronomía esférica",
+    "spherical astronomy",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "astrónomo",
+    "astronomer",
+    "work",
+    "astronomer telescope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "aurora boreal",
+    "northern lights",
+    "weather",
+    "aurora borealis",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "binario (estrella)",
+    "binary (star)",
+    "science",
+    "binary stars",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bólido",
+    "bolide / fireball",
+    "science",
+    "fireball meteor",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "bóveda celeste",
+    "celestial vault",
+    "science",
+    "starry sky dome",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cabo Cañaveral",
+    "Cape Canaveral",
+    "places",
+    "cape canaveral rocket",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "catalejo",
+    "spyglass",
+    "tools",
+    "spyglass telescope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "celeste",
+    "celestial",
+    "adjectives",
+    "celestial sky stars",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "centro galáctico",
+    "galactic center",
+    "science",
+    "galaxy center",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "cinturón de asteroides",
+    "asteroid belt",
+    "science",
+    "asteroid belt",
+    "photo",
+    "",
+    "los"
+  ],
+  [
+    "circumpolar",
+    "circumpolar",
+    "adjectives",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "cometa",
+    "comet",
+    "science",
+    "comet tail",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "conjunción",
+    "conjunction (astro)",
+    "science",
+    "planets conjunction",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "constelación",
+    "constellation",
+    "science",
+    "orion constellation",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cosmógrafo",
+    "cosmographer",
+    "work",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "cosmología",
+    "cosmology",
+    "science",
+    "universe cosmos",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cosmonauta",
+    "cosmonaut",
+    "work",
+    "cosmonaut soviet",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "cráter lunar",
+    "lunar crater",
+    "science",
+    "moon crater",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "cuásar",
+    "quasar",
+    "science",
+    "quasar bright",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "distancia astronómica",
+    "astronomical distance",
+    "science",
+    "stars distance",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "eclipse lunar",
+    "lunar eclipse",
+    "science",
+    "lunar eclipse red",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "eclipse solar",
+    "solar eclipse",
+    "science",
+    "solar eclipse",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "ecliptica",
+    "ecliptic",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "enana blanca",
+    "white dwarf",
+    "science",
+    "white dwarf star",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "enana roja",
+    "red dwarf",
+    "science",
+    "red dwarf star",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "espectroscopía",
+    "spectroscopy",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "estación espacial",
+    "space station",
+    "science",
+    "international space station",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estela cometaria",
+    "cometary tail",
+    "science",
+    "comet tail bright",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estrella binaria",
+    "binary star",
+    "science",
+    "binary stars",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "estrella enana",
+    "dwarf star",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "estrella fugaz",
+    "shooting star",
+    "science",
+    "shooting star night",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estrella gigante",
+    "giant star",
+    "science",
+    "giant star",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estrella polar",
+    "Polaris (north star)",
+    "science",
+    "north star polaris",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "estructura espiral",
+    "spiral structure",
+    "science",
+    "spiral galaxy",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "exoplaneta",
+    "exoplanet",
+    "science",
+    "exoplanet artist",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "fase lunar",
+    "lunar phase",
+    "science",
+    "moon phases",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "formación estelar",
+    "star formation",
+    "science",
+    "nebula star formation",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "fusión solar",
+    "solar fusion",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "galaxia espiral",
+    "spiral galaxy",
+    "science",
+    "spiral galaxy",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "gigante gaseoso",
+    "gas giant",
+    "science",
+    "jupiter gas giant",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "heliocéntrico",
+    "heliocentric",
+    "adjectives",
+    "sun center system",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "hemisferio celeste",
+    "celestial hemisphere",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "Hubble",
+    "Hubble (telescope)",
+    "science",
+    "hubble telescope",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Júpiter",
+    "Jupiter",
+    "science",
+    "jupiter planet",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "lente del telescopio",
+    "telescope lens",
+    "science",
+    "telescope lens",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "levante",
+    "east / sunrise",
+    "science",
+    "sunrise horizon",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "luminosidad",
+    "luminosity",
+    "science",
+    "bright star",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "luna creciente",
+    "crescent moon",
+    "science",
+    "crescent moon",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "luna llena",
+    "full moon",
+    "science",
+    "full moon",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "luna nueva",
+    "new moon",
+    "science",
+    "new moon dark",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "magnetosfera",
+    "magnetosphere",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "marciano",
+    "Martian",
+    "abstract",
+    "mars martian",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "Marte",
+    "Mars",
+    "science",
+    "mars planet",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "materia oscura",
+    "dark matter",
+    "science",
+    "",
+    "text",
+    "",
+    "la"
+  ],
+  [
+    "meteoro",
+    "meteor",
+    "science",
+    "meteor shower",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "misión espacial",
+    "space mission",
+    "science",
+    "space mission rocket",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "nave espacial",
+    "spaceship",
+    "science",
+    "spaceship rocket",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "nebulosa",
+    "nebula",
+    "science",
+    "colorful nebula",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Neptuno",
+    "Neptune",
+    "science",
+    "neptune blue planet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "núcleo estelar",
+    "stellar core",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "observatorio",
+    "observatory",
+    "places",
+    "observatory telescope dome",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "órbita elíptica",
+    "elliptical orbit",
+    "science",
+    "elliptical orbit diagram",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "pirámide solar",
+    "solar pyramid",
+    "science",
+    "",
+    "text",
+    "",
+    ""
+  ],
+  [
+    "planeta",
+    "planet",
+    "science",
+    "planet space",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "planetario",
+    "planetarium",
+    "places",
+    "planetarium dome",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "plenilunio",
+    "full moon",
+    "science",
+    "full moon bright",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "Plutón",
+    "Pluto",
+    "science",
+    "pluto dwarf planet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "polvo cósmico",
+    "cosmic dust",
+    "science",
+    "",
+    "text",
+    "",
+    "el"
+  ],
+  [
+    "pulsar",
+    "pulsar",
+    "science",
+    "pulsar star",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "radiotelescopio",
+    "radio telescope",
+    "science",
+    "radio telescope dish",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "satélite artificial",
+    "artificial satellite",
+    "science",
+    "satellite orbit earth",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Saturno",
+    "Saturn",
+    "science",
+    "saturn rings",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "sistema solar",
+    "solar system",
+    "science",
+    "solar system planets",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "sonda espacial",
+    "space probe",
+    "science",
+    "space probe",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "supernova",
+    "supernova",
+    "science",
+    "supernova explosion",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "telescopio espacial",
+    "space telescope",
+    "science",
+    "space telescope orbit",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "telescopio refractor",
+    "refractor telescope",
+    "science",
+    "refractor telescope",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "transbordador espacial",
+    "space shuttle",
+    "science",
+    "space shuttle launch",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Tierra",
+    "Earth",
+    "science",
+    "earth planet space",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "Urano",
+    "Uranus",
+    "science",
+    "uranus planet",
+    "photo",
+    "",
+    "el"
+  ],
+  [
+    "Venus",
+    "Venus",
+    "science",
+    "venus planet",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "Vía Láctea",
+    "Milky Way",
+    "science",
+    "milky way galaxy",
+    "photo",
+    "",
+    "la"
+  ],
+  [
+    "zenit",
+    "zenith",
+    "science",
+    "sun overhead zenith",
+    "photo",
+    "",
+    ""
+  ],
+  [
+    "zodíaco",
+    "zodiac",
+    "science",
+    "zodiac signs circle",
+    "photo",
+    "",
+    "el"
   ]
 ];
 
